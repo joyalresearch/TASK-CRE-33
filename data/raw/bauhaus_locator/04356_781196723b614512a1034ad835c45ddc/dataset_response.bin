@@ -1,0 +1,38 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=04356",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=04356",
+    "loadedTime": "2026-10-31T06:52:29.171Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 516,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=04356",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "no-store",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a530bc93cbf93c34-BOM",
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 06:52:23 GMT",
+      "keep-alive": "timeout=5",
+      "server": "cloudflare",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "transfer-encoding": "chunked",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+      "via": "1.1 google",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=04356",
+      "x-apify-unblocker-route": "HIMALIA",
+      "x-content-type-options": "nosniff"
+    }
+  },
+  "raw": "[{\"display_name\":\"Leipzig\",\"slug\":\"leipzig\",\"name\":\"BAUHAUS in Sachsen GmbH & Co. KG\",\"id\":646,\"store_id\":646,\"location\":{\"lat\":51.40159,\"lng\":12.39818},\"address\":{\"lines\":[\"Handelsstrasse 3\"],\"city\":\"Leipzig\",\"zipcode\":\"04356\"},\"distance\":3.64,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]}]"
+}]

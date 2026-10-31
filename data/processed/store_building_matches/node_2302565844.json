@@ -1,0 +1,38 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 2302565844,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 146186390,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Düsseldorf",
+        "addr:country": "DE",
+        "addr:housenumber": "69",
+        "addr:postcode": "40233",
+        "addr:street": "Kettwiger Straße",
+        "architect": "Carl Staudt",
+        "building": "retail",
+        "building:use:parking": "yes",
+        "heritage": "8",
+        "heritage:operator": "Institut für Denkmalschutz und Denkmalpflege Düsseldorf",
+        "heritage:operator:short": "Denkmalamt Düsseldorf",
+        "heritage:ref": "1558",
+        "heritage:since": "2004-04-29",
+        "source:outline": "ALK NRW",
+        "year_of_construction": "1930"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 2037.47,
+      "geometry_wkt_25832": "POLYGON ((347195.36248326965 5677128.995296433, 347191.2473103936 5677109.553229196, 347199.10841078043 5677107.894535655, 347199.3514520311 5677107.842779675, 347212.8423879098 5677105.1594690485, 347214.89725055045 5677106.344700377, 347218.44513649266 5677108.38690372, 347220.2707312569 5677111.259434602, 347224.29869121895 5677107.600459162, 347226.30536029517 5677105.760061566, 347226.7804602545 5677105.7570397025, 347226.9229917837 5677103.738458239, 347227.01557520777 5677102.389100233, 347233.43685246096 5677102.832197045, 347253.0760419697 5677104.094712617, 347249.99892529624 5677143.67178269, 347247.0223707232 5677143.448817351, 347207.83740719274 5677140.531626073, 347205.88919276785 5677140.111117431, 347203.53475775593 5677139.190779789, 347201.46792852884 5677138.072683527, 347199.81937281 5677136.686162058, 347198.57209434 5677135.398976097, 347197.0177162807 5677133.186108807, 347196.05343129975 5677131.311788255, 347195.36248326965 5677128.995296433))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

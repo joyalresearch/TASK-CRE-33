@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=24107",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=24107",
+    "loadedTime": "2026-10-31T17:26:21.046Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1658,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=24107",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:26:21 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=24107",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Kiel-Suchsdorf\",\"slug\":\"kiel-suchsdorf\",\"name\":\"BAUHAUS GmbH & Co. KG Schleswig-Holstein\",\"id\":571,\"store_id\":571,\"location\":{\"lat\":54.354016984554,\"lng\":10.092179856757},\"address\":{\"lines\":[\"Steenbeker Weg 215\"],\"city\":\"Kiel\",\"zipcode\":\"24106\"},\"distance\":4.39,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Kiel-Ravensberg\",\"slug\":\"kiel-ravensberg\",\"name\":\"BAUHAUS GmbH & Co. KG Nord\",\"id\":853,\"store_id\":853,\"location\":{\"lat\":54.332203,\"lng\":10.114524},\"address\":{\"lines\":[\"Gutenbergstr. 79\"],\"city\":\"KIEL\",\"zipcode\":\"24116\"},\"distance\":5.92,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Schwentinental-Raisdorf\",\"slug\":\"schwentinental-raisdorf\",\"name\":\"BAUHAUS GmbH & Co. KG Schleswig-Holstein\",\"id\":634,\"store_id\":634,\"location\":{\"lat\":54.289083442484,\"lng\":10.228946949923},\"address\":{\"lines\":[\"Klausdorfer Str. 28-32\"],\"city\":\"Schwentinental\",\"zipcode\":\"24223\"},\"distance\":14.57,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

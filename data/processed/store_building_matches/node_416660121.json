@@ -1,0 +1,27 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 416660121,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 87602600,
+      "building_type": "residential",
+      "building_name": null,
+      "building_tags": {
+        "building": "residential",
+        "building:levels": "5",
+        "roof:levels": "1",
+        "roof:shape": "flat"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 639.14,
+      "geometry_wkt_25832": "POLYGON ((792059.3911943866 5826772.51095226, 792062.352994771 5826750.15525491, 792057.3202372892 5826749.64271949, 792059.5540534284 5826730.701514231, 792077.5094076879 5826732.945221299, 792075.6203304143 5826747.367031103, 792076.7665321566 5826747.547042449, 792076.3340859036 5826750.343365113, 792075.2556989535 5826750.167404442, 792073.6929878427 5826762.087733917, 792072.5694577232 5826770.643250511, 792074.0486057256 5826770.831994118, 792073.6370740475 5826774.07575633, 792072.1443642728 5826773.8862027, 792072.093337898 5826774.2847260535, 792059.3911943866 5826772.51095226))",
+      "review_status": "manual_review",
+      "review_reason": "non_retail_building_type"
+    }
+  ]
+}

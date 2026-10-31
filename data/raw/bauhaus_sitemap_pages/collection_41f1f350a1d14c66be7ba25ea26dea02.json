@@ -1,0 +1,211 @@
+{
+  "started_at_utc": "2026-10-31T18:41:18.282734+00:00",
+  "reconciliation": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\processed\\bauhaus_sitemap_reconciliation_8c94b25db372426eab0fe772c2b6c554.json",
+  "reconciliation_sha256": "405be1e84190bdfe7ed56414c6200b3e94745853ac09d05a9cd704be8897ddb7",
+  "max_new_runs": 19,
+  "new_run_attempts": 10,
+  "status": "completed_with_unresolved",
+  "results": [
+    {
+      "sitemap_id": 100,
+      "source_url": "https://www.bauhaus.info/fc//100",
+      "status": "cached",
+      "attempts": [],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_333c31648bbd41af9668b4d8e4b8f293"
+    },
+    {
+      "sitemap_id": 500,
+      "source_url": "https://www.bauhaus.info/fc//500",
+      "status": "unresolved_terminal",
+      "attempts": [],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_a99e817f4d07468cb22329c73870ab6e"
+    },
+    {
+      "sitemap_id": 6270,
+      "source_url": "https://www.bauhaus.info/fc/berlin/6270",
+      "status": "unresolved_terminal",
+      "attempts": [],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_af523e9872fe499c94e7605c2cd26a5d"
+    },
+    {
+      "sitemap_id": 70,
+      "source_url": "https://www.bauhaus.info/fc/berlin/70",
+      "status": "unresolved_terminal",
+      "attempts": [],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_6b166dd8c9b9443ca6414c9796a54f18"
+    },
+    {
+      "sitemap_id": 6261,
+      "source_url": "https://www.bauhaus.info/fc/bremen/6261",
+      "status": "cached",
+      "attempts": [],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_0bc8ee717b4047ccabad6b4aba54abb8"
+    },
+    {
+      "sitemap_id": 6274,
+      "source_url": "https://www.bauhaus.info/fc/gersthofen/6274",
+      "status": "unresolved_terminal",
+      "attempts": [],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_f7aafe598f5146cebf9a0da798bb23e2"
+    },
+    {
+      "sitemap_id": 74,
+      "source_url": "https://www.bauhaus.info/fc/gersthofen/74",
+      "status": "cached",
+      "attempts": [],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_20142ef568d84e4eb9dfb7d4d516220e"
+    },
+    {
+      "sitemap_id": 6276,
+      "source_url": "https://www.bauhaus.info/fc/grevenbroich/6276",
+      "status": "unresolved_terminal",
+      "attempts": [],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_8255c8ef43984508809a035643ef87e8"
+    },
+    {
+      "sitemap_id": 76,
+      "source_url": "https://www.bauhaus.info/fc/grevenbroich/76",
+      "status": "cached",
+      "attempts": [],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_526a505e618947258b62d9feeb2faddc"
+    },
+    {
+      "sitemap_id": 6271,
+      "source_url": "https://www.bauhaus.info/fc/hamburg/6271",
+      "status": "unresolved_terminal",
+      "attempts": [
+        {
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_dd3c5095f02f4c0abd341a5c7257be86",
+          "status": "confirmed_terminal_unresolved",
+          "run_id": "773WrhGk9JgKLoadI"
+        }
+      ]
+    },
+    {
+      "sitemap_id": 71,
+      "source_url": "https://www.bauhaus.info/fc/hamburg/71",
+      "status": "unresolved_terminal",
+      "attempts": [
+        {
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_6d28fa531c0f47519062be774e773d9e",
+          "status": "confirmed_terminal_unresolved",
+          "run_id": "etWFKJlOkWsHjhTSo"
+        }
+      ]
+    },
+    {
+      "sitemap_id": 6288,
+      "source_url": "https://www.bauhaus.info/fc/kassel/6288",
+      "status": "captured",
+      "attempts": [
+        {
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_b70b3ddcb84b4d548dd347fb98570ca8",
+          "status": "captured",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_b70b3ddcb84b4d548dd347fb98570ca8"
+    },
+    {
+      "sitemap_id": 6263,
+      "source_url": "https://www.bauhaus.info/fc/krefeld/6263",
+      "status": "unresolved_terminal",
+      "attempts": [
+        {
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_4dfce9cfc46a4fe4b59b359d875371c6",
+          "status": "confirmed_terminal_unresolved",
+          "run_id": "FT2zsgeLRrEabsUET"
+        }
+      ]
+    },
+    {
+      "sitemap_id": 6278,
+      "source_url": "https://www.bauhaus.info/fc/lutterberg/6278",
+      "status": "unresolved_terminal",
+      "attempts": [
+        {
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_28aa02eae1de4139ab31a2dd4da7bf88",
+          "status": "confirmed_terminal_unresolved",
+          "run_id": "aI0eEEWPpZsCPQ3DN"
+        }
+      ]
+    },
+    {
+      "sitemap_id": 299,
+      "source_url": "https://www.bauhaus.info/fc/mannheim-wohlgelegen/299",
+      "status": "captured",
+      "attempts": [
+        {
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_2959eafaa5bc43b288a8011e4cb062c0",
+          "status": "captured",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_2959eafaa5bc43b288a8011e4cb062c0"
+    },
+    {
+      "sitemap_id": 6277,
+      "source_url": "https://www.bauhaus.info/fc/mannheim-wohlgelegen/6277",
+      "status": "unresolved_terminal",
+      "attempts": [
+        {
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_48826a4352a5441c9b38326750cf3592",
+          "status": "confirmed_terminal_unresolved",
+          "run_id": "gThfP0kQM8hKXpBI4"
+        }
+      ]
+    },
+    {
+      "sitemap_id": 6265,
+      "source_url": "https://www.bauhaus.info/fc/osnabrueck/6265",
+      "status": "unresolved_terminal",
+      "attempts": [
+        {
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_1ebf3ada22e14dabb2442a3e13235e6b",
+          "status": "confirmed_terminal_unresolved",
+          "run_id": "gj0UkxeRLMxaeE3fO"
+        }
+      ]
+    },
+    {
+      "sitemap_id": 6272,
+      "source_url": "https://www.bauhaus.info/fc/schifferstadt/6272",
+      "status": "captured",
+      "attempts": [
+        {
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_bcd56169a40f4c2ba57544768f07a25f",
+          "status": "captured",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_bcd56169a40f4c2ba57544768f07a25f"
+    },
+    {
+      "sitemap_id": 72,
+      "source_url": "https://www.bauhaus.info/fc/schifferstadt/72",
+      "status": "captured",
+      "attempts": [
+        {
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_6a7e860009d14a409ddc23fbd54d19da",
+          "status": "captured",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_6a7e860009d14a409ddc23fbd54d19da"
+    }
+  ],
+  "finished_at_utc": "2026-10-31T18:57:07.818701+00:00",
+  "unresolved_urls": [
+    "https://www.bauhaus.info/fc//500",
+    "https://www.bauhaus.info/fc/berlin/6270",
+    "https://www.bauhaus.info/fc/berlin/70",
+    "https://www.bauhaus.info/fc/gersthofen/6274",
+    "https://www.bauhaus.info/fc/grevenbroich/6276",
+    "https://www.bauhaus.info/fc/hamburg/6271",
+    "https://www.bauhaus.info/fc/hamburg/71",
+    "https://www.bauhaus.info/fc/krefeld/6263",
+    "https://www.bauhaus.info/fc/lutterberg/6278",
+    "https://www.bauhaus.info/fc/mannheim-wohlgelegen/6277",
+    "https://www.bauhaus.info/fc/osnabrueck/6265"
+  ]
+}

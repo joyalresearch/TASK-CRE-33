@@ -1,0 +1,33 @@
+{
+  "started_at_utc": "2026-10-31T18:15:08.755190+00:00",
+  "source_url": "https://www.bauhaus.info/sitemaps/stores-de-0.xml",
+  "actor": "apify/web-fetch",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/sitemaps/stores-de-0.xml",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "validated_xml",
+  "coverage_verified": false,
+  "automatic_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "apify_http_status": 201,
+  "run_id": null,
+  "dataset_sha256": "9d2641fc0080ca82716596e777aa2b658e92a047c95402c9f47749712f4204e6",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/sitemaps/stores-de-0.xml",
+    "loadedTime": "2026-10-31T18:15:30.769Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 32854,
+    "contentType": "text/xml; charset=utf-8"
+  },
+  "source_sha256": "068feff2d4f298133de752ee962e6111a840d1a4104761544f5ecc9fc656350f",
+  "source_representation": "UTF-8 encoding of provider raw string",
+  "xml_root": "urlset",
+  "listed_url_count": 180,
+  "unique_url_count": 180,
+  "duplicate_url_count": 0,
+  "finished_at_utc": "2026-10-31T18:15:32.538759+00:00"
+}

@@ -1,0 +1,2418 @@
+{
+  "created_at_utc": "2026-10-31T19:47:01.909898+00:00",
+  "inputs": {
+    "decisions": {
+      "path": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\processed\\official_building_decisions_48087390d370408c872b99c386f7aabc.json",
+      "sha256": "cfbe66c722ddd89a8d2f0938f34c5d36907f84b03367e64df5f090c62bcddf3a"
+    },
+    "buildings": {
+      "path": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\processed\\bauhaus_buildings_consolidated.json",
+      "sha256": "0de970956ab6a1de450b274a8867f787c256baf89e82aad6aa27d669c192df9a"
+    },
+    "cached_gap_search": {
+      "path": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\processed\\cached_geometry_gap_search_9ada88d77424467ca7066942a8f6321a.json",
+      "sha256": "cec45fe71a1efef806855808aa63f3854a7300a62e231b11336f04868580f9d4"
+    }
+  },
+  "assumptions": {
+    "usable_fraction": 0.6,
+    "sqm_per_kwp": 5.0,
+    "formula": "footprint_area_sqm * usable_fraction / sqm_per_kwp",
+    "area_crs": "EPSG:25832"
+  },
+  "aggregates": {
+    "accepted": {
+      "store_count": 86,
+      "overlapping_footprint_area_sqm": 0.0,
+      "aggregate_withheld_due_to_overlap": false,
+      "illustrative_capacity_kwp": 119935.12
+    },
+    "provisional": {
+      "store_count": 21,
+      "overlapping_footprint_area_sqm": 0.0,
+      "aggregate_withheld_due_to_overlap": false,
+      "illustrative_capacity_kwp": 26119.77
+    }
+  },
+  "cross_bucket_overlap_sqm": 0.0,
+  "combined_capacity_total": null,
+  "records": [
+    {
+      "official_store_id": 300,
+      "official_name": "Hannover-Stadtmitte",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 330,
+      "official_name": "Karlsruhe-Südstadt",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 400,
+      "official_name": "Magdeburg",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/48133177",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 7604.03,
+      "assumed_usable_area_sqm": 4562.42,
+      "estimated_pv_kwp": 912.48,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 406,
+      "official_name": "Plauen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/98695080",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 7293.19,
+      "assumed_usable_area_sqm": 4375.92,
+      "estimated_pv_kwp": 875.18,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 485,
+      "official_name": "Heidenheim",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/227400424",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 9695.29,
+      "assumed_usable_area_sqm": 5817.17,
+      "estimated_pv_kwp": 1163.43,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 491,
+      "official_name": "Düsseldorf-Flingern",
+      "association_status": "provisional_association",
+      "osm_id": "way/307282610",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 5222.58,
+      "assumed_usable_area_sqm": 3133.55,
+      "estimated_pv_kwp": 626.71,
+      "association_reasons": [
+        "Cached containment found; address or building-use evidence is insufficient for acceptance"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 498,
+      "official_name": "Hannover",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 505,
+      "official_name": "Essen-Frohnhausen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/29033850",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 2990.26,
+      "assumed_usable_area_sqm": 1794.15,
+      "estimated_pv_kwp": 358.83,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 507,
+      "official_name": "Hagen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/54727041",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 11860.77,
+      "assumed_usable_area_sqm": 7116.46,
+      "estimated_pv_kwp": 1423.29,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 508,
+      "official_name": "Neckarsulm",
+      "association_status": "provisional_association",
+      "osm_id": "way/45883708",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 3611.21,
+      "assumed_usable_area_sqm": 2166.73,
+      "estimated_pv_kwp": 433.35,
+      "association_reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 509,
+      "official_name": "Dortmund-Aplerbeck",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 515,
+      "official_name": "Augsburg",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/87352620",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 4759.64,
+      "assumed_usable_area_sqm": 2855.78,
+      "estimated_pv_kwp": 571.16,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 519,
+      "official_name": "Bochum Harpen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/93211530",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 5257.05,
+      "assumed_usable_area_sqm": 3154.23,
+      "estimated_pv_kwp": 630.85,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 520,
+      "official_name": "München-Laim",
+      "association_status": "parking_structure_review",
+      "osm_id": "way/26359280",
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "Official point falls within a parking structure",
+        "Excluded from store-roof estimation pending facility review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 521,
+      "official_name": "Bielefeld",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/40707294",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 3430.75,
+      "assumed_usable_area_sqm": 2058.45,
+      "estimated_pv_kwp": 411.69,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 525,
+      "official_name": "Karlsruhe-Mühlburg",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/108248464",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 5438.71,
+      "assumed_usable_area_sqm": 3263.23,
+      "estimated_pv_kwp": 652.65,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 528,
+      "official_name": "Bremerhaven",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/118752984",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 5270.25,
+      "assumed_usable_area_sqm": 3162.15,
+      "estimated_pv_kwp": 632.43,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": [
+        "Postcode comparison unavailable"
+      ]
+    },
+    {
+      "official_store_id": 530,
+      "official_name": "Rastatt",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/28715246",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 12927.54,
+      "assumed_usable_area_sqm": 7756.53,
+      "estimated_pv_kwp": 1551.31,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 531,
+      "official_name": "Speyer",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 534,
+      "official_name": "Lübeck-St. Jürgen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/46754081",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 6917.23,
+      "assumed_usable_area_sqm": 4150.34,
+      "estimated_pv_kwp": 830.07,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 535,
+      "official_name": "Bochum-Wattenscheid",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/96593449",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 6685.99,
+      "assumed_usable_area_sqm": 4011.59,
+      "estimated_pv_kwp": 802.32,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 537,
+      "official_name": "Bad Kreuznach",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/52513722",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 16021.69,
+      "assumed_usable_area_sqm": 9613.01,
+      "estimated_pv_kwp": 1922.6,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 539,
+      "official_name": "Essen-Frillendorf",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/293418460",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 6295.53,
+      "assumed_usable_area_sqm": 3777.32,
+      "estimated_pv_kwp": 755.46,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag",
+        "BAUHAUS brand and DIY-shop tags support association despite industrial/warehouse building tag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 541,
+      "official_name": "Krefeld-Untergath",
+      "association_status": "provisional_association",
+      "osm_id": "way/82445638",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 8474.07,
+      "assumed_usable_area_sqm": 5084.44,
+      "estimated_pv_kwp": 1016.89,
+      "association_reasons": [
+        "Official and OSM postcodes differ"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 543,
+      "official_name": "Zimmern ob Rottweil",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/136758060",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 5311.28,
+      "assumed_usable_area_sqm": 3186.77,
+      "estimated_pv_kwp": 637.35,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 544,
+      "official_name": "Nagold",
+      "association_status": "provisional_association",
+      "osm_id": "way/40450747",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 4338.37,
+      "assumed_usable_area_sqm": 2603.02,
+      "estimated_pv_kwp": 520.6,
+      "association_reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 547,
+      "official_name": "Villingen-Schwenningen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/30808551",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 11860.45,
+      "assumed_usable_area_sqm": 7116.27,
+      "estimated_pv_kwp": 1423.25,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 548,
+      "official_name": "Gersthofen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/148988039",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 9322.65,
+      "assumed_usable_area_sqm": 5593.59,
+      "estimated_pv_kwp": 1118.72,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 553,
+      "official_name": "Stuhr-Groß-Mackenstedt",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/4700552",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 13214.42,
+      "assumed_usable_area_sqm": 7928.65,
+      "estimated_pv_kwp": 1585.73,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 555,
+      "official_name": "Leverkusen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/26790316",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 9210.23,
+      "assumed_usable_area_sqm": 5526.14,
+      "estimated_pv_kwp": 1105.23,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 557,
+      "official_name": "Mannheim-Waldhof",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/116468051",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 6362.47,
+      "assumed_usable_area_sqm": 3817.48,
+      "estimated_pv_kwp": 763.5,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 558,
+      "official_name": "Wetzlar",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/26285106",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 11209.88,
+      "assumed_usable_area_sqm": 6725.93,
+      "estimated_pv_kwp": 1345.19,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 559,
+      "official_name": "Mülheim-Kärlich",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/115955249",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 12451.54,
+      "assumed_usable_area_sqm": 7470.92,
+      "estimated_pv_kwp": 1494.18,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 560,
+      "official_name": "Hanau",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/25520936",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 18910.78,
+      "assumed_usable_area_sqm": 11346.47,
+      "estimated_pv_kwp": 2269.29,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 561,
+      "official_name": "Passau",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/102410272",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 5974.64,
+      "assumed_usable_area_sqm": 3584.78,
+      "estimated_pv_kwp": 716.96,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 562,
+      "official_name": "Solingen",
+      "association_status": "provisional_association",
+      "osm_id": "way/87313466",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 4189.46,
+      "assumed_usable_area_sqm": 2513.68,
+      "estimated_pv_kwp": 502.74,
+      "association_reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 565,
+      "official_name": "Mahlow",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/33542710",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 7800.84,
+      "assumed_usable_area_sqm": 4680.51,
+      "estimated_pv_kwp": 936.1,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 566,
+      "official_name": "Düsseldorf-Gerresheim",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/24517843",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 29962.63,
+      "assumed_usable_area_sqm": 17977.58,
+      "estimated_pv_kwp": 3595.52,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 567,
+      "official_name": "Nürnberg-Stein",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/28132164",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 8410.43,
+      "assumed_usable_area_sqm": 5046.26,
+      "estimated_pv_kwp": 1009.25,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 568,
+      "official_name": "Ingolstadt",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/30072118",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 7156.26,
+      "assumed_usable_area_sqm": 4293.76,
+      "estimated_pv_kwp": 858.75,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 569,
+      "official_name": "Frechen",
+      "association_status": "provisional_association",
+      "osm_id": "way/62811069",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 23402.16,
+      "assumed_usable_area_sqm": 14041.29,
+      "estimated_pv_kwp": 2808.26,
+      "association_reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 571,
+      "official_name": "Kiel-Suchsdorf",
+      "association_status": "provisional_association",
+      "osm_id": "way/54856134",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 6968.69,
+      "assumed_usable_area_sqm": 4181.21,
+      "estimated_pv_kwp": 836.24,
+      "association_reasons": [
+        "Official and OSM postcodes differ"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 572,
+      "official_name": "Regensburg",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/31410869",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 14291.83,
+      "assumed_usable_area_sqm": 8575.1,
+      "estimated_pv_kwp": 1715.02,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 573,
+      "official_name": "Dortmund Nordstadt",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/24864353",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 15219.55,
+      "assumed_usable_area_sqm": 9131.73,
+      "estimated_pv_kwp": 1826.35,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 574,
+      "official_name": "Darmstadt",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 577,
+      "official_name": "Birkenwerder",
+      "association_status": "provisional_association",
+      "osm_id": "way/60455187",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 13830.63,
+      "assumed_usable_area_sqm": 8298.38,
+      "estimated_pv_kwp": 1659.68,
+      "association_reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "association_limitations": [
+        "Postcode comparison unavailable"
+      ]
+    },
+    {
+      "official_store_id": 578,
+      "official_name": "Berlin-Pankow",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/80858331",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 6153.07,
+      "assumed_usable_area_sqm": 3691.84,
+      "estimated_pv_kwp": 738.37,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 579,
+      "official_name": "Duisburg-Grossenbaum",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/23619103",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 9001.82,
+      "assumed_usable_area_sqm": 5401.09,
+      "estimated_pv_kwp": 1080.22,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 580,
+      "official_name": "Aalen-Essingen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/26958041",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 10330.99,
+      "assumed_usable_area_sqm": 6198.6,
+      "estimated_pv_kwp": 1239.72,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 583,
+      "official_name": "Mannheim-Mallau",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/88370653",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 16697.21,
+      "assumed_usable_area_sqm": 10018.33,
+      "estimated_pv_kwp": 2003.67,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": [
+        "Postcode comparison unavailable"
+      ]
+    },
+    {
+      "official_store_id": 584,
+      "official_name": "Balingen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/118286988",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 3889.11,
+      "assumed_usable_area_sqm": 2333.47,
+      "estimated_pv_kwp": 466.69,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 585,
+      "official_name": "Dillingen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/90064343",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 15519.13,
+      "assumed_usable_area_sqm": 9311.48,
+      "estimated_pv_kwp": 1862.3,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 586,
+      "official_name": "Aachen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/19727326",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 13269.94,
+      "assumed_usable_area_sqm": 7961.97,
+      "estimated_pv_kwp": 1592.39,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 587,
+      "official_name": "Ravensburg",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/158710321",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 11017.3,
+      "assumed_usable_area_sqm": 6610.38,
+      "estimated_pv_kwp": 1322.08,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 589,
+      "official_name": "Frankfurt",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/48466507",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 14190.26,
+      "assumed_usable_area_sqm": 8514.16,
+      "estimated_pv_kwp": 1702.83,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 590,
+      "official_name": "Pforzheim",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/27436941",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 11046.82,
+      "assumed_usable_area_sqm": 6628.09,
+      "estimated_pv_kwp": 1325.62,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 591,
+      "official_name": "Freiburg",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 594,
+      "official_name": "Lörrach-Haagen",
+      "association_status": "provisional_association",
+      "osm_id": "way/90494889",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 16479.07,
+      "assumed_usable_area_sqm": 9887.44,
+      "estimated_pv_kwp": 1977.49,
+      "association_reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 595,
+      "official_name": "Hamburg-Moorfleet",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/159926244",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 15322.43,
+      "assumed_usable_area_sqm": 9193.46,
+      "estimated_pv_kwp": 1838.69,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 596,
+      "official_name": "Berlin-Spandau Brunsbütteler Damm",
+      "association_status": "provisional_association",
+      "osm_id": "way/285603576",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 10698.65,
+      "assumed_usable_area_sqm": 6419.19,
+      "estimated_pv_kwp": 1283.84,
+      "association_reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 597,
+      "official_name": "Berlin-Schöneberg",
+      "association_status": "accepted_screening_association",
+      "osm_id": "relation/175667",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 28221.51,
+      "assumed_usable_area_sqm": 16932.9,
+      "estimated_pv_kwp": 3386.58,
+      "association_reasons": [
+        "Cached polygon contains official point",
+        "Street, house number and postcode match",
+        "Retail/commercial building candidate; no parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 598,
+      "official_name": "Memmingen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/34201992",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 11785.38,
+      "assumed_usable_area_sqm": 7071.23,
+      "estimated_pv_kwp": 1414.25,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 599,
+      "official_name": "Ulm",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/182747470",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 13678.77,
+      "assumed_usable_area_sqm": 8207.26,
+      "estimated_pv_kwp": 1641.45,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 600,
+      "official_name": "Stralsund",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/29350709",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 10712.2,
+      "assumed_usable_area_sqm": 6427.32,
+      "estimated_pv_kwp": 1285.46,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 601,
+      "official_name": "Ludwigshafen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/70786923",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 20127.45,
+      "assumed_usable_area_sqm": 12076.47,
+      "estimated_pv_kwp": 2415.29,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 602,
+      "official_name": "Gründau-Lieblos",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/91898070",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 15264.64,
+      "assumed_usable_area_sqm": 9158.78,
+      "estimated_pv_kwp": 1831.76,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 603,
+      "official_name": "Fuldabrück",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/52007850",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 10535.57,
+      "assumed_usable_area_sqm": 6321.34,
+      "estimated_pv_kwp": 1264.27,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 604,
+      "official_name": "Berlin-Marienfelde",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/27493871",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 15727.12,
+      "assumed_usable_area_sqm": 9436.27,
+      "estimated_pv_kwp": 1887.25,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 605,
+      "official_name": "Wildau",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 606,
+      "official_name": "Landshut",
+      "association_status": "provisional_association",
+      "osm_id": "way/110307778",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 13242.53,
+      "assumed_usable_area_sqm": 7945.52,
+      "estimated_pv_kwp": 1589.1,
+      "association_reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 607,
+      "official_name": "Braunschweig",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/31670307",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 14788.08,
+      "assumed_usable_area_sqm": 8872.85,
+      "estimated_pv_kwp": 1774.57,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 608,
+      "official_name": "Köln-Porz",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/28334460",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 13778.19,
+      "assumed_usable_area_sqm": 8266.91,
+      "estimated_pv_kwp": 1653.38,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 609,
+      "official_name": "Bornheim",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/35910944",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 15542.65,
+      "assumed_usable_area_sqm": 9325.59,
+      "estimated_pv_kwp": 1865.12,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 613,
+      "official_name": "Würselen",
+      "association_status": "provisional_association",
+      "osm_id": "way/24393423",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 17366.91,
+      "assumed_usable_area_sqm": 10420.15,
+      "estimated_pv_kwp": 2084.03,
+      "association_reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 614,
+      "official_name": "Mainz-Weisenau",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/155164522",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 16441.85,
+      "assumed_usable_area_sqm": 9865.11,
+      "estimated_pv_kwp": 1973.02,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 615,
+      "official_name": "Aschaffenburg",
+      "association_status": "provisional_association",
+      "osm_id": "way/24802709",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 17965.66,
+      "assumed_usable_area_sqm": 10779.4,
+      "estimated_pv_kwp": 2155.88,
+      "association_reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "association_limitations": [
+        "Postcode comparison unavailable"
+      ]
+    },
+    {
+      "official_store_id": 616,
+      "official_name": "Köln-Kalk",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 617,
+      "official_name": "Wuppertal-Barmen (Heckinghausen)",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/201115893",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 15143.41,
+      "assumed_usable_area_sqm": 9086.04,
+      "estimated_pv_kwp": 1817.21,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 618,
+      "official_name": "Düsseldorf-Reisholz",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/119309678",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 16733.56,
+      "assumed_usable_area_sqm": 10040.14,
+      "estimated_pv_kwp": 2008.03,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 619,
+      "official_name": "Hamburg-Harburg",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/118916585",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 4678.42,
+      "assumed_usable_area_sqm": 2807.05,
+      "estimated_pv_kwp": 561.41,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag",
+        "BAUHAUS brand and DIY-shop tags support association despite industrial/warehouse building tag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 620,
+      "official_name": "Hamburg-Bergedorf",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 621,
+      "official_name": "Offenburg",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/33712617",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 13356.25,
+      "assumed_usable_area_sqm": 8013.75,
+      "estimated_pv_kwp": 1602.75,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 622,
+      "official_name": "Ensdorf",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 623,
+      "official_name": "Berlin-Spandau",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/25114190",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 20247.45,
+      "assumed_usable_area_sqm": 12148.47,
+      "estimated_pv_kwp": 2429.69,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 624,
+      "official_name": "Barsbüttel",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 625,
+      "official_name": "Witten",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/97882534",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 20619.93,
+      "assumed_usable_area_sqm": 12371.96,
+      "estimated_pv_kwp": 2474.39,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 626,
+      "official_name": "Stuttgart-Möhringen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/44004385",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 12357.81,
+      "assumed_usable_area_sqm": 7414.69,
+      "estimated_pv_kwp": 1482.94,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag",
+        "BAUHAUS brand and DIY-shop tags support association despite industrial/warehouse building tag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 628,
+      "official_name": "Neuss",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 629,
+      "official_name": "Hürth",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/56191943",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 15561.31,
+      "assumed_usable_area_sqm": 9336.79,
+      "estimated_pv_kwp": 1867.36,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 630,
+      "official_name": "Braunschweig-Stöckheim",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/28143475",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 5182.94,
+      "assumed_usable_area_sqm": 3109.76,
+      "estimated_pv_kwp": 621.95,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag",
+        "BAUHAUS brand and DIY-shop tags support association despite industrial/warehouse building tag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 631,
+      "official_name": "Stuttgart-Untertürkheim",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/126440693",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 12257.22,
+      "assumed_usable_area_sqm": 7354.33,
+      "estimated_pv_kwp": 1470.87,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 632,
+      "official_name": "Augsburg - Lechhausen",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 633,
+      "official_name": "Krefeld-Mevissenstraße",
+      "association_status": "provisional_association",
+      "osm_id": "way/322043866",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 10658.89,
+      "assumed_usable_area_sqm": 6395.33,
+      "estimated_pv_kwp": 1279.07,
+      "association_reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "association_limitations": [
+        "Postcode comparison unavailable"
+      ]
+    },
+    {
+      "official_store_id": 634,
+      "official_name": "Schwentinental-Raisdorf",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/52131203",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 17055.99,
+      "assumed_usable_area_sqm": 10233.59,
+      "estimated_pv_kwp": 2046.72,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 635,
+      "official_name": "Flensburg",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 636,
+      "official_name": "Heidelberg",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 637,
+      "official_name": "Düren",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 638,
+      "official_name": "Saarbrücken",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 639,
+      "official_name": "Lübeck",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 642,
+      "official_name": "Freudenstadt",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/80253164",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 17389.63,
+      "assumed_usable_area_sqm": 10433.78,
+      "estimated_pv_kwp": 2086.76,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 643,
+      "official_name": "Berlin-Kurfürstendamm",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 645,
+      "official_name": "Dresden-Nickern",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/768890944",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 20610.58,
+      "assumed_usable_area_sqm": 12366.35,
+      "estimated_pv_kwp": 2473.27,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 646,
+      "official_name": "Leipzig",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 647,
+      "official_name": "Bremen-Stresemannstr.",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 648,
+      "official_name": "Bochum-Hofstede",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 649,
+      "official_name": "Singen",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 650,
+      "official_name": "Neuwied",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/36124286",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 9567.51,
+      "assumed_usable_area_sqm": 5740.51,
+      "estimated_pv_kwp": 1148.1,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 651,
+      "official_name": "Laatzen",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 652,
+      "official_name": "Gießen Schiffenberger Tal",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 654,
+      "official_name": "Hamburg-Lokstedt",
+      "association_status": "provisional_association",
+      "osm_id": "way/299599300",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 14697.79,
+      "assumed_usable_area_sqm": 8818.68,
+      "estimated_pv_kwp": 1763.74,
+      "association_reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 655,
+      "official_name": "Mannheim-Quadrate",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 656,
+      "official_name": "Berlin-Wedding",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 657,
+      "official_name": "Bonn-Beuel",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 658,
+      "official_name": "Kassel",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/100467501",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 11077.78,
+      "assumed_usable_area_sqm": 6646.67,
+      "estimated_pv_kwp": 1329.33,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 659,
+      "official_name": "Heppenheim",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 661,
+      "official_name": "Münster",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 662,
+      "official_name": "Donaueschingen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/120126663",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 7535.91,
+      "assumed_usable_area_sqm": 4521.54,
+      "estimated_pv_kwp": 904.31,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 663,
+      "official_name": "Hamburg-Bramfeld",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/23386017",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 13118.79,
+      "assumed_usable_area_sqm": 7871.27,
+      "estimated_pv_kwp": 1574.25,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 664,
+      "official_name": "Hamburg-Stellingen",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 665,
+      "official_name": "Köln-Ehrenfeld",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/29401013",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 9364.6,
+      "assumed_usable_area_sqm": 5618.76,
+      "estimated_pv_kwp": 1123.75,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 666,
+      "official_name": "Lüneburg",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/44904672",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 11206.83,
+      "assumed_usable_area_sqm": 6724.1,
+      "estimated_pv_kwp": 1344.82,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 667,
+      "official_name": "Rostock-Schutow",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 668,
+      "official_name": "Schwerin-Großer Dreesch",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/92704442",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 9066.41,
+      "assumed_usable_area_sqm": 5439.85,
+      "estimated_pv_kwp": 1087.97,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 669,
+      "official_name": "Gera",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 692,
+      "official_name": "Gelsenkirchen",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 812,
+      "official_name": "Berlin-Charlottenburg",
+      "association_status": "provisional_association",
+      "osm_id": "way/44958511",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 942.89,
+      "assumed_usable_area_sqm": 565.73,
+      "estimated_pv_kwp": 113.15,
+      "association_reasons": [
+        "Cached containment found; address or building-use evidence is insufficient for acceptance"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 814,
+      "official_name": "Berlin Am Hermannplatz",
+      "association_status": "provisional_association",
+      "osm_id": "way/26832459",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 6169.95,
+      "assumed_usable_area_sqm": 3701.97,
+      "estimated_pv_kwp": 740.39,
+      "association_reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 840,
+      "official_name": "Berlin Am Wittenbergplatz",
+      "association_status": "parking_structure_review",
+      "osm_id": "way/26709558",
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "Official point falls within a parking structure",
+        "Excluded from store-roof estimation pending facility review"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 850,
+      "official_name": "Berlin-Wittenau",
+      "association_status": "provisional_association",
+      "osm_id": "way/40459768",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 5922.49,
+      "assumed_usable_area_sqm": 3553.49,
+      "estimated_pv_kwp": 710.7,
+      "association_reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "association_limitations": [
+        "Postcode comparison unavailable"
+      ]
+    },
+    {
+      "official_store_id": 851,
+      "official_name": "Hamburg-Wandsbek",
+      "association_status": "provisional_association",
+      "osm_id": "way/24025561",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 8832.88,
+      "assumed_usable_area_sqm": 5299.73,
+      "estimated_pv_kwp": 1059.95,
+      "association_reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "association_limitations": [
+        "Postcode comparison unavailable"
+      ]
+    },
+    {
+      "official_store_id": 852,
+      "official_name": "Karlsruhe-Oststadt",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 853,
+      "official_name": "Kiel-Ravensberg",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/25619088",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 10002.31,
+      "assumed_usable_area_sqm": 6001.39,
+      "estimated_pv_kwp": 1200.28,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 854,
+      "official_name": "Mainz-Mombach",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/59338792",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 8755.08,
+      "assumed_usable_area_sqm": 5253.05,
+      "estimated_pv_kwp": 1050.61,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 855,
+      "official_name": "Cottbus",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/23180187",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 6943.11,
+      "assumed_usable_area_sqm": 4165.87,
+      "estimated_pv_kwp": 833.17,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 856,
+      "official_name": "Hennef",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 857,
+      "official_name": "Koblenz-Lützel",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 858,
+      "official_name": "Hamburg-Langenhorn",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/26570627",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 5781.37,
+      "assumed_usable_area_sqm": 3468.82,
+      "estimated_pv_kwp": 693.76,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 859,
+      "official_name": "Nürnberg",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 861,
+      "official_name": "Schweinfurt",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 862,
+      "official_name": "Augsburg-Oberhausen",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/1096186782",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 11577.2,
+      "assumed_usable_area_sqm": 6946.32,
+      "estimated_pv_kwp": 1389.26,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 863,
+      "official_name": "Bremen-Osterholz (Weserpark)",
+      "association_status": "provisional_association",
+      "osm_id": "way/37120956",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 12418.7,
+      "assumed_usable_area_sqm": 7451.22,
+      "estimated_pv_kwp": 1490.24,
+      "association_reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "association_limitations": [
+        "Postcode comparison unavailable"
+      ]
+    },
+    {
+      "official_store_id": 864,
+      "official_name": "Lübeck-Moisling",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/28846255",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 11749.8,
+      "assumed_usable_area_sqm": 7049.88,
+      "estimated_pv_kwp": 1409.98,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 865,
+      "official_name": "Hamburg-Lurup",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/22762245",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 12419.65,
+      "assumed_usable_area_sqm": 7451.79,
+      "estimated_pv_kwp": 1490.36,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 866,
+      "official_name": "Berlin-Treptow",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/24230210",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 9303.8,
+      "assumed_usable_area_sqm": 5582.28,
+      "estimated_pv_kwp": 1116.46,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 868,
+      "official_name": "Wuppertal-Barmen (Lichtscheid)",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 870,
+      "official_name": "München-Freimann",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 871,
+      "official_name": "Stuttgart",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 872,
+      "official_name": "Bruchsal",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 874,
+      "official_name": "Haßloch",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 875,
+      "official_name": "Reutlingen",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 877,
+      "official_name": "Trier",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/113971134",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 19947.9,
+      "assumed_usable_area_sqm": 11968.74,
+      "estimated_pv_kwp": 2393.75,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 878,
+      "official_name": "Düsseldorf Rath",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 879,
+      "official_name": "Mönchengladbach",
+      "association_status": "provisional_association",
+      "osm_id": "way/30860030",
+      "estimate_bucket": "provisional",
+      "footprint_area_sqm": 12231.21,
+      "assumed_usable_area_sqm": 7338.73,
+      "estimated_pv_kwp": 1467.75,
+      "association_reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "association_limitations": [
+        "Postcode comparison unavailable"
+      ]
+    },
+    {
+      "official_store_id": 890,
+      "official_name": "Bonn-Endenich",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/369231324",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 14561.2,
+      "assumed_usable_area_sqm": 8736.72,
+      "estimated_pv_kwp": 1747.34,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": [
+        "Postcode comparison unavailable"
+      ]
+    },
+    {
+      "official_store_id": 891,
+      "official_name": "Pulheim",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 892,
+      "official_name": "Bergisch Gladbach-Bensberg",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 893,
+      "official_name": "Bad Neuenahr-Ahrweiler",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/96216146",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 4966.61,
+      "assumed_usable_area_sqm": 2979.97,
+      "estimated_pv_kwp": 595.99,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 894,
+      "official_name": "Berlin-Steglitz",
+      "association_status": "accepted_screening_association",
+      "osm_id": "way/28505596",
+      "estimate_bucket": "accepted",
+      "footprint_area_sqm": 9159.74,
+      "assumed_usable_area_sqm": 5495.84,
+      "estimated_pv_kwp": 1099.17,
+      "association_reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 896,
+      "official_name": "Wiesbaden/ Mainz-Kastel",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 897,
+      "official_name": "Mannheim-Columbus",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    },
+    {
+      "official_store_id": 898,
+      "official_name": "Bad Vilbel",
+      "association_status": "unresolved_no_containment",
+      "osm_id": null,
+      "estimate_bucket": "unavailable",
+      "footprint_area_sqm": null,
+      "assumed_usable_area_sqm": null,
+      "estimated_pv_kwp": null,
+      "association_reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "association_limitations": []
+    }
+  ],
+  "limitations": [
+    "Footprint-based illustrative capacity, not an engineering assessment.",
+    "Accepted refers to screening association, not verified solar capacity.",
+    "Provisional estimates assume the candidate footprint is applicable.",
+    "Residential or mixed-use roof allocation may be unresolved.",
+    "No roof-access, structural, shading or existing-PV assessment.",
+    "Unknown capacity is null, not zero.",
+    "Accepted and provisional scenarios are not combined.",
+    "No national capacity-total or electricity-generation claim."
+  ]
+}

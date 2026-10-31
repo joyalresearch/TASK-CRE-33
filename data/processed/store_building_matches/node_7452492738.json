@@ -1,0 +1,32 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 7452492738,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 546189796,
+      "building_type": "yes",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Bruchsal",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "76646",
+        "addr:street": "Kammerforststraße",
+        "building": "yes",
+        "building:levels": "2",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 17273.88,
+      "geometry_wkt_25832": "POLYGON ((468035.4720901131 5442857.603721688, 468053.61441641103 5442867.948896425, 468087.6639925564 5442808.57574113, 468069.2497516939 5442765.080786761, 467858.3960438449 5442853.82826933, 467889.1403801634 5442926.444436792, 468011.34124744136 5442875.008245287, 468008.7380355658 5442868.853315067, 468035.4720901131 5442857.603721688))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

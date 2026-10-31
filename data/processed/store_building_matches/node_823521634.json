@@ -1,0 +1,26 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 823521634,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 118752984,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:housenumber": "108-110",
+        "addr:street": "Rheinstraße",
+        "building": "retail"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 5270.25,
+      "geometry_wkt_25832": "POLYGON ((473164.5905204539 5933170.052731018, 473166.50905084435 5933154.366022179, 473172.81526766974 5933114.400828992, 473193.48538979446 5933117.265015908, 473243.3375242731 5933124.858981585, 473254.1329845392 5933126.277483371, 473245.8702001344 5933181.228546982, 473248.94732387597 5933181.689500789, 473244.45203346113 5933211.586892105, 473223.3566609918 5933208.435635575, 473227.70491593477 5933179.5069738645, 473164.5905204539 5933170.052731018))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

@@ -1,0 +1,2347 @@
+{
+  "created_at_utc": "2026-10-31T05:44:47.106210+00:00",
+  "purpose": "OSM-derived search seeds; not verified official stores",
+  "coverage_verified": false,
+  "sources": [
+    {
+      "path": "data/processed/bauhaus_buildings_consolidated.json",
+      "sha256": "0de970956ab6a1de450b274a8867f787c256baf89e82aad6aa27d669c192df9a"
+    },
+    {
+      "path": "data/raw/bauhaus_germany_pois.json",
+      "sha256": "85600f718eb79fea5a0ee1d1520134fa60129fed8aab5d091ab01eb8179b9407"
+    }
+  ],
+  "seeds": [
+    {
+      "postcode": "01239",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 768890944
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 768890944
+        }
+      ]
+    },
+    {
+      "postcode": "03042",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 23180187
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 23180187
+        }
+      ]
+    },
+    {
+      "postcode": "04356",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 168141060
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 168141060
+        }
+      ]
+    },
+    {
+      "postcode": "06712",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 108864862
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 108864862
+        }
+      ]
+    },
+    {
+      "postcode": "07548",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 30181261
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 30181261
+        }
+      ]
+    },
+    {
+      "postcode": "08529",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 98695080
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 604969739
+        }
+      ]
+    },
+    {
+      "postcode": "10585",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 416660121
+        }
+      ]
+    },
+    {
+      "postcode": "10711",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 945724462
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 945724462
+        }
+      ]
+    },
+    {
+      "postcode": "10787",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 422779946
+        }
+      ]
+    },
+    {
+      "postcode": "10967",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 26832459
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 26832459
+        }
+      ]
+    },
+    {
+      "postcode": "12103",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 4580891593
+        }
+      ]
+    },
+    {
+      "postcode": "12163",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 28505596
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 10057200156
+        }
+      ]
+    },
+    {
+      "postcode": "12277",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 27493871
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 11059529684
+        }
+      ]
+    },
+    {
+      "postcode": "12439",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 24230210
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 24230210
+        }
+      ]
+    },
+    {
+      "postcode": "13127",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 80858331
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 80858331
+        }
+      ]
+    },
+    {
+      "postcode": "13405",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 24049246
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 24049246
+        }
+      ]
+    },
+    {
+      "postcode": "13435",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 490066695
+        }
+      ]
+    },
+    {
+      "postcode": "13581",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 285603576
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 285603576
+        }
+      ]
+    },
+    {
+      "postcode": "13597",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 25114190
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 25114190
+        }
+      ]
+    },
+    {
+      "postcode": "15745",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 240042193
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 240042193
+        }
+      ]
+    },
+    {
+      "postcode": "15831",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 33542710
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 33542710
+        }
+      ]
+    },
+    {
+      "postcode": "18069",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 33524148
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 33524148
+        }
+      ]
+    },
+    {
+      "postcode": "18439",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 29350709
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 29350709
+        }
+      ]
+    },
+    {
+      "postcode": "19061",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 92704442
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 92704442
+        }
+      ]
+    },
+    {
+      "postcode": "21029",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 24691546
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 244977926
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 24691546
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 244977926
+        }
+      ]
+    },
+    {
+      "postcode": "21079",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 118916584
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 118916585
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 118916584
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 118916585
+        }
+      ]
+    },
+    {
+      "postcode": "21337",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 44904672
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 44904672
+        }
+      ]
+    },
+    {
+      "postcode": "22041",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 253378262
+        }
+      ]
+    },
+    {
+      "postcode": "22113",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 159926244
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 159926244
+        }
+      ]
+    },
+    {
+      "postcode": "22177",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 23386017
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 23386017
+        }
+      ]
+    },
+    {
+      "postcode": "22419",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 26570627
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 26570627
+        }
+      ]
+    },
+    {
+      "postcode": "22525",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 27283969
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 27283969
+        }
+      ]
+    },
+    {
+      "postcode": "22529",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 299599300
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 299599300
+        }
+      ]
+    },
+    {
+      "postcode": "22549",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 22762245
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 22762245
+        }
+      ]
+    },
+    {
+      "postcode": "22885",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 33003697
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 33003697
+        }
+      ]
+    },
+    {
+      "postcode": "23554",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 94340051
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 94340051
+        }
+      ]
+    },
+    {
+      "postcode": "23556",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 28846255
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 2935166520
+        }
+      ]
+    },
+    {
+      "postcode": "23562",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 46754081
+        }
+      ]
+    },
+    {
+      "postcode": "24107",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 54856134
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 54856134
+        }
+      ]
+    },
+    {
+      "postcode": "24116",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 25619088
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 25619088
+        }
+      ]
+    },
+    {
+      "postcode": "24223",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 52131203
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 52131203
+        }
+      ]
+    },
+    {
+      "postcode": "24837",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 9360368250
+        }
+      ]
+    },
+    {
+      "postcode": "24941",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 177266742
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 177266742
+        }
+      ]
+    },
+    {
+      "postcode": "28207",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 131318317
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 131318317
+        }
+      ]
+    },
+    {
+      "postcode": "28307",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 5329643356
+        }
+      ]
+    },
+    {
+      "postcode": "28816",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 4700552
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 4700552
+        }
+      ]
+    },
+    {
+      "postcode": "30159",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 124537428
+        }
+      ]
+    },
+    {
+      "postcode": "30163",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 11939377123
+        }
+      ]
+    },
+    {
+      "postcode": "30165",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 140561512
+        }
+      ]
+    },
+    {
+      "postcode": "30880",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 7340432568
+        }
+      ]
+    },
+    {
+      "postcode": "33609",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 40707294
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 1389121491
+        }
+      ]
+    },
+    {
+      "postcode": "34127",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 100467501
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 100467501
+        }
+      ]
+    },
+    {
+      "postcode": "34277",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 52007850
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 52007850
+        }
+      ]
+    },
+    {
+      "postcode": "35394",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 246999247
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 246999247
+        }
+      ]
+    },
+    {
+      "postcode": "35576",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 26285106
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 10044308316
+        }
+      ]
+    },
+    {
+      "postcode": "38114",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 31670307
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 31670307
+        }
+      ]
+    },
+    {
+      "postcode": "38124",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 28143475
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 28143475
+        }
+      ]
+    },
+    {
+      "postcode": "39126",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 48133177
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 48133177
+        }
+      ]
+    },
+    {
+      "postcode": "40233",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 146186390
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 2302565844
+        }
+      ]
+    },
+    {
+      "postcode": "40472",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 11778986402
+        }
+      ]
+    },
+    {
+      "postcode": "40599",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 119309678
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 5301851476
+        }
+      ]
+    },
+    {
+      "postcode": "40625",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 24517843
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 4797070542
+        }
+      ]
+    },
+    {
+      "postcode": "41470",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 37287853
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 37287853
+        }
+      ]
+    },
+    {
+      "postcode": "42285",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 375670000
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 375670000
+        }
+      ]
+    },
+    {
+      "postcode": "42289",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 201115893
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 201115893
+        }
+      ]
+    },
+    {
+      "postcode": "42719",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 87313466
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 87313466
+        }
+      ]
+    },
+    {
+      "postcode": "44145",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 24864353
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 24864353
+        }
+      ]
+    },
+    {
+      "postcode": "44287",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 927633999
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 927633999
+        }
+      ]
+    },
+    {
+      "postcode": "44805",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 93211530
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 93211530
+        }
+      ]
+    },
+    {
+      "postcode": "44809",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 173434235
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 173434235
+        }
+      ]
+    },
+    {
+      "postcode": "44867",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 96593449
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 96593449
+        }
+      ]
+    },
+    {
+      "postcode": "45141",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 55008475
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 293418460
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 293418467
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 55008475
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 293418460
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 293418467
+        }
+      ]
+    },
+    {
+      "postcode": "45145",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 29033850
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 29033850
+        }
+      ]
+    },
+    {
+      "postcode": "47269",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 23619103
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 23619103
+        }
+      ]
+    },
+    {
+      "postcode": "47807",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 82445638
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 82445638
+        }
+      ]
+    },
+    {
+      "postcode": "48155",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 120030437
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 965168208
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 120030437
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 965168208
+        }
+      ]
+    },
+    {
+      "postcode": "50226",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 62811069
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 62811069
+        }
+      ]
+    },
+    {
+      "postcode": "50259",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 338416027
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 338416027
+        }
+      ]
+    },
+    {
+      "postcode": "50354",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 56191943
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 56191943
+        }
+      ]
+    },
+    {
+      "postcode": "50825",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 29401013
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 29401013
+        }
+      ]
+    },
+    {
+      "postcode": "51103",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 41860856
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 41860856
+        }
+      ]
+    },
+    {
+      "postcode": "51149",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 28334460
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 28334460
+        }
+      ]
+    },
+    {
+      "postcode": "51377",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 26790316
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 26790316
+        }
+      ]
+    },
+    {
+      "postcode": "51429",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 119476653
+        }
+      ]
+    },
+    {
+      "postcode": "52070",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 19727326
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 97693777
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 19727326
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 97693777
+        }
+      ]
+    },
+    {
+      "postcode": "52146",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 24393423
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 24393423
+        }
+      ]
+    },
+    {
+      "postcode": "52353",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 202318101
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 202318101
+        }
+      ]
+    },
+    {
+      "postcode": "53115",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 3730393002
+        }
+      ]
+    },
+    {
+      "postcode": "53225",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 277000970
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 277000970
+        }
+      ]
+    },
+    {
+      "postcode": "53332",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 35910944
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 35910944
+        }
+      ]
+    },
+    {
+      "postcode": "53474",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 96216146
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 96216146
+        }
+      ]
+    },
+    {
+      "postcode": "53773",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 93317352
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 93317352
+        }
+      ]
+    },
+    {
+      "postcode": "54294",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 113971134
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 113971134
+        }
+      ]
+    },
+    {
+      "postcode": "55120",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 59338792
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 7111767781
+        }
+      ]
+    },
+    {
+      "postcode": "55130",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 155164522
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 155164522
+        }
+      ]
+    },
+    {
+      "postcode": "55252",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 1262910446
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 1289813642
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 1262910446
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 1289813642
+        }
+      ]
+    },
+    {
+      "postcode": "55545",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 52513722
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 52513722
+        }
+      ]
+    },
+    {
+      "postcode": "56070",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 26764123
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 26764123
+        }
+      ]
+    },
+    {
+      "postcode": "56218",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 115955249
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 12517940711
+        }
+      ]
+    },
+    {
+      "postcode": "56566",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 36124234
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 36124286
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 36124234
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 36124286
+        }
+      ]
+    },
+    {
+      "postcode": "58089",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 54727041
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 54727041
+        }
+      ]
+    },
+    {
+      "postcode": "58454",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 97882534
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 97882534
+        }
+      ]
+    },
+    {
+      "postcode": "58636",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 3431148151
+        }
+      ]
+    },
+    {
+      "postcode": "60386",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 48466507
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 48466507
+        }
+      ]
+    },
+    {
+      "postcode": "61118",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 40106846
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 40106846
+        }
+      ]
+    },
+    {
+      "postcode": "63457",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 25520936
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 6586555027
+        }
+      ]
+    },
+    {
+      "postcode": "63584",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 91898070
+        }
+      ]
+    },
+    {
+      "postcode": "64293",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 499376604
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 320125149
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 499376604
+        }
+      ]
+    },
+    {
+      "postcode": "64646",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 119907320
+        }
+      ]
+    },
+    {
+      "postcode": "66763",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 90064343
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 90064343
+        }
+      ]
+    },
+    {
+      "postcode": "66806",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 26011057
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 26011057
+        }
+      ]
+    },
+    {
+      "postcode": "67071",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 70786923
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 70786923
+        }
+      ]
+    },
+    {
+      "postcode": "67346",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 25779279
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 25779279
+        }
+      ]
+    },
+    {
+      "postcode": "67454",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 995919993
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 8584539424
+        }
+      ]
+    },
+    {
+      "postcode": "68161",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 269791656
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 269791656
+        }
+      ]
+    },
+    {
+      "postcode": "68305",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 116468051
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 30560661
+        }
+      ]
+    },
+    {
+      "postcode": "69115",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 76844715
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 76844715
+        }
+      ]
+    },
+    {
+      "postcode": "70178",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 437519834
+        }
+      ]
+    },
+    {
+      "postcode": "70327",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 126440693
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 126440693
+        }
+      ]
+    },
+    {
+      "postcode": "70565",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 44004385
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 44004385
+        }
+      ]
+    },
+    {
+      "postcode": "72202",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 40450747
+        }
+      ]
+    },
+    {
+      "postcode": "72250",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 80253164
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 80253164
+        }
+      ]
+    },
+    {
+      "postcode": "72336",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 118286988
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 118286988
+        }
+      ]
+    },
+    {
+      "postcode": "72770",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 759059433
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 28987296
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 759059433
+        }
+      ]
+    },
+    {
+      "postcode": "73457",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 26958041
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 248788421
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 26958041
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 248788421
+        }
+      ]
+    },
+    {
+      "postcode": "74172",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 45883708
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 45883708
+        }
+      ]
+    },
+    {
+      "postcode": "75179",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 27436941
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 27436941
+        }
+      ]
+    },
+    {
+      "postcode": "76131",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 412474154
+        }
+      ]
+    },
+    {
+      "postcode": "76137",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 620125890
+        }
+      ]
+    },
+    {
+      "postcode": "76185",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 108248464
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 108248464
+        }
+      ]
+    },
+    {
+      "postcode": "76437",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 28715246
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 102783805
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 28715246
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 102783805
+        }
+      ]
+    },
+    {
+      "postcode": "76646",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 546189796
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 7452492738
+        }
+      ]
+    },
+    {
+      "postcode": "77656",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 33712617
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 33712617
+        }
+      ]
+    },
+    {
+      "postcode": "78048",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 30808551
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 30808551
+        }
+      ]
+    },
+    {
+      "postcode": "78166",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 120126663
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 120126663
+        }
+      ]
+    },
+    {
+      "postcode": "78224",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 240159417
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 240159417
+        }
+      ]
+    },
+    {
+      "postcode": "78658",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 136758060
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 136758060
+        }
+      ]
+    },
+    {
+      "postcode": "79115",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 1015150437
+        }
+      ]
+    },
+    {
+      "postcode": "79541",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 90494889
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 90494889
+        }
+      ]
+    },
+    {
+      "postcode": "80687",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 442539005
+        }
+      ]
+    },
+    {
+      "postcode": "80939",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 496104341
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 496104341
+        }
+      ]
+    },
+    {
+      "postcode": "84030",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 110307778
+        },
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 142047669
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 110307778
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 142047669
+        }
+      ]
+    },
+    {
+      "postcode": "85057",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 30072118
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 30072118
+        }
+      ]
+    },
+    {
+      "postcode": "86154",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 1096186782
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 1096186782
+        }
+      ]
+    },
+    {
+      "postcode": "86159",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 87352620
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 87352620
+        }
+      ]
+    },
+    {
+      "postcode": "86165",
+      "source_records": [
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 1605507205
+        }
+      ]
+    },
+    {
+      "postcode": "86368",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 148988039
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 148988039
+        }
+      ]
+    },
+    {
+      "postcode": "87700",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 34201992
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 34201992
+        }
+      ]
+    },
+    {
+      "postcode": "88212",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 158710321
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 158710321
+        }
+      ]
+    },
+    {
+      "postcode": "89077",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 182747470
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 1036180405
+        }
+      ]
+    },
+    {
+      "postcode": "89520",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 227400424
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "node",
+          "osm_id": 279218164
+        }
+      ]
+    },
+    {
+      "postcode": "90439",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 93484846
+        }
+      ]
+    },
+    {
+      "postcode": "90547",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 28132164
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 28132164
+        }
+      ]
+    },
+    {
+      "postcode": "93053",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 31410869
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 31410869
+        }
+      ]
+    },
+    {
+      "postcode": "94036",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 102410272
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 102410272
+        }
+      ]
+    },
+    {
+      "postcode": "97424",
+      "source_records": [
+        {
+          "input_file": "data/processed/bauhaus_buildings_consolidated.json",
+          "osm_type": "way",
+          "osm_id": 102034074
+        },
+        {
+          "input_file": "data/raw/bauhaus_germany_pois.json",
+          "osm_type": "way",
+          "osm_id": 102034074
+        }
+      ]
+    }
+  ]
+}

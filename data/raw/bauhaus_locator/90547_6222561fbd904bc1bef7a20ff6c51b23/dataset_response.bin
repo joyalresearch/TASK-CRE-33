@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=90547",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=90547",
+    "loadedTime": "2026-10-31T17:47:25.457Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1064,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=90547",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:47:25 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=90547",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Nürnberg-Stein\",\"slug\":\"nuernberg-stein\",\"name\":\"BAUHAUS GmbH & Co. KG Bayern\",\"id\":567,\"store_id\":567,\"location\":{\"lat\":49.40708712711,\"lng\":11.001048336395},\"address\":{\"lines\":[\"Spitzleitenweg 11\"],\"city\":\"Stein\",\"zipcode\":\"90547\"},\"distance\":1.72,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Nürnberg\",\"slug\":\"nuernberg\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Donau\",\"id\":859,\"store_id\":859,\"location\":{\"lat\":49.433794,\"lng\":11.039404},\"address\":{\"lines\":[\"Geisseestraße 89\"],\"city\":\"Nürnberg\",\"zipcode\":\"90439\"},\"distance\":5.7,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

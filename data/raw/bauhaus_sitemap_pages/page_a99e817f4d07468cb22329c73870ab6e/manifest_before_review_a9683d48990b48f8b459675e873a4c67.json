@@ -1,0 +1,25 @@
+{
+  "started_at_utc": "2026-10-31T18:20:48.077271+00:00",
+  "source_url": "https://www.bauhaus.info/fc//500",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc//500",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "unknown_outcome",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "apify_http_status": 400,
+  "run_id": "h2Cmk4R8l3yCivUga",
+  "dataset_sha256": "8ae73ce1cd94670c8da63a597e21335d508c3b2ff46afce5d43c78c0a9dcef60",
+  "apify_error_type": "run-failed",
+  "run_sha256": "e704cdbc896bd70fa7a5767c9146851611b0f39a35c5a531fd1b8251460e8287",
+  "run_status": "TIMED-OUT",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-10-31T18:22:48.666179+00:00"
+}

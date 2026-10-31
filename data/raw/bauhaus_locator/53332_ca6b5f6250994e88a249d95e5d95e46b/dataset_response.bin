@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=53332",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=53332",
+    "loadedTime": "2026-10-31T17:36:10.265Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 4247,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=53332",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:36:10 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=53332",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Bornheim\",\"slug\":\"bornheim\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":609,\"store_id\":609,\"location\":{\"lat\":50.759496825003,\"lng\":7.0280870723391},\"address\":{\"lines\":[\"Alexander-Bell-Strasse 6\"],\"city\":\"Bornheim\",\"zipcode\":\"53332\"},\"distance\":5.18,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Bonn-Endenich\",\"slug\":\"bonn-endenich\",\"name\":\"BAUHAUS GmbH & Co. KG Rheinland\",\"id\":890,\"store_id\":890,\"location\":{\"lat\":50.73133,\"lng\":7.078953},\"address\":{\"lines\":[\"Endenicher Straße 120-140\"],\"city\":\"Bonn\",\"zipcode\":\"53115\"},\"distance\":9.6,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Bonn-Beuel\",\"slug\":\"bonn-beuel\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":657,\"store_id\":657,\"location\":{\"lat\":50.7502021,\"lng\":7.1299936},\"address\":{\"lines\":[\"Gerhardstraße 2\"],\"city\":\"Bonn\",\"zipcode\":\"53225\"},\"distance\":12.42,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Hürth\",\"slug\":\"huerth\",\"name\":\"BAUHAUS GmbH & Co. KG Rheinland\",\"id\":629,\"store_id\":629,\"location\":{\"lat\":50.885200797666,\"lng\":6.8973179543592},\"address\":{\"lines\":[\"Luxemburger Strasse 223-225\"],\"city\":\"Hürth\",\"zipcode\":\"50354\"},\"distance\":13.59,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Köln-Porz\",\"slug\":\"koeln-porz\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":608,\"store_id\":608,\"location\":{\"lat\":50.896681553284,\"lng\":7.0716061902065},\"address\":{\"lines\":[\"Theodor-Heuss-Strasse 80-86\"],\"city\":\"Köln\",\"zipcode\":\"51149\"},\"distance\":16.39,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Frechen\",\"slug\":\"frechen\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":569,\"store_id\":569,\"location\":{\"lat\":50.91964513719,\"lng\":6.8385055049121},\"address\":{\"lines\":[\"Europa Allee 13\"],\"city\":\"Frechen\",\"zipcode\":\"50226\"},\"distance\":18.7,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Köln-Kalk\",\"slug\":\"koeln-kalk\",\"name\":\"BAUHAUS GmbH & Co. KG Rheinland\",\"id\":616,\"store_id\":616,\"location\":{\"lat\":50.943218896548,\"lng\":6.9954309119055},\"address\":{\"lines\":[\"Istanbulstr 20\"],\"city\":\"Köln\",\"zipcode\":\"51103\"},\"distance\":19.6,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Köln-Ehrenfeld\",\"slug\":\"koeln-ehrenfeld\",\"name\":\"BAUHAUS GmbH & Co. KG Mittelrhein\",\"id\":665,\"store_id\":665,\"location\":{\"lat\":50.945801,\"lng\":6.911216},\"address\":{\"lines\":[\"Weinsbergstraße 190a\"],\"city\":\"Köln\",\"zipcode\":\"50825\"},\"distance\":19.94,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]}]"
+}]

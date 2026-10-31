@@ -1,0 +1,273 @@
+{
+  "search_radius_m": 100,
+  "results": [
+    {
+      "osm_node_id": 30560661,
+      "name": "Bauhaus",
+      "city": "Mannheim",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 253378262,
+      "name": "Bauhaus",
+      "city": "Hamburg",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 254352435,
+      "name": "Bauhaus",
+      "city": null,
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 279218164,
+      "name": "Bauhaus",
+      "city": "Heidenheim an der Brenz",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 286555103,
+      "name": "Bauhaus",
+      "city": null,
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 297084872,
+      "name": "Bauhaus",
+      "city": null,
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 416660121,
+      "name": "Bauhaus",
+      "city": "Berlin",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 422779946,
+      "name": "Bauhaus",
+      "city": "Berlin",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 442539005,
+      "name": "Bauhaus",
+      "city": "München",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 490066695,
+      "name": "Bauhaus",
+      "city": "Berlin",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 604969739,
+      "name": "Bauhaus",
+      "city": "Plauen",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 823521634,
+      "name": "Bauhaus",
+      "city": null,
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 1036180405,
+      "name": "Bauhaus",
+      "city": "Ulm",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 1083762657,
+      "name": "Bauhaus",
+      "city": null,
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 1389121491,
+      "name": "Bauhaus",
+      "city": "Bielefeld",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 1605507205,
+      "name": "Bauhaus",
+      "city": "Augsburg",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 1739559562,
+      "name": "Bauhaus",
+      "city": null,
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 2302565844,
+      "name": "Bauhaus",
+      "city": "Düsseldorf",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 2935166520,
+      "name": "Bauhaus",
+      "city": "Lübeck",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 3730393002,
+      "name": "Bauhaus",
+      "city": "Bonn",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 3875846542,
+      "name": "Bauhaus",
+      "city": null,
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 4580891593,
+      "name": "Bauhaus",
+      "city": "Berlin",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 4797070542,
+      "name": "Bauhaus",
+      "city": "Düsseldorf",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 5301851476,
+      "name": "Bauhaus",
+      "city": "Düsseldorf",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 5329643356,
+      "name": "Bauhaus",
+      "city": "Bremen",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 6586555027,
+      "name": "Bauhaus",
+      "city": "Hanau",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 7111767781,
+      "name": "Bauhaus",
+      "city": "Mainz",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 7340432568,
+      "name": "Bauhaus",
+      "city": "Laatzen",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 7452492738,
+      "name": "Bauhaus",
+      "city": "Bruchsal",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 7518511157,
+      "name": "Bauhaus",
+      "city": null,
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 8584539424,
+      "name": "Bauhaus",
+      "city": "Haßloch",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 10044308316,
+      "name": "Bauhaus",
+      "city": "Wetzlar",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 10057200156,
+      "name": "Bauhaus",
+      "city": "Berlin",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 10093313817,
+      "name": "Bauhaus",
+      "city": null,
+      "status": "near_mapped_building",
+      "candidates": [
+        {
+          "osm_way_id": 759059433,
+          "distance_m": 41.5,
+          "point_inside_footprint": false,
+          "building_area_sqm": 19037.73,
+          "building_name": "Bauhaus",
+          "brand_wikidata": "Q672043"
+        }
+      ]
+    },
+    {
+      "osm_node_id": 11059529684,
+      "name": "Bauhaus",
+      "city": "Berlin",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 11778986402,
+      "name": "Bauhaus",
+      "city": "Düsseldorf",
+      "status": "no_building_within_100m",
+      "candidates": []
+    },
+    {
+      "osm_node_id": 12517940711,
+      "name": "Bauhaus",
+      "city": "Mülheim-Kärlich",
+      "status": "no_building_within_100m",
+      "candidates": []
+    }
+  ]
+}

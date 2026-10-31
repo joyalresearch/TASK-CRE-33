@@ -1,0 +1,2269 @@
+{
+  "elements": [
+    {
+      "type": "way",
+      "id": 26958041,
+      "tags": {
+        "addr:city": "Essingen",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "73457",
+        "addr:street": "Margarete-Steiff-Straße",
+        "addr:suburb": "Dauerwang",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 7365 96210",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      },
+      "geometry": [
+        {
+          "lat": 48.8213228,
+          "lon": 10.0452672
+        },
+        {
+          "lat": 48.8214776,
+          "lon": 10.0451784
+        },
+        {
+          "lat": 48.8213167,
+          "lon": 10.0445319
+        },
+        {
+          "lat": 48.8214021,
+          "lon": 10.0443457
+        },
+        {
+          "lat": 48.8215061,
+          "lon": 10.0442876
+        },
+        {
+          "lat": 48.8214678,
+          "lon": 10.0441294
+        },
+        {
+          "lat": 48.8215681,
+          "lon": 10.0440733
+        },
+        {
+          "lat": 48.8215306,
+          "lon": 10.0439186
+        },
+        {
+          "lat": 48.821614,
+          "lon": 10.0438719
+        },
+        {
+          "lat": 48.8216036,
+          "lon": 10.0438289
+        },
+        {
+          "lat": 48.8217431,
+          "lon": 10.0437509
+        },
+        {
+          "lat": 48.8218348,
+          "lon": 10.044129
+        },
+        {
+          "lat": 48.8219752,
+          "lon": 10.0440505
+        },
+        {
+          "lat": 48.8220603,
+          "lon": 10.0444011
+        },
+        {
+          "lat": 48.8218135,
+          "lon": 10.0445392
+        },
+        {
+          "lat": 48.8218973,
+          "lon": 10.0448847
+        },
+        {
+          "lat": 48.8219957,
+          "lon": 10.0449476
+        },
+        {
+          "lat": 48.821967,
+          "lon": 10.0450513
+        },
+        {
+          "lat": 48.8220709,
+          "lon": 10.045469
+        },
+        {
+          "lat": 48.8219278,
+          "lon": 10.0455512
+        },
+        {
+          "lat": 48.8220675,
+          "lon": 10.0461126
+        },
+        {
+          "lat": 48.8215999,
+          "lon": 10.0463809
+        },
+        {
+          "lat": 48.8213228,
+          "lon": 10.0452672
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 27283969,
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "499",
+        "addr:postcode": "22525",
+        "addr:street": "Kieler Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "3",
+        "changing_table": "yes",
+        "changing_table:location": "wheelchair_toilet",
+        "check_date": "2026-09-02",
+        "check_date:opening_hours": "2026-02-24",
+        "contact:fax": "+49 40 521089813",
+        "contact:instagram": "bauhausdeutschland",
+        "contact:phone": "+49 40 5210898 0",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hamburg-stellingen/fc/664",
+        "email": "Service.NL664@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "Bauhaus Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Nord",
+        "payment:cards": "yes",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "stroller": "yes",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 53.5972014,
+          "lon": 9.9208947
+        },
+        {
+          "lat": 53.5968999,
+          "lon": 9.9202362
+        },
+        {
+          "lat": 53.5966164,
+          "lon": 9.9206048
+        },
+        {
+          "lat": 53.5962582,
+          "lon": 9.9210705
+        },
+        {
+          "lat": 53.5961961,
+          "lon": 9.9209348
+        },
+        {
+          "lat": 53.5960569,
+          "lon": 9.9206309
+        },
+        {
+          "lat": 53.596027,
+          "lon": 9.9205656
+        },
+        {
+          "lat": 53.5960484,
+          "lon": 9.9205377
+        },
+        {
+          "lat": 53.59607,
+          "lon": 9.9205096
+        },
+        {
+          "lat": 53.5960437,
+          "lon": 9.920452
+        },
+        {
+          "lat": 53.5960521,
+          "lon": 9.920441
+        },
+        {
+          "lat": 53.5959485,
+          "lon": 9.9202145
+        },
+        {
+          "lat": 53.5959389,
+          "lon": 9.920227
+        },
+        {
+          "lat": 53.5958741,
+          "lon": 9.9200855
+        },
+        {
+          "lat": 53.5958507,
+          "lon": 9.920116
+        },
+        {
+          "lat": 53.5958272,
+          "lon": 9.9201465
+        },
+        {
+          "lat": 53.5957005,
+          "lon": 9.9198697
+        },
+        {
+          "lat": 53.5956691,
+          "lon": 9.9198012
+        },
+        {
+          "lat": 53.5957396,
+          "lon": 9.9197096
+        },
+        {
+          "lat": 53.5957932,
+          "lon": 9.91964
+        },
+        {
+          "lat": 53.5957271,
+          "lon": 9.9194956
+        },
+        {
+          "lat": 53.5956932,
+          "lon": 9.9194216
+        },
+        {
+          "lat": 53.5956431,
+          "lon": 9.9194868
+        },
+        {
+          "lat": 53.5955712,
+          "lon": 9.9195803
+        },
+        {
+          "lat": 53.5955051,
+          "lon": 9.9194358
+        },
+        {
+          "lat": 53.5950762,
+          "lon": 9.9199934
+        },
+        {
+          "lat": 53.5953392,
+          "lon": 9.9205678
+        },
+        {
+          "lat": 53.595273,
+          "lon": 9.9206538
+        },
+        {
+          "lat": 53.5955375,
+          "lon": 9.9212314
+        },
+        {
+          "lat": 53.5956082,
+          "lon": 9.9211395
+        },
+        {
+          "lat": 53.5961324,
+          "lon": 9.9222844
+        },
+        {
+          "lat": 53.5972014,
+          "lon": 9.9208947
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 27436941,
+      "tags": {
+        "addr:city": "Pforzheim",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "75179",
+        "addr:street": "Konstanzer Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 7231 429060",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes",
+        "wheelchair:access": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 48.8985338,
+          "lon": 8.6675646
+        },
+        {
+          "lat": 48.898604,
+          "lon": 8.6676198
+        },
+        {
+          "lat": 48.8986513,
+          "lon": 8.6678531
+        },
+        {
+          "lat": 48.8986934,
+          "lon": 8.667834
+        },
+        {
+          "lat": 48.8987396,
+          "lon": 8.6680702
+        },
+        {
+          "lat": 48.898815,
+          "lon": 8.6680353
+        },
+        {
+          "lat": 48.8988436,
+          "lon": 8.668022
+        },
+        {
+          "lat": 48.8988641,
+          "lon": 8.6681259
+        },
+        {
+          "lat": 48.8989044,
+          "lon": 8.6683301
+        },
+        {
+          "lat": 48.8988769,
+          "lon": 8.6683427
+        },
+        {
+          "lat": 48.8988512,
+          "lon": 8.6683545
+        },
+        {
+          "lat": 48.8990536,
+          "lon": 8.6693736
+        },
+        {
+          "lat": 48.8990058,
+          "lon": 8.6693956
+        },
+        {
+          "lat": 48.899149,
+          "lon": 8.6701167
+        },
+        {
+          "lat": 48.8986748,
+          "lon": 8.6703346
+        },
+        {
+          "lat": 48.8982824,
+          "lon": 8.6683585
+        },
+        {
+          "lat": 48.8983362,
+          "lon": 8.6683338
+        },
+        {
+          "lat": 48.8982418,
+          "lon": 8.6678583
+        },
+        {
+          "lat": 48.898345,
+          "lon": 8.6678109
+        },
+        {
+          "lat": 48.8983289,
+          "lon": 8.6677296
+        },
+        {
+          "lat": 48.8983882,
+          "lon": 8.6677047
+        },
+        {
+          "lat": 48.8983747,
+          "lon": 8.6676368
+        },
+        {
+          "lat": 48.8985338,
+          "lon": 8.6675646
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 28132164,
+      "tags": {
+        "addr:city": "Stein",
+        "addr:housenumber": "11",
+        "addr:postcode": "90547",
+        "addr:street": "Spitzleitenweg",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2025-08-10",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      },
+      "geometry": [
+        {
+          "lat": 49.4076599,
+          "lon": 11.0011899
+        },
+        {
+          "lat": 49.4072386,
+          "lon": 11.0018476
+        },
+        {
+          "lat": 49.4068924,
+          "lon": 11.0013239
+        },
+        {
+          "lat": 49.4068586,
+          "lon": 11.0013766
+        },
+        {
+          "lat": 49.4065905,
+          "lon": 11.0009709
+        },
+        {
+          "lat": 49.4066864,
+          "lon": 11.0008212
+        },
+        {
+          "lat": 49.4066333,
+          "lon": 11.0007408
+        },
+        {
+          "lat": 49.4066552,
+          "lon": 11.0007065
+        },
+        {
+          "lat": 49.4066223,
+          "lon": 11.0006566
+        },
+        {
+          "lat": 49.4066494,
+          "lon": 11.0006142
+        },
+        {
+          "lat": 49.4066052,
+          "lon": 11.0005473
+        },
+        {
+          "lat": 49.4066666,
+          "lon": 11.0004513
+        },
+        {
+          "lat": 49.4065931,
+          "lon": 11.00034
+        },
+        {
+          "lat": 49.4067178,
+          "lon": 11.0001453
+        },
+        {
+          "lat": 49.4067085,
+          "lon": 11.0001312
+        },
+        {
+          "lat": 49.4068769,
+          "lon": 10.9998682
+        },
+        {
+          "lat": 49.406986,
+          "lon": 11.0000332
+        },
+        {
+          "lat": 49.4070524,
+          "lon": 11.0001336
+        },
+        {
+          "lat": 49.4070077,
+          "lon": 11.0002033
+        },
+        {
+          "lat": 49.4073304,
+          "lon": 11.0006914
+        },
+        {
+          "lat": 49.4076599,
+          "lon": 11.0011899
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 28143475,
+      "tags": {
+        "addr:city": "Braunschweig",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "38124",
+        "addr:street": "Senefelderstraße",
+        "addr:suburb": "Stöckheim",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "industrial",
+        "check_date:opening_hours": "2024-03-29",
+        "level": "0",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 52.2152351,
+          "lon": 10.5313009
+        },
+        {
+          "lat": 52.215046,
+          "lon": 10.5305993
+        },
+        {
+          "lat": 52.2158604,
+          "lon": 10.5300147
+        },
+        {
+          "lat": 52.2160494,
+          "lon": 10.5307163
+        },
+        {
+          "lat": 52.2152351,
+          "lon": 10.5313009
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 28334460,
+      "tags": {
+        "addr:city": "Köln",
+        "addr:country": "DE",
+        "addr:housenumber": "80-86",
+        "addr:postcode": "51149",
+        "addr:street": "Theodor-Heuss-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "building:levels": "1",
+        "building:use": "commercial",
+        "check_date:opening_hours": "2026-10-17",
+        "contact:email": "Service.NL608@bauhaus-ag.de",
+        "contact:fax": "+49 2203 2974813",
+        "contact:phone": "+49 2203 297480",
+        "contact:website": "https://www.bauhaus.info/fc/koeln-porz/608",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "roof:shape": "flat",
+        "self_checkout": "yes",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 50.8971826,
+          "lon": 7.0718177
+        },
+        {
+          "lat": 50.8972328,
+          "lon": 7.0717967
+        },
+        {
+          "lat": 50.8972318,
+          "lon": 7.0717908
+        },
+        {
+          "lat": 50.8971535,
+          "lon": 7.0713332
+        },
+        {
+          "lat": 50.8971052,
+          "lon": 7.0710508
+        },
+        {
+          "lat": 50.897054,
+          "lon": 7.0710727
+        },
+        {
+          "lat": 50.8969986,
+          "lon": 7.0707487
+        },
+        {
+          "lat": 50.8970523,
+          "lon": 7.0707256
+        },
+        {
+          "lat": 50.8970371,
+          "lon": 7.0706366
+        },
+        {
+          "lat": 50.8970356,
+          "lon": 7.0706374
+        },
+        {
+          "lat": 50.8970226,
+          "lon": 7.0705619
+        },
+        {
+          "lat": 50.8970242,
+          "lon": 7.070561
+        },
+        {
+          "lat": 50.897009,
+          "lon": 7.0704722
+        },
+        {
+          "lat": 50.8970074,
+          "lon": 7.0704729
+        },
+        {
+          "lat": 50.8969944,
+          "lon": 7.070397
+        },
+        {
+          "lat": 50.896996,
+          "lon": 7.0703963
+        },
+        {
+          "lat": 50.8969808,
+          "lon": 7.0703077
+        },
+        {
+          "lat": 50.8969793,
+          "lon": 7.0703085
+        },
+        {
+          "lat": 50.8969663,
+          "lon": 7.0702326
+        },
+        {
+          "lat": 50.8966021,
+          "lon": 7.0703883
+        },
+        {
+          "lat": 50.8966865,
+          "lon": 7.0708826
+        },
+        {
+          "lat": 50.8964221,
+          "lon": 7.0709961
+        },
+        {
+          "lat": 50.8963699,
+          "lon": 7.0710184
+        },
+        {
+          "lat": 50.8964261,
+          "lon": 7.0713472
+        },
+        {
+          "lat": 50.8963303,
+          "lon": 7.0713882
+        },
+        {
+          "lat": 50.8963711,
+          "lon": 7.0716272
+        },
+        {
+          "lat": 50.8964135,
+          "lon": 7.071875
+        },
+        {
+          "lat": 50.8965094,
+          "lon": 7.0718338
+        },
+        {
+          "lat": 50.896608,
+          "lon": 7.0724106
+        },
+        {
+          "lat": 50.8965803,
+          "lon": 7.0724225
+        },
+        {
+          "lat": 50.8966076,
+          "lon": 7.0725831
+        },
+        {
+          "lat": 50.8965828,
+          "lon": 7.0725937
+        },
+        {
+          "lat": 50.8966818,
+          "lon": 7.073173
+        },
+        {
+          "lat": 50.8973634,
+          "lon": 7.072882
+        },
+        {
+          "lat": 50.8972651,
+          "lon": 7.0723128
+        },
+        {
+          "lat": 50.8971826,
+          "lon": 7.0718177
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 28715246,
+      "tags": {
+        "addr:city": "Rastatt",
+        "addr:housenumber": "1",
+        "addr:postcode": "76437",
+        "addr:street": "Im Baisert",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2026-01-19",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 7222 506490",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "self_checkout": "yes",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 48.860641,
+          "lon": 8.242376
+        },
+        {
+          "lat": 48.8605421,
+          "lon": 8.242294
+        },
+        {
+          "lat": 48.860521,
+          "lon": 8.2423528
+        },
+        {
+          "lat": 48.8604788,
+          "lon": 8.2425031
+        },
+        {
+          "lat": 48.8603103,
+          "lon": 8.2423585
+        },
+        {
+          "lat": 48.8598447,
+          "lon": 8.2420024
+        },
+        {
+          "lat": 48.859752,
+          "lon": 8.2419255
+        },
+        {
+          "lat": 48.8600347,
+          "lon": 8.2411375
+        },
+        {
+          "lat": 48.8601929,
+          "lon": 8.2406965
+        },
+        {
+          "lat": 48.8603324,
+          "lon": 8.2408122
+        },
+        {
+          "lat": 48.8603075,
+          "lon": 8.2408816
+        },
+        {
+          "lat": 48.8604016,
+          "lon": 8.2409595
+        },
+        {
+          "lat": 48.8604054,
+          "lon": 8.2409488
+        },
+        {
+          "lat": 48.8604541,
+          "lon": 8.2409891
+        },
+        {
+          "lat": 48.8604993,
+          "lon": 8.2410266
+        },
+        {
+          "lat": 48.8604951,
+          "lon": 8.2410385
+        },
+        {
+          "lat": 48.8606383,
+          "lon": 8.2411572
+        },
+        {
+          "lat": 48.8609692,
+          "lon": 8.240235
+        },
+        {
+          "lat": 48.8609907,
+          "lon": 8.2402528
+        },
+        {
+          "lat": 48.8612218,
+          "lon": 8.2404444
+        },
+        {
+          "lat": 48.8612246,
+          "lon": 8.2407493
+        },
+        {
+          "lat": 48.8608761,
+          "lon": 8.2417208
+        },
+        {
+          "lat": 48.860641,
+          "lon": 8.242376
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 29033850,
+      "tags": {
+        "addr:city": "Essen",
+        "addr:country": "DE",
+        "addr:housenumber": "129",
+        "addr:postcode": "45145",
+        "addr:street": "Schederhofstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2026-06-19",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 51.4519159,
+          "lon": 6.9894667
+        },
+        {
+          "lat": 51.4512646,
+          "lon": 6.9890278
+        },
+        {
+          "lat": 51.4512618,
+          "lon": 6.9890381
+        },
+        {
+          "lat": 51.451081,
+          "lon": 6.9897303
+        },
+        {
+          "lat": 51.4512347,
+          "lon": 6.9898321
+        },
+        {
+          "lat": 51.4512707,
+          "lon": 6.9896935
+        },
+        {
+          "lat": 51.4512909,
+          "lon": 6.9895974
+        },
+        {
+          "lat": 51.4514793,
+          "lon": 6.9897295
+        },
+        {
+          "lat": 51.4515983,
+          "lon": 6.9898162
+        },
+        {
+          "lat": 51.451695,
+          "lon": 6.9898822
+        },
+        {
+          "lat": 51.451737,
+          "lon": 6.9897238
+        },
+        {
+          "lat": 51.4518292,
+          "lon": 6.9897868
+        },
+        {
+          "lat": 51.4519159,
+          "lon": 6.9894667
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 29350709,
+      "tags": {
+        "addr:city": "Stralsund",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "18439",
+        "addr:street": "Gustower Weg",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "check_date:opening_hours": "2026-03-27",
+        "email": "Info.NL600@bauhaus-ag.de",
+        "fax": "+493831275913",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49383127590",
+        "shop": "doityourself",
+        "wheelchair": "yes",
+        "wheelchair:description": "Vom Bus oder vom Real fast unmöglich, da sehr steiler Berg, mit Rollstuhl nicht zu bewältigen."
+      },
+      "geometry": [
+        {
+          "lat": 54.2705425,
+          "lon": 13.1132191
+        },
+        {
+          "lat": 54.2698865,
+          "lon": 13.1136103
+        },
+        {
+          "lat": 54.2697659,
+          "lon": 13.1136811
+        },
+        {
+          "lat": 54.2695296,
+          "lon": 13.1138198
+        },
+        {
+          "lat": 54.2692696,
+          "lon": 13.1139726
+        },
+        {
+          "lat": 54.2694775,
+          "lon": 13.1150097
+        },
+        {
+          "lat": 54.2707582,
+          "lon": 13.1142445
+        },
+        {
+          "lat": 54.2705425,
+          "lon": 13.1132191
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 29401013,
+      "tags": {
+        "addr:city": "Köln",
+        "addr:country": "DE",
+        "addr:housenumber": "190a",
+        "addr:postcode": "50825",
+        "addr:street": "Weinsbergstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "building:use": "commercial",
+        "check_date": "2025-10-04",
+        "dog": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "operator": "Bauhaus Gesellschaft för Bau- und Hausbedarf mbH & Co.KG",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 221 943810 0",
+        "ref:vatin": "DE293710501",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "source": "photography",
+        "website": "https://www.bauhaus.info/fc/koeln-ehrenfeld/665",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 50.9467452,
+          "lon": 6.9116923
+        },
+        {
+          "lat": 50.946634,
+          "lon": 6.9120971
+        },
+        {
+          "lat": 50.9464102,
+          "lon": 6.9119432
+        },
+        {
+          "lat": 50.9460615,
+          "lon": 6.9117035
+        },
+        {
+          "lat": 50.9460515,
+          "lon": 6.9117386
+        },
+        {
+          "lat": 50.9460403,
+          "lon": 6.9117777
+        },
+        {
+          "lat": 50.9458433,
+          "lon": 6.9116439
+        },
+        {
+          "lat": 50.9458536,
+          "lon": 6.9116049
+        },
+        {
+          "lat": 50.9458632,
+          "lon": 6.9115686
+        },
+        {
+          "lat": 50.9458115,
+          "lon": 6.9115326
+        },
+        {
+          "lat": 50.9456032,
+          "lon": 6.9115097
+        },
+        {
+          "lat": 50.9455728,
+          "lon": 6.9115048
+        },
+        {
+          "lat": 50.9454717,
+          "lon": 6.9114884
+        },
+        {
+          "lat": 50.9452738,
+          "lon": 6.9114606
+        },
+        {
+          "lat": 50.945334,
+          "lon": 6.9104793
+        },
+        {
+          "lat": 50.9454148,
+          "lon": 6.9104952
+        },
+        {
+          "lat": 50.9455478,
+          "lon": 6.9105086
+        },
+        {
+          "lat": 50.9456187,
+          "lon": 6.9105216
+        },
+        {
+          "lat": 50.9456124,
+          "lon": 6.9107184
+        },
+        {
+          "lat": 50.9459312,
+          "lon": 6.9107645
+        },
+        {
+          "lat": 50.9466581,
+          "lon": 6.9112548
+        },
+        {
+          "lat": 50.9465717,
+          "lon": 6.9115708
+        },
+        {
+          "lat": 50.9467452,
+          "lon": 6.9116923
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 30072118,
+      "tags": {
+        "addr:city": "Ingolstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "85057",
+        "addr:street": "Am Westpark",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "building:levels": "1",
+        "check_date:opening_hours": "2024-08-21",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "source": "HiRes aerial imagery",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 48.7756777,
+          "lon": 11.3867328
+        },
+        {
+          "lat": 48.7756714,
+          "lon": 11.3857636
+        },
+        {
+          "lat": 48.7751249,
+          "lon": 11.3857743
+        },
+        {
+          "lat": 48.7751252,
+          "lon": 11.3858827
+        },
+        {
+          "lat": 48.7750733,
+          "lon": 11.385883
+        },
+        {
+          "lat": 48.7750032,
+          "lon": 11.3858833
+        },
+        {
+          "lat": 48.7750011,
+          "lon": 11.3857531
+        },
+        {
+          "lat": 48.7749817,
+          "lon": 11.3857532
+        },
+        {
+          "lat": 48.7749816,
+          "lon": 11.385724
+        },
+        {
+          "lat": 48.7748377,
+          "lon": 11.3857269
+        },
+        {
+          "lat": 48.7748378,
+          "lon": 11.3857664
+        },
+        {
+          "lat": 48.7747805,
+          "lon": 11.3857665
+        },
+        {
+          "lat": 48.7747802,
+          "lon": 11.3859747
+        },
+        {
+          "lat": 48.7747799,
+          "lon": 11.3861617
+        },
+        {
+          "lat": 48.7747801,
+          "lon": 11.3863055
+        },
+        {
+          "lat": 48.7747796,
+          "lon": 11.3865158
+        },
+        {
+          "lat": 48.7747773,
+          "lon": 11.3867283
+        },
+        {
+          "lat": 48.7749786,
+          "lon": 11.3867324
+        },
+        {
+          "lat": 48.7750511,
+          "lon": 11.3867339
+        },
+        {
+          "lat": 48.7751855,
+          "lon": 11.3867367
+        },
+        {
+          "lat": 48.7751855,
+          "lon": 11.386778
+        },
+        {
+          "lat": 48.7754198,
+          "lon": 11.38678
+        },
+        {
+          "lat": 48.7756204,
+          "lon": 11.3867817
+        },
+        {
+          "lat": 48.7756202,
+          "lon": 11.3867332
+        },
+        {
+          "lat": 48.7756777,
+          "lon": 11.3867328
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 30181261,
+      "tags": {
+        "addr:city": "Gera",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07548",
+        "addr:street": "Elsterdamm",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "2",
+        "contact:email": "Service.NL669@Bauhaus-ag.de",
+        "contact:facebook": "https://www.facebook.com/bauhaus",
+        "contact:fax": "+49 365 55150313",
+        "contact:instagram": "https://www.instagram.com/bauhausdeutschland",
+        "contact:phone": "+49 365 5515030",
+        "contact:twitter": "https://twitter.com/bauhausinfo",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-gera/fc/669",
+        "height": "10",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "operator": "BAUHAUS E-Business Gesellschaft für Bau- und Hausbedarf mbH & Co. KG",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "roof:colour": "light grey",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 50.8688519,
+          "lon": 12.0771881
+        },
+        {
+          "lat": 50.8688702,
+          "lon": 12.077165
+        },
+        {
+          "lat": 50.8689071,
+          "lon": 12.0772383
+        },
+        {
+          "lat": 50.86892,
+          "lon": 12.0772221
+        },
+        {
+          "lat": 50.8690215,
+          "lon": 12.0774244
+        },
+        {
+          "lat": 50.8690114,
+          "lon": 12.0774372
+        },
+        {
+          "lat": 50.8690212,
+          "lon": 12.0774567
+        },
+        {
+          "lat": 50.8690001,
+          "lon": 12.0774833
+        },
+        {
+          "lat": 50.8690252,
+          "lon": 12.0775332
+        },
+        {
+          "lat": 50.8689406,
+          "lon": 12.0776398
+        },
+        {
+          "lat": 50.8690724,
+          "lon": 12.0779025
+        },
+        {
+          "lat": 50.8681805,
+          "lon": 12.0790248
+        },
+        {
+          "lat": 50.8681139,
+          "lon": 12.0788928
+        },
+        {
+          "lat": 50.8677271,
+          "lon": 12.0793794
+        },
+        {
+          "lat": 50.8674869,
+          "lon": 12.0789001
+        },
+        {
+          "lat": 50.8674761,
+          "lon": 12.0788785
+        },
+        {
+          "lat": 50.8678628,
+          "lon": 12.0783918
+        },
+        {
+          "lat": 50.8678761,
+          "lon": 12.0784182
+        },
+        {
+          "lat": 50.8679205,
+          "lon": 12.0783621
+        },
+        {
+          "lat": 50.8678874,
+          "lon": 12.0782962
+        },
+        {
+          "lat": 50.8682235,
+          "lon": 12.0778724
+        },
+        {
+          "lat": 50.8683129,
+          "lon": 12.0777598
+        },
+        {
+          "lat": 50.868605,
+          "lon": 12.0773916
+        },
+        {
+          "lat": 50.8685826,
+          "lon": 12.077347
+        },
+        {
+          "lat": 50.8687084,
+          "lon": 12.0771884
+        },
+        {
+          "lat": 50.868732,
+          "lon": 12.0772354
+        },
+        {
+          "lat": 50.86882,
+          "lon": 12.0771246
+        },
+        {
+          "lat": 50.8688519,
+          "lon": 12.0771881
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 30808551,
+      "tags": {
+        "addr:city": "Villingen-Schwenningen",
+        "addr:housenumber": "19",
+        "addr:postcode": "78048",
+        "addr:street": "Berliner Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "operator": "BAUHAUS Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Süd",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 7721 98250",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-villingen-schwenningen/fc/547",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 48.0707122,
+          "lon": 8.4477473
+        },
+        {
+          "lat": 48.0703415,
+          "lon": 8.4474707
+        },
+        {
+          "lat": 48.0704036,
+          "lon": 8.4472842
+        },
+        {
+          "lat": 48.0700302,
+          "lon": 8.4470055
+        },
+        {
+          "lat": 48.0700909,
+          "lon": 8.4467063
+        },
+        {
+          "lat": 48.0701632,
+          "lon": 8.4464894
+        },
+        {
+          "lat": 48.070129,
+          "lon": 8.4464639
+        },
+        {
+          "lat": 48.0702407,
+          "lon": 8.4461287
+        },
+        {
+          "lat": 48.0702191,
+          "lon": 8.4461126
+        },
+        {
+          "lat": 48.0702278,
+          "lon": 8.4460865
+        },
+        {
+          "lat": 48.0703767,
+          "lon": 8.4461977
+        },
+        {
+          "lat": 48.0703841,
+          "lon": 8.4461757
+        },
+        {
+          "lat": 48.0704761,
+          "lon": 8.4458994
+        },
+        {
+          "lat": 48.0705034,
+          "lon": 8.4458174
+        },
+        {
+          "lat": 48.0705528,
+          "lon": 8.4456692
+        },
+        {
+          "lat": 48.0705576,
+          "lon": 8.4456549
+        },
+        {
+          "lat": 48.0708374,
+          "lon": 8.4458637
+        },
+        {
+          "lat": 48.0708281,
+          "lon": 8.4458917
+        },
+        {
+          "lat": 48.0710947,
+          "lon": 8.4460908
+        },
+        {
+          "lat": 48.0711883,
+          "lon": 8.4461606
+        },
+        {
+          "lat": 48.0711587,
+          "lon": 8.4462495
+        },
+        {
+          "lat": 48.0713229,
+          "lon": 8.446372
+        },
+        {
+          "lat": 48.0712602,
+          "lon": 8.4465603
+        },
+        {
+          "lat": 48.0711829,
+          "lon": 8.4467921
+        },
+        {
+          "lat": 48.0711694,
+          "lon": 8.4468327
+        },
+        {
+          "lat": 48.0710052,
+          "lon": 8.4467102
+        },
+        {
+          "lat": 48.0709802,
+          "lon": 8.4467852
+        },
+        {
+          "lat": 48.0709294,
+          "lon": 8.4469375
+        },
+        {
+          "lat": 48.0709898,
+          "lon": 8.4469826
+        },
+        {
+          "lat": 48.0709437,
+          "lon": 8.447121
+        },
+        {
+          "lat": 48.0708934,
+          "lon": 8.4472718
+        },
+        {
+          "lat": 48.0708752,
+          "lon": 8.4472582
+        },
+        {
+          "lat": 48.0707122,
+          "lon": 8.4477473
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 30860030,
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "yes",
+        "check_date:opening_hours": "2026-01-23",
+        "name": "Bauhaus Baumarkt",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/"
+      },
+      "geometry": [
+        {
+          "lat": 51.154727,
+          "lon": 6.4483669
+        },
+        {
+          "lat": 51.1544502,
+          "lon": 6.4486396
+        },
+        {
+          "lat": 51.1543086,
+          "lon": 6.4482741
+        },
+        {
+          "lat": 51.1539773,
+          "lon": 6.4486005
+        },
+        {
+          "lat": 51.1540636,
+          "lon": 6.4488231
+        },
+        {
+          "lat": 51.1538885,
+          "lon": 6.4489955
+        },
+        {
+          "lat": 51.1538541,
+          "lon": 6.4489068
+        },
+        {
+          "lat": 51.1537104,
+          "lon": 6.4490483
+        },
+        {
+          "lat": 51.1537441,
+          "lon": 6.4491352
+        },
+        {
+          "lat": 51.1536615,
+          "lon": 6.4492166
+        },
+        {
+          "lat": 51.1540636,
+          "lon": 6.4502538
+        },
+        {
+          "lat": 51.1542947,
+          "lon": 6.4500261
+        },
+        {
+          "lat": 51.1543199,
+          "lon": 6.450091
+        },
+        {
+          "lat": 51.1544923,
+          "lon": 6.4499212
+        },
+        {
+          "lat": 51.154661,
+          "lon": 6.449755
+        },
+        {
+          "lat": 51.154849,
+          "lon": 6.4495697
+        },
+        {
+          "lat": 51.1550873,
+          "lon": 6.4493349
+        },
+        {
+          "lat": 51.1548883,
+          "lon": 6.4488212
+        },
+        {
+          "lat": 51.154899,
+          "lon": 6.4488106
+        },
+        {
+          "lat": 51.154727,
+          "lon": 6.4483669
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 31410869,
+      "tags": {
+        "addr:city": "Regensburg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "93053",
+        "addr:street": "Langobardenstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-regensburg/fc/572",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 48.9947664,
+          "lon": 12.1163397
+        },
+        {
+          "lat": 48.9948157,
+          "lon": 12.1163233
+        },
+        {
+          "lat": 48.9948013,
+          "lon": 12.1162184
+        },
+        {
+          "lat": 48.9947612,
+          "lon": 12.1159253
+        },
+        {
+          "lat": 48.994708,
+          "lon": 12.1155373
+        },
+        {
+          "lat": 48.9940466,
+          "lon": 12.1157478
+        },
+        {
+          "lat": 48.9935156,
+          "lon": 12.1159169
+        },
+        {
+          "lat": 48.9936885,
+          "lon": 12.1171781
+        },
+        {
+          "lat": 48.993891,
+          "lon": 12.1171136
+        },
+        {
+          "lat": 48.9939412,
+          "lon": 12.1174795
+        },
+        {
+          "lat": 48.994403,
+          "lon": 12.1173324
+        },
+        {
+          "lat": 48.9943619,
+          "lon": 12.117033
+        },
+        {
+          "lat": 48.9948421,
+          "lon": 12.1168799
+        },
+        {
+          "lat": 48.9948274,
+          "lon": 12.1167642
+        },
+        {
+          "lat": 48.9947664,
+          "lon": 12.1163397
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 31670307,
+      "tags": {
+        "addr:city": "Braunschweig",
+        "addr:country": "DE",
+        "addr:housenumber": "57-59",
+        "addr:postcode": "38114",
+        "addr:street": "Hildesheimer Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2026-08-14",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 621 3905 1000",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fc/braunschweig/607",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 52.2715658,
+          "lon": 10.4977859
+        },
+        {
+          "lat": 52.2720029,
+          "lon": 10.4974174
+        },
+        {
+          "lat": 52.2720332,
+          "lon": 10.4975038
+        },
+        {
+          "lat": 52.272652,
+          "lon": 10.4969858
+        },
+        {
+          "lat": 52.2726308,
+          "lon": 10.4969217
+        },
+        {
+          "lat": 52.2726112,
+          "lon": 10.4968627
+        },
+        {
+          "lat": 52.2729037,
+          "lon": 10.4966207
+        },
+        {
+          "lat": 52.2729268,
+          "lon": 10.4966912
+        },
+        {
+          "lat": 52.2729668,
+          "lon": 10.4968134
+        },
+        {
+          "lat": 52.2731198,
+          "lon": 10.4966863
+        },
+        {
+          "lat": 52.2732121,
+          "lon": 10.4966097
+        },
+        {
+          "lat": 52.273486,
+          "lon": 10.4974716
+        },
+        {
+          "lat": 52.2731979,
+          "lon": 10.4977208
+        },
+        {
+          "lat": 52.2732492,
+          "lon": 10.4978755
+        },
+        {
+          "lat": 52.2728582,
+          "lon": 10.4982095
+        },
+        {
+          "lat": 52.2728369,
+          "lon": 10.4981459
+        },
+        {
+          "lat": 52.2726359,
+          "lon": 10.4983221
+        },
+        {
+          "lat": 52.2726037,
+          "lon": 10.4982261
+        },
+        {
+          "lat": 52.2723358,
+          "lon": 10.498448
+        },
+        {
+          "lat": 52.2723114,
+          "lon": 10.4983643
+        },
+        {
+          "lat": 52.2722008,
+          "lon": 10.4984611
+        },
+        {
+          "lat": 52.2720772,
+          "lon": 10.4984558
+        },
+        {
+          "lat": 52.2717204,
+          "lon": 10.4982688
+        },
+        {
+          "lat": 52.2715658,
+          "lon": 10.4977859
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 33003697,
+      "tags": {
+        "addr:city": "Barsbüttel",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "22885",
+        "addr:street": "Rahlstedter Straße",
+        "branch": "Barsbüttel",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date:opening_hours": "2025-02-21",
+        "contact:fax": "+49 40 669076713",
+        "contact:phone": "+49 40 66907670",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-barsbuettel/fc/624",
+        "name": "Bauhaus",
+        "note": "NL624",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "operator": "BAUHAUS Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Hansa",
+        "roof:levels": "1",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 53.5765751,
+          "lon": 10.193856
+        },
+        {
+          "lat": 53.5760706,
+          "lon": 10.1931549
+        },
+        {
+          "lat": 53.5759702,
+          "lon": 10.1933598
+        },
+        {
+          "lat": 53.576058,
+          "lon": 10.1934818
+        },
+        {
+          "lat": 53.5759493,
+          "lon": 10.1937038
+        },
+        {
+          "lat": 53.5758171,
+          "lon": 10.1935202
+        },
+        {
+          "lat": 53.5757131,
+          "lon": 10.1937325
+        },
+        {
+          "lat": 53.5757644,
+          "lon": 10.1938038
+        },
+        {
+          "lat": 53.5755273,
+          "lon": 10.194288
+        },
+        {
+          "lat": 53.5756062,
+          "lon": 10.1943977
+        },
+        {
+          "lat": 53.5752666,
+          "lon": 10.195091
+        },
+        {
+          "lat": 53.5751415,
+          "lon": 10.1949172
+        },
+        {
+          "lat": 53.5749635,
+          "lon": 10.1952805
+        },
+        {
+          "lat": 53.5754665,
+          "lon": 10.1959793
+        },
+        {
+          "lat": 53.5762961,
+          "lon": 10.1942857
+        },
+        {
+          "lat": 53.5763369,
+          "lon": 10.1943423
+        },
+        {
+          "lat": 53.5765751,
+          "lon": 10.193856
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 33524148,
+      "tags": {
+        "addr:city": "Rostock",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "18069",
+        "addr:street": "An den Griebensöllen",
+        "addr:suburb": "Evershagen",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:colour": "#e02f35",
+        "building:levels": "2",
+        "check_date": "2025-11-08",
+        "contact:phone": "+49 381 666415-0",
+        "delivery:covid19": "only",
+        "height": "8",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Bauhaus Public WIFI",
+        "kvl_hro:amenity": "store",
+        "kvl_hro:type": "1441",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "source": "KVL HRO",
+        "takeaway:covid19": "only",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-rostock-schutow/fc/667",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 54.1075308,
+          "lon": 12.0599229
+        },
+        {
+          "lat": 54.1075151,
+          "lon": 12.0601049
+        },
+        {
+          "lat": 54.1061425,
+          "lon": 12.059759
+        },
+        {
+          "lat": 54.1058439,
+          "lon": 12.0596837
+        },
+        {
+          "lat": 54.1059937,
+          "lon": 12.0579545
+        },
+        {
+          "lat": 54.1062922,
+          "lon": 12.0580297
+        },
+        {
+          "lat": 54.1062401,
+          "lon": 12.0586315
+        },
+        {
+          "lat": 54.1066417,
+          "lon": 12.0587327
+        },
+        {
+          "lat": 54.1067072,
+          "lon": 12.0587492
+        },
+        {
+          "lat": 54.106759,
+          "lon": 12.0587623
+        },
+        {
+          "lat": 54.1071331,
+          "lon": 12.0588566
+        },
+        {
+          "lat": 54.107137,
+          "lon": 12.0588109
+        },
+        {
+          "lat": 54.1072212,
+          "lon": 12.0588321
+        },
+        {
+          "lat": 54.1072996,
+          "lon": 12.0588519
+        },
+        {
+          "lat": 54.1072956,
+          "lon": 12.0588981
+        },
+        {
+          "lat": 54.1075054,
+          "lon": 12.058951
+        },
+        {
+          "lat": 54.1075552,
+          "lon": 12.0589635
+        },
+        {
+          "lat": 54.1075454,
+          "lon": 12.0590767
+        },
+        {
+          "lat": 54.1076057,
+          "lon": 12.0590919
+        },
+        {
+          "lat": 54.1075583,
+          "lon": 12.0596393
+        },
+        {
+          "lat": 54.1077731,
+          "lon": 12.0596934
+        },
+        {
+          "lat": 54.1077484,
+          "lon": 12.0599778
+        },
+        {
+          "lat": 54.1075308,
+          "lon": 12.0599229
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 33542710,
+      "tags": {
+        "addr:city": "Blankenfelde-Mahlow",
+        "addr:country": "DE",
+        "addr:housenumber": "87-91",
+        "addr:postcode": "15831",
+        "addr:street": "Am Lückefeld",
+        "addr:suburb": "Mahlow",
+        "branch": "Mahlow",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH,Su closed",
+        "shop": "doityourself"
+      },
+      "geometry": [
+        {
+          "lat": 52.3584752,
+          "lon": 13.4365336
+        },
+        {
+          "lat": 52.358478,
+          "lon": 13.4365312
+        },
+        {
+          "lat": 52.3584762,
+          "lon": 13.4365265
+        },
+        {
+          "lat": 52.3584717,
+          "lon": 13.4365315
+        },
+        {
+          "lat": 52.3584736,
+          "lon": 13.436536
+        },
+        {
+          "lat": 52.3583416,
+          "lon": 13.4366831
+        },
+        {
+          "lat": 52.3583328,
+          "lon": 13.4366621
+        },
+        {
+          "lat": 52.3582505,
+          "lon": 13.4364649
+        },
+        {
+          "lat": 52.3580967,
+          "lon": 13.4360982
+        },
+        {
+          "lat": 52.3581327,
+          "lon": 13.436058
+        },
+        {
+          "lat": 52.3581035,
+          "lon": 13.4359882
+        },
+        {
+          "lat": 52.3581192,
+          "lon": 13.4359704
+        },
+        {
+          "lat": 52.3580876,
+          "lon": 13.4358942
+        },
+        {
+          "lat": 52.3580716,
+          "lon": 13.4359113
+        },
+        {
+          "lat": 52.3580351,
+          "lon": 13.4359516
+        },
+        {
+          "lat": 52.357914,
+          "lon": 13.4356607
+        },
+        {
+          "lat": 52.3577612,
+          "lon": 13.4352962
+        },
+        {
+          "lat": 52.3574015,
+          "lon": 13.4356983
+        },
+        {
+          "lat": 52.3580126,
+          "lon": 13.437158
+        },
+        {
+          "lat": 52.358081,
+          "lon": 13.4370797
+        },
+        {
+          "lat": 52.3582354,
+          "lon": 13.4369099
+        },
+        {
+          "lat": 52.3584806,
+          "lon": 13.4374964
+        },
+        {
+          "lat": 52.3587512,
+          "lon": 13.4371941
+        },
+        {
+          "lat": 52.3586295,
+          "lon": 13.4369028
+        },
+        {
+          "lat": 52.3586324,
+          "lon": 13.4368997
+        },
+        {
+          "lat": 52.3586303,
+          "lon": 13.4368952
+        },
+        {
+          "lat": 52.3586275,
+          "lon": 13.4368982
+        },
+        {
+          "lat": 52.3584752,
+          "lon": 13.4365336
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 33712617,
+      "tags": {
+        "addr:city": "Offenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "77656",
+        "addr:street": "Max-Planck-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "commercial",
+        "fax": "+49 781 919448 13",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 781 919448 0",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-offenburg/fc/621",
+        "wheelchair": "yes",
+        "wheelchair:description": "Barrierefrei"
+      },
+      "geometry": [
+        {
+          "lat": 48.4717754,
+          "lon": 7.9282069
+        },
+        {
+          "lat": 48.4722441,
+          "lon": 7.9303183
+        },
+        {
+          "lat": 48.4723574,
+          "lon": 7.9308028
+        },
+        {
+          "lat": 48.4717483,
+          "lon": 7.9311341
+        },
+        {
+          "lat": 48.471326,
+          "lon": 7.9291959
+        },
+        {
+          "lat": 48.4714823,
+          "lon": 7.9291075
+        },
+        {
+          "lat": 48.4713502,
+          "lon": 7.928566
+        },
+        {
+          "lat": 48.4715336,
+          "lon": 7.9283229
+        },
+        {
+          "lat": 48.4717754,
+          "lon": 7.9282069
+        }
+      ]
+    }
+  ]
+}

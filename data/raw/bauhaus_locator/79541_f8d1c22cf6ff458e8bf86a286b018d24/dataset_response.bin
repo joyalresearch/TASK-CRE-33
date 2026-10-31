@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=79541",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=79541",
+    "loadedTime": "2026-10-31T17:44:52.191Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 544,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=79541",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:44:52 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=79541",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Lörrach-Haagen\",\"slug\":\"loerrach-haagen\",\"name\":\"BAUHAUS GmbH & Co. KG Süd\",\"id\":594,\"store_id\":594,\"location\":{\"lat\":47.634255328369,\"lng\":7.6784433467266},\"address\":{\"lines\":[\"Industrie Strasse 3\"],\"city\":\"Lörrach\",\"zipcode\":\"79541\"},\"distance\":1.75,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

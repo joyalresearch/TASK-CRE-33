@@ -1,0 +1,128 @@
+{
+  "created_at_utc": "2026-10-31T17:57:21.027370+00:00",
+  "audit_sha256": "2e597e2f15b8f246c6c633c4e568072aeb7932f50d676e7e8f476bca16dfc46d",
+  "osm_sha256": "85600f718eb79fea5a0ee1d1520134fa60129fed8aab5d091ab01eb8179b9407",
+  "distance_crs": "EPSG:25832",
+  "review_threshold_m": 250,
+  "threshold_purpose": "Candidate screening, not verified association",
+  "osm_records": 184,
+  "official_stores": 159,
+  "invalid_coordinate_records": [],
+  "status_counts": {
+    "no_official_candidate_within_250m": 19,
+    "single_proximity_candidate": 165
+  },
+  "official_without_osm_candidate_within_250m": [
+    {
+      "store_id": 509,
+      "display_name": "Dortmund-Aplerbeck",
+      "address": {
+        "lines": [
+          "Schleefstrasse 20-22"
+        ],
+        "city": "Dortmund",
+        "zipcode": "44287"
+      }
+    },
+    {
+      "store_id": 531,
+      "display_name": "Speyer",
+      "address": {
+        "lines": [
+          "Iggelheimer Strasse 30"
+        ],
+        "city": "Speyer",
+        "zipcode": "67346"
+      }
+    },
+    {
+      "store_id": 605,
+      "display_name": "Wildau",
+      "address": {
+        "lines": [
+          "Chausseestrasse 1"
+        ],
+        "city": "Wildau",
+        "zipcode": "15745"
+      }
+    },
+    {
+      "store_id": 624,
+      "display_name": "Barsbüttel",
+      "address": {
+        "lines": [
+          "Rahlstedter Strasse 2"
+        ],
+        "city": "Barsbüttel",
+        "zipcode": "22885"
+      }
+    },
+    {
+      "store_id": 637,
+      "display_name": "Düren",
+      "address": {
+        "lines": [
+          "Fehlender Feld 11"
+        ],
+        "city": "Düren",
+        "zipcode": "52353"
+      }
+    },
+    {
+      "store_id": 638,
+      "display_name": "Saarbrücken",
+      "address": {
+        "lines": [
+          "Dudweiler Landstraße 14"
+        ],
+        "city": "Saarbrücken",
+        "zipcode": "66123"
+      }
+    },
+    {
+      "store_id": 692,
+      "display_name": "Gelsenkirchen",
+      "address": {
+        "lines": [
+          "Grothusstraße 22"
+        ],
+        "city": "Gelsenkirchen",
+        "zipcode": "45881"
+      }
+    },
+    {
+      "store_id": 870,
+      "display_name": "München-Freimann",
+      "address": {
+        "lines": [
+          "Maria-Probst-Str. 50"
+        ],
+        "city": "München",
+        "zipcode": "80939"
+      }
+    },
+    {
+      "store_id": 878,
+      "display_name": "Düsseldorf Rath",
+      "address": {
+        "lines": [
+          "Am Hülserhof 49"
+        ],
+        "city": "Düsseldorf",
+        "zipcode": "40472"
+      }
+    },
+    {
+      "store_id": 896,
+      "display_name": "Wiesbaden/ Mainz-Kastel",
+      "address": {
+        "lines": [
+          "Gottfried-Dörr-Str. 21"
+        ],
+        "city": "Wiesbaden",
+        "zipcode": "55252"
+      }
+    }
+  ],
+  "nationwide_coverage_verified": false
+}

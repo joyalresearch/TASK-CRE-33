@@ -1,0 +1,26 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 422779946,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 26709557,
+      "building_type": "office",
+      "building_name": null,
+      "building_tags": {
+        "building": "office",
+        "building:levels": "7",
+        "roof:levels": "0"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 816.87,
+      "geometry_wkt_25832": "POLYGON ((794793.9404250524 5825889.914653875, 794793.1955167394 5825926.671145637, 794792.01197625 5825949.245106349, 794792.1004821586 5825955.118137272, 794779.3199608622 5825954.381336143, 794781.8299688327 5825889.352110599, 794793.9404250524 5825889.914653875))",
+      "review_status": "manual_review",
+      "review_reason": "non_retail_building_type"
+    }
+  ]
+}

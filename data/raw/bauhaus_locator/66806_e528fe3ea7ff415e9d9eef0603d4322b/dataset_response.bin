@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=66806",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=66806",
+    "loadedTime": "2026-10-31T17:39:50.862Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1607,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=66806",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:39:50 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=66806",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Ensdorf\",\"slug\":\"ensdorf\",\"name\":\"BAUHAUS GmbH & Co. KG Südwest\",\"id\":622,\"store_id\":622,\"location\":{\"lat\":49.289775,\"lng\":6.783402},\"address\":{\"lines\":[\"Gustav-Stresemann-Strasse 5\"],\"city\":\"Ensdorf\",\"zipcode\":\"66806\"},\"distance\":1.29,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Dillingen\",\"slug\":\"dillingen\",\"name\":\"BAUHAUS GmbH & Co. KG Südwest\",\"id\":585,\"store_id\":585,\"location\":{\"lat\":49.348224221916,\"lng\":6.7301988484655},\"address\":{\"lines\":[\"Uferstrasse 9\"],\"city\":\"Dillingen\",\"zipcode\":\"66763\"},\"distance\":6.72,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Saarbrücken\",\"slug\":\"saarbruecken\",\"name\":\"BAUHAUS GmbH & Co. KG Südwest\",\"id\":638,\"store_id\":638,\"location\":{\"lat\":49.243990479897,\"lng\":7.0037114776202},\"address\":{\"lines\":[\"Dudweiler Landstraße 14\"],\"city\":\"Saarbrücken\",\"zipcode\":\"66123\"},\"distance\":16.89,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

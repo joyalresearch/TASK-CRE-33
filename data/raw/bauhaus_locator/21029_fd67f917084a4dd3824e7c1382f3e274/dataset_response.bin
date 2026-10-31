@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=21029",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=21029",
+    "loadedTime": "2026-10-31T17:19:49.747Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 3261,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=21029",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:19:49 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=21029",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Hamburg-Bergedorf\",\"slug\":\"hamburg-bergedorf\",\"name\":\"BAUHAUS GmbH & Co. KG Hansa\",\"id\":620,\"store_id\":620,\"location\":{\"lat\":53.483344455383,\"lng\":10.20700788045},\"address\":{\"lines\":[\"Curslacker Neuer Deich 16-20\"],\"city\":\"Hamburg\",\"zipcode\":\"21029\"},\"distance\":1.51,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Hamburg-Moorfleet\",\"slug\":\"hamburg-moorfleet\",\"name\":\"BAUHAUS GmbH & Co. KG Hansa\",\"id\":595,\"store_id\":595,\"location\":{\"lat\":53.512695073834,\"lng\":10.092086230138},\"address\":{\"lines\":[\"Unterer Landweg 77\"],\"city\":\"Hamburg\",\"zipcode\":\"22113\"},\"distance\":9.5,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Barsbüttel\",\"slug\":\"barsbuettel\",\"name\":\"BAUHAUS GmbH & Co. KG Hansa\",\"id\":624,\"store_id\":624,\"location\":{\"lat\":53.577974255808,\"lng\":10.195919968903},\"address\":{\"lines\":[\"Rahlstedter Strasse 2\"],\"city\":\"Barsbüttel\",\"zipcode\":\"22885\"},\"distance\":10.36,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Hamburg-Wandsbek\",\"slug\":\"hamburg-wandsbek\",\"name\":\"BAUHAUS GmbH & Co. KG Nord\",\"id\":851,\"store_id\":851,\"location\":{\"lat\":53.576608,\"lng\":10.081211},\"address\":{\"lines\":[\"Wandsbeker Zollstr. 95\"],\"city\":\"Hamburg\",\"zipcode\":\"22041\"},\"distance\":13.96,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Hamburg-Harburg\",\"slug\":\"hamburg-harburg\",\"name\":\"BAUHAUS GmbH & Co. KG Hansa\",\"id\":619,\"store_id\":619,\"location\":{\"lat\":53.458892551435,\"lng\":9.9928021730758},\"address\":{\"lines\":[\"Schlachthofstrasse 1\"],\"city\":\"Hamburg\",\"zipcode\":\"21079\"},\"distance\":15.94,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Hamburg-Bramfeld\",\"slug\":\"hamburg-bramfeld\",\"name\":\"BAUHAUS GmbH & Co. KG Nord\",\"id\":663,\"store_id\":663,\"location\":{\"lat\":53.603921,\"lng\":10.072199},\"address\":{\"lines\":[\"Bramfelder Chaussee 136\"],\"city\":\"Hamburg\",\"zipcode\":\"22177\"},\"distance\":16.63,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]}]"
+}]

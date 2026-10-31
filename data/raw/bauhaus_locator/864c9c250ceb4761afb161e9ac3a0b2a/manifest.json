@@ -1,0 +1,39 @@
+{
+  "run_id": "wyGGWxSb1Yj0Ylx2F",
+  "started_at_utc": "2026-10-31T06:12:00.546354+00:00",
+  "operation": "retrieve_existing_run",
+  "coverage_verified": false,
+  "files": [
+    {
+      "file": "run.json",
+      "api_url": "https://api.apify.com/v2/actor-runs/wyGGWxSb1Yj0Ylx2F",
+      "retrieved_at_utc": "2026-10-31T06:12:00.839579+00:00",
+      "http_status": 200,
+      "bytes": 3382,
+      "sha256": "5e2492c6590027c2985fc9f7cee74d459f6da40f580cc9caf875ff79c506abce"
+    },
+    {
+      "file": "dataset.json",
+      "api_url": "https://api.apify.com/v2/datasets/lyfO5aY8t1Ve4fajT/items?format=json&clean=false&offset=0&limit=2",
+      "retrieved_at_utc": "2026-10-31T06:12:01.101019+00:00",
+      "http_status": 200,
+      "bytes": 10556,
+      "sha256": "59b425d70efb5112d0729cd03637360dcc630116160390005fdc93a3bc46ff9a"
+    }
+  ],
+  "status": "validated",
+  "source_response": {
+    "file": "source_response.json",
+    "representation": "UTF-8 encoding of provider raw string",
+    "sha256": "5280a30b9e23a1db84e04d9cf6e7a0a4a0b897528099f473f7626b7ac78c76fe",
+    "fetch": {
+      "loadedUrl": "https://www.bauhaus.info/api/stores?q=10115",
+      "loadedTime": "2026-10-31T05:59:37.482Z",
+      "httpStatusCode": 200,
+      "contentLengthBytes": 7861,
+      "contentType": "application/json"
+    }
+  },
+  "store_count": 14,
+  "finished_at_utc": "2026-10-31T06:12:01.102616+00:00"
+}

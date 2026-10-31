@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=23556",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=23556",
+    "loadedTime": "2026-10-31T17:26:06.608Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1634,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=23556",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:26:06 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=23556",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Lübeck-Moisling\",\"slug\":\"luebeck-moisling\",\"name\":\"BAUHAUS GmbH & Co. KG Nord\",\"id\":864,\"store_id\":864,\"location\":{\"lat\":53.862,\"lng\":10.6288},\"address\":{\"lines\":[\"Lohgerberstraße 3\"],\"city\":\"Lübeck\",\"zipcode\":\"23556\"},\"distance\":1.82,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Lübeck\",\"slug\":\"luebeck\",\"name\":\"BAUHAUS GmbH & Co. KG Schleswig-Holstein\",\"id\":639,\"store_id\":639,\"location\":{\"lat\":53.879179901223,\"lng\":10.675491093855},\"address\":{\"lines\":[\"Bei der Lohmühle 102\"],\"city\":\"Lübeck\",\"zipcode\":\"23554\"},\"distance\":4.08,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Lübeck-St. Jürgen\",\"slug\":\"luebeck-st-juergen\",\"name\":\"BAUHAUS GmbH & Co. KG Schleswig-Holstein\",\"id\":534,\"store_id\":534,\"location\":{\"lat\":53.843480721592,\"lng\":10.706732248891},\"address\":{\"lines\":[\"Ratzeburger Allee 106\"],\"city\":\"Lübeck\",\"zipcode\":\"23562\"},\"distance\":7.08,\"opening_hours\":[{\"weekday\":1,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"09:00\",\"to\":\"20:00\"}]}]"
+}]

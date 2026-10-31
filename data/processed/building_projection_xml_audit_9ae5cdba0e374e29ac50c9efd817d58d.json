@@ -1,0 +1,395 @@
+{
+  "created_at_utc": "2026-10-31T19:39:59.228117+00:00",
+  "previous_audit": "data\\processed\\building_projection_audit_2b2182a4135f445e893c2fb2d57f4f68.json",
+  "previous_audit_sha256": "3e8ca0fcd955862ec56bacbbc1cc7b22a265faae7c3717cf9054222b85f250b3",
+  "building_sha256": "0de970956ab6a1de450b274a8867f787c256baf89e82aad6aa27d669c192df9a",
+  "source_crs_interpretation": "OSM longitude/latitude as EPSG:4326",
+  "target_crs": "EPSG:25832",
+  "always_xy": true,
+  "source_files": [
+    {
+      "path": "data\\raw\\osm_store_areas\\node_10044308316.osm",
+      "sha256": "8f12e2978b62a457344882a619a7ec6bcf063f6b2499df637bb23497571357d5"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_10057200156.osm",
+      "sha256": "c794da8c71dd857072835e49ff6b925c6fed763644545111977f09385f261596"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_10093313817.osm",
+      "sha256": "52b955c12073b7df3efcafb1228504f706a31b4a2da6521d7c5f39a6ea64ebaa"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_1036180405.osm",
+      "sha256": "e00c722565ae13a6d2635d3b449e6eb524e2445a7cae05bf8f3a7cc4dc1ea57d"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_1083762657.osm",
+      "sha256": "a54bb6196d60a7fd3a243db308ff330bfcf25aac09a922f9be39f3cda1f33ef5"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_11059529684.osm",
+      "sha256": "a1040dd1af6e947011b588a3bc3defc69ef0c72fa6b3dcac278bde5625a55ff7"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_11778986402.osm",
+      "sha256": "f28d282d7935299608aa845dd7379915a2a42d3ab6874da95930c7a2746dae28"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_12517940711.osm",
+      "sha256": "832101e50ca41187a1c1c806d2ff8c4fed8717d4a2bbca755f1795a88ef65b0d"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_1389121491.osm",
+      "sha256": "f55e1813a8de9e8d40f6d3eb8831942f6fc2278c11cd68d1f587f18abbf34377"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_1605507205.osm",
+      "sha256": "ba24f3a83992bcffc278caa4c834dfd2f5e0e6a3bb6c47cc6789e6bd068e60a0"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_1739559562.osm",
+      "sha256": "7daf597d5467154111c9390d434a909395e69cb714768d6a67791bfd029f93f8"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_2302565844.osm",
+      "sha256": "d40ee80871e12b1cbcf8961abdcfd87593e35ee5dbb4c3669d05b36569d701ed"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_253378262.osm",
+      "sha256": "b52b6f30d093ee4cea7f0547ffb7358b95a59d35824afb69203d1bea8f1ab402"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_254352435.osm",
+      "sha256": "e5c4a85eaba88496b145844c729e3cdd98f86fb7dcf9c90a38bc15fded61f92d"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_279218164.osm",
+      "sha256": "ab239bf5fd1af6ed11c5e8ba8c84d336804f20facf6d8f73fbfca1a43cc16d50"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_286555103.osm",
+      "sha256": "892d47ffed947717dec92ba619d6d72dbfdb080d81e94e4fd211ea95961f5220"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_2935166520.osm",
+      "sha256": "8115fac4dea03e4645ebab4fc4ef84b9c853d02e66a0ee493fdc8d68153b9238"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_297084872.osm",
+      "sha256": "49dd5f06d178587a37a294a030e47a4ad63d5a987c562fdfcb45fa66add3080c"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_30560661.osm",
+      "sha256": "defa6c3b6c5f921e5e72f0cb37730f479bd232a85588ba629f53d48a4f33987a"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_3730393002.osm",
+      "sha256": "d62edc0ca936de836c7adc4a14e6c6ed79449aa1cb6e87fc87f64f8642d6a944"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_3875846542.osm",
+      "sha256": "2ecd07fb1a0fda2db6da22f75c5b49179fcdb0e65069050db8ed801d3b9d2516"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_416660121.osm",
+      "sha256": "d109fdc0d8b0c8c9fdbbb7b429527743fdde4a761f7ab3b32ef869319050b483"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_422779946.osm",
+      "sha256": "3c55d27700536e7bfce2dc05d20b25f4f81b6e072b6c31dd190c6a851c772454"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_442539005.osm",
+      "sha256": "53606cd25aade881042f7ee3bf426eeb664bc75a4082efc3ae1afca9e84fc255"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_4580891593.osm",
+      "sha256": "6afd1eab24650072a5a086b363c38a5b27958d6863f30f38aedae84e548f03eb"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_4797070542.osm",
+      "sha256": "6dd9b3280838702214f229629b73eaf0853ab5bf2a97c4342348519ca2ac2a85"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_490066695.osm",
+      "sha256": "a269335c7b5f4d561e97ccad8f24725dc2819dad0df1f9620ce0ebefb5712344"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_5301851476.osm",
+      "sha256": "dfb9f590b5e4c25b10383a5937da5d15bbe3d9fb14e13de64e7cd53c4db20931"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_5329643356.osm",
+      "sha256": "33b2a5d8791a287529053466c5702cc31441bf50f3f1687487bb073da3baffdd"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_604969739.osm",
+      "sha256": "3c21c04cfabac7aa28d99a3b3ab9625cdcced88e719b79c1fe35cd554e044189"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_6586555027.osm",
+      "sha256": "a770cfeaf372da591b3b0c351d6cc20645d53d47612edfd7d56745d631ebd521"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_7111767781.osm",
+      "sha256": "70d2123385e8a58f429af1a873e0bbf15c79d9f7260d68267797b693863498ef"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_7340432568.osm",
+      "sha256": "a30f5cff9fa390e851a9a0e33aa8fd116b48209b34ac24ef501683d5ef7e8c4f"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_7452492738.osm",
+      "sha256": "f6f1c8c5701efd38d30c2976963c2f778daa7b4ac66250fab36be85f67e30a2d"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_7518511157.osm",
+      "sha256": "16114ed5bc737b02546674f5405c30744ccac2b890a6521de4ca59e0e4295fbb"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_823521634.osm",
+      "sha256": "db49caa0242fd3c3ef4c22eee2f2274c0d731ccafd18766cd5eb6cfb31be0326"
+    },
+    {
+      "path": "data\\raw\\osm_store_areas\\node_8584539424.osm",
+      "sha256": "76cba531c17036747174c17c4ce6c2cc5c5c6c40ac113f658a24c5367dff24ec"
+    }
+  ],
+  "checks": [
+    {
+      "osm_id": "way/26285106",
+      "source": "data\\raw\\osm_store_areas\\node_10044308316.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/28505596",
+      "source": "data\\raw\\osm_store_areas\\node_10057200156.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/28987296",
+      "source": "data\\raw\\osm_store_areas\\node_10093313817.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/182747470",
+      "source": "data\\raw\\osm_store_areas\\node_1036180405.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/93484846",
+      "source": "data\\raw\\osm_store_areas\\node_1083762657.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/27493871",
+      "source": "data\\raw\\osm_store_areas\\node_11059529684.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/1268231705",
+      "source": "data\\raw\\osm_store_areas\\node_11778986402.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/115955249",
+      "source": "data\\raw\\osm_store_areas\\node_12517940711.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/40707294",
+      "source": "data\\raw\\osm_store_areas\\node_1389121491.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/46754081",
+      "source": "data\\raw\\osm_store_areas\\node_1739559562.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/146186390",
+      "source": "data\\raw\\osm_store_areas\\node_2302565844.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/24025561",
+      "source": "data\\raw\\osm_store_areas\\node_253378262.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/40450747",
+      "source": "data\\raw\\osm_store_areas\\node_254352435.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/227400424",
+      "source": "data\\raw\\osm_store_areas\\node_279218164.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/88370653",
+      "source": "data\\raw\\osm_store_areas\\node_286555103.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/28846255",
+      "source": "data\\raw\\osm_store_areas\\node_2935166520.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/119907320",
+      "source": "data\\raw\\osm_store_areas\\node_297084872.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/116468051",
+      "source": "data\\raw\\osm_store_areas\\node_30560661.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/369231324",
+      "source": "data\\raw\\osm_store_areas\\node_3730393002.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/91898070",
+      "source": "data\\raw\\osm_store_areas\\node_3875846542.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/30804120",
+      "source": "data\\raw\\osm_store_areas\\node_442539005.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/24517843",
+      "source": "data\\raw\\osm_store_areas\\node_4797070542.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/40459768",
+      "source": "data\\raw\\osm_store_areas\\node_490066695.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/119309678",
+      "source": "data\\raw\\osm_store_areas\\node_5301851476.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/37120956",
+      "source": "data\\raw\\osm_store_areas\\node_5329643356.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/98695080",
+      "source": "data\\raw\\osm_store_areas\\node_604969739.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/25520936",
+      "source": "data\\raw\\osm_store_areas\\node_6586555027.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/59338792",
+      "source": "data\\raw\\osm_store_areas\\node_7111767781.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/373370403",
+      "source": "data\\raw\\osm_store_areas\\node_7340432568.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/546189796",
+      "source": "data\\raw\\osm_store_areas\\node_7452492738.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/322043866",
+      "source": "data\\raw\\osm_store_areas\\node_7518511157.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/118752984",
+      "source": "data\\raw\\osm_store_areas\\node_823521634.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/995919993",
+      "source": "data\\raw\\osm_store_areas\\node_8584539424.osm",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    }
+  ],
+  "xml_parse_failures": [],
+  "geometry_rejections": [],
+  "remaining_unverified_ids": []
+}

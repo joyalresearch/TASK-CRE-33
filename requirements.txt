@@ -1,0 +1,6 @@
+shapely==2.2.0
+pyproj==3.8.0
+numpy==2.5.4
+certifi==2026.10.23
+psycopg[binary]==3.3.6
+python-dotenv==1.2.4

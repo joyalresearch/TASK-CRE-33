@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=19061",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=19061",
+    "loadedTime": "2026-10-31T17:19:32.747Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 546,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=19061",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:19:32 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=19061",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Schwerin-Großer Dreesch\",\"slug\":\"schwerin-grosser-dreesch\",\"name\":\"BAUHAUS GmbH & Co. KG Nord\",\"id\":668,\"store_id\":668,\"location\":{\"lat\":53.59667,\"lng\":11.43209},\"address\":{\"lines\":[\"Graf-Yorck-Str. 1\"],\"city\":\"Schwerin\",\"zipcode\":\"19061\"},\"distance\":1.52,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]}]"
+}]

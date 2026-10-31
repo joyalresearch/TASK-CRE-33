@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores-search?lat=51.0561194&lng=12.1028242&user_lat=undefined&user_lng=undefined",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores-search?lat=51.0561194&lng=12.1028242&user_lat=undefined&user_lng=undefined",
+    "loadedTime": "2026-10-31T18:09:37.881Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 620,
+    "contentType": "application/json; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores-search?lat=51.0561194&lng=12.1028242&user_lat=undefined&user_lng=undefined",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Sat, 31 Oct 2026 18:09:37 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores-search?lat=51.0561194&lng=12.1028242&user_lat=undefined&user_lng=undefined",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "{\"initial\":{\"search_radius\":25,\"max_radius\":1000,\"center_lat\":51.0561194,\"center_lng\":12.1028242},\"stores\":[{\"display_name\":\"Gera\",\"slug\":\"gera\",\"name\":\"BAUHAUS Fachcentren Berlin GmbH & Co. KG\",\"id\":669,\"store_id\":669,\"location\":{\"lat\":50.86839,\"lng\":12.07749},\"address\":{\"lines\":[\"Elsterdamm 5\"],\"city\":\"Gera\",\"zipcode\":\"07548\"},\"distance\":20.95,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]}]}"
+}]

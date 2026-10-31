@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=28307",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=28307",
+    "loadedTime": "2026-10-31T17:27:27.874Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1653,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=28307",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:27:27 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=28307",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Bremen-Osterholz (Weserpark)\",\"slug\":\"bremen-osterholz-weserpark\",\"name\":\"BAUHAUS GmbH & Co. KG Nord\",\"id\":863,\"store_id\":863,\"location\":{\"lat\":53.05257,\"lng\":8.96326},\"address\":{\"lines\":[\"Hans-Bredow-Str. 20\"],\"city\":\"Bremen\",\"zipcode\":\"28307\"},\"distance\":2.82,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Bremen-Stresemannstr.\",\"slug\":\"bremen-stresemannstr\",\"name\":\"BAUHAUS GmbH & Co. KG Hansa\",\"id\":647,\"store_id\":647,\"location\":{\"lat\":53.07129,\"lng\":8.86258},\"address\":{\"lines\":[\"Stresemannstr. 14\"],\"city\":\"Bremen\",\"zipcode\":\"28207\"},\"distance\":5.75,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Stuhr-Groß-Mackenstedt\",\"slug\":\"stuhr-gross-mackenstedt\",\"name\":\"BAUHAUS GmbH & Co. KG Hansa\",\"id\":553,\"store_id\":553,\"location\":{\"lat\":53.00781548638,\"lng\":8.7048152334005},\"address\":{\"lines\":[\"3-K Weg 23\"],\"city\":\"Stuhr Gross-Mackenstedt\",\"zipcode\":\"28816\"},\"distance\":15.34,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

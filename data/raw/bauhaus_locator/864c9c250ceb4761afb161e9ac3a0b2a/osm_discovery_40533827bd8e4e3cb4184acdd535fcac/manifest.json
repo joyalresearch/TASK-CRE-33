@@ -1,0 +1,46 @@
+{
+  "started_at_utc": "2026-10-31T06:18:28.679087+00:00",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "search_radius_m": 250,
+  "gap_selection_threshold_m": 1000,
+  "seeds": [
+    {
+      "official_store_id": 840,
+      "official_name": "Berlin Am Wittenbergplatz",
+      "lat": 52.5035,
+      "lon": 13.3439
+    },
+    {
+      "official_store_id": 812,
+      "official_name": "Berlin-Charlottenburg",
+      "lat": 52.512755180246,
+      "lon": 13.304743011434
+    },
+    {
+      "official_store_id": 597,
+      "official_name": "Berlin-Schöneberg",
+      "lat": 52.467937054788,
+      "lon": 13.369697825035
+    }
+  ],
+  "source_snapshot_sha256": "5280a30b9e23a1db84e04d9cf6e7a0a4a0b897528099f473f7626b7ac78c76fe",
+  "reconciliation_sha256": "1b08af40869ef414615c2491f90c6e916c53faf1d8769da162ab80fae2d6f3f2",
+  "query_sha256": "44f64e7bb756d36d37dc3dbe9bb2fe8478d88de7d35e6a91ebbdcc1816826ffd",
+  "status": "captured",
+  "association_verified": false,
+  "limitations": [
+    "Local discovery only; not nationwide coverage.",
+    "Large enclosing buildings can require a broader spatial query.",
+    "Returned relations are not yet assembled into validated polygons.",
+    "Nearby buildings are not automatically associated with BAUHAUS."
+  ],
+  "http_status": 200,
+  "content_type": "application/json",
+  "response_sha256": "be44336290be48deb41c086307c80e524457a4d16601b6aeefd274a6d9524ce4",
+  "element_counts": {
+    "way": 445,
+    "relation": 11
+  },
+  "osm_base_timestamp": "2026-10-31T06:17:57Z",
+  "finished_at_utc": "2026-10-31T06:19:10.723036+00:00"
+}

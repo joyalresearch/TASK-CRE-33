@@ -1,0 +1,28 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 7340432568,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 373370403,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Mannheimer Straße",
+        "building": "retail",
+        "height": "10",
+        "source": "Bing"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 15984.07,
+      "geometry_wkt_25832": "POLYGON ((554834.1803669466 5795677.648940321, 554787.8252025616 5795650.94838931, 554857.1629615789 5795530.600736624, 554803.4479704222 5795500.325359217, 554773.6973688154 5795552.633745419, 554758.2445717852 5795543.585380727, 554729.6222258275 5795593.826358305, 554739.8852672651 5795599.869231353, 554732.8891786495 5795612.194870578, 554717.8946749859 5795603.641165281, 554714.9152797861 5795608.536054161, 554719.9153937871 5795611.416966621, 554696.14283645 5795651.711454236, 554810.1641361659 5795718.952467979, 554834.1803669466 5795677.648940321))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

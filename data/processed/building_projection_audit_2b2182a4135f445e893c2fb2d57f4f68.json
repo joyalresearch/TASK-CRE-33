@@ -1,0 +1,1017 @@
+{
+  "created_at_utc": "2026-10-31T19:38:45.754599+00:00",
+  "building_sha256": "0de970956ab6a1de450b274a8867f787c256baf89e82aad6aa27d669c192df9a",
+  "source_crs_interpretation": "OSM longitude/latitude as EPSG:4326",
+  "target_crs": "EPSG:25832",
+  "always_xy": true,
+  "source_files": [
+    {
+      "path": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "sha256": "dcac376c130d0b7dabc96fac3629333a8302a2b1470276fb35bedd2c07dc7686"
+    },
+    {
+      "path": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "sha256": "a4e1be81d90fbbf3e4f1ad258cb196df69dab653aaceae479040165d66fadb4d"
+    },
+    {
+      "path": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "sha256": "0b1307d13ecfe59bb0cd9377a9c1d4c12bf709cba9fedc2cd140a57c3c956201"
+    },
+    {
+      "path": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "sha256": "020721808f48fb1c0963679403b841d496406c1f87656e3de8622365eb4c1f39"
+    },
+    {
+      "path": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "sha256": "7d61268d3d433be4d4bfd692e7ef456ef04dc451aa104f7c4c2e0c0333e10628"
+    },
+    {
+      "path": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "sha256": "3da1bbd55161451243ac7e413ca1063d421e251c3b00b0a3757572ba0cc1e48b"
+    },
+    {
+      "path": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "sha256": "30cb8ac408ce9b902967adc5e93aedc96ab84eaf467c00fd91974e912e181c9b"
+    },
+    {
+      "path": "data\\raw\\bauhaus_way_batches\\batch_08.json",
+      "sha256": "029489169f0f3bb532f7ea6266de58067e9787006a410acf476db7302af1677e"
+    }
+  ],
+  "checks": [
+    {
+      "osm_id": "way/4700552",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/19727326",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/22762245",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/23180187",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/23386017",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/23619103",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/24049246",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/24230210",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/24393423",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/24691546",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/24802709",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/24864353",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/25114190",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/25619088",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/25779279",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/26011057",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/26570627",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/26764123",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/26790316",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/26832459",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_01.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/26958041",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/27283969",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/27436941",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/28132164",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/28143475",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/28334460",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/28715246",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/29033850",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/29350709",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/29401013",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/30072118",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/30181261",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/30808551",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/30860030",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/31410869",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/31670307",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/33003697",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/33524148",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/33542710",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/33712617",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_02.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/34201992",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/35910944",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/36124234",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/36124286",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/37287853",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/40106846",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/41860856",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/44004385",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/44904672",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/45883708",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/48133177",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/48466507",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/52007850",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/52131203",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/52513722",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/54727041",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/54856134",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/55008475",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/56191943",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/60455187",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_03.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/62811069",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/70786923",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/76844715",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/80253164",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/80858331",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/82445638",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/87313466",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/87352620",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/90064343",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/90494889",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/92704284",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/92704442",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/93211530",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/93317352",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/94340051",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/96216146",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/96593449",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/97693777",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/97882534",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/100467501",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_04.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/102034074",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/102410272",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/102783805",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/108248464",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/108864862",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/110307778",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/113971134",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/118286988",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/118916584",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/118916585",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/120030437",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/120126663",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/126440693",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/131318317",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/136758060",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/142047669",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/148988039",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_05.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/155164522",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/158710321",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/159926244",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/168141060",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/168141069",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/173434235",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/177266742",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/201115893",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/202318101",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/240042193",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/240159417",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/244977926",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/245150872",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/246999247",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/248788421",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/251464504",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/269791656",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/277000970",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/285603576",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/293418460",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_06.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/293418467",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/299599300",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/338416027",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/375670000",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/496104341",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/499376604",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/652382589",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/759059433",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/768890944",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/927633999",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/945724462",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/965168208",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/1096186782",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_07.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/1262910446",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_08.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/1289813642",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_08.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/1294579873",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_08.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    },
+    {
+      "osm_id": "way/1294579874",
+      "source": "data\\raw\\bauhaus_way_batches\\batch_08.json",
+      "hausdorff_distance_m": 0.0,
+      "area_difference_sqm": 0.0,
+      "matches_within_1cm": true
+    }
+  ],
+  "source_records_needing_review": [],
+  "not_checked_against_these_batches": [
+    "way/115955249",
+    "way/116468051",
+    "way/118752984",
+    "way/119309678",
+    "way/119907320",
+    "way/1268231705",
+    "way/146186390",
+    "way/182747470",
+    "way/227400424",
+    "way/24025561",
+    "way/24517843",
+    "way/25520936",
+    "way/26285106",
+    "way/27493871",
+    "way/28505596",
+    "way/28846255",
+    "way/28987296",
+    "way/30804120",
+    "way/322043866",
+    "way/369231324",
+    "way/37120956",
+    "way/373370403",
+    "way/40450747",
+    "way/40459768",
+    "way/40707294",
+    "way/46754081",
+    "way/546189796",
+    "way/59338792",
+    "way/88370653",
+    "way/91898070",
+    "way/93484846",
+    "way/98695080",
+    "way/995919993"
+  ]
+}

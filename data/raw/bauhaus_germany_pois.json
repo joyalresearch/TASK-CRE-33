@@ -1,0 +1,5004 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-01T08:52:28Z",
+    "timestamp_areas_base": "2026-06-01T08:52:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 30560661,
+      "lat": 49.530055,
+      "lon": 8.4832398,
+      "tags": {
+        "addr:city": "Mannheim",
+        "addr:housenumber": "2",
+        "addr:postcode": "68305",
+        "addr:street": "Waldstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date:opening_hours": "2025-10-14",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 621 76510",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253378262,
+      "lat": 53.5769521,
+      "lon": 10.0809685,
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "95",
+        "addr:postcode": "22041",
+        "addr:street": "Wandsbeker Zollstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "contact:fax": "+49 40 460695913",
+        "contact:phone": "+49 40 4606959",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hamburg-wandsbek/fc/851",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Bauhaus Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Nord",
+        "shop": "doityourself",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254352435,
+      "lat": 48.5451801,
+      "lon": 8.7297559,
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 7452 8478 0",
+        "shop": "doityourself",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 279218164,
+      "lat": 48.715374,
+      "lon": 10.1601155,
+      "tags": {
+        "addr:city": "Heidenheim an der Brenz",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "89520",
+        "addr:street": "Aalener Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date:opening_hours": "2024-11-15",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "phone": "+49 7321 9661-0",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 286555103,
+      "lat": 49.4548377,
+      "lon": 8.5132199,
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "fax": "+49 621 87876 13",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 621 878760",
+        "shop": "doityourself",
+        "website": "http://www.bauhaus.info/fachcentren/fachcentrum-mannheim/fc/583#parentcompany",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 297084872,
+      "lat": 49.6416607,
+      "lon": 8.6192742,
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "email": "kontakt@praktiker.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "operator": "Praktiker Deutschland GmbH",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 416660121,
+      "lat": 52.512395,
+      "lon": 13.304749,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "32",
+        "addr:postcode": "10585",
+        "addr:street": "Wilmersdorfer Straße",
+        "addr:suburb": "Charlottenburg",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date": "2026-02-19",
+        "check_date:opening_hours": "2026-02-19",
+        "level": "0",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off",
+        "phone": "+49 30 3479040",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-charlottenburg/fc/812",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 422779946,
+      "lat": 52.5035993,
+      "lon": 13.3440523,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "3-4",
+        "addr:postcode": "10787",
+        "addr:street": "Bayreuther Straße",
+        "addr:suburb": "Schöneberg",
+        "branch": "Berlin Schöneberg",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "de:Bauhaus (Baumarkt)",
+        "check_date:opening_hours": "2025-09-15",
+        "email": "Info.NL840@bauhaus-ag.de",
+        "internet_access": "wlan",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "operator": "Bauhaus",
+        "phone": "+49 30 2351000",
+        "shop": "doityourself",
+        "toilets:wheelchair": "no",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-schoeneberg/fc/840",
+        "wheelchair": "limited",
+        "wheelchair:description": "Das UG ist nur mit einem Lastenaufzug zu erreichen. Zum öffnen und schließen der Fahrstuhltüren ist man auf Hilfe angewiesen."
+      }
+    },
+    {
+      "type": "node",
+      "id": 442539005,
+      "lat": 48.139856,
+      "lon": 11.5245208,
+      "tags": {
+        "addr:city": "München",
+        "addr:country": "DE",
+        "addr:housenumber": "175-179",
+        "addr:postcode": "80687",
+        "addr:street": "Landsberger Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "contact:phone": "+49 89 5794950",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH,Su off",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 490066695,
+      "lat": 52.5950747,
+      "lon": 13.3359213,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "229-245",
+        "addr:postcode": "13435",
+        "addr:street": "Wilhelmsruher Damm",
+        "addr:suburb": "Wittenau",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date": "2026-05-19",
+        "check_date:opening_hours": "2026-05-19",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Bauhaus Berlin-Wittenau",
+        "phone": "+49 30 4080000",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-wittenau/fc/850",
+        "wheelchair": "yes",
+        "wheelchair:description": "Öffnungszeiten: Mo-Sa 08:00 Uhr-20:00 Uhr"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604969739,
+      "lat": 50.4959001,
+      "lon": 12.1792009,
+      "tags": {
+        "addr:city": "Plauen",
+        "addr:housenumber": "80",
+        "addr:postcode": "08529",
+        "addr:street": "Äußere Reichenbacher Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "contact:phone": "+49 3741 48890",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-plauen/fc/406",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off",
+        "operator": "Bauhaus",
+        "shop": "doityourself",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 823521634,
+      "lat": 53.5465312,
+      "lon": 8.5956809,
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date:opening_hours": "2026-04-17",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1036180405,
+      "lat": 48.3996836,
+      "lon": 9.9698136,
+      "tags": {
+        "addr:city": "Ulm",
+        "addr:housenumber": "59",
+        "addr:postcode": "89077",
+        "addr:street": "Blaubeurer Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date": "2026-02-23",
+        "contact:email": "Info.NL599@bauhaus-ag.de",
+        "contact:fax": "+49 731 93695 13",
+        "contact:phone": "+49 731 93695 0",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-ulm/fc/599",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "shop": "doityourself",
+        "wheelchair": "yes",
+        "xmas:feature": "shop",
+        "xmas:feature:shop": "christmas_tree",
+        "xmas:lastcheck": "2023-11-27"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1083762657,
+      "lat": 49.433308,
+      "lon": 11.040342,
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date:opening_hours": "2022-06-03",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1389121491,
+      "lat": 52.0350371,
+      "lon": 8.5671794,
+      "tags": {
+        "addr:city": "Bielefeld",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "33609",
+        "addr:street": "Finkenstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "check_date": "2025-07-07",
+        "check_date:opening_hours": "2023-05-11",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+        "phone": "+49 521 93237-0",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1605507205,
+      "lat": 48.3827998,
+      "lon": 10.9379369,
+      "tags": {
+        "addr:city": "Augsburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "86165",
+        "addr:street": "Südtiroler Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "phone": "+49 821 794390",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1739559562,
+      "lat": 53.8434327,
+      "lon": 10.7069188,
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date": "2025-08-09",
+        "check_date:opening_hours": "2025-08-09",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2302565844,
+      "lat": 51.2249839,
+      "lon": 6.8118881,
+      "tags": {
+        "addr:city": "Düsseldorf",
+        "addr:country": "DE",
+        "addr:housenumber": "69",
+        "addr:postcode": "40233",
+        "addr:street": "Kettwiger Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date:opening_hours": "2024-09-19",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-duesseldorf-flingern/fc/491",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2935166520,
+      "lat": 53.8624458,
+      "lon": 10.6280347,
+      "tags": {
+        "addr:city": "Lübeck",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "23556",
+        "addr:street": "Lohgerberstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date:opening_hours": "2023-10-16",
+        "email": "NL864@bauhaus-ag.de",
+        "fax": "+49 451 40774013",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 451 4077400",
+        "shop": "doityourself",
+        "start_date": "2014-06-27",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-luebeck-moisling/fc/864",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3431148151,
+      "lat": 51.3961897,
+      "lon": 7.6928922,
+      "tags": {
+        "addr:city": "Iserlohn",
+        "addr:country": "DE",
+        "addr:housenumber": "121",
+        "addr:postcode": "58636",
+        "addr:street": "Baarstraße",
+        "name": "Naturbauhaus mengler",
+        "operator": "Peter Mengler",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3730393002,
+      "lat": 50.7312397,
+      "lon": 7.0790513,
+      "tags": {
+        "addr:city": "Bonn",
+        "addr:housenumber": "120-140",
+        "addr:postcode": "53115",
+        "addr:street": "Endenicher Straße",
+        "branch": "890 Bonn",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "changing_table": "yes",
+        "changing_table:count": "1",
+        "changing_table:fee": "no",
+        "changing_table:location": "wheelchair_toilet",
+        "check_date:opening_hours": "2025-09-16",
+        "name": "Bauhaus",
+        "note": "Opening hours according to website",
+        "opening_hours": "Mo-Sa 08:00-20:00; Dec 31 08:00-14:00; Su,PH off",
+        "operator": "Bauhaus Gesellschaft für Bau- und Hausbedarf mbH & Co.KG Rheinland",
+        "phone": "+49 621 39051000",
+        "ref:vatin": "DE266860225",
+        "shop": "doityourself",
+        "start_date": "2020-10-23",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3875846542,
+      "lat": 50.2020893,
+      "lon": 9.1398619,
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date:opening_hours": "2026-05-13",
+        "contact:phone": "+49 6051 82850",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "self_checkout": "yes",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-gruendau-lieblos/fc/602",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4580891593,
+      "lat": 52.4686018,
+      "lon": 13.3695428,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "18",
+        "addr:postcode": "12103",
+        "addr:street": "Alboinstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date:opening_hours": "2024-04-27",
+        "dog": "yes",
+        "email": "Service.NL597@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+49 30 7551560",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-schoeneberg/fc/597",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4797070542,
+      "lat": 51.2239534,
+      "lon": 6.8557692,
+      "tags": {
+        "addr:city": "Düsseldorf",
+        "addr:country": "DE",
+        "addr:housenumber": "137",
+        "addr:postcode": "40625",
+        "addr:street": "Nach den Mauresköthen",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "name": "Bauhaus",
+        "operator": "Bauhaus GmbH & Co. KG",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5301851476,
+      "lat": 51.1791596,
+      "lon": 6.8522209,
+      "tags": {
+        "addr:city": "Düsseldorf",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "40599",
+        "addr:street": "Reisholzer Bahnstraße",
+        "branch": "Reisholz",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "check_date": "2026-01-09",
+        "check_date:opening_hours": "2026-01-09",
+        "contact:email": "Info.NL618@bauhaus-ag.de",
+        "contact:fax": "+49 211 73776313",
+        "contact:phone": "+49 211 7377630",
+        "contact:website": "https://bauhaus.info",
+        "level": "0",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "operator": "BAUHAUS",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5329643356,
+      "lat": 53.0521943,
+      "lon": 8.9633542,
+      "tags": {
+        "addr:city": "Bremen",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "28307",
+        "addr:street": "Hans-Bredow-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "Bauhaus",
+        "phone": "+49 421 427763",
+        "shop": "doityourself",
+        "source": "survey",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrensuche/fachcentrum-bremen-osterholz%28weserpark%29/fc/863",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6586555027,
+      "lat": 50.1147317,
+      "lon": 8.9304308,
+      "tags": {
+        "addr:city": "Hanau",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "63457",
+        "addr:street": "Edisonstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "contact:phone": "+49 6181 95340",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hanau/fc/560",
+        "dog": "leashed",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7111767781,
+      "lat": 50.0294819,
+      "lon": 8.2217121,
+      "tags": {
+        "addr:city": "Mainz",
+        "addr:country": "DE",
+        "addr:housenumber": "128",
+        "addr:postcode": "55120",
+        "addr:street": "Rheinallee",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date": "2023-12-06",
+        "email": "GL.NL854@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 6131 732280",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-mainz-mombach/fc/854"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7340432568,
+      "lat": 52.308086,
+      "lon": 9.8037337,
+      "tags": {
+        "addr:city": "Laatzen",
+        "addr:housenumber": "1",
+        "addr:postcode": "30880",
+        "addr:street": "Erich-Panitz-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "check_date:opening_hours": "2023-07-05",
+        "email": "service.nl651@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 511 8981500",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-laatzen/fc/651",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7452492738,
+      "lat": 49.1375998,
+      "lon": 8.5609379,
+      "tags": {
+        "addr:city": "Bruchsal",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "76646",
+        "addr:street": "Kammerforststraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "email": "service.NL872@bauhaus-ag.de",
+        "fax": "+49 7251 976813",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH,Su off",
+        "operator": "Bauhaus AG",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 7251 97680",
+        "ref:shop:num": "872",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-bruchsal/fc/872"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7518511157,
+      "lat": 51.3498376,
+      "lon": 6.5311362,
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH,Su off",
+        "operator": "Bauhaus",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8584539424,
+      "lat": 49.374412,
+      "lon": 8.2592054,
+      "tags": {
+        "addr:city": "Haßloch",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "67454",
+        "addr:street": "Fritz-Karl-Henkel-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-hassloch/fc/874"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9360368250,
+      "lat": 54.5023049,
+      "lon": 9.5440912,
+      "tags": {
+        "addr:city": "Schleswig",
+        "addr:country": "DE",
+        "addr:housenumber": "81",
+        "addr:postcode": "24837",
+        "addr:street": "Friedrichstraße",
+        "email": "info@naturbauhaus-schleswig.de",
+        "name": "Naturbauhaus Schleswig",
+        "opening_hours": "Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00; We 09:00-12:00; Sa 09:00-13:00; Su,PH off",
+        "phone": "+49 4621 9774900",
+        "shop": "doityourself",
+        "website": "https://naturbauhaus-schleswig.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10044308316,
+      "lat": 50.5667154,
+      "lon": 8.5031916,
+      "tags": {
+        "addr:city": "Wetzlar",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "35576",
+        "addr:street": "Philipsstraße",
+        "addr:suburb": "Niedergirmes",
+        "branch": "Wetzlar",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "email": "Service.NL558@bauhaus-ag.de",
+        "fax": "+49 6441 3766-13",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 6441 3766-0",
+        "recycling:small_electrical_appliances": "yes",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrensuche/Wetzlar/fc/558",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10057200156,
+      "lat": 52.4645921,
+      "lon": 13.3268438,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "12163",
+        "addr:street": "Schloßstraße",
+        "addr:suburb": "Steglitz",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "email": "service.nl894@bauhaus-ag.de",
+        "level": "-1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 30 29381980",
+        "shop": "doityourself",
+        "start_date": "2022-10-21",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-steglitz/fc/894"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10093313817,
+      "lat": 48.4977852,
+      "lon": 9.157204,
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "name": "Bauhaus",
+        "shop": "doityourself",
+        "survey:date": "2022-10-11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11059529684,
+      "lat": 52.4075183,
+      "lon": 13.3722721,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:postcode": "12277",
+        "addr:street": "Nahmitzer Damm",
+        "addr:suburb": "Marienfelde",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-marienfelde/fc/604",
+        "email": "service.NL604@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "operator": "BAUHAUS Fachcentren Berlin GmbH & Co. KG",
+        "phone": "+49 30 720050",
+        "shop": "doityourself",
+        "source": "Geoportal Berlin / Hauskoordinaten",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11778986402,
+      "lat": 51.275964,
+      "lon": 6.8085775,
+      "tags": {
+        "addr:city": "Düsseldorf",
+        "addr:housenumber": "49",
+        "addr:postcode": "40472",
+        "addr:street": "Am Hülserhof",
+        "branch": "Rath",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "email": "service.nl878@bauhaus-ag.de",
+        "internet_access": "wlan",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "pets": "yes",
+        "phone": "+49 211 2107410",
+        "shop": "doityourself",
+        "start_date": "2024-03-22",
+        "surveillance": "yes",
+        "website": "https://bauhaus.info"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11939377123,
+      "lat": 52.3949442,
+      "lon": 9.7363868,
+      "tags": {
+        "addr:city": "Hannover",
+        "addr:housenumber": "23a",
+        "addr:postcode": "30163",
+        "addr:street": "Dragonerstraße",
+        "level": "-1;1",
+        "name": "Naturbauhaus Farbenfroh e. K.",
+        "opening_hours": "Tu, Fr 10:00-18:00; We,Th 14:00-18:00; Sa 10:00-14:00; Su,Mo,PH off",
+        "operator": "J. Marx",
+        "payment:cash": "yes",
+        "payment:maestro": "yes",
+        "phone": "+49 511 622321",
+        "shop": "doityourself",
+        "website": "https://www.naturbauhaus-farbenfroh.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12517940711,
+      "lat": 50.3966675,
+      "lon": 7.5110302,
+      "tags": {
+        "addr:city": "Mülheim-Kärlich",
+        "addr:housenumber": "2",
+        "addr:postcode": "56218",
+        "addr:street": "In der Pützgewann",
+        "addr:suburb": "Urmitz-Bahnhof",
+        "branch": "Mülheim Kärlich",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date": "2025-11-18",
+        "contact:facebook": "https://www.facebook.com/bauhaus/",
+        "contact:instagram": "https://www.instagram.com/bauhausdeutschland/",
+        "contact:pinterest": "https://www.pinterest.de/bauhausinfo/",
+        "contact:twitter": "https://twitter.com/bauhausinfo",
+        "contact:youtube": "https://www.youtube.com/user/Bauhausinfo",
+        "email": "service.NL559@bauhaus-ag.de",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "phone": "+49 2630 94310",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "stroller": "yes",
+        "toilets": "yes",
+        "website": "https://bauhaus.info",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4700552,
+      "center": {
+        "lat": 53.0079908,
+        "lon": 8.7048081
+      },
+      "tags": {
+        "addr:city": "Stuhr",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "28816",
+        "addr:street": "3-K-Weg",
+        "addr:suburb": "Groß Mackenstedt",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "phone": "+49 4206 4167 0",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19727326,
+      "center": {
+        "lat": 50.7972234,
+        "lon": 6.1052423
+      },
+      "tags": {
+        "addr:city": "Aachen",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "52070",
+        "addr:street": "Gut-Dämme-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "contact:phone": "+49 241 9386-0",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrensuche/aachen/fc/586",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22762245,
+      "center": {
+        "lat": 53.5857714,
+        "lon": 9.8737261
+      },
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "252",
+        "addr:postcode": "22549",
+        "addr:street": "Rugenbarg",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "3",
+        "check_date:opening_hours": "2023-05-16",
+        "contact:fax": "+49 40 533270013",
+        "contact:phone": "+49 40 53327000",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hamburg-lurup/fc/865",
+        "name": "Bauhaus",
+        "old_name": "Max Bahr",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "Bauhaus Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Nord",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23180187,
+      "center": {
+        "lat": 51.7632158,
+        "lon": 14.360054
+      },
+      "tags": {
+        "addr:city": "Cottbus",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "03042",
+        "addr:street": "Paul-Greifzu-Straße",
+        "addr:suburb": "Sandow",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "1",
+        "building:material": "plastic",
+        "fax": "+49 355 49436013",
+        "height": "7",
+        "name": "Bauhaus",
+        "name:hsb": "Twarski mark Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 355 4943600",
+        "roof:colour": "#f2f2f2",
+        "roof:material": "tar_paper",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23386017,
+      "center": {
+        "lat": 53.6037796,
+        "lon": 10.0719375
+      },
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "136",
+        "addr:postcode": "22177",
+        "addr:street": "Bramfelder Chaussee",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "check_date:opening_hours": "2023-06-20",
+        "contact:email": "Info.NL663@bauhaus-ag.de",
+        "contact:fax": "+49 40 642257013",
+        "contact:phone": "+49 40 64225700",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hamburg-bramfeld/fc/663",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "Bauhaus Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Nord",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Ein Elektrorollstuhl und ein Einkaufswagen für Rollifahrer stehen zur Verfügung."
+      }
+    },
+    {
+      "type": "way",
+      "id": 23619103,
+      "center": {
+        "lat": 51.3748353,
+        "lon": 6.773985
+      },
+      "tags": {
+        "addr:city": "Duisburg",
+        "addr:housenumber": "28",
+        "addr:postcode": "47269",
+        "addr:street": "Keniastraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "drive_through": "yes",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "phone": "+49203710290",
+        "roof:shape": "flat",
+        "self_checkout": "yes",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24049246,
+      "center": {
+        "lat": 52.5618586,
+        "lon": 13.327587
+      },
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1-2",
+        "addr:postcode": "13405",
+        "addr:street": "Kapweg",
+        "addr:suburb": "Wedding",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date:opening_hours": "2025-07-28",
+        "email": "Service.NL656@bauhaus-ag.de",
+        "fax": "+49 30 364111113",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "phone": "+49 30 36411110",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-wedding/fc/656",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24230210,
+      "center": {
+        "lat": 52.4616305,
+        "lon": 13.5040749
+      },
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "139",
+        "addr:postcode": "12439",
+        "addr:street": "Schnellerstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2025-11-19",
+        "check_date:opening_hours": "2025-11-19",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24393423,
+      "center": {
+        "lat": 50.8068297,
+        "lon": 6.1506424
+      },
+      "tags": {
+        "addr:city": "Würselen",
+        "addr:housenumber": "14",
+        "addr:postcode": "52146",
+        "addr:street": "Adenauerstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:30-20:00; Su,PH off",
+        "phone": "+49 2405 489370",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24691546,
+      "center": {
+        "lat": 53.4805134,
+        "lon": 10.2094108
+      },
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "45",
+        "addr:postcode": "21029",
+        "addr:street": "Curslacker Neuer Deich",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "name": "Bauhaus",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24802709,
+      "center": {
+        "lat": 49.9621186,
+        "lon": 9.1729942
+      },
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "check_date": "2023-05-13",
+        "height": "23",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH off",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24864353,
+      "center": {
+        "lat": 51.5369733,
+        "lon": 7.4771228
+      },
+      "tags": {
+        "addr:city": "Dortmund",
+        "addr:country": "DE",
+        "addr:housenumber": "333",
+        "addr:postcode": "44145",
+        "addr:street": "Bornstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "roof:levels": "0",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25114190,
+      "center": {
+        "lat": 52.5294633,
+        "lon": 13.2195656
+      },
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "13597",
+        "addr:street": "An den Freiheitswiesen",
+        "addr:suburb": "Spandau",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "check_date": "2025-11-28",
+        "contact:email": "Info.NL623@bauhaus-ag.de",
+        "contact:phone": "+49 30 53005990",
+        "contact:website": "http://www.bauhaus.info",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-20:00; Sa 08:00-21:00; Su, PH off",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25619088,
+      "center": {
+        "lat": 54.3318174,
+        "lon": 10.1145488
+      },
+      "tags": {
+        "addr:city": "Kiel",
+        "addr:country": "DE",
+        "addr:housenumber": "79",
+        "addr:postcode": "24116",
+        "addr:street": "Gutenbergstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "building:levels": "2",
+        "check_date": "2025-10-31",
+        "check_date:opening_hours": "2023-10-27",
+        "name": "Bauhaus",
+        "old_name": "Max Bahr",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 25779279,
+      "center": {
+        "lat": 49.3365701,
+        "lon": 8.4125952
+      },
+      "tags": {
+        "addr:city": "Speyer",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "67346",
+        "addr:street": "Iggelheimer Straße",
+        "branch": "Speyer",
+        "branch:ref": "531",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "contact:website": "http://www.bauhaus.info/fachcentren/fachcentrensuche/speyer/fc/531",
+        "drive_in": "yes",
+        "email": "Info.NL531@bauhaus-ag.de",
+        "fax": "+49 6232 6035 13",
+        "internet_access": "wlan",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "operator": "Bauhaus GmbH & Co.KG Rhein-Main-Neckar",
+        "phone": "+49 6232 60350",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-speyer/fc/531",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26011057,
+      "center": {
+        "lat": 49.2904322,
+        "lon": 6.7848036
+      },
+      "tags": {
+        "addr:city": "Ensdorf/Saar",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "66806",
+        "addr:street": "Gustav-Stresemann-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:authentication": "no",
+        "internet_access:captive_portal": "yes",
+        "internet_access:fee": "no",
+        "internet_access:operator:wikidata": "Q9396",
+        "internet_access:ssid": "BAUHAUS Public WiFi",
+        "level": "0",
+        "name": "Bauhaus",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26570627,
+      "center": {
+        "lat": 53.664506,
+        "lon": 9.9941154
+      },
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "22419",
+        "addr:street": "Tarpen",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "check_date:opening_hours": "2022-11-24",
+        "contact:fax": "+49 40 6886035-13",
+        "contact:phone": "+49 40 6886035-0",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hamburg-langenhorn/fc/858",
+        "email": "Service.NL858@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "Bauhaus Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Nord",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26764123,
+      "center": {
+        "lat": 50.3826039,
+        "lon": 7.57426
+      },
+      "tags": {
+        "addr:city": "Koblenz",
+        "addr:country": "DE",
+        "addr:housenumber": "1-7",
+        "addr:postcode": "56070",
+        "addr:street": "Otto-Schönhagen-Straße",
+        "branch": "Koblenz Lützel",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "name": "Bauhaus",
+        "operator": "Bauhaus Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Mittelrhein",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26790316,
+      "center": {
+        "lat": 51.034258,
+        "lon": 7.0113881
+      },
+      "tags": {
+        "addr:city": "Leverkusen",
+        "addr:housenumber": "14",
+        "addr:postcode": "51377",
+        "addr:street": "Syltstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "contact:facebook": "bauhaus",
+        "contact:instagram": "bauhausdeutschland",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26832459,
+      "center": {
+        "lat": 52.485261,
+        "lon": 13.4217503
+      },
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "106-114",
+        "addr:postcode": "10967",
+        "addr:street": "Hasenheide",
+        "addr:suburb": "Neukölln",
+        "branch": "Berlin-Neukölln",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "4",
+        "check_date:opening_hours": "2025-10-08",
+        "email": "service.nl814@bauhaus-ag.de",
+        "fee": "yes",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+49 30 627900 0",
+        "ref:vatin": "DE136658025",
+        "roof:colour": "grey",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-neukoelln/fc/814",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26958041,
+      "center": {
+        "lat": 48.8216938,
+        "lon": 10.0450659
+      },
+      "tags": {
+        "addr:city": "Essingen",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "73457",
+        "addr:street": "Margarete-Steiff-Straße",
+        "addr:suburb": "Dauerwang",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 7365 96210",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27283969,
+      "center": {
+        "lat": 53.5961388,
+        "lon": 9.920853
+      },
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "499",
+        "addr:postcode": "22525",
+        "addr:street": "Kieler Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "3",
+        "check_date": "2026-02-24",
+        "check_date:opening_hours": "2026-02-24",
+        "contact:fax": "+49 40 521089813",
+        "contact:phone": "+49 40 5210898 0",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hamburg-stellingen/fc/664",
+        "email": "Service.NL664@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "Bauhaus Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Nord",
+        "payment:cards": "yes",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 27436941,
+      "center": {
+        "lat": 48.8986954,
+        "lon": 8.6689496
+      },
+      "tags": {
+        "addr:city": "Pforzheim",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "75179",
+        "addr:street": "Konstanzer Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 7231 429060",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes",
+        "wheelchair:access": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28132164,
+      "center": {
+        "lat": 49.4071252,
+        "lon": 11.0008579
+      },
+      "tags": {
+        "addr:city": "Stein",
+        "addr:housenumber": "11",
+        "addr:postcode": "90547",
+        "addr:street": "Spitzleitenweg",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2025-08-10",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28143475,
+      "center": {
+        "lat": 52.2155477,
+        "lon": 10.5306578
+      },
+      "tags": {
+        "addr:city": "Braunschweig",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "38124",
+        "addr:street": "Senefelderstraße",
+        "addr:suburb": "Stöckheim",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "industrial",
+        "check_date:opening_hours": "2024-03-29",
+        "level": "0",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28334460,
+      "center": {
+        "lat": 50.8968468,
+        "lon": 7.0717028
+      },
+      "tags": {
+        "addr:city": "Köln",
+        "addr:country": "DE",
+        "addr:housenumber": "80-86",
+        "addr:postcode": "51149",
+        "addr:street": "Theodor-Heuss-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "building:levels": "1",
+        "building:use": "commercial",
+        "check_date:opening_hours": "2025-08-07",
+        "contact:email": "Service.NL608@bauhaus-ag.de",
+        "contact:fax": "+49 2203 2974813",
+        "contact:phone": "+49 2203 297480",
+        "contact:website": "https://www.bauhaus.info/fc/koeln-porz/608",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "roof:shape": "flat",
+        "self_checkout": "yes",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28715246,
+      "center": {
+        "lat": 48.8604883,
+        "lon": 8.2413749
+      },
+      "tags": {
+        "addr:city": "Rastatt",
+        "addr:housenumber": "1",
+        "addr:postcode": "76437",
+        "addr:street": "Im Baisert",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2026-01-19",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 7222 506490",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "self_checkout": "yes",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29033850,
+      "center": {
+        "lat": 51.4514984,
+        "lon": 6.989455
+      },
+      "tags": {
+        "addr:city": "Essen",
+        "addr:country": "DE",
+        "addr:housenumber": "129",
+        "addr:postcode": "45145",
+        "addr:street": "Schederhofstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29350709,
+      "center": {
+        "lat": 54.2700139,
+        "lon": 13.1141144
+      },
+      "tags": {
+        "addr:city": "Stralsund",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "18439",
+        "addr:street": "Gustower Weg",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "check_date:opening_hours": "2026-03-27",
+        "email": "Info.NL600@bauhaus-ag.de",
+        "fax": "+493831275913",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49383127590",
+        "shop": "doityourself",
+        "wheelchair": "yes",
+        "wheelchair:description": "Vom Bus oder vom Real fast unmöglich, da sehr steiler Berg, mit Rollstuhl nicht zu bewältigen."
+      }
+    },
+    {
+      "type": "way",
+      "id": 29401013,
+      "center": {
+        "lat": 50.9460095,
+        "lon": 6.9112882
+      },
+      "tags": {
+        "addr:city": "Köln",
+        "addr:country": "DE",
+        "addr:housenumber": "190a",
+        "addr:postcode": "50825",
+        "addr:street": "Weinsbergstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "building:use": "commercial",
+        "check_date": "2025-10-04",
+        "dog": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "operator": "Bauhaus Gesellschaft för Bau- und Hausbedarf mbH & Co.KG",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 221 943810 0",
+        "ref:vatin": "DE293710501",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "source": "photography",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-koeln-ehrenfeld/fc/665",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30072118,
+      "center": {
+        "lat": 48.7752275,
+        "lon": 11.3862528
+      },
+      "tags": {
+        "addr:city": "Ingolstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "85057",
+        "addr:street": "Am Westpark",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "building:levels": "1",
+        "check_date:opening_hours": "2024-08-21",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "source": "HiRes aerial imagery",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30181261,
+      "center": {
+        "lat": 50.8682742,
+        "lon": 12.078252
+      },
+      "tags": {
+        "addr:city": "Gera",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "07548",
+        "addr:street": "Elsterdamm",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "2",
+        "contact:email": "Service.NL669@Bauhaus-ag.de",
+        "contact:facebook": "https://www.facebook.com/bauhaus",
+        "contact:fax": "+49 365 55150313",
+        "contact:instagram": "https://www.instagram.com/bauhausdeutschland",
+        "contact:phone": "+49 365 5515030",
+        "contact:twitter": "https://twitter.com/bauhausinfo",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-gera/fc/669",
+        "height": "10",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "operator": "BAUHAUS E-Business Gesellschaft für Bau- und Hausbedarf mbH & Co. KG",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "roof:colour": "light grey",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30808551,
+      "center": {
+        "lat": 48.0706766,
+        "lon": 8.4467011
+      },
+      "tags": {
+        "addr:city": "Villingen-Schwenningen",
+        "addr:housenumber": "19",
+        "addr:postcode": "78048",
+        "addr:street": "Berliner Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "operator": "BAUHAUS Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Süd",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 7721 98250",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-villingen-schwenningen/fc/547",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30860030,
+      "center": {
+        "lat": 51.1543744,
+        "lon": 6.4492639
+      },
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "yes",
+        "check_date:opening_hours": "2026-01-23",
+        "name": "Bauhaus Baumarkt",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31410869,
+      "center": {
+        "lat": 48.9941788,
+        "lon": 12.1165084
+      },
+      "tags": {
+        "addr:city": "Regensburg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "93053",
+        "addr:street": "Langobardenstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-regensburg/fc/572",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31670307,
+      "center": {
+        "lat": 52.2725259,
+        "lon": 10.4975354
+      },
+      "tags": {
+        "addr:city": "Braunschweig",
+        "addr:country": "DE",
+        "addr:housenumber": "57-59",
+        "addr:postcode": "38114",
+        "addr:street": "Hildesheimer Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2025-01-18",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 621 3905 1000",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fc/braunschweig/607",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33003697,
+      "center": {
+        "lat": 53.5757693,
+        "lon": 10.1945671
+      },
+      "tags": {
+        "addr:city": "Barsbüttel",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "22885",
+        "addr:street": "Rahlstedter Straße",
+        "branch": "Barsbüttel",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date:opening_hours": "2025-02-21",
+        "contact:fax": "+49 40 669076713",
+        "contact:phone": "+49 40 66907670",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-barsbuettel/fc/624",
+        "name": "Bauhaus",
+        "note": "NL624",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "operator": "BAUHAUS Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Hansa",
+        "roof:levels": "1",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33524148,
+      "center": {
+        "lat": 54.1068085,
+        "lon": 12.0590297
+      },
+      "tags": {
+        "addr:city": "Rostock",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "18069",
+        "addr:street": "An den Griebensöllen",
+        "addr:suburb": "Evershagen",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:colour": "#e02f35",
+        "building:levels": "2",
+        "check_date": "2025-11-08",
+        "contact:phone": "+49 381 666415-0",
+        "delivery:covid19": "only",
+        "height": "8",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Bauhaus Public WIFI",
+        "kvl_hro:amenity": "store",
+        "kvl_hro:type": "1441",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "source": "KVL HRO",
+        "takeaway:covid19": "only",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-rostock-schutow/fc/667",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33542710,
+      "center": {
+        "lat": 52.3580764,
+        "lon": 13.4363963
+      },
+      "tags": {
+        "addr:city": "Blankenfelde-Mahlow",
+        "addr:country": "DE",
+        "addr:housenumber": "87-91",
+        "addr:postcode": "15831",
+        "addr:street": "Am Lückefeld",
+        "addr:suburb": "Mahlow",
+        "branch": "Mahlow",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH,Su closed",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33712617,
+      "center": {
+        "lat": 48.4718417,
+        "lon": 7.9296705
+      },
+      "tags": {
+        "addr:city": "Offenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "77656",
+        "addr:street": "Max-Planck-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "commercial",
+        "fax": "+49 781 919448 13",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 781 919448 0",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-offenburg/fc/621",
+        "wheelchair": "yes",
+        "wheelchair:description": "Barrierefrei"
+      }
+    },
+    {
+      "type": "way",
+      "id": 34201992,
+      "center": {
+        "lat": 48.0051441,
+        "lon": 10.1717457
+      },
+      "tags": {
+        "addr:city": "Memmingen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "87700",
+        "addr:street": "Fraunhoferstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2025-08-09",
+        "check_date:opening_hours": "2025-04-06",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 8331 92449-0",
+        "roof:levels": "0",
+        "shop": "doityourself",
+        "website": "https://bauhaus.info",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35910944,
+      "center": {
+        "lat": 50.7595345,
+        "lon": 7.0280823
+      },
+      "tags": {
+        "addr:city": "Bornheim",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "53332",
+        "addr:street": "Alexander-Bell-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:colour": "#ffffff",
+        "building:material": "metal",
+        "check_date": "2026-01-24",
+        "check_date:opening_hours": "2026-01-24",
+        "height": "8",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "roof:colour": "#FAFAFA",
+        "roof:material": "metal",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36124234,
+      "center": {
+        "lat": 50.4384519,
+        "lon": 7.4910274
+      },
+      "tags": {
+        "addr:city": "Neuwied",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "56566",
+        "addr:street": "Allensteiner Straße",
+        "branch": "Drive In Arena",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "yes",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "operator": "Bauhaus",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36124286,
+      "center": {
+        "lat": 50.438797,
+        "lon": 7.4899441
+      },
+      "tags": {
+        "addr:city": "Neuwied",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "56566",
+        "addr:street": "Allensteiner Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "contact:facebook": "https://www.bauhaus.info",
+        "contact:instagram": "https://www.instagram.com/bauhausdeutschland/",
+        "contact:pinterest": "https://www.pinterest.de/bauhausinfo/",
+        "contact:twitter": "https://twitter.com/bauhausinfo",
+        "contact:youtube": "https://www.youtube.com/user/Bauhausinfo",
+        "email": "service.NL650@bauhaus-ag.de",
+        "fax": "+49 2631 837413",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "operator": "Bauhaus GmbH & Co. KG",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "phone": "+49 2631 83740",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37287853,
+      "center": {
+        "lat": 51.1458681,
+        "lon": 6.7547949
+      },
+      "tags": {
+        "addr:city": "Neuss",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "41470",
+        "addr:street": "Am Kirchenmorgen",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "email": "info.nl628@bauhaus-ag.de",
+        "fax": "+49 2137 92099-13",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "phone": "+49 2137 92099-0",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40106846,
+      "center": {
+        "lat": 50.1933386,
+        "lon": 8.7297339
+      },
+      "tags": {
+        "addr:city": "Bad Vilbel",
+        "addr:housenumber": "25",
+        "addr:postcode": "61118",
+        "addr:street": "Zeppelinstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2025-09-21",
+        "description": "Bauzentrum Maeusel eröffnet neu als BAUHAUS",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "start_date": "2023-04-28",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 41860856,
+      "center": {
+        "lat": 50.9437026,
+        "lon": 6.9962958
+      },
+      "tags": {
+        "addr:city": "Köln",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "51103",
+        "addr:street": "Istanbulstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "building:levels": "1",
+        "building:use": "commercial",
+        "height": "15",
+        "name": "Bauhaus",
+        "note": "Höhe nur geschätzt",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrensuche/fachcentrum-koeln-kalk/fc/616",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 44004385,
+      "center": {
+        "lat": 48.7241004,
+        "lon": 9.1261487
+      },
+      "tags": {
+        "addr:city": "Stuttgart",
+        "addr:housenumber": "57",
+        "addr:postcode": "70565",
+        "addr:street": "Industriestraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "industrial",
+        "check_date:opening_hours": "2025-03-17",
+        "name": "Bauhaus",
+        "opening_hours": "Sa 08:00-20:00; Mo-Fr 07:00-20:00",
+        "phone": "+49 711 5188660",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 44904672,
+      "center": {
+        "lat": 53.239126,
+        "lon": 10.4636324
+      },
+      "tags": {
+        "addr:city": "Lüneburg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "21337",
+        "addr:street": "Auf den Blöcken",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "contact:fax": "+49 4131 2988813",
+        "contact:phone": "+49 4131 298880",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-lueneburg/fc/666",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "Bauhaus Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Nord",
+        "shop": "doityourself",
+        "surveillance": "indoor",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 45883708,
+      "center": {
+        "lat": 49.1838282,
+        "lon": 9.2239882
+      },
+      "tags": {
+        "addr:city": "Neckarsulm",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "74172",
+        "addr:street": "Robert-Bosch-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "yes",
+        "check_date": "2024-10-15",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 7132 93340",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48133177,
+      "center": {
+        "lat": 52.1663946,
+        "lon": 11.663852
+      },
+      "tags": {
+        "addr:city": "Magdeburg",
+        "addr:housenumber": "20",
+        "addr:postcode": "39126",
+        "addr:street": "Havelstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "email": "Service.NL400@bauhaus-ag.de",
+        "fax": "+49 391 5093913",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "BAUHAUS in Sachsen GmbH & Co. KG",
+        "phone": "+49 391 509390",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-magdeburg/fc/400",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48466507,
+      "center": {
+        "lat": 50.132165,
+        "lon": 8.7631833
+      },
+      "tags": {
+        "addr:city": "Frankfurt am Main",
+        "addr:housenumber": "517-543",
+        "addr:postcode": "60386",
+        "addr:street": "Hanauer Landstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2024-08-13",
+        "fax": "+49 69 21978813",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 69 2197880",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52007850,
+      "center": {
+        "lat": 51.2729286,
+        "lon": 9.5019107
+      },
+      "tags": {
+        "addr:city": "Fuldabrück",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "34277",
+        "addr:street": "Albert-Einstein-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "email": "Info.NL603@bauhaus-ag.de",
+        "fax": "+49 561 5859613",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 561 585960",
+        "shop": "doityourself",
+        "source": "http://www.bauhaus.de/",
+        "source:date": "2015-12-14",
+        "website": "http://www.bauhaus.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52131203,
+      "center": {
+        "lat": 54.289007,
+        "lon": 10.2300378
+      },
+      "tags": {
+        "addr:city": "Schwentinental",
+        "addr:country": "DE",
+        "addr:housenumber": "28-32",
+        "addr:postcode": "24223",
+        "addr:street": "Klausdorfer Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "check_date:opening_hours": "2022-10-09",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52513722,
+      "center": {
+        "lat": 49.8553105,
+        "lon": 7.8956826
+      },
+      "tags": {
+        "addr:city": "Bad Kreuznach",
+        "addr:country": "DE",
+        "addr:housenumber": "2a",
+        "addr:postcode": "55545",
+        "addr:street": "Mainzer Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "email": "Info.nl537@bauhaus-ah.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 671 886080",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 54727041,
+      "center": {
+        "lat": 51.3737901,
+        "lon": 7.4573965
+      },
+      "tags": {
+        "addr:city": "Hagen",
+        "addr:housenumber": "90",
+        "addr:postcode": "58089",
+        "addr:street": "Eckeseyer Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "de:Bauhaus (Baumarkt)",
+        "building": "retail",
+        "check_date:opening_hours": "2023-12-15",
+        "height": "8",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH,Su off",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 54856134,
+      "center": {
+        "lat": 54.3541493,
+        "lon": 10.0923068
+      },
+      "tags": {
+        "addr:city": "Kiel",
+        "addr:country": "DE",
+        "addr:housenumber": "215",
+        "addr:postcode": "24107",
+        "addr:street": "Steenbeker Weg",
+        "addr:suburb": "Suchsdorf",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "building:levels": "1",
+        "check_date": "2025-07-11",
+        "email": "Service.NL571@bauhaus-ag.de",
+        "fax": "+49 431 3011313",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Dec 24 08:00-14:00; Dec 31 08:00-14:00",
+        "operator": "BAUHAUS GmbH & Co. KG",
+        "phone": "+49 431 301130",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "toilets:wheelchair": "no",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-kiel-suchsdorf/fc/571",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55008475,
+      "center": {
+        "lat": 51.47027,
+        "lon": 7.0455869
+      },
+      "tags": {
+        "addr:city": "Essen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "45141",
+        "addr:street": "Langemarckstraße",
+        "branch": "drive in ",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "building:colour": "white",
+        "building:levels": "1",
+        "building:material": "plaster",
+        "check_date:opening_hours": "2023-12-04",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-20:00",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "roof:colour": "grey",
+        "roof:material": "metal",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 56191943,
+      "center": {
+        "lat": 50.8852447,
+        "lon": 6.8970834
+      },
+      "tags": {
+        "addr:city": "Hürth",
+        "addr:housenumber": "223-225",
+        "addr:postcode": "50354",
+        "addr:street": "Luxemburger Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 60455187,
+      "center": {
+        "lat": 52.7040399,
+        "lon": 13.2683221
+      },
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "yes",
+        "check_date:opening_hours": "2022-01-29",
+        "email": "Info.NL577@bauhaus-ag.de",
+        "fax": "+49 3303 5206 13",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "phone": "+49 3303 5206 0",
+        "roof:material": "metal",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-birkenwerder/fc/577"
+      }
+    },
+    {
+      "type": "way",
+      "id": 62811069,
+      "center": {
+        "lat": 50.9197303,
+        "lon": 6.839315
+      },
+      "tags": {
+        "addr:city": "Frechen",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "50226",
+        "addr:street": "Europaallee",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "operator": "Bauhaus AG",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/standortliste/index.html?showUid=87&cHash=e27aba8aa1",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 70786923,
+      "center": {
+        "lat": 49.4845744,
+        "lon": 8.3549819
+      },
+      "tags": {
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "67071",
+        "addr:street": "Oderstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "check_date": "2025-07-18",
+        "check_date:opening_hours": "2020-11-21",
+        "fax": "+49 621 54930713",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 621 5493070",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 76844715,
+      "center": {
+        "lat": 49.4075951,
+        "lon": 8.6568016
+      },
+      "tags": {
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "48",
+        "addr:postcode": "69115",
+        "addr:street": "Eppelheimer Straße",
+        "branch": "Heidelberg",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "changing_table": "yes",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 80253164,
+      "center": {
+        "lat": 48.4828304,
+        "lon": 8.4121656
+      },
+      "tags": {
+        "addr:city": "Freudenstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "72250",
+        "addr:street": "Im Sulzhau",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "commercial",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "payment:apple_pay": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:girocard": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:wechat": "no",
+        "roof:levels": "0",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-freudenstadt/fc/642",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 80858331,
+      "center": {
+        "lat": 52.6150677,
+        "lon": 13.4335491
+      },
+      "tags": {
+        "access:covid19": "yes",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "53",
+        "addr:postcode": "13127",
+        "addr:street": "Schönerlinder Straße",
+        "addr:suburb": "Französisch Buchholz",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "email": "Info.NL578@bauhaus-ag.de",
+        "fax": "+49 30 475971 13",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 30 475971 0",
+        "roof:levels": "0",
+        "shop": "doityourself",
+        "takeaway:covid19": "yes",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 82445638,
+      "center": {
+        "lat": 51.3179506,
+        "lon": 6.5840095
+      },
+      "tags": {
+        "addr:city": "Krefeld",
+        "addr:country": "DE",
+        "addr:housenumber": "89",
+        "addr:postcode": "47807",
+        "addr:street": "Untergath",
+        "building": "yes",
+        "name": "Bauhaus",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 87313466,
+      "center": {
+        "lat": 51.1908924,
+        "lon": 7.0691752
+      },
+      "tags": {
+        "addr:city": "Solingen",
+        "addr:housenumber": "55",
+        "addr:postcode": "42719",
+        "addr:street": "Focher Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "building:levels": "2",
+        "building:material": "plaster",
+        "height": "8",
+        "name": "Bauhaus",
+        "note": "laut Lageplan HausNr 55 , Bauhaus firmiert unter HausNr 53",
+        "opening_hours": "Mo-Fr 08:30-20:00; Sa 08:00-20:00",
+        "operator": "Bauhaus",
+        "roof:material": "tar_paper",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "source": "Bing",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 87352620,
+      "center": {
+        "lat": 48.3384956,
+        "lon": 10.9005064
+      },
+      "tags": {
+        "addr:city": "Augsburg",
+        "addr:country": "DE",
+        "addr:housenumber": "99",
+        "addr:postcode": "86159",
+        "addr:street": "Alter Postweg",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2026-03-21",
+        "contact:phone": "+49 821 257360",
+        "contact:website": "https://www.bauhaus.info/",
+        "height": "7",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90064343,
+      "center": {
+        "lat": 49.3480255,
+        "lon": 6.7300306
+      },
+      "tags": {
+        "addr:city": "Dillingen/Saar",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "66763",
+        "addr:street": "Uferstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "yes",
+        "building:use": "commercial",
+        "check_date": "2025-11-03",
+        "check_date:opening_hours": "2025-11-03",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 6831 90830",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90494889,
+      "center": {
+        "lat": 47.6343204,
+        "lon": 7.6783786
+      },
+      "tags": {
+        "addr:city": "Lörrach",
+        "addr:housenumber": "1",
+        "addr:postcode": "79541",
+        "addr:street": "Industriestraße",
+        "addr:suburb": "Haagen",
+        "branch": "Lörrach Haagen",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "commercial",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 7621 422570",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrensuche/loerrach-haagen/fc/594",
+        "wheelchair": "yes",
+        "wheelchair:description": "Parkplatz mit 10 Behindertenparkplätzen vorhanden!"
+      }
+    },
+    {
+      "type": "way",
+      "id": 92704284,
+      "center": {
+        "lat": 53.5962434,
+        "lon": 11.4304847
+      },
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "greenhouse",
+        "height": "8",
+        "name": "Bauhaus",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 92704442,
+      "center": {
+        "lat": 53.5964337,
+        "lon": 11.4319471
+      },
+      "tags": {
+        "addr:city": "Schwerin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "19061",
+        "addr:street": "Graf-Yorck-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "building:levels": "1",
+        "disused:shop": "doityourself",
+        "height": "8",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "roof:material": "metal",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 93211530,
+      "center": {
+        "lat": 51.4998336,
+        "lon": 7.2575544
+      },
+      "tags": {
+        "addr:city": "Bochum",
+        "addr:country": "DE",
+        "addr:housenumber": "51",
+        "addr:postcode": "44805",
+        "addr:street": "Castroper Hellweg",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2025-02-01",
+        "email": "Service.NL519@bauhaus-ag.de",
+        "fax": "+49 234 9502213",
+        "name": "BAUHAUS Bochum-Harpen",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 08:30-20:00",
+        "operator": "Bauhaus GmbH & Co. KG Rhein-Ruhr",
+        "phone": "+49 234 950220",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrensuche/fachcentrum-bochumharpen/fc/519",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 93317352,
+      "center": {
+        "lat": 50.7794849,
+        "lon": 7.2699366
+      },
+      "tags": {
+        "addr:city": "Hennef (Sieg)",
+        "addr:housenumber": "30",
+        "addr:postcode": "53773",
+        "addr:street": "Fritz-Jacobi-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "de:Bauhaus (Baumarkt)",
+        "building": "commercial",
+        "fax": "+49 2242 8746513",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 2242 874650",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-hennef/fc/856",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 94340051,
+      "center": {
+        "lat": 53.8787103,
+        "lon": 10.675509
+      },
+      "tags": {
+        "access:covid19": "yes",
+        "addr:city": "Lübeck",
+        "addr:country": "DE",
+        "addr:housenumber": "102",
+        "addr:postcode": "23554",
+        "addr:street": "Bei der Lohmühle",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "check_date": "2024-0431",
+        "construction_year": "2010",
+        "delivery:covid19": "no",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "shop": "doityourself",
+        "takeaway:covid19": "no",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 96216146,
+      "center": {
+        "lat": 50.547045,
+        "lon": 7.1111711
+      },
+      "tags": {
+        "addr:city": "Bad Neuenahr-Ahrweiler",
+        "addr:housenumber": "58-60",
+        "addr:postcode": "53474",
+        "addr:street": "Wilhelmstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "check_date": "2024-12-09",
+        "check_date:opening_hours": "2024-12-09",
+        "email": "service.nl893@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49264197980",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 96593449,
+      "center": {
+        "lat": 51.4738464,
+        "lon": 7.1364013
+      },
+      "tags": {
+        "addr:city": "Bochum",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "44867",
+        "addr:street": "Fritz-Reuter-Straße",
+        "branch": "Bochum Wattenscheid",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:levels": "1",
+        "contact:email": "service.NL535@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:30-20:00",
+        "operator": "BAUHAUS Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Rhein-Ruhr",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:cryptocurrencies": "no",
+        "payment:electronic_purses": "no",
+        "payment:girocard": "yes",
+        "payment:notes": "yes",
+        "phone": "+49 2327 94750",
+        "roof:levels": "0",
+        "shop": "doityourself",
+        "toilets:wheelchair": "no",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-bochum-wattenscheid/fc/535",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 97693777,
+      "center": {
+        "lat": 50.7985651,
+        "lon": 6.1073589
+      },
+      "tags": {
+        "addr:city": "Aachen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "52070",
+        "addr:street": "Feldchen",
+        "building": "yes",
+        "name": "Bauhaus Drive-In Arena",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 97882534,
+      "center": {
+        "lat": 51.4547388,
+        "lon": 7.393992
+      },
+      "tags": {
+        "addr:city": "Witten",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "58454",
+        "addr:street": "Brauckstraße",
+        "addr:suburb": "Rüdinghausen",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "1",
+        "contact:email": "Info.NL625@bauhaus-ag.de",
+        "contact:fax": "+49 2302 5801513",
+        "contact:phone": "+49 2302 580150",
+        "contact:website": "https://www.bauhaus.info/",
+        "currency:EUR": "yes",
+        "currency:others": "no",
+        "delivery": "yes",
+        "drive_in": "yes",
+        "name": "Bauhaus",
+        "name:etymology:wikidata": "Q124354",
+        "opening_hours": "Mo-Fr 07:00-20:00, Sa 08:00-20:00; PH off",
+        "operator": "Bauhaus",
+        "operator:type": "private",
+        "operator:wikidata": "Q672043",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "roof:colour": "silver",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "smoking": "no",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikimedia_commons": "Category:Bauhaus (Witten)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 100467501,
+      "center": {
+        "lat": 51.3414027,
+        "lon": 9.4773242
+      },
+      "tags": {
+        "addr:city": "Kassel",
+        "addr:country": "DE",
+        "addr:housenumber": "203a",
+        "addr:postcode": "34127",
+        "addr:street": "Holländische Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "2",
+        "email": "Service.NL658@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 561 937151 0",
+        "roof:colour": "dimgray",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-kassel/fc/658",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 102034074,
+      "center": {
+        "lat": 50.0350213,
+        "lon": 10.2355328
+      },
+      "tags": {
+        "addr:city": "Schweinfurt",
+        "addr:country": "DE",
+        "addr:housenumber": "33",
+        "addr:postcode": "97424",
+        "addr:street": "Rudolf-Diesel-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 102410272,
+      "center": {
+        "lat": 48.5650312,
+        "lon": 13.4262732
+      },
+      "tags": {
+        "addr:city": "Passau",
+        "addr:country": "DE",
+        "addr:housenumber": "47",
+        "addr:postcode": "94036",
+        "addr:street": "Danziger Straße",
+        "addr:suburb": "Haidenhof",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "doityourself",
+        "toilets": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 102783805,
+      "center": {
+        "lat": 48.8597458,
+        "lon": 8.2398343
+      },
+      "tags": {
+        "addr:city": "Rastatt",
+        "addr:housenumber": "1",
+        "addr:postcode": "76437",
+        "addr:street": "Im Baisert",
+        "branch": "Drive In Arena",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2026-01-19",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 7222 506490",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 108248464,
+      "center": {
+        "lat": 49.0174568,
+        "lon": 8.3553115
+      },
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "76185",
+        "addr:street": "Neureuter Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "check_date": "2025-09-18",
+        "contact:phone": "+49 721 597170",
+        "layer": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 108864862,
+      "center": {
+        "lat": 51.0561194,
+        "lon": 12.1028242
+      },
+      "tags": {
+        "addr:city": "Kretzschau",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "06712",
+        "addr:street": "Alte Schulstraße",
+        "addr:suburb": "Grana",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "contact:email": "service@bauhaus.info",
+        "contact:facebook": "https://www.facebook.com/bauhaus",
+        "contact:fax": "+49 3441 616413",
+        "contact:instagram": "https://www.instagram.com/bauhausdeutschland",
+        "contact:phone": "+49 3441 61640",
+        "contact:twitter": "https://twitter.com/bauhausinfo",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-kretzschauotgrana",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off",
+        "operator": "Bauhaus GmbH & Co.KG",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:maestro": "yes",
+        "shop": "doityourself",
+        "source": "Hochbefliegung LMBVmbH 07/2010"
+      }
+    },
+    {
+      "type": "way",
+      "id": 110307778,
+      "center": {
+        "lat": 48.5536486,
+        "lon": 12.1582433
+      },
+      "tags": {
+        "addr:city": "Landshut",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "84030",
+        "addr:street": "Porschestraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "1",
+        "check_date": "2025-03-04",
+        "contact:facebook": "https://fb.com/bauhaus",
+        "contact:instagram": "https://instagram.com/bauhausdeutschland",
+        "contact:twitter": "https://twitter.com/bauhausinfo",
+        "email": "info.NL606@bauhaus-ag.de",
+        "fax": "+49 871 43072-13",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "operator": "BAUHAUS GmbH & Co. KG",
+        "phone": "+49 871 43072-0",
+        "roof:colour": "grey",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-landshut/fc/606",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 113971134,
+      "center": {
+        "lat": 49.7309562,
+        "lon": 6.6033732
+      },
+      "tags": {
+        "addr:city": "Trier",
+        "addr:country": "DE",
+        "addr:housenumber": "234",
+        "addr:postcode": "54294",
+        "addr:street": "Luxemburger Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 118286988,
+      "center": {
+        "lat": 48.2625972,
+        "lon": 8.851769
+      },
+      "tags": {
+        "addr:city": "Balingen",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "72336",
+        "addr:street": "Lange Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 118916584,
+      "center": {
+        "lat": 53.4606024,
+        "lon": 9.9935964
+      },
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "21079",
+        "addr:street": "Schlachthofstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "contact:email": "service.NL619@bauhaus-ag.de",
+        "contact:fax": "+49 40 788762613",
+        "contact:phone": "+49 40 78876260",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hamburg-harburg/fc/619",
+        "fixme": "2025-01, iD sieht \"Datenproblem\" siehe die ältere Notiz",
+        "memorial:ref": "1458",
+        "name": "Bauhaus",
+        "noaddress": "yes",
+        "note": "Die Adresse von Bauhaus liegt am südlichen Gebäude, dies hier hat keine!",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "operator": "BAUHAUS Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Hansa",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:girocard": "yes",
+        "roof:shape": "gabled",
+        "shop": "doityourself",
+        "source": "survey;local knowledge",
+        "wheelchair": "yes",
+        "year_of_construction": "1885"
+      }
+    },
+    {
+      "type": "way",
+      "id": 118916585,
+      "center": {
+        "lat": 53.4586233,
+        "lon": 9.992784
+      },
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "21079",
+        "addr:street": "Schlachthofstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "warehouse",
+        "memorial:ref": "1458",
+        "name": "Bauhaus",
+        "shop": "doityourself",
+        "year_of_construction": "1885"
+      }
+    },
+    {
+      "type": "way",
+      "id": 119476653,
+      "center": {
+        "lat": 50.9578819,
+        "lon": 7.1894167
+      },
+      "tags": {
+        "addr:city": "Bergisch Gladbach",
+        "addr:housenumber": "125",
+        "addr:postcode": "51429",
+        "addr:street": "Overather Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date": "2026-05-28",
+        "check_date:opening_hours": "2026-05-28",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fc/bergisch-gladbach-bensberg/892",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 120030437,
+      "center": {
+        "lat": 51.9447962,
+        "lon": 7.6478076
+      },
+      "tags": {
+        "addr:city": "Münster",
+        "addr:housenumber": "2",
+        "addr:postcode": "48155",
+        "addr:street": "Theodor-Scheiwe-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:levels": "1",
+        "email": "Service.NL661@bauhaus-ag.de",
+        "fax": "+49 251 13322513",
+        "name": "Bauhaus",
+        "old_name": "Max Bahr",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 251 1332250",
+        "shop": "doityourself",
+        "start_date": "14/03/2014",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 120126663,
+      "center": {
+        "lat": 47.9362152,
+        "lon": 8.4997147
+      },
+      "tags": {
+        "addr:city": "Donaueschingen",
+        "addr:housenumber": "28",
+        "addr:postcode": "78166",
+        "addr:street": "Bregstraße",
+        "addr:suburb": "Allemdshofen",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "email": "Info.NL662@bauhaus-ag.de",
+        "fax": "+49 771 929162 13",
+        "garden_centre": "yes",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "BAUHAUS Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Süd",
+        "phone": "+49 771 929162 0",
+        "shop": "doityourself",
+        "source:outline": "Bing",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrensuche/fachcentrum-donaueschingen/fc/662",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 124537428,
+      "center": {
+        "lat": 52.3777005,
+        "lon": 9.7293174
+      },
+      "tags": {
+        "addr:city": "Hannover",
+        "addr:country": "DE",
+        "addr:housenumber": "5-9",
+        "addr:postcode": "30159",
+        "addr:street": "Otto-Brenner-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "email": "Service.NL300@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-20:00",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 511 4580670",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 126440693,
+      "center": {
+        "lat": 48.7737195,
+        "lon": 9.2600115
+      },
+      "tags": {
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "500",
+        "addr:postcode": "70327",
+        "addr:street": "Augsburger Straße",
+        "branch": "Untertürkheim",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "changing_table": "yes",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Bauhaus",
+        "phone": "+49 711 722477-0",
+        "shop": "doityourself",
+        "toilets": "yes",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes",
+        "wheelchair:description:de": "alles ebenerdig, aber kein WC"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131318317,
+      "center": {
+        "lat": 53.0726117,
+        "lon": 8.8627858
+      },
+      "tags": {
+        "addr:city": "Bremen",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "28207",
+        "addr:street": "Stresemannstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date:opening_hours": "2025-01-04",
+        "contact:fax": "+49 421 48556-23",
+        "contact:phone": "+49 421 48556-0",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136758060,
+      "center": {
+        "lat": 48.1705536,
+        "lon": 8.5739957
+      },
+      "tags": {
+        "addr:city": "Zimmern ob Rottweil",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "78658",
+        "addr:street": "Raiffeisenstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "name": "Bauhaus",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140561512,
+      "center": {
+        "lat": 52.4090545,
+        "lon": 9.7067095
+      },
+      "tags": {
+        "addr:city": "Hannover",
+        "addr:country": "DE",
+        "addr:postcode": "30165",
+        "addr:street": "Schulenburger Landstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "shop": "doityourself",
+        "surveillance": "indoor",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 142047669,
+      "center": {
+        "lat": 48.5558574,
+        "lon": 12.1565013
+      },
+      "tags": {
+        "addr:city": "Landshut",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "84030",
+        "addr:street": "Maybachstraße",
+        "building": "yes",
+        "check_date": "2023-01-26",
+        "name": "Bauhaus drive in",
+        "phone": "+49 871 973890",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 148988039,
+      "center": {
+        "lat": 48.424065,
+        "lon": 10.8627475
+      },
+      "tags": {
+        "addr:city": "Gersthofen",
+        "addr:country": "DE",
+        "addr:housenumber": "2700",
+        "addr:postcode": "86368",
+        "addr:street": "Hery-Park",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 821 24785 0",
+        "shop": "doityourself",
+        "source": "local knowledge",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-gersthofen/fc/548",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 155164522,
+      "center": {
+        "lat": 49.9735309,
+        "lon": 8.2863362
+      },
+      "tags": {
+        "addr:city": "Mainz",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "55130",
+        "addr:street": "Max-Hufschmidt-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "building:use": "retail",
+        "check_date:opening_hours": "2026-02-01",
+        "height": "6",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158710321,
+      "center": {
+        "lat": 47.793155,
+        "lon": 9.6125077
+      },
+      "tags": {
+        "addr:city": "Ravensburg",
+        "addr:housenumber": "36",
+        "addr:postcode": "88212",
+        "addr:street": "Bleicherstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "check_date:opening_hours": "2026-05-30",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:girocard": "yes",
+        "payment:google_pay": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-ravensburg/fc/587",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159926244,
+      "center": {
+        "lat": 53.5125396,
+        "lon": 10.092142
+      },
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "77",
+        "addr:postcode": "22113",
+        "addr:street": "Unterer Landweg",
+        "branch": "Hamburg Moorfleet",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2023-05-11",
+        "check_date:opening_hours": "2024-01-29",
+        "contact:fax": "+49 40 81973913",
+        "contact:phone": "+49 40 8197390",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hamburg-moorfleet/fc/595",
+        "height": "11",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "BAUHAUS Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Hansa",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168141060,
+      "center": {
+        "lat": 51.4000408,
+        "lon": 12.3986241
+      },
+      "tags": {
+        "addr:city": "Leipzig",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "04356",
+        "addr:street": "Handelsstraße",
+        "air_conditioning": "yes",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "changing_table": "yes",
+        "check_date": "2025-11-01",
+        "check_date:opening_hours": "2024-08-04",
+        "email": "Service.NL646@bauhaus-ag.de",
+        "fax": "+49 341 600378 13",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "layer": "-1",
+        "location": "surface",
+        "name": "Bauhaus",
+        "name:de": "Bauhaus",
+        "opening_hours": "PH off; Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "operator": "BAUHAUS in Sachsen GmbH & Co. KG Gesellschaft für Bau- und Hausbedarf",
+        "payment:apple_pay": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:ec_cards": "yes",
+        "payment:girocard": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 341 600378 0",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrensuche/fachcentrum-leipzig/fc/646",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 168141069,
+      "center": {
+        "lat": 51.3998602,
+        "lon": 12.3999237
+      },
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "layer": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-21:00, Sa 08:00-21:00; PH off",
+        "operator": "Bauhaus",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 173434235,
+      "center": {
+        "lat": 51.5010927,
+        "lon": 7.2025495
+      },
+      "tags": {
+        "addr:city": "Bochum",
+        "addr:country": "DE",
+        "addr:housenumber": "205",
+        "addr:postcode": "44809",
+        "addr:street": "Hofsteder Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "de:Bauhaus (Baumarkt)",
+        "building": "commercial",
+        "building:levels": "1",
+        "check_date:opening_hours": "2023-01-17",
+        "contact:email": "service.nl648@bauhaus-ag.de",
+        "contact:phone": "+49 234 539943-0",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-bochum-hofstede/fc/648",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 9:00-20:00, Sa 8:30-20:00; PH off",
+        "payment:cash": "yes",
+        "payment:cryptocurrencies": "no",
+        "payment:girocard": "yes",
+        "payment:laser": "no",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 177266742,
+      "center": {
+        "lat": 54.764312,
+        "lon": 9.43658
+      },
+      "tags": {
+        "addr:city": "Flensburg",
+        "addr:country": "DE",
+        "addr:housenumber": "107-109",
+        "addr:postcode": "24941",
+        "addr:street": "Schleswiger Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2024-02-10",
+        "email": "service.nl635@bauhaus-ag.de",
+        "fax": "+49 461 9032713",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "phone": "+49 461 90327-0",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 201115893,
+      "center": {
+        "lat": 51.273195,
+        "lon": 7.2216844
+      },
+      "tags": {
+        "addr:city": "Wuppertal",
+        "addr:housenumber": "97",
+        "addr:postcode": "42289",
+        "addr:street": "Widukindstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2022-03-29",
+        "drive_through": "yes",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes",
+        "wheelchair:description": "Einkaufswagen für Rollstuhlfahrer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202318101,
+      "center": {
+        "lat": 50.8292937,
+        "lon": 6.4768368
+      },
+      "tags": {
+        "addr:city": "Düren",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "52353",
+        "addr:street": "Fehlender Feld",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-dueren/fc/637"
+      }
+    },
+    {
+      "type": "way",
+      "id": 240042193,
+      "center": {
+        "lat": 52.3132614,
+        "lon": 13.6112918
+      },
+      "tags": {
+        "addr:city": "Wildau",
+        "addr:housenumber": "1",
+        "addr:postcode": "15745",
+        "addr:street": "Chausseestraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 240159417,
+      "center": {
+        "lat": 47.7510746,
+        "lon": 8.884168
+      },
+      "tags": {
+        "addr:city": "Singen (Hohentwiel)",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "78224",
+        "addr:street": "Marie-Curie-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "industrial",
+        "check_date": "2025-09-21",
+        "emergency": "fire_detection_system",
+        "extinguishing:medium": "water",
+        "extinguishing_system": "sprinkler_system",
+        "name": "Bauhaus",
+        "note": "In Deutschland gibt es 3 Städte mit dem Namen Singen. Singen im PLZ-Bereich 78224 heisst korrekt \"Singen (Hohentwiel)\".",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244977926,
+      "center": {
+        "lat": 53.4834982,
+        "lon": 10.2068595
+      },
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "16-20",
+        "addr:postcode": "21029",
+        "addr:street": "Curslacker Neuer Deich",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2021-10-06",
+        "contact:fax": "+49 40 72583913",
+        "contact:phone": "+49 40 7258390",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hamburg-bergedorf/fc/620",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "BAUHAUS Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Hansa",
+        "roof:levels": "0",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 245150872,
+      "center": {
+        "lat": 51.034728,
+        "lon": 7.0136854
+      },
+      "tags": {
+        "alt_name": "Bauhaus",
+        "building": "retail",
+        "contact:facebook": "bauhaus",
+        "contact:instagram": "bauhausdeutschland",
+        "drive_through": "yes",
+        "name": "Bauhaus Drive-In-Arena",
+        "operator": "Bauhaus",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/drive-in-arena"
+      }
+    },
+    {
+      "type": "way",
+      "id": 246999247,
+      "center": {
+        "lat": 50.572459,
+        "lon": 8.6865025
+      },
+      "tags": {
+        "addr:city": "Gießen",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "35394",
+        "addr:street": "Bänningerstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "fax": "+49 641 92366513",
+        "height": "10",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 641 9236650",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 248788421,
+      "center": {
+        "lat": 48.8222574,
+        "lon": 10.0477326
+      },
+      "tags": {
+        "addr:city": "Essingen",
+        "addr:housenumber": "18",
+        "addr:postcode": "73457",
+        "addr:street": "Margarete-Steiff-Straße",
+        "branch": "Drive In",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "name": "Bauhaus",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 251464504,
+      "center": {
+        "lat": 52.4935336,
+        "lon": 13.2925817
+      },
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 269791656,
+      "center": {
+        "lat": 49.4879721,
+        "lon": 8.4714874
+      },
+      "tags": {
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1-5",
+        "addr:place": "R5",
+        "addr:postcode": "68161",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "6",
+        "check_date:opening_hours": "2026-01-13",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "operator": "Bauhaus GmbH & Co. KG Rhein-Main-Neckar, Mannheim",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "phone": "+49 621 4802820",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "start_date": "2014-03",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-mannheim/fc/655",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277000970,
+      "center": {
+        "lat": 50.7492715,
+        "lon": 7.1288325
+      },
+      "tags": {
+        "addr:city": "Bonn",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "53225",
+        "addr:street": "Gerhardstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date:opening_hours": "2025-08-04",
+        "email": "service.nl657@bauhaus-ag.de",
+        "fax": "+49 228 629308 13",
+        "name": "Bauhaus",
+        "old_addr:housenumber": "125",
+        "old_addr:street": "Gartenstraße",
+        "old_name": "Mülldeponie Vilich",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Bauhaus",
+        "payment:cash": "yes",
+        "phone": "+49 228 629308 0",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 285603576,
+      "center": {
+        "lat": 52.5347091,
+        "lon": 13.1760383
+      },
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "144",
+        "addr:postcode": "13581",
+        "addr:street": "Brunsbütteler Damm",
+        "addr:suburb": "Spandau",
+        "branch": "Berlin Spandau",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "operator": "Bauhaus",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 293418460,
+      "center": {
+        "lat": 51.4684594,
+        "lon": 7.0466463
+      },
+      "tags": {
+        "addr:city": "Essen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "45141",
+        "addr:street": "Langemarckstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "industrial",
+        "building:colour": "grey",
+        "building:levels": "1",
+        "building:material": "plaster",
+        "check_date:opening_hours": "2023-12-12",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "phone": "+49 201 294770",
+        "roof:colour": "grey",
+        "roof:material": "metal",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 293418467,
+      "center": {
+        "lat": 51.4692091,
+        "lon": 7.0461795
+      },
+      "tags": {
+        "addr:city": "Essen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "45141",
+        "addr:street": "Langemarckstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "industrial",
+        "building:colour": "white",
+        "building:levels": "1",
+        "building:material": "plaster",
+        "name": "Bauhaus",
+        "roof:colour": "grey",
+        "roof:material": "metal",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 299599300,
+      "center": {
+        "lat": 53.6042838,
+        "lon": 9.9644829
+      },
+      "tags": {
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "44",
+        "addr:postcode": "22529",
+        "addr:street": "Alte Kollaustraße",
+        "addr:suburb": "Lokstedt",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "3",
+        "check_date": "2025-11-16",
+        "check_date:opening_hours": "2025-11-16",
+        "contact:fax": "+49 40 55778213",
+        "contact:phone": "+49 40 5577820",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-hamburg-lokstedt/fc/654",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH off",
+        "operator": "BAUHAUS Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Hansa",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "source": "website",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 320125149,
+      "center": {
+        "lat": 49.8871437,
+        "lon": 8.6435136
+      },
+      "tags": {
+        "addr:city": "Darmstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "50",
+        "addr:postcode": "64293",
+        "addr:street": "Otto-Röhm-Straße",
+        "addr:suburb": "Darmstadt-Nord",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date": "2025-07-15",
+        "landuse": "retail",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "phone": "+49 6151 809090",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 338416027,
+      "center": {
+        "lat": 50.9913398,
+        "lon": 6.8151244
+      },
+      "tags": {
+        "addr:city": "Pulheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "50259",
+        "addr:street": "Siemensstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2025-10-09",
+        "email": "service.nl891@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00",
+        "operator": "Bauhaus",
+        "payment:coins": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:notes": "yes",
+        "phone": "+49 2238 96507-0",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375670000,
+      "center": {
+        "lat": 51.2448766,
+        "lon": 7.1870442
+      },
+      "tags": {
+        "addr:city": "Wuppertal",
+        "addr:housenumber": "200",
+        "addr:postcode": "42285",
+        "addr:street": "Oberbergische Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 202 5270680",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 412474154,
+      "center": {
+        "lat": 49.0080985,
+        "lon": 8.4406097
+      },
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "76131",
+        "addr:street": "Käppelestraße",
+        "addr:suburb": "Oststadt",
+        "branch": "Karlsruhe-Oststadt",
+        "branch:ref": "NL 852",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date": "2025-10-18",
+        "check_date:opening_hours": "2025-10-18",
+        "contact:phone": "+49 721 893530-0",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-karlsruhe-oststadt/fc/852",
+        "dog": "yes",
+        "name": "Bauhaus",
+        "old_name": "Max Bahr",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "operator": "Bauhaus Gesellschaft für Bau- und Hausbedarf mbH & Co. KG Rhein-Donau",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:others": "yes",
+        "payment:visa": "yes",
+        "shop": "doityourself",
+        "start_date": "2014-07-18",
+        "surveillance": "indoor",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 437519834,
+      "center": {
+        "lat": 48.7720941,
+        "lon": 9.1733341
+      },
+      "tags": {
+        "access": "customers",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "70178",
+        "addr:street": "Sophienstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "indoor": "room",
+        "level": "0",
+        "name": "Bauhaus",
+        "opening_date": "2016-10-14",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "phone": "+49 711 664821-0",
+        "room": "shop",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-stuttgart/fc/871",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 496104341,
+      "center": {
+        "lat": 48.1974467,
+        "lon": 11.6074997
+      },
+      "tags": {
+        "addr:city": "München",
+        "addr:country": "DE",
+        "addr:housenumber": "50",
+        "addr:postcode": "80939",
+        "addr:street": "Maria-Probst-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "building:material": "brick",
+        "check_date:opening_hours": "2025-07-08",
+        "contact:email": "info.nl870@bauhaus-ag.de",
+        "contact:phone": "+49 89 3220912 0",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "roof:colour": "#EEEEEE",
+        "shop": "doityourself",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 499376604,
+      "center": {
+        "lat": 49.8868755,
+        "lon": 8.6464983
+      },
+      "tags": {
+        "addr:city": "Darmstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "39-45",
+        "addr:postcode": "64293",
+        "addr:street": "Otto-Röhm-Straße",
+        "branch": "Drive-In Arena",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "yes",
+        "name": "Bauhaus",
+        "note": "Bauhaus Drive-In Arena",
+        "operator": "Bauhaus",
+        "shop": "doityourself",
+        "source:geometry": "Hesse ALKIS"
+      }
+    },
+    {
+      "type": "way",
+      "id": 542947207,
+      "center": {
+        "lat": 49.2463527,
+        "lon": 7.0042812
+      },
+      "tags": {
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "changing_table": "yes",
+        "internet_access": "wlan",
+        "internet_access:captive_portal": "yes",
+        "internet_access:fee": "no",
+        "internet_access:operator:wikidata": "Q9396",
+        "internet_access:ssid": "BAUHAUS Public WiFi",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "shop": "doityourself",
+        "toilets": "yes",
+        "toilets:wheelchair": "designated",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 620125890,
+      "center": {
+        "lat": 48.9973059,
+        "lon": 8.404896
+      },
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "4-6",
+        "addr:postcode": "76137",
+        "addr:street": "Nebeniusstraße",
+        "branch": "Karlsruhe Südstadt",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "check_date": "2025-08-02",
+        "description": "Kleinster und ältester Baumarkt der Marke Bauhaus.",
+        "email": "service.nl330@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su,PH off",
+        "operator": "Bauhaus AG",
+        "phone": "+49 721 932710",
+        "shop": "doityourself",
+        "source": "local_knowledge",
+        "start_date": "1967",
+        "surveillance": "indoor",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 652382589,
+      "center": {
+        "lat": 49.973922,
+        "lon": 8.2833585
+      },
+      "tags": {
+        "addr:city": "Mainz",
+        "addr:housenumber": "127",
+        "addr:street": "Alte Mainzer Straße",
+        "branch": "Drive In",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2025-05-13",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 759059433,
+      "center": {
+        "lat": 48.4963338,
+        "lon": 9.1566384
+      },
+      "tags": {
+        "addr:city": "Reutlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "72770",
+        "addr:street": "Justus-von-Liebig-Straße",
+        "addr:suburb": "Industriegebiet West",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "commercial",
+        "building:colour": "#ffffff",
+        "building:levels": "1",
+        "check_date": "2025-01-26",
+        "check_date:opening_hours": "2023-08-01",
+        "contact:email": "service.nl875@bauhaus-ag.de",
+        "contact:fax": "+49 7121 3453713",
+        "contact:phone": "+49 7121 345370",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su off; PH off",
+        "operator": "BAUHAUS GmbH & Co. KG Schwaben Gesellschaft für Bau-und Hausbedarf",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.bauhaus.info",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 768890944,
+      "center": {
+        "lat": 50.9981147,
+        "lon": 13.796711
+      },
+      "tags": {
+        "addr:city": "Dresden",
+        "addr:housenumber": "2",
+        "addr:postcode": "01239",
+        "addr:street": "Tschirnhausstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "contact:fax": "+493512728713",
+        "contact:phone": "+49351272870",
+        "contact:website": "https://www.bauhaus.info/fachcentren/fachcentrum-dresden-nickern/fc/645",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "operator": "Bauhaus",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "self_checkout": "yes",
+        "shop": "doityourself",
+        "stroller": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 927633999,
+      "center": {
+        "lat": 51.5045956,
+        "lon": 7.5662979
+      },
+      "tags": {
+        "addr:city": "Dortmund",
+        "addr:housenumber": "20-22",
+        "addr:postcode": "44287",
+        "addr:street": "Schleefstraße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "retail",
+        "building:levels": "1",
+        "email": "Service.NL509@bauhaus-ag.de",
+        "fax": "+49 231 9453013",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 231 945300",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-dortmund-aplerbeck/fc/509",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 945724462,
+      "center": {
+        "lat": 52.4957036,
+        "lon": 13.289419
+      },
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "129a",
+        "addr:postcode": "10711",
+        "addr:street": "Kurfürstendamm",
+        "addr:suburb": "Halensee",
+        "branch": "Berlin Kurfürstendamm",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "de:Bauhaus (Baumarkt)",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date:opening_hours": "2023-06-07",
+        "contact:phone": "+49 30 89046800",
+        "contact:website": "http://www.bauhaus.info",
+        "internet_access": "wlan",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "operator": "BAUHAUS GmbH & Co. KG Berlin",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-berlin-kurfuerstendamm/fc/643",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 965168208,
+      "center": {
+        "lat": 51.9455123,
+        "lon": 7.649369
+      },
+      "tags": {
+        "addr:city": "Münster",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "48155",
+        "addr:street": "Theodor-Scheiwe-Straße",
+        "building": "yes",
+        "name": "Bauhaus Profi Depot",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1015150437,
+      "center": {
+        "lat": 47.9833965,
+        "lon": 7.8204944
+      },
+      "tags": {
+        "addr:city": "Freiburg im Breisgau",
+        "addr:country": "DE",
+        "addr:housenumber": "98",
+        "addr:postcode": "79115",
+        "addr:street": "Basler Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "check_date": "2026-03-13",
+        "check_date:opening_hours": "2026-03-13",
+        "email": "Info.NL591@bauhaus-ag.de",
+        "fax": "+49 761 4528013",
+        "man_made": "surveillance",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 761 452800",
+        "shop": "doityourself",
+        "surveillance": "indoor",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1058622586,
+      "center": {
+        "lat": 50.1154162,
+        "lon": 8.9323757
+      },
+      "tags": {
+        "name": "Bauhaus Drive-In-Arena",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1096186782,
+      "center": {
+        "lat": 48.4052953,
+        "lon": 10.8777805
+      },
+      "tags": {
+        "addr:city": "Augsburg",
+        "addr:housenumber": "293",
+        "addr:postcode": "86154",
+        "addr:street": "Donauwörther Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "brand:wikipedia": "en:Bauhaus (company)",
+        "building": "yes",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 821 5699880",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-augsburg-oberhausen/fc/862",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1262910446,
+      "center": {
+        "lat": 50.0277057,
+        "lon": 8.2886809
+      },
+      "tags": {
+        "addr:city": "Mainz-Kastel",
+        "addr:housenumber": "20",
+        "addr:postcode": "55252",
+        "addr:street": "Fritz-Hußler-Straße",
+        "branch": "Drive in Arena",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1289813642,
+      "center": {
+        "lat": 50.0276182,
+        "lon": 8.2909701
+      },
+      "tags": {
+        "addr:city": "Mainz-Kastel",
+        "addr:housenumber": "21",
+        "addr:postcode": "55252",
+        "addr:street": "Gottfried-Dörr-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "email": "service.nl896@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 6134 25569 0",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-wiesbaden--mainz-kastel/fc/896",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1294579873,
+      "center": {
+        "lat": 49.5147049,
+        "lon": 8.5340239
+      },
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Gorxheimer Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:colour": "red",
+        "building:levels": "1",
+        "height": "8",
+        "internet_access": "wlan",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "phone": "+49 621 71760 0",
+        "roof:colour": "#908080",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1294579874,
+      "center": {
+        "lat": 49.5162014,
+        "lon": 8.534047
+      },
+      "tags": {
+        "brand": "Bauhaus",
+        "building": "retail",
+        "building:colour": "red",
+        "building:levels": "1",
+        "height": "8",
+        "name": "Bauhaus Drive-In Arena",
+        "roof:colour": "#908080",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      }
+    }
+  ]
+}

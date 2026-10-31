@@ -1,0 +1,162 @@
+﻿official_store_id,official_name,official_postcode,containment_status,containing_osm_ids,nearest_osm_id,nearest_polygon_distance_m,association_verified,capacity_estimate_status
+300,Hannover-Stadtmitte,30159,no_containment,,way/373370403,9172.36,False,withheld_pending_review
+330,Karlsruhe-Südstadt,76137,no_containment,,way/108248464,4213.01,False,withheld_pending_review
+400,Magdeburg,39126,single_containment_candidate,way/48133177,way/48133177,0.0,False,withheld_pending_review
+406,Plauen,08529,single_containment_candidate,way/98695080,way/98695080,0.0,False,withheld_pending_review
+485,Heidenheim,89520,single_containment_candidate,way/227400424,way/227400424,0.0,False,withheld_pending_review
+491,Düsseldorf-Flingern,40233,no_containment,,way/146186390,6.96,False,withheld_pending_review
+498,Hannover,30165,no_containment,,way/373370403,12948.44,False,withheld_pending_review
+505,Essen-Frohnhausen,45145,single_containment_candidate,way/29033850,way/29033850,0.0,False,withheld_pending_review
+507,Hagen,58089,single_containment_candidate,way/54727041,way/54727041,0.0,False,withheld_pending_review
+508,Neckarsulm,74172,single_containment_candidate,way/45883708,way/45883708,0.0,False,withheld_pending_review
+509,Dortmund-Aplerbeck,44287,no_containment,,way/927633999,441.87,False,withheld_pending_review
+515,Augsburg,86159,single_containment_candidate,way/87352620,way/87352620,0.0,False,withheld_pending_review
+519,Bochum Harpen,44805,single_containment_candidate,way/93211530,way/93211530,0.0,False,withheld_pending_review
+520,München-Laim,80687,no_containment,,way/30804120,29.69,False,withheld_pending_review
+521,Bielefeld,33609,single_containment_candidate,way/40707294,way/40707294,0.0,False,withheld_pending_review
+525,Karlsruhe-Mühlburg,76185,single_containment_candidate,way/108248464,way/108248464,0.0,False,withheld_pending_review
+528,Bremerhaven,27570,single_containment_candidate,way/118752984,way/118752984,0.0,False,withheld_pending_review
+530,Rastatt,76437,single_containment_candidate,way/28715246,way/28715246,0.0,False,withheld_pending_review
+531,Speyer,67346,no_containment,,way/25779279,163.65,False,withheld_pending_review
+534,Lübeck-St. Jürgen,23562,single_containment_candidate,way/46754081,way/46754081,0.0,False,withheld_pending_review
+535,Bochum-Wattenscheid,44867,single_containment_candidate,way/96593449,way/96593449,0.0,False,withheld_pending_review
+537,Bad Kreuznach,55545,single_containment_candidate,way/52513722,way/52513722,0.0,False,withheld_pending_review
+539,Essen-Frillendorf,45141,single_containment_candidate,way/293418460,way/293418460,0.0,False,withheld_pending_review
+541,Krefeld-Untergath,47805,single_containment_candidate,way/82445638,way/82445638,0.0,False,withheld_pending_review
+543,Zimmern ob Rottweil,78658,single_containment_candidate,way/136758060,way/136758060,0.0,False,withheld_pending_review
+544,Nagold,72202,single_containment_candidate,way/40450747,way/40450747,0.0,False,withheld_pending_review
+547,Villingen-Schwenningen,78048,single_containment_candidate,way/30808551,way/30808551,0.0,False,withheld_pending_review
+548,Gersthofen,86368,single_containment_candidate,way/148988039,way/148988039,0.0,False,withheld_pending_review
+553,Stuhr-Groß-Mackenstedt,28816,single_containment_candidate,way/4700552,way/4700552,0.0,False,withheld_pending_review
+555,Leverkusen,51377,single_containment_candidate,way/26790316,way/26790316,0.0,False,withheld_pending_review
+557,Mannheim-Waldhof,68305,single_containment_candidate,way/116468051,way/116468051,0.0,False,withheld_pending_review
+558,Wetzlar,35576,single_containment_candidate,way/26285106,way/26285106,0.0,False,withheld_pending_review
+559,Mülheim-Kärlich,56218,single_containment_candidate,way/115955249,way/115955249,0.0,False,withheld_pending_review
+560,Hanau,63457,single_containment_candidate,way/25520936,way/25520936,0.0,False,withheld_pending_review
+561,Passau,94036,single_containment_candidate,way/102410272,way/102410272,0.0,False,withheld_pending_review
+562,Solingen,42719,single_containment_candidate,way/87313466,way/87313466,0.0,False,withheld_pending_review
+565,Mahlow,15831,single_containment_candidate,way/33542710,way/33542710,0.0,False,withheld_pending_review
+566,Düsseldorf-Gerresheim,40625,single_containment_candidate,way/24517843,way/24517843,0.0,False,withheld_pending_review
+567,Nürnberg-Stein,90547,single_containment_candidate,way/28132164,way/28132164,0.0,False,withheld_pending_review
+568,Ingolstadt,85057,single_containment_candidate,way/30072118,way/30072118,0.0,False,withheld_pending_review
+569,Frechen,50226,single_containment_candidate,way/62811069,way/62811069,0.0,False,withheld_pending_review
+571,Kiel-Suchsdorf,24106,single_containment_candidate,way/54856134,way/54856134,0.0,False,withheld_pending_review
+572,Regensburg,93053,single_containment_candidate,way/31410869,way/31410869,0.0,False,withheld_pending_review
+573,Dortmund Nordstadt,44145,single_containment_candidate,way/24864353,way/24864353,0.0,False,withheld_pending_review
+574,Darmstadt,64293,no_containment,,way/499376604,167.74,False,withheld_pending_review
+577,Birkenwerder,16547,single_containment_candidate,way/60455187,way/60455187,0.0,False,withheld_pending_review
+578,Berlin-Pankow,13127,single_containment_candidate,way/80858331,way/80858331,0.0,False,withheld_pending_review
+579,Duisburg-Grossenbaum,47269,single_containment_candidate,way/23619103,way/23619103,0.0,False,withheld_pending_review
+580,Aalen-Essingen,73457,single_containment_candidate,way/26958041,way/26958041,0.0,False,withheld_pending_review
+583,Mannheim-Mallau,68219,single_containment_candidate,way/88370653,way/88370653,0.0,False,withheld_pending_review
+584,Balingen,72336,single_containment_candidate,way/118286988,way/118286988,0.0,False,withheld_pending_review
+585,Dillingen,66763,single_containment_candidate,way/90064343,way/90064343,0.0,False,withheld_pending_review
+586,Aachen,52070,single_containment_candidate,way/19727326,way/19727326,0.0,False,withheld_pending_review
+587,Ravensburg,88212,single_containment_candidate,way/158710321,way/158710321,0.0,False,withheld_pending_review
+589,Frankfurt,60386,single_containment_candidate,way/48466507,way/48466507,0.0,False,withheld_pending_review
+590,Pforzheim,75179,single_containment_candidate,way/27436941,way/27436941,0.0,False,withheld_pending_review
+591,Freiburg,79115,no_containment,,way/90494889,40144.55,False,withheld_pending_review
+594,Lörrach-Haagen,79541,single_containment_candidate,way/90494889,way/90494889,0.0,False,withheld_pending_review
+595,Hamburg-Moorfleet,22113,single_containment_candidate,way/159926244,way/159926244,0.0,False,withheld_pending_review
+596,Berlin-Spandau Brunsbütteler Damm,13581,single_containment_candidate,way/285603576,way/285603576,0.0,False,withheld_pending_review
+597,Berlin-Schöneberg,12103,no_containment,,way/28505596,2885.5,False,withheld_pending_review
+598,Memmingen,87700,single_containment_candidate,way/34201992,way/34201992,0.0,False,withheld_pending_review
+599,Ulm,89077,single_containment_candidate,way/182747470,way/182747470,0.0,False,withheld_pending_review
+600,Stralsund,18439,single_containment_candidate,way/29350709,way/29350709,0.0,False,withheld_pending_review
+601,Ludwigshafen,67071,single_containment_candidate,way/70786923,way/70786923,0.0,False,withheld_pending_review
+602,Gründau-Lieblos,63584,single_containment_candidate,way/91898070,way/91898070,0.0,False,withheld_pending_review
+603,Fuldabrück,34277,single_containment_candidate,way/52007850,way/52007850,0.0,False,withheld_pending_review
+604,Berlin-Marienfelde,12277,single_containment_candidate,way/27493871,way/27493871,0.0,False,withheld_pending_review
+605,Wildau,15745,no_containment,,way/240042193,197.23,False,withheld_pending_review
+606,Landshut,84030,single_containment_candidate,way/110307778,way/110307778,0.0,False,withheld_pending_review
+607,Braunschweig,38114,single_containment_candidate,way/31670307,way/31670307,0.0,False,withheld_pending_review
+608,Köln-Porz,51149,single_containment_candidate,way/28334460,way/28334460,0.0,False,withheld_pending_review
+609,Bornheim,53332,single_containment_candidate,way/35910944,way/35910944,0.0,False,withheld_pending_review
+613,Würselen,52146,single_containment_candidate,way/24393423,way/24393423,0.0,False,withheld_pending_review
+614,Mainz-Weisenau,55130,single_containment_candidate,way/155164522,way/155164522,0.0,False,withheld_pending_review
+615,Aschaffenburg,63743,single_containment_candidate,way/24802709,way/24802709,0.0,False,withheld_pending_review
+616,Köln-Kalk,51103,no_containment,,way/41860856,25.46,False,withheld_pending_review
+617,Wuppertal-Barmen (Heckinghausen),42289,single_containment_candidate,way/201115893,way/201115893,0.0,False,withheld_pending_review
+618,Düsseldorf-Reisholz,40599,single_containment_candidate,way/119309678,way/119309678,0.0,False,withheld_pending_review
+619,Hamburg-Harburg,21079,single_containment_candidate,way/118916585,way/118916585,0.0,False,withheld_pending_review
+620,Hamburg-Bergedorf,21029,no_containment,,way/244977926,10.52,False,withheld_pending_review
+621,Offenburg,77656,single_containment_candidate,way/33712617,way/33712617,0.0,False,withheld_pending_review
+622,Ensdorf,66806,no_containment,,way/26011057,8.1,False,withheld_pending_review
+623,Berlin-Spandau,13597,single_containment_candidate,way/25114190,way/25114190,0.0,False,withheld_pending_review
+624,Barsbüttel,22885,no_containment,,way/33003697,207.05,False,withheld_pending_review
+625,Witten,58454,single_containment_candidate,way/97882534,way/97882534,0.0,False,withheld_pending_review
+626,Stuttgart-Möhringen,70565,single_containment_candidate,way/44004385,way/44004385,0.0,False,withheld_pending_review
+628,Neuss,41470,no_containment,,way/37287853,19.85,False,withheld_pending_review
+629,Hürth,50354,single_containment_candidate,way/56191943,way/56191943,0.0,False,withheld_pending_review
+630,Braunschweig-Stöckheim,38124,single_containment_candidate,way/28143475,way/28143475,0.0,False,withheld_pending_review
+631,Stuttgart-Untertürkheim,70327,single_containment_candidate,way/126440693,way/126440693,0.0,False,withheld_pending_review
+632,Augsburg - Lechhausen,86165,no_containment,,way/1096186782,5055.57,False,withheld_pending_review
+633,Krefeld-Mevissenstraße,47803,single_containment_candidate,way/322043866,way/322043866,0.0,False,withheld_pending_review
+634,Schwentinental-Raisdorf,24223,single_containment_candidate,way/52131203,way/52131203,0.0,False,withheld_pending_review
+635,Flensburg,24941,no_containment,,way/177266742,28.29,False,withheld_pending_review
+636,Heidelberg,69115,no_containment,,way/76844715,38.71,False,withheld_pending_review
+637,Düren,52353,no_containment,,way/202318101,1668.65,False,withheld_pending_review
+638,Saarbrücken,66123,no_containment,,way/26011057,16600.77,False,withheld_pending_review
+639,Lübeck,23554,no_containment,,way/94340051,15.0,False,withheld_pending_review
+642,Freudenstadt,72250,single_containment_candidate,way/80253164,way/80253164,0.0,False,withheld_pending_review
+643,Berlin-Kurfürstendamm,10711,no_containment,,way/945724462,0.09,False,withheld_pending_review
+645,Dresden-Nickern,01239,single_containment_candidate,way/768890944,way/768890944,0.0,False,withheld_pending_review
+646,Leipzig,04356,no_containment,,way/168141060,86.67,False,withheld_pending_review
+647,Bremen-Stresemannstr.,28207,no_containment,,way/131318317,113.36,False,withheld_pending_review
+648,Bochum-Hofstede,44809,no_containment,,way/173434235,79.66,False,withheld_pending_review
+649,Singen,78224,no_containment,,way/240159417,0.85,False,withheld_pending_review
+650,Neuwied,56566,single_containment_candidate,way/36124286,way/36124286,0.0,False,withheld_pending_review
+651,Laatzen,30880,no_containment,,way/373370403,71.04,False,withheld_pending_review
+652,Gießen Schiffenberger Tal,35394,no_containment,,way/246999247,12.82,False,withheld_pending_review
+654,Hamburg-Lokstedt,22529,single_containment_candidate,way/299599300,way/299599300,0.0,False,withheld_pending_review
+655,Mannheim-Quadrate,68161,no_containment,,way/269791656,20.68,False,withheld_pending_review
+656,Berlin-Wedding,13405,no_containment,,way/24049246,18.12,False,withheld_pending_review
+657,Bonn-Beuel,53225,no_containment,,way/277000970,43.07,False,withheld_pending_review
+658,Kassel,34127,single_containment_candidate,way/100467501,way/100467501,0.0,False,withheld_pending_review
+659,Heppenheim,64646,no_containment,,way/119907320,4.67,False,withheld_pending_review
+661,Münster,48155,no_containment,,way/120030437,30.38,False,withheld_pending_review
+662,Donaueschingen,78166,single_containment_candidate,way/120126663,way/120126663,0.0,False,withheld_pending_review
+663,Hamburg-Bramfeld,22177,single_containment_candidate,way/23386017,way/23386017,0.0,False,withheld_pending_review
+664,Hamburg-Stellingen,22525,no_containment,,way/27283969,33.65,False,withheld_pending_review
+665,Köln-Ehrenfeld,50825,single_containment_candidate,way/29401013,way/29401013,0.0,False,withheld_pending_review
+666,Lüneburg,21337,single_containment_candidate,way/44904672,way/44904672,0.0,False,withheld_pending_review
+667,Rostock-Schutow,18069,no_containment,,way/33524148,2.94,False,withheld_pending_review
+668,Schwerin-Großer Dreesch,19061,single_containment_candidate,way/92704442,way/92704442,0.0,False,withheld_pending_review
+669,Gera,07548,no_containment,,way/30181261,9.5,False,withheld_pending_review
+692,Gelsenkirchen,45881,no_containment,,way/55008475,6076.67,False,withheld_pending_review
+812,Berlin-Charlottenburg,10585,no_containment,,way/945724462,2099.23,False,withheld_pending_review
+814,Berlin Am Hermannplatz,10967,single_containment_candidate,way/26832459,way/26832459,0.0,False,withheld_pending_review
+840,Berlin Am Wittenbergplatz,10787,no_containment,,way/251464504,3620.36,False,withheld_pending_review
+850,Berlin-Wittenau,13435,single_containment_candidate,way/40459768,way/40459768,0.0,False,withheld_pending_review
+851,Hamburg-Wandsbek,22041,single_containment_candidate,way/24025561,way/24025561,0.0,False,withheld_pending_review
+852,Karlsruhe-Oststadt,76131,no_containment,,way/108248464,6252.66,False,withheld_pending_review
+853,Kiel-Ravensberg,24116,single_containment_candidate,way/25619088,way/25619088,0.0,False,withheld_pending_review
+854,Mainz-Mombach,55120,single_containment_candidate,way/59338792,way/59338792,0.0,False,withheld_pending_review
+855,Cottbus,03042,single_containment_candidate,way/23180187,way/23180187,0.0,False,withheld_pending_review
+856,Hennef,53773,no_containment,,way/93317352,22.87,False,withheld_pending_review
+857,Koblenz-Lützel,56070,no_containment,,way/26764123,18.48,False,withheld_pending_review
+858,Hamburg-Langenhorn,22419,single_containment_candidate,way/26570627,way/26570627,0.0,False,withheld_pending_review
+859,Nürnberg,90439,no_containment,,way/93484846,44.91,False,withheld_pending_review
+861,Schweinfurt,97424,no_containment,,way/102034074,21.56,False,withheld_pending_review
+862,Augsburg-Oberhausen,86154,single_containment_candidate,way/1096186782,way/1096186782,0.0,False,withheld_pending_review
+863,Bremen-Osterholz (Weserpark),28307,single_containment_candidate,way/37120956,way/37120956,0.0,False,withheld_pending_review
+864,Lübeck-Moisling,23556,single_containment_candidate,way/28846255,way/28846255,0.0,False,withheld_pending_review
+865,Hamburg-Lurup,22549,single_containment_candidate,way/22762245,way/22762245,0.0,False,withheld_pending_review
+866,Berlin-Treptow,12439,single_containment_candidate,way/24230210,way/24230210,0.0,False,withheld_pending_review
+868,Wuppertal-Barmen (Lichtscheid),42285,no_containment,,way/375670000,64.86,False,withheld_pending_review
+870,München-Freimann,80939,no_containment,,way/496104341,297.79,False,withheld_pending_review
+871,Stuttgart,70178,no_containment,,way/44004385,6229.01,False,withheld_pending_review
+872,Bruchsal,76646,no_containment,,way/546189796,47.14,False,withheld_pending_review
+874,Haßloch,67454,no_containment,,way/995919993,18.81,False,withheld_pending_review
+875,Reutlingen,72770,no_containment,,way/759059433,0.35,False,withheld_pending_review
+877,Trier,54294,single_containment_candidate,way/113971134,way/113971134,0.0,False,withheld_pending_review
+878,Düsseldorf Rath,40472,no_containment,,way/1268231705,287.53,False,withheld_pending_review
+879,Mönchengladbach,41236,single_containment_candidate,way/30860030,way/30860030,0.0,False,withheld_pending_review
+890,Bonn-Endenich,53115,single_containment_candidate,way/369231324,way/369231324,0.0,False,withheld_pending_review
+891,Pulheim,50259,no_containment,,way/338416027,15.71,False,withheld_pending_review
+892,Bergisch Gladbach-Bensberg,51429,no_containment,,way/28334460,10533.33,False,withheld_pending_review
+893,Bad Neuenahr-Ahrweiler,53474,single_containment_candidate,way/96216146,way/96216146,0.0,False,withheld_pending_review
+894,Berlin-Steglitz,12163,single_containment_candidate,way/28505596,way/28505596,0.0,False,withheld_pending_review
+896,Wiesbaden/ Mainz-Kastel,55252,no_containment,,way/1262910446,262.59,False,withheld_pending_review
+897,Mannheim-Columbus,68309,no_containment,,way/1294579873,43.87,False,withheld_pending_review
+898,Bad Vilbel,61118,no_containment,,way/40106846,27.42,False,withheld_pending_review

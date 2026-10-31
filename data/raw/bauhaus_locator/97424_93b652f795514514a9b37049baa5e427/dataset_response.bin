@@ -1,0 +1,38 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=97424",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=97424",
+    "loadedTime": "2026-10-31T06:41:21.417Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 536,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=97424",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "no-store",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a530ac491de7ef3a-LHR",
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 06:41:15 GMT",
+      "keep-alive": "timeout=5",
+      "server": "cloudflare",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "transfer-encoding": "chunked",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+      "via": "1.1 google",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=97424",
+      "x-apify-unblocker-route": "HIMALIA",
+      "x-content-type-options": "nosniff"
+    }
+  },
+  "raw": "[{\"display_name\":\"Schweinfurt\",\"slug\":\"schweinfurt\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Donau\",\"id\":861,\"store_id\":861,\"location\":{\"lat\":50.0346,\"lng\":10.23665},\"address\":{\"lines\":[\"Rudolf-Diesel-Straße 33\"],\"city\":\"Schweinfurt\",\"zipcode\":\"97424\"},\"distance\":2.11,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

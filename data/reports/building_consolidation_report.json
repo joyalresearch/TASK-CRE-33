@@ -1,0 +1,24 @@
+{
+  "base_buildings": 134,
+  "processed_store_files": 37,
+  "new_accepted_buildings": 33,
+  "manual_review_or_invalid": 2,
+  "duplicate_buildings": 0,
+  "spatial_overlap_flags": 0,
+  "total_consolidated_buildings": 167,
+  "new_accepted_area_sqm": 382745.05,
+  "rejected": [
+    {
+      "store_node_id": 416660121,
+      "building_way_id": 87602600,
+      "reason": "non_retail_building_type"
+    },
+    {
+      "store_node_id": 422779946,
+      "building_way_id": 26709557,
+      "reason": "non_retail_building_type"
+    }
+  ],
+  "duplicates": [],
+  "overlaps": []
+}

@@ -1,0 +1,13 @@
+{
+  "requested_url": "https://www.bauhaus.info/api/stores?q=10115",
+  "method": "GET",
+  "started_at_utc": "2026-10-31T05:27:35.636365+00:00",
+  "coverage_verified": false,
+  "status": 403,
+  "final_url": "https://www.bauhaus.info/api/stores?q=10115",
+  "content_type": "text/html; charset=UTF-8",
+  "response_bytes": 631322,
+  "sha256": "74b152c774985d26657798c767adbfdbfc35bbc0df2f90da5057b347716bc8b6",
+  "error": "RuntimeError: Non-200 response; not accepted as store data",
+  "finished_at_utc": "2026-10-31T05:27:35.895473+00:00"
+}

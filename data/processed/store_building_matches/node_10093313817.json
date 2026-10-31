@@ -1,0 +1,33 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 10093313817,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 28987296,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Reutlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "72770",
+        "addr:street": "Justus-von-Liebig-Straße",
+        "addr:suburb": "Industriegebiet West",
+        "building": "retail",
+        "building:levels": "1",
+        "roof:levels": "0",
+        "roof:shape": "flat"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 3073.34,
+      "geometry_wkt_25832": "POLYGON ((511574.26477239816 5371619.109886292, 511644.6400321839 5371618.46523999, 511645.0665189082 5371658.871302092, 511620.1627275506 5371659.10904889, 511620.1524202699 5371664.122160587, 511574.607825363 5371664.428862822, 511574.45719396404 5371647.799626347, 511574.26477239816 5371619.109886292))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

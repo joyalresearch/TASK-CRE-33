@@ -1,0 +1,31 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 1389121491,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 40707294,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Bielefeld",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "33609",
+        "addr:street": "Finkenstraße",
+        "building": "retail",
+        "building:levels": "2",
+        "roof:shape": "flat"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 3430.75,
+      "geometry_wkt_25832": "POLYGON ((470281.2719805901 5764974.714870374, 470268.3538772496 5765013.687870721, 470348.5630509743 5765040.749873135, 470359.93066591414 5765008.582252502, 470352.99530587805 5765006.276609603, 470355.4415346982 5765000.044491277, 470281.2719805901 5764974.714870374))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

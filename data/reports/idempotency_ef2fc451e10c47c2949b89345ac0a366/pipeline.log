@@ -1,0 +1,113 @@
+PROJECT IRIS - TASK-CRE-33
+Reconciled building and parking staging pipeline
+Input validation: PASSED
+Validated buildings: 172
+Association status breakdown:
+  accepted_screening_association: 86
+  parking_structure_review: 2
+  provisional_association: 21
+  unmatched_osm_candidate: 63
+Accepted screening PV values: 86
+NULL building capacity values: 86
+Sum of rounded accepted row estimates (kWp): 119935.13
+This is not a national capacity total.
+
+INPUT INVENTORY
+Building features: 172
+Nationwide parking candidates: 808
+Overlapping Cologne/nationwide IDs: 10
+Combined unique parking polygons: 1137
+Expected staging records: 1309
+
+Building association breakdown:
+  accepted_screening_association: 86
+  parking_structure_review: 2
+  provisional_association: 21
+  unmatched_osm_candidate: 63
+
+Parking association breakdown:
+  unverified_operator: 329
+  unverified_proximity: 808
+
+Running: C:\Users\joyal\Projects\iris-cre-33\src\iris_cre_33\load_bauhaus_germany.py
+Input validation: PASSED
+Validated buildings: 172
+Association status breakdown:
+  accepted_screening_association: 86
+  parking_structure_review: 2
+  provisional_association: 21
+  unmatched_osm_candidate: 63
+Accepted screening PV values: 86
+NULL building capacity values: 86
+Sum of rounded accepted row estimates (kWp): 119935.13
+This is not a national capacity total.
+
+DRY RUN COMPLETE
+No database connection or writes performed.
+
+Running: C:\Users\joyal\Projects\iris-cre-33\src\iris_cre_33\load_parking.py
+
+PARKING INPUT RECONCILIATION
+Cologne valid surface parking: 339
+Nationwide proximity candidates: 808
+Overlapping OSM identities: 10
+Combined unique parking polygons: 1137
+Candidate building-parking pairs: 867
+Cologne deferred relations: 1
+Verified BAUHAUS ownership: 0
+DRY RUN COMPLETE: no database connection or writes
+
+Running: C:\Users\joyal\Projects\iris-cre-33\src\iris_cre_33\load_bauhaus_germany.py
+Input validation: PASSED
+Validated buildings: 172
+Association status breakdown:
+  accepted_screening_association: 86
+  parking_structure_review: 2
+  provisional_association: 21
+  unmatched_osm_candidate: 63
+Accepted screening PV values: 86
+NULL building capacity values: 86
+Sum of rounded accepted row estimates (kWp): 119935.13
+This is not a national capacity total.
+Connected role: iris_loader
+Connected database: iris_local
+Database schema validation: PASSED
+
+CONSOLIDATED DATABASE LOAD SUMMARY
+Input building polygons: 172
+Inserted: 0
+Updated: 172
+Load completed successfully.
+
+Running: C:\Users\joyal\Projects\iris-cre-33\src\iris_cre_33\load_parking.py
+
+PARKING INPUT RECONCILIATION
+Cologne valid surface parking: 339
+Nationwide proximity candidates: 808
+Overlapping OSM identities: 10
+Combined unique parking polygons: 1137
+Candidate building-parking pairs: 867
+Cologne deferred relations: 1
+Verified BAUHAUS ownership: 0
+Connected database: iris_local
+Connected role: iris_loader
+
+PARKING DATABASE LOAD SUMMARY
+Eligible surface parking polygons: 1137
+Inserted: 0
+Updated: 1137
+Database failures: 0
+
+POSTGIS VERIFICATION
+Expected buildings: 172
+Expected parking: 1137
+Actual staging records: 1309
+Missing feature IDs: 0
+Unexpected feature IDs: 0
+Association mismatches: 0
+Invalid geometries/SRID: 0
+Area mismatches (>2%): 0
+PV/NULL mismatches: 0
+Database verification: PASSED
+
+PIPELINE COMPLETED SUCCESSFULLY

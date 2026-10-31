@@ -1,0 +1,424 @@
+{
+  "created_at_utc": "2026-10-31T18:16:16.424764+00:00",
+  "sitemap_capture": "data\\raw\\bauhaus_sitemap\\afde06a9c4cf42a8bd6bd42cb030531b",
+  "sitemap_source_sha256": "068feff2d4f298133de752ee962e6111a840d1a4104761544f5ecc9fc656350f",
+  "inventory_path": "data\\processed\\bauhaus_locator_consolidated_a8a5f18b3ffe4e69b630844191188187.json",
+  "inventory_sha256": "2b7254db563e3b7bb7422d93ffa39320ce94714bcb860604a109aa9934f212a8",
+  "sitemap_unique_urls": 180,
+  "sitemap_unique_parsed_ids": 180,
+  "inventory_unique_ids": 161,
+  "matched_ids": [
+    300,
+    330,
+    400,
+    406,
+    485,
+    491,
+    498,
+    505,
+    507,
+    508,
+    509,
+    515,
+    519,
+    520,
+    521,
+    525,
+    528,
+    530,
+    531,
+    534,
+    535,
+    537,
+    539,
+    541,
+    543,
+    544,
+    547,
+    548,
+    553,
+    555,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    565,
+    566,
+    567,
+    568,
+    569,
+    571,
+    572,
+    573,
+    574,
+    577,
+    578,
+    579,
+    580,
+    583,
+    584,
+    585,
+    586,
+    587,
+    589,
+    590,
+    591,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    600,
+    601,
+    602,
+    603,
+    604,
+    605,
+    606,
+    607,
+    608,
+    609,
+    613,
+    614,
+    615,
+    616,
+    617,
+    618,
+    619,
+    620,
+    621,
+    622,
+    623,
+    624,
+    625,
+    626,
+    628,
+    629,
+    630,
+    631,
+    632,
+    633,
+    634,
+    635,
+    636,
+    637,
+    638,
+    639,
+    642,
+    643,
+    645,
+    646,
+    647,
+    648,
+    649,
+    650,
+    651,
+    652,
+    654,
+    655,
+    656,
+    657,
+    658,
+    659,
+    661,
+    662,
+    663,
+    664,
+    665,
+    666,
+    667,
+    668,
+    669,
+    692,
+    812,
+    814,
+    840,
+    850,
+    851,
+    852,
+    853,
+    854,
+    855,
+    856,
+    857,
+    858,
+    859,
+    861,
+    862,
+    863,
+    864,
+    865,
+    866,
+    868,
+    870,
+    871,
+    872,
+    874,
+    875,
+    877,
+    878,
+    879,
+    890,
+    891,
+    892,
+    893,
+    894,
+    896,
+    897,
+    898
+  ],
+  "sitemap_ids_not_in_inventory": [
+    {
+      "store_id": 70,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/berlin/70",
+          "slug": "berlin",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 71,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/hamburg/71",
+          "slug": "hamburg",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 72,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/schifferstadt/72",
+          "slug": "schifferstadt",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 74,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/gersthofen/74",
+          "slug": "gersthofen",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 76,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/grevenbroich/76",
+          "slug": "grevenbroich",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 100,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc//100",
+          "slug": "",
+          "empty_slug": true
+        }
+      ]
+    },
+    {
+      "store_id": 299,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/mannheim-wohlgelegen/299",
+          "slug": "mannheim-wohlgelegen",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 500,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc//500",
+          "slug": "",
+          "empty_slug": true
+        }
+      ]
+    },
+    {
+      "store_id": 6261,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/bremen/6261",
+          "slug": "bremen",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 6263,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/krefeld/6263",
+          "slug": "krefeld",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 6265,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/osnabrueck/6265",
+          "slug": "osnabrueck",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 6270,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/berlin/6270",
+          "slug": "berlin",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 6271,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/hamburg/6271",
+          "slug": "hamburg",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 6272,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/schifferstadt/6272",
+          "slug": "schifferstadt",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 6274,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/gersthofen/6274",
+          "slug": "gersthofen",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 6276,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/grevenbroich/6276",
+          "slug": "grevenbroich",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 6277,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/mannheim-wohlgelegen/6277",
+          "slug": "mannheim-wohlgelegen",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 6278,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/lutterberg/6278",
+          "slug": "lutterberg",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 6288,
+      "entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/kassel/6288",
+          "slug": "kassel",
+          "empty_slug": false
+        }
+      ]
+    }
+  ],
+  "inventory_ids_not_in_sitemap": [],
+  "duplicate_sitemap_ids": {},
+  "slug_mismatches": [
+    {
+      "store_id": 617,
+      "official_slugs": [
+        "wuppertal-barmen-heckinghausen"
+      ],
+      "sitemap_entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/wuppertal-barmen/617",
+          "slug": "wuppertal-barmen",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 632,
+      "official_slugs": [
+        "augsburg---lechhausen"
+      ],
+      "sitemap_entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/augsburg-lechhausen/632",
+          "slug": "augsburg-lechhausen",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 863,
+      "official_slugs": [
+        "bremen-osterholz-weserpark"
+      ],
+      "sitemap_entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/bremen-osterholz/863",
+          "slug": "bremen-osterholz",
+          "empty_slug": false
+        }
+      ]
+    },
+    {
+      "store_id": 868,
+      "official_slugs": [
+        "wuppertal-barmen-lichtscheid"
+      ],
+      "sitemap_entries": [
+        {
+          "url": "https://www.bauhaus.info/fc/wuppertal-barmen/868",
+          "slug": "wuppertal-barmen",
+          "empty_slug": false
+        }
+      ]
+    }
+  ],
+  "unparsed_urls": [],
+  "active_store_status_verified": false,
+  "nationwide_coverage_verified": false
+}

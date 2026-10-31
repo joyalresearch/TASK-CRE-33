@@ -1,0 +1,34 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 1036180405,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 182747470,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Ulm",
+        "addr:country": "DE",
+        "addr:housenumber": "59",
+        "addr:postcode": "89077",
+        "addr:street": "Blaubeurer Straße",
+        "building": "retail",
+        "building:levels": "1",
+        "phone": "+49 731 936950",
+        "roof:levels": "0",
+        "roof:shape": "many",
+        "start_date": "2000"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 13678.77,
+      "geometry_wkt_25832": "POLYGON ((571696.3934930419 5361108.635074099, 571923.4944677561 5361206.527576707, 571916.3414515447 5361223.023362852, 571911.1801866892 5361234.819706665, 571907.901812005 5361242.326550151, 571826.6747691871 5361207.012389323, 571817.0613671044 5361229.002258257, 571799.2464175526 5361221.128194001, 571786.3017164135 5361215.650400471, 571784.1884419972 5361220.604044467, 571755.7874750255 5361208.049284241, 571742.1157116654 5361202.106597914, 571733.9689181459 5361198.890786383, 571736.050440087 5361194.103477283, 571704.8334836729 5361180.590648125, 571692.0672251529 5361175.037511874, 571678.4834348896 5361169.1516794935, 571671.4667627304 5361166.1281161355, 571696.3934930419 5361108.635074099))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

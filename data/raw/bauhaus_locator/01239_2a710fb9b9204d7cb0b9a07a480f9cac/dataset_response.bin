@@ -1,0 +1,38 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=01239",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=01239",
+    "loadedTime": "2026-10-31T06:40:21.877Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 546,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=01239",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "no-store",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a530aad73d02f16d-GRU",
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 06:40:16 GMT",
+      "keep-alive": "timeout=5",
+      "server": "cloudflare",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "transfer-encoding": "chunked",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+      "via": "1.1 google",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=01239",
+      "x-apify-unblocker-route": "HIMALIA",
+      "x-content-type-options": "nosniff"
+    }
+  },
+  "raw": "[{\"display_name\":\"Dresden-Nickern\",\"slug\":\"dresden-nickern\",\"name\":\"BAUHAUS in Sachsen GmbH & Co. KG\",\"id\":645,\"store_id\":645,\"location\":{\"lat\":50.998562,\"lng\":13.797578},\"address\":{\"lines\":[\"Tschirnhausstraße 2\"],\"city\":\"Dresden-Nickern\",\"zipcode\":\"01239\"},\"distance\":0.65,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

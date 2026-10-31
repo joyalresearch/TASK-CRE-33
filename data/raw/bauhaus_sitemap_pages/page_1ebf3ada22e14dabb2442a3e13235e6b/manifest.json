@@ -1,0 +1,25 @@
+{
+  "started_at_utc": "2026-10-31T18:53:29.348308+00:00",
+  "source_url": "https://www.bauhaus.info/fc/osnabrueck/6265",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc/osnabrueck/6265",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "confirmed_terminal_unresolved",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "apify_http_status": 400,
+  "run_id": "gj0UkxeRLMxaeE3fO",
+  "dataset_sha256": "3c67a063ac7d96f120f80b44a90712429a56ebbbc1dc3d84367d317cd654c646",
+  "apify_error_type": "run-failed",
+  "run_sha256": "8a7605205d166720ca78e39aa895ae2a6541f92333db69038702db9e37c675f2",
+  "run_status": "TIMED-OUT",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-10-31T18:55:29.972232+00:00"
+}

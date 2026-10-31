@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=75179",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=75179",
+    "loadedTime": "2026-10-31T17:43:05.794Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1075,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=75179",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:43:05 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=75179",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Pforzheim\",\"slug\":\"pforzheim\",\"name\":\"BAUHAUS GmbH & Co. KG Süd\",\"id\":590,\"store_id\":590,\"location\":{\"lat\":48.898491439821,\"lng\":8.6682038962826},\"address\":{\"lines\":[\"Konstanzer Strasse 6\"],\"city\":\"Pforzheim\",\"zipcode\":\"75179\"},\"distance\":0.81,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Karlsruhe-Oststadt\",\"slug\":\"karlsruhe-oststadt\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Donau\",\"id\":852,\"store_id\":852,\"location\":{\"lat\":49.00817,\"lng\":8.44044},\"address\":{\"lines\":[\"Käppelestraße 2\"],\"city\":\"Karlsruhe\",\"zipcode\":\"76131\"},\"distance\":19.88,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

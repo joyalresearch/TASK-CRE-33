@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=78224",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=78224",
+    "loadedTime": "2026-10-31T17:44:30.156Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 511,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=78224",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:44:30 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=78224",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Singen\",\"slug\":\"singen\",\"name\":\"BAUHAUS GmbH & Co. KG Süd\",\"id\":649,\"store_id\":649,\"location\":{\"lat\":47.751311,\"lng\":8.88355},\"address\":{\"lines\":[\"Marie-Curie-Straße 2\"],\"city\":\"Singen\",\"zipcode\":\"78224\"},\"distance\":1.8,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

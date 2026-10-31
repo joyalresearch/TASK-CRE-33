@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=64646",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=64646",
+    "loadedTime": "2026-10-31T17:39:19.047Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1638,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=64646",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:39:19 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=64646",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Heppenheim\",\"slug\":\"heppenheim\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Main-Neckar\",\"id\":659,\"store_id\":659,\"location\":{\"lat\":49.641623,\"lng\":8.618646},\"address\":{\"lines\":[\"Tiergartenstrasse 7\"],\"city\":\"Heppenheim\",\"zipcode\":\"64646\"},\"distance\":3.26,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Mannheim-Columbus\",\"slug\":\"mannheim-columbus\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Main-Neckar\",\"id\":897,\"store_id\":897,\"location\":{\"lat\":49.515345,\"lng\":8.535418},\"address\":{\"lines\":[\"Gorxheimer Straße 3\"],\"city\":\"Mannheim\",\"zipcode\":\"68309\"},\"distance\":17.11,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Mannheim-Waldhof\",\"slug\":\"mannheim-waldhof\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Main-Neckar\",\"id\":557,\"store_id\":557,\"location\":{\"lat\":49.529827188899,\"lng\":8.4832265636468},\"address\":{\"lines\":[\"Waldstrasse 2\"],\"city\":\"Mannheim\",\"zipcode\":\"68305\"},\"distance\":18.22,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

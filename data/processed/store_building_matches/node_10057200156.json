@@ -1,0 +1,42 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 10057200156,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 28505596,
+      "building_type": "retail",
+      "building_name": "Forum Steglitz",
+      "building_tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "12163",
+        "addr:street": "Schloßstraße",
+        "addr:suburb": "Steglitz",
+        "building": "retail",
+        "building:levels": "6",
+        "check_date:opening_hours": "2024-01-08",
+        "contact:website": "http://www.forum-steglitz.de",
+        "height": "26.4",
+        "name": "Forum Steglitz",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "roof:shape": "flat",
+        "shop": "mall",
+        "toilets": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1439238",
+        "wikipedia": "de:Forum Steglitz"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 9159.74,
+      "geometry_wkt_25832": "POLYGON ((793812.384621941 5821585.7170367865, 793807.0024912859 5821588.439500358, 793788.792760504 5821598.067168396, 793763.7772771936 5821548.957409443, 793855.0994873391 5821502.754225735, 793911.3823709217 5821474.27241884, 793923.8114109004 5821499.224554253, 793936.2467410861 5821523.842462126, 793880.4012323051 5821552.194020789, 793812.8701332689 5821586.482388513, 793812.384621941 5821585.7170367865))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

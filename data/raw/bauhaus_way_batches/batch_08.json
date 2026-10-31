@@ -1,0 +1,258 @@
+{
+  "elements": [
+    {
+      "type": "way",
+      "id": 1262910446,
+      "tags": {
+        "addr:city": "Mainz-Kastel",
+        "addr:housenumber": "20",
+        "addr:postcode": "55252",
+        "addr:street": "Fritz-Hußler-Straße",
+        "branch": "Drive in Arena",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      },
+      "geometry": [
+        {
+          "lat": 50.0279397,
+          "lon": 8.2893662
+        },
+        {
+          "lat": 50.0281971,
+          "lon": 8.2885397
+        },
+        {
+          "lat": 50.02805,
+          "lon": 8.2884287
+        },
+        {
+          "lat": 50.028071,
+          "lon": 8.2883614
+        },
+        {
+          "lat": 50.0278979,
+          "lon": 8.2882308
+        },
+        {
+          "lat": 50.0278759,
+          "lon": 8.2883014
+        },
+        {
+          "lat": 50.0274707,
+          "lon": 8.2879957
+        },
+        {
+          "lat": 50.0272144,
+          "lon": 8.2888189
+        },
+        {
+          "lat": 50.0279397,
+          "lon": 8.2893662
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 1289813642,
+      "tags": {
+        "addr:city": "Mainz-Kastel",
+        "addr:housenumber": "21",
+        "addr:postcode": "55252",
+        "addr:street": "Gottfried-Dörr-Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "email": "service.nl896@bauhaus-ag.de",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 6134 25569 0",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-wiesbaden--mainz-kastel/fc/896",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 50.0285578,
+          "lon": 8.2912006
+        },
+        {
+          "lat": 50.0281301,
+          "lon": 8.2908834
+        },
+        {
+          "lat": 50.0268978,
+          "lon": 8.2899695
+        },
+        {
+          "lat": 50.0266786,
+          "lon": 8.2907039
+        },
+        {
+          "lat": 50.0267033,
+          "lon": 8.2908063
+        },
+        {
+          "lat": 50.0282562,
+          "lon": 8.2919707
+        },
+        {
+          "lat": 50.0282972,
+          "lon": 8.2918381
+        },
+        {
+          "lat": 50.0282045,
+          "lon": 8.2917687
+        },
+        {
+          "lat": 50.0282957,
+          "lon": 8.2914737
+        },
+        {
+          "lat": 50.02844,
+          "lon": 8.2915817
+        },
+        {
+          "lat": 50.0285578,
+          "lon": 8.2912006
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 1294579873,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Gorxheimer Straße",
+        "brand": "Bauhaus",
+        "brand:wikidata": "Q672043",
+        "building": "retail",
+        "building:colour": "red",
+        "building:levels": "1",
+        "height": "8",
+        "internet_access": "wlan",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+        "phone": "+49 621 71760 0",
+        "roof:colour": "#908080",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "website": "https://www.bauhaus.info/",
+        "wheelchair": "yes"
+      },
+      "geometry": [
+        {
+          "lat": 49.5153657,
+          "lon": 8.5347071
+        },
+        {
+          "lat": 49.5151462,
+          "lon": 8.5340966
+        },
+        {
+          "lat": 49.5146999,
+          "lon": 8.5328549
+        },
+        {
+          "lat": 49.5140442,
+          "lon": 8.5334141
+        },
+        {
+          "lat": 49.5141242,
+          "lon": 8.5336366
+        },
+        {
+          "lat": 49.5141623,
+          "lon": 8.5336041
+        },
+        {
+          "lat": 49.5145518,
+          "lon": 8.5346875
+        },
+        {
+          "lat": 49.5146462,
+          "lon": 8.534607
+        },
+        {
+          "lat": 49.5147697,
+          "lon": 8.5349506
+        },
+        {
+          "lat": 49.5147231,
+          "lon": 8.5349904
+        },
+        {
+          "lat": 49.5147959,
+          "lon": 8.535193
+        },
+        {
+          "lat": 49.5153657,
+          "lon": 8.5347071
+        }
+      ]
+    },
+    {
+      "type": "way",
+      "id": 1294579874,
+      "tags": {
+        "brand": "Bauhaus",
+        "building": "retail",
+        "building:colour": "red",
+        "building:levels": "1",
+        "height": "8",
+        "name": "Bauhaus Drive-In Arena",
+        "roof:colour": "#908080",
+        "roof:shape": "flat",
+        "shop": "doityourself"
+      },
+      "geometry": [
+        {
+          "lat": 49.5166148,
+          "lon": 8.5343567
+        },
+        {
+          "lat": 49.5165876,
+          "lon": 8.5342807
+        },
+        {
+          "lat": 49.5166254,
+          "lon": 8.534255
+        },
+        {
+          "lat": 49.5164929,
+          "lon": 8.5338907
+        },
+        {
+          "lat": 49.516457,
+          "lon": 8.5339164
+        },
+        {
+          "lat": 49.5162491,
+          "lon": 8.5333361
+        },
+        {
+          "lat": 49.5160502,
+          "lon": 8.5335052
+        },
+        {
+          "lat": 49.5157773,
+          "lon": 8.5337371
+        },
+        {
+          "lat": 49.5161431,
+          "lon": 8.5347578
+        },
+        {
+          "lat": 49.5166148,
+          "lon": 8.5343567
+        }
+      ]
+    }
+  ]
+}

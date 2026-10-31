@@ -1,0 +1,28 @@
+{
+  "created_at_utc": "2026-10-31T19:35:50.655681+00:00",
+  "inventory_path": "data\\processed\\bauhaus_locator_consolidated_a8a5f18b3ffe4e69b630844191188187.json",
+  "inventory_sha256": "2b7254db563e3b7bb7422d93ffa39320ce94714bcb860604a109aa9934f212a8",
+  "building_path": "data\\processed\\bauhaus_buildings_consolidated.json",
+  "building_sha256": "0de970956ab6a1de450b274a8867f787c256baf89e82aad6aa27d669c192df9a",
+  "building_crs": "EPSG:25832",
+  "building_crs_basis": "Declared by geometry_wkt_25832 field; upstream transformation provenance still requires verification",
+  "official_coordinate_crs": "EPSG:4326",
+  "official_coordinate_crs_basis": "Locator latitude/longitude interpretation",
+  "official_store_count": 161,
+  "input_buildings": 167,
+  "usable_building_candidates": 167,
+  "rejected_buildings": [],
+  "area_discrepancies": [],
+  "status_counts": {
+    "no_containment": 57,
+    "single_containment_candidate": 104
+  },
+  "accepted_associations": 0,
+  "pv_estimates_calculated": false,
+  "limitations": [
+    "Containment and proximity identify candidates, not verified occupancy.",
+    "Whole-building area may include other occupants or parking structures.",
+    "Previously discovered Berlin candidates are not merged into this baseline.",
+    "No national completeness claim is made."
+  ]
+}

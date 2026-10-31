@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=93053",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=93053",
+    "loadedTime": "2026-10-31T17:47:55.256Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 537,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=93053",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:47:55 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=93053",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Regensburg\",\"slug\":\"regensburg\",\"name\":\"BAUHAUS GmbH & Co. KG Bayern\",\"id\":572,\"store_id\":572,\"location\":{\"lat\":48.99416599836,\"lng\":12.11630470437},\"address\":{\"lines\":[\"Langobardenstrasse 1\"],\"city\":\"Regensburg\",\"zipcode\":\"93053\"},\"distance\":1.19,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

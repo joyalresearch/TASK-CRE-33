@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=77656",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=77656",
+    "loadedTime": "2026-10-31T17:43:57.101Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 531,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=77656",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:43:57 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=77656",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Offenburg\",\"slug\":\"offenburg\",\"name\":\"BAUHAUS GmbH & Co. KG Süd\",\"id\":621,\"store_id\":621,\"location\":{\"lat\":48.471974646173,\"lng\":7.9301335360072},\"address\":{\"lines\":[\"Max-Planck-Str. 2\"],\"city\":\"Offenburg\",\"zipcode\":\"77656\"},\"distance\":0.96,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

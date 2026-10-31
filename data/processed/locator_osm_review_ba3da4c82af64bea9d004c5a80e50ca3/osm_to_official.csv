@@ -1,0 +1,185 @@
+﻿osm_id,osm_name,osm_city,osm_postcode,osm_street,osm_housenumber,coordinate_basis,nearest_official_store_id,nearest_official_name,nearest_official_postcode,nearest_official_address,nearest_distance_m,second_nearest_distance_m,same_postcode,official_candidates_within_250m,status,association_verified
+node/30560661,Bauhaus,Mannheim,68305,Waldstraße,2,node,557,Mannheim-Waldhof,68305,Waldstrasse 2,25.35,4115.32,True,557,single_proximity_candidate,False
+node/253378262,Bauhaus,Hamburg,22041,Wandsbeker Zollstraße,95,node,851,Hamburg-Wandsbek,22041,Wandsbeker Zollstr. 95,41.52,3056.19,True,851,single_proximity_candidate,False
+node/254352435,Bauhaus,,,,,node,544,Nagold,72202,Haiterbacher Strasse 66,23.34,24454.28,,544,single_proximity_candidate,False
+node/279218164,Bauhaus,Heidenheim an der Brenz,89520,Aalener Straße,28,node,485,Heidenheim,89520,Aalener Strasse 28,11.14,14505.09,True,485,single_proximity_candidate,False
+node/286555103,Bauhaus,,,,,node,583,Mannheim-Mallau,68219,Bohnenberger Strasse 17,46.72,4786.07,,583,single_proximity_candidate,False
+node/297084872,Bauhaus,,,,,node,659,Heppenheim,64646,Tiergartenstrasse 7,45.55,15296.06,,659,single_proximity_candidate,False
+node/416660121,Bauhaus,Berlin,10585,Wilmersdorfer Straße,32,node,812,Berlin-Charlottenburg,10585,Wilmersdorfer Strasse 32,40.11,2107.71,True,812,single_proximity_candidate,False
+node/422779946,Bauhaus,Berlin,10787,Bayreuther Straße,3-4,node,840,Berlin Am Wittenbergplatz,10787,Bayreuther Strasse 3-4,15.14,2858.73,True,840,single_proximity_candidate,False
+node/442539005,Bauhaus,München,80687,Landsberger Straße,175-179,node,520,München-Laim,80687,Landsberger Strasse 175-179,37.78,8747.39,True,520,single_proximity_candidate,False
+node/490066695,Bauhaus,Berlin,13435,Wilhelmsruher Damm,229-245,node,850,Berlin-Wittenau,13435,Wilhelmsruher Damm 229-245,52.31,3678.21,True,850,single_proximity_candidate,False
+node/604969739,Bauhaus,Plauen,08529,Äußere Reichenbacher Straße,80,node,406,Plauen,08529,Äußere Reichenbacher Str. 80,18.89,42063.91,True,406,single_proximity_candidate,False
+node/823521634,Bauhaus,,,,,node,647,Bremen-Stresemannstr.,28207,Stresemannstr. 14,55780.34,60164.99,,,no_official_candidate_within_250m,False
+node/1036180405,Bauhaus,Ulm,89077,Blaubeurer Straße,59,node,599,Ulm,89077,Blaubeurer Strasse 59,86.14,37792.63,True,599,single_proximity_candidate,False
+node/1083762657,Bauhaus,,,,,node,859,Nürnberg,90439,Geisseestraße 89,86.88,4077.7,,859,single_proximity_candidate,False
+node/1389121491,Bauhaus,Bielefeld,33609,Finkenstraße,52,node,521,Bielefeld,33609,Finkenstrasse 52,22.16,63993.01,True,521,single_proximity_candidate,False
+node/1605507205,Bauhaus,Augsburg,86165,Südtiroler Straße,1,node,632,Augsburg - Lechhausen,86165,Südtiroler Strasse 1,18.61,5115.93,True,632,single_proximity_candidate,False
+node/1739559562,Bauhaus,,,,,node,534,Lübeck-St. Jürgen,23562,Ratzeburger Allee 106,13.39,4482.86,,534,single_proximity_candidate,False
+node/2302565844,Bauhaus,Düsseldorf,40233,Kettwiger Straße,69,node,491,Düsseldorf-Flingern,40233,Kettwiger Strasse 69,28.0,3056.86,True,491,single_proximity_candidate,False
+node/2935166520,Bauhaus,Lübeck,23556,Lohgerberstraße,3,node,864,Lübeck-Moisling,23556,Lohgerberstraße 3,70.67,3634.12,True,864,single_proximity_candidate,False
+node/3431148151,Naturbauhaus mengler,Iserlohn,58636,Baarstraße,121,node,509,Dortmund-Aplerbeck,44287,Schleefstrasse 20-22,14718.09,16571.08,False,,no_official_candidate_within_250m,False
+node/3730393002,Bauhaus,Bonn,53115,Endenicher Straße,120-140,node,890,Bonn-Endenich,53115,Endenicher Straße 120-140,12.21,4168.23,True,890,single_proximity_candidate,False
+node/3875846542,Bauhaus,,,,,node,602,Gründau-Lieblos,63584,Rudolf-Walther-Strasse 8,25.93,17850.16,,602,single_proximity_candidate,False
+node/4580891593,Bauhaus,Berlin,12103,Alboinstraße,18,node,597,Berlin-Schöneberg,12103,Alboinstrasse 18,74.77,2946.56,True,597,single_proximity_candidate,False
+node/4797070542,Bauhaus,Düsseldorf,40625,Nach den Mauresköthen,137,node,566,Düsseldorf-Gerresheim,40625,Nach den Mauresköthen 137,11.29,3051.3,True,566,single_proximity_candidate,False
+node/5301851476,Bauhaus,Düsseldorf,40599,Reisholzer Bahnstraße,37,node,618,Düsseldorf-Reisholz,40599,Reisholzer Bahnstrasse 37,63.93,4993.26,True,618,single_proximity_candidate,False
+node/5329643356,Bauhaus,Bremen,28307,Hans-Bredow-Straße,20,node,863,Bremen-Osterholz (Weserpark),28307,Hans-Bredow-Str. 20,42.27,7079.56,True,863,single_proximity_candidate,False
+node/6586555027,Bauhaus,Hanau,63457,Edisonstraße,3,node,560,Hanau,63457,Edisonstrasse 3,13.59,12106.51,True,560,single_proximity_candidate,False
+node/7111767781,Bauhaus,Mainz,55120,Rheinallee,128,node,854,Mainz-Mombach,55120,Rheinallee 128,10.1,4615.73,True,854,single_proximity_candidate,False
+node/7340432568,Bauhaus,Laatzen,30880,Erich-Panitz-Straße,1,node,651,Laatzen,30880,Erich-Panitz-Str. 1,126.81,9262.79,True,651,single_proximity_candidate,False
+node/7452492738,Bauhaus,Bruchsal,76646,Kammerforststraße,19,node,872,Bruchsal,76646,Kammerforststraße 19,104.89,16866.63,True,872,single_proximity_candidate,False
+node/7518511157,Bauhaus,,,,,node,633,Krefeld-Mevissenstraße,47803,Mevissenstrasse 75,40.96,5102.28,,633,single_proximity_candidate,False
+node/8584539424,Bauhaus,Haßloch,67454,Fritz-Karl-Henkel-Straße,6,node,874,Haßloch,67454,Fritz-Karl-Henkel-Straße 6,52.11,12148.74,True,874,single_proximity_candidate,False
+node/9360368250,Naturbauhaus Schleswig,Schleswig,24837,Friedrichstraße,81,node,635,Flensburg,24941,Schleswiger Strasse 107-109,30055.2,39200.28,False,,no_official_candidate_within_250m,False
+node/10044308316,Bauhaus,Wetzlar,35576,Philipsstraße,8,node,558,Wetzlar,35576,Philipsstrasse 8,12.29,12942.58,True,558,single_proximity_candidate,False
+node/10057200156,Bauhaus,Berlin,12163,Schloßstraße,1,node,894,Berlin-Steglitz,12163,Schloßstraße 1,25.4,2938.11,True,894,single_proximity_candidate,False
+node/10093313817,Bauhaus,,,,,node,875,Reutlingen,72770,Justus-von-Liebig-Str. 1-3,204.77,25239.3,,875,single_proximity_candidate,False
+node/11059529684,Bauhaus,Berlin,12277,Nahmitzer Damm,26,node,604,Berlin-Marienfelde,12277,Nahmitzer Damm 26,3.64,6730.01,True,604,single_proximity_candidate,False
+node/11778986402,Bauhaus,Düsseldorf,40472,Am Hülserhof,49,node,878,Düsseldorf Rath,40472,Am Hülserhof 49,393.3,5699.91,True,,no_official_candidate_within_250m,False
+node/11939377123,Naturbauhaus Farbenfroh e. K.,Hannover,30163,Dragonerstraße,23a,node,300,Hannover-Stadtmitte,30159,Otto-Brenner-Strasse 9,1922.21,2564.12,False,,no_official_candidate_within_250m,False
+node/12517940711,Bauhaus,Mülheim-Kärlich,56218,In der Pützgewann,2,node,559,Mülheim-Kärlich,56218,In der Pützgewann 2,32.15,4792.25,True,559,single_proximity_candidate,False
+way/4700552,Bauhaus,Stuhr,28816,3-K-Weg,23,OSM way center,553,Stuhr-Groß-Mackenstedt,28816,3-K Weg 23,19.51,12707.77,True,553,single_proximity_candidate,False
+way/19727326,Bauhaus,Aachen,52070,Gut-Dämme-Straße,4,OSM way center,586,Aachen,52070,Gut-Dämme-Strasse 4,7.21,3395.79,True,586,single_proximity_candidate,False
+way/22762245,Bauhaus,Hamburg,22549,Rugenbarg,252,OSM way center,865,Hamburg-Lurup,22549,Rugenbarg 252,57.44,3419.29,True,865,single_proximity_candidate,False
+way/23180187,Bauhaus,Cottbus,03042,Paul-Greifzu-Straße,2,OSM way center,855,Cottbus,03042,Paul-Greifzu-Str. 2,41.03,80221.81,True,855,single_proximity_candidate,False
+way/23386017,Bauhaus,Hamburg,22177,Bramfelder Chaussee,136,OSM way center,663,Hamburg-Bramfeld,22177,Bramfelder Chaussee 136,23.39,3084.8,True,663,single_proximity_candidate,False
+way/23619103,Bauhaus,Duisburg,47269,Keniastraße,28,OSM way center,579,Duisburg-Grossenbaum,47269,Keniastrasse 28,81.21,10989.41,True,579,single_proximity_candidate,False
+way/24049246,Bauhaus,Berlin,13405,Kapweg,1-2,OSM way center,656,Berlin-Wedding,13405,Kapweg 1,87.09,3701.93,True,656,single_proximity_candidate,False
+way/24230210,Bauhaus,Berlin,12439,Schnellerstraße,139,OSM way center,866,Berlin-Treptow,12439,Schnellerstr. 139,58.34,6182.78,True,866,single_proximity_candidate,False
+way/24393423,Bauhaus,Würselen,52146,Adenauerstraße,14,OSM way center,613,Würselen,52146,Adenauer Strasse 14-16,34.32,3372.88,True,613,single_proximity_candidate,False
+way/24691546,Bauhaus,Hamburg,21029,Curslacker Neuer Deich,45,OSM way center,620,Hamburg-Bergedorf,21029,Curslacker Neuer Deich 16-20,353.05,8567.65,True,,no_official_candidate_within_250m,False
+way/24802709,Bauhaus,,,,,OSM way center,560,Hanau,63457,Edisonstrasse 3,24286.01,26771.25,,,no_official_candidate_within_250m,False
+way/24864353,Bauhaus,Dortmund,44145,Bornstraße,333,OSM way center,573,Dortmund Nordstadt,44145,Bornstrasse 333,42.41,7563.13,True,573,single_proximity_candidate,False
+way/25114190,Bauhaus,Berlin,13597,An den Freiheitswiesen,6,OSM way center,623,Berlin-Spandau,13597,An den Freiheitswiesen 6,96.58,3003.64,True,623,single_proximity_candidate,False
+way/25619088,Bauhaus,Kiel,24116,Gutenbergstraße,79,OSM way center,853,Kiel-Ravensberg,24116,Gutenbergstr. 79,42.94,2866.53,True,853,single_proximity_candidate,False
+way/25779279,Bauhaus,Speyer,67346,Iggelheimer Straße,30,OSM way center,531,Speyer,67346,Iggelheimer Strasse 30,260.09,11955.06,True,,no_official_candidate_within_250m,False
+way/26011057,Bauhaus,Ensdorf/Saar,66806,Gustav-Stresemann-Straße,7,OSM way center,622,Ensdorf,66806,Gustav-Stresemann-Strasse 5,125.44,7554.02,True,622,single_proximity_candidate,False
+way/26570627,Bauhaus,Hamburg,22419,Tarpen,19,OSM way center,858,Hamburg-Langenhorn,22419,Tarpen 19,61.57,7012.79,True,858,single_proximity_candidate,False
+way/26764123,Bauhaus,Koblenz,56070,Otto-Schönhagen-Straße,1-7,OSM way center,857,Koblenz-Lützel,56070,Otto-Schönhagen-Strasse 1,59.15,4763.03,True,857,single_proximity_candidate,False
+way/26790316,Bauhaus,Leverkusen,51377,Syltstraße,14,OSM way center,555,Leverkusen,51377,Syltstrasse 14,32.29,10188.09,True,555,single_proximity_candidate,False
+way/26832459,Bauhaus,Berlin,10967,Hasenheide,106-114,OSM way center,814,Berlin Am Hermannplatz,10967,Hasenheide 108-114,3.05,4030.82,True,814,single_proximity_candidate,False
+way/26958041,Bauhaus,Essingen,73457,Margarete-Steiff-Straße,20,OSM way center,580,Aalen-Essingen,73457,Margarete-Steiff-Strasse 20,42.55,14543.23,True,580,single_proximity_candidate,False
+way/27283969,Bauhaus,Hamburg,22525,Kieler Straße,499,OSM way center,664,Hamburg-Stellingen,22525,Kieler Str. 499,113.62,3004.03,True,664,single_proximity_candidate,False
+way/27436941,Bauhaus,Pforzheim,75179,Konstanzer Straße,6,OSM way center,590,Pforzheim,75179,Konstanzer Strasse 6,59.17,20687.74,True,590,single_proximity_candidate,False
+way/28132164,Bauhaus,Stein,90547,Spitzleitenweg,11,OSM way center,567,Nürnberg-Stein,90547,Spitzleitenweg 11,14.45,4076.06,True,567,single_proximity_candidate,False
+way/28143475,Bauhaus,Braunschweig,38124,Senefelderstraße,2,OSM way center,630,Braunschweig-Stöckheim,38124,Senefelderstraße 2,1.7,6732.51,True,630,single_proximity_candidate,False
+way/28334460,Bauhaus,Köln,51149,Theodor-Heuss-Straße,80-86,OSM way center,608,Köln-Porz,51149,Theodor-Heuss-Strasse 80-86,19.6,7440.39,True,608,single_proximity_candidate,False
+way/28715246,Bauhaus,Rastatt,76437,Im Baisert,1,OSM way center,530,Rastatt,76437,Im Baisert 1,13.8,19333.5,True,530,single_proximity_candidate,False
+way/29033850,Bauhaus,Essen,45145,Schederhofstraße,129,OSM way center,505,Essen-Frohnhausen,45145,Schederhof Str. 129,10.09,4403.6,True,505,single_proximity_candidate,False
+way/29350709,Bauhaus,Stralsund,18439,Gustower Weg,1,OSM way center,600,Stralsund,18439,Gustower Weg 1,5.63,71263.0,True,600,single_proximity_candidate,False
+way/29401013,Bauhaus,Köln,50825,Weinsbergstraße,190a,OSM way center,665,Köln-Ehrenfeld,50825,Weinsbergstraße 190a,23.74,5896.82,True,665,single_proximity_candidate,False
+way/30072118,Bauhaus,Ingolstadt,85057,Am Westpark,5,OSM way center,568,Ingolstadt,85057,Am Westpark 5,5.71,54750.56,True,568,single_proximity_candidate,False
+way/30181261,Bauhaus,Gera,07548,Elsterdamm,5,OSM way center,669,Gera,07548,Elsterdamm 5,55.18,42050.09,True,669,single_proximity_candidate,False
+way/30808551,Bauhaus,Villingen-Schwenningen,78048,Berliner Straße,19,OSM way center,547,Villingen-Schwenningen,78048,Berliner Strasse 19,25.06,14589.58,True,547,single_proximity_candidate,False
+way/30860030,Bauhaus Baumarkt,,,,,OSM way center,879,Mönchengladbach,41236,Odenkirchener Straße 298,28.08,20504.93,,879,single_proximity_candidate,False
+way/31410869,Bauhaus,Regensburg,93053,Langobardenstraße,1,OSM way center,572,Regensburg,93053,Langobardenstrasse 1,14.98,49112.41,True,572,single_proximity_candidate,False
+way/31670307,Bauhaus,Braunschweig,38114,Hildesheimer Straße,57-59,OSM way center,607,Braunschweig,38114,Hildesheimer Strasse 57-59,4.11,6731.5,True,607,single_proximity_candidate,False
+way/33003697,Bauhaus,Barsbüttel,22885,Rahlstedter Straße,2,OSM way center,624,Barsbüttel,22885,Rahlstedter Strasse 2,261.17,7506.81,True,,no_official_candidate_within_250m,False
+way/33524148,Bauhaus,Rostock,18069,An den Griebensöllen,1,OSM way center,667,Rostock-Schutow,18069,An den Griebensöllen 1,22.23,70185.94,True,667,single_proximity_candidate,False
+way/33542710,Bauhaus,Blankenfelde-Mahlow,15831,Am Lückefeld,87-91,OSM way center,565,Mahlow,15831,Am Lückefeld 87-91,35.79,7025.25,True,565,single_proximity_candidate,False
+way/33712617,Bauhaus,Offenburg,77656,Max-Planck-Straße,2,OSM way center,621,Offenburg,77656,Max-Planck-Str. 2,37.28,35683.75,True,621,single_proximity_candidate,False
+way/34201992,Bauhaus,Memmingen,87700,Fraunhoferstraße,2,OSM way center,598,Memmingen,87700,Fraunhofer Strasse 2,56.14,46376.59,True,598,single_proximity_candidate,False
+way/35910944,Bauhaus,Bornheim,53332,Alexander-Bell-Straße,6,OSM way center,609,Bornheim,53332,Alexander-Bell-Strasse 6,4.2,4767.43,True,609,single_proximity_candidate,False
+way/36124234,Bauhaus,Neuwied,56566,Allensteiner Straße,19,OSM way center,650,Neuwied,56566,Allensteiner Strasse 17,93.76,4883.2,True,650,single_proximity_candidate,False
+way/36124286,Bauhaus,Neuwied,56566,Allensteiner Straße,17,OSM way center,650,Neuwied,56566,Allensteiner Strasse 17,10.76,4942.53,True,650,single_proximity_candidate,False
+way/37287853,Bauhaus,Neuss,41470,Am Kirchenmorgen,1,OSM way center,628,Neuss,41470,Am Kirchenmorgen 1,65.66,7752.25,True,628,single_proximity_candidate,False
+way/40106846,Bauhaus,Bad Vilbel,61118,Zeppelinstraße,25,OSM way center,898,Bad Vilbel,61118,Zeppelinstrasse 25,46.4,7210.76,True,898,single_proximity_candidate,False
+way/41860856,Bauhaus,Köln,51103,Istanbulstraße,20,OSM way center,616,Köln-Kalk,51103,Istanbulstr 20,81.17,5983.17,True,616,single_proximity_candidate,False
+way/44004385,Bauhaus,Stuttgart,70565,Industriestraße,57,OSM way center,626,Stuttgart-Möhringen,70565,Industriestrasse 57,22.73,6285.65,True,626,single_proximity_candidate,False
+way/44904672,Bauhaus,Lüneburg,21337,Auf den Blöcken,1,OSM way center,666,Lüneburg,21337,Auf den Blöcken 1,68.95,32093.77,True,666,single_proximity_candidate,False
+way/45883708,Bauhaus,Neckarsulm,74172,Robert-Bosch-Straße,1,OSM way center,508,Neckarsulm,74172,Robert-Bosch-Strasse 1-5,6.47,45633.3,True,508,single_proximity_candidate,False
+way/48133177,Bauhaus,Magdeburg,39126,Havelstraße,20,OSM way center,400,Magdeburg,39126,Havelstrasse 20,5.33,77673.96,True,400,single_proximity_candidate,False
+way/48466507,Bauhaus,Frankfurt am Main,60386,Hanauer Landstraße,517-543,OSM way center,589,Frankfurt,60386,Hanauer Landstrasse 517-543,5.13,7183.23,True,589,single_proximity_candidate,False
+way/52007850,Bauhaus,Fuldabrück,34277,Albert-Einstein-Straße,1,OSM way center,603,Fuldabrück,34277,Albert-Einstein-Strasse 1,2.14,7813.67,True,603,single_proximity_candidate,False
+way/52131203,Bauhaus,Schwentinental,24223,Klausdorfer Straße,28-32,OSM way center,634,Schwentinental-Raisdorf,24223,Klausdorfer Str. 28-32,71.52,8921.47,True,634,single_proximity_candidate,False
+way/52513722,Bauhaus,Bad Kreuznach,55545,Mainzer Straße,2a,OSM way center,537,Bad Kreuznach,55545,Mainzer Strasse 2 A,44.13,30371.9,True,537,single_proximity_candidate,False
+way/54727041,Bauhaus,Hagen,58089,Eckeseyer Straße,90,OSM way center,507,Hagen,58089,Eckeseyer Strasse 90,26.41,10072.09,True,507,single_proximity_candidate,False
+way/54856134,Bauhaus,Kiel,24107,Steenbeker Weg,215,OSM way center,571,Kiel-Suchsdorf,24106,Steenbeker Weg 215,16.88,2837.24,False,571,single_proximity_candidate,False
+way/55008475,Bauhaus,Essen,45141,Langemarckstraße,1,OSM way center,539,Essen-Frillendorf,45141,Langemarckstrasse 2,183.52,4420.7,True,539,single_proximity_candidate,False
+way/56191943,Bauhaus,Hürth,50354,Luxemburger Straße,223-225,OSM way center,629,Hürth,50354,Luxemburger Strasse 223-225,17.21,5622.92,True,629,single_proximity_candidate,False
+way/60455187,Bauhaus,,,,,OSM way center,577,Birkenwerder,16547,Hauptstrasse 211,11.39,12986.52,,577,single_proximity_candidate,False
+way/62811069,Bauhaus,Frechen,50226,Europaallee,11,OSM way center,569,Frechen,50226,Europa Allee 13,57.7,5603.19,True,569,single_proximity_candidate,False
+way/70786923,Bauhaus,Ludwigshafen am Rhein,67071,Oderstraße,11,OSM way center,601,Ludwigshafen,67071,Oderstrasse 11,9.41,8470.74,True,601,single_proximity_candidate,False
+way/76844715,Bauhaus,Heidelberg,69115,Eppelheimer Straße,48,OSM way center,636,Heidelberg,69115,Eppelheimer Strasse 48,156.26,11704.26,True,636,single_proximity_candidate,False
+way/80253164,Bauhaus,Freudenstadt,72250,Im Sulzhau,1,OSM way center,642,Freudenstadt,72250,Im Sulzhau 1,3.5,24440.78,True,642,single_proximity_candidate,False
+way/80858331,Bauhaus,Berlin,13127,Schönerlinder Straße,53,OSM way center,578,Berlin-Pankow,13127,Schönerlinder Strasse 53,8.8,7031.45,True,578,single_proximity_candidate,False
+way/82445638,Bauhaus,Krefeld,47807,Untergath,89,OSM way center,541,Krefeld-Untergath,47805,Untergath 89,19.6,5108.48,False,541,single_proximity_candidate,False
+way/87313466,Bauhaus,Solingen,42719,Focher Straße,55,OSM way center,562,Solingen,42719,Focher Strasse 53,4.72,10307.38,True,562,single_proximity_candidate,False
+way/87352620,Bauhaus,Augsburg,86159,Alter Postweg,99,OSM way center,515,Augsburg,86159,Alter Postweg 99,15.03,5654.26,True,515,single_proximity_candidate,False
+way/90064343,Bauhaus,Dillingen/Saar,66763,Uferstraße,9,OSM way center,585,Dillingen,66763,Uferstrasse 9,25.26,7551.01,True,585,single_proximity_candidate,False
+way/90494889,Bauhaus,Lörrach,79541,Industriestraße,1,OSM way center,594,Lörrach-Haagen,79541,Industrie Strasse 3,8.72,40228.73,True,594,single_proximity_candidate,False
+way/92704284,Bauhaus,,,,,OSM way center,668,Schwerin-Großer Dreesch,19061,Graf-Yorck-Str. 1,116.4,55126.64,,668,single_proximity_candidate,False
+way/92704442,Bauhaus,Schwerin,19061,Graf-Yorck-Straße,1,OSM way center,668,Schwerin-Großer Dreesch,19061,Graf-Yorck-Str. 1,27.95,55199.67,True,668,single_proximity_candidate,False
+way/93211530,BAUHAUS Bochum-Harpen,Bochum,44805,Castroper Hellweg,51,OSM way center,519,Bochum Harpen,44805,Castroper Hellweg 51,7.15,3676.09,True,519,single_proximity_candidate,False
+way/93317352,Bauhaus,Hennef (Sieg),53773,Fritz-Jacobi-Straße,30,OSM way center,856,Hennef,53773,Fritz-Jacobi-Straße 30,62.3,10394.65,True,856,single_proximity_candidate,False
+way/94340051,Bauhaus,Lübeck,23554,Bei der Lohmühle,102,OSM way center,639,Lübeck,23554,Bei der Lohmühle 102,52.27,3590.66,True,639,single_proximity_candidate,False
+way/96216146,Bauhaus,Bad Neuenahr-Ahrweiler,53474,Wilhelmstraße,58-60,OSM way center,893,Bad Neuenahr-Ahrweiler,53474,Wilhelmstraße 58-60,8.38,20622.76,True,893,single_proximity_candidate,False
+way/96593449,Bauhaus,Bochum,44867,Fritz-Reuter-Straße,38,OSM way center,535,Bochum-Wattenscheid,44867,Fritz-Reuter-Strasse 38,5.14,5658.67,True,535,single_proximity_candidate,False
+way/97693777,Bauhaus Drive-In Arena,Aachen,52070,Feldchen,1,OSM way center,586,Aachen,52070,Gut-Dämme-Strasse 4,212.81,3207.52,True,586,single_proximity_candidate,False
+way/97882534,Bauhaus,Witten,58454,Brauckstraße,20,OSM way center,625,Witten,58454,Brauckstrasse 20,51.08,10052.14,True,625,single_proximity_candidate,False
+way/100467501,Bauhaus,Kassel,34127,Holländische Straße,203a,OSM way center,658,Kassel,34127,Holländische Str. 203a,68.88,7805.51,True,658,single_proximity_candidate,False
+way/102034074,Bauhaus,Schweinfurt,97424,Rudolf-Diesel-Straße,33,OSM way center,861,Schweinfurt,97424,Rudolf-Diesel-Straße 33,92.72,80519.98,True,861,single_proximity_candidate,False
+way/102410272,Bauhaus,Passau,94036,Danziger Straße,47,OSM way center,561,Passau,94036,Danziger Strasse 47,2.97,93639.43,True,561,single_proximity_candidate,False
+way/102783805,Bauhaus,Rastatt,76437,Im Baisert,1,OSM way center,530,Rastatt,76437,Im Baisert 1,126.15,19456.82,True,530,single_proximity_candidate,False
+way/108248464,Bauhaus,Karlsruhe,76185,Neureuter Straße,4,OSM way center,525,Karlsruhe-Mühlburg,76185,Neureuter Strasse 4,13.29,4259.62,True,525,single_proximity_candidate,False
+way/108864862,Bauhaus,Kretzschau,06712,Alte Schulstraße,4,OSM way center,669,Gera,07548,Elsterdamm 5,20963.88,43631.79,False,,no_official_candidate_within_250m,False
+way/110307778,Bauhaus,Landshut,84030,Porschestraße,22,OSM way center,606,Landshut,84030,Porschestrasse 24-28,25.38,49097.19,True,606,single_proximity_candidate,False
+way/113971134,Bauhaus,Trier,54294,Luxemburger Straße,234,OSM way center,877,Trier,54294,Luxemburger Str. 234,22.6,43543.81,True,877,single_proximity_candidate,False
+way/118286988,Bauhaus,Balingen,72336,Lange Straße,9,OSM way center,584,Balingen,72336,Langestrasse 9,3.33,23036.65,True,584,single_proximity_candidate,False
+way/118916584,Bauhaus,Hamburg,21079,Schlachthofstraße,1,OSM way center,619,Hamburg-Harburg,21079,Schlachthofstrasse 1,197.41,8735.16,True,619,single_proximity_candidate,False
+way/118916585,Bauhaus,Hamburg,21079,Schlachthofstraße,1,OSM way center,619,Hamburg-Harburg,21079,Schlachthofstrasse 1,29.98,8922.63,True,619,single_proximity_candidate,False
+way/119476653,Bauhaus,Bergisch Gladbach,51429,Overather Straße,125,OSM way center,892,Bergisch Gladbach-Bensberg,51429,Overather Straße 125,99.51,10719.96,True,892,single_proximity_candidate,False
+way/120030437,Bauhaus,Münster,48155,Theodor-Scheiwe-Straße,2,OSM way center,661,Münster,48155,Theodor-Scheiwe-Strasse 2,83.23,46889.62,True,661,single_proximity_candidate,False
+way/120126663,Bauhaus,Donaueschingen,78166,Bregstraße,28,OSM way center,662,Donaueschingen,78166,Bregstr. 28,37.18,15435.48,True,662,single_proximity_candidate,False
+way/124537428,Bauhaus,Hannover,30159,Otto-Brenner-Straße,5-9,OSM way center,300,Hannover-Stadtmitte,30159,Otto-Brenner-Strasse 9,69.66,3817.16,True,300,single_proximity_candidate,False
+way/126440693,Bauhaus,Stuttgart,70327,Augsburger Straße,500,OSM way center,631,Stuttgart-Untertürkheim,70327,Augsburger Strasse 500,56.03,6539.88,True,631,single_proximity_candidate,False
+way/131318317,Bauhaus,Bremen,28207,Stresemannstraße,14,OSM way center,647,Bremen-Stresemannstr.,28207,Stresemannstr. 14,147.68,7092.63,True,647,single_proximity_candidate,False
+way/136758060,Bauhaus,Zimmern ob Rottweil,78658,Raiffeisenstraße,1,OSM way center,543,Zimmern ob Rottweil,78658,Raiffeisenstrasse 1,6.01,14601.72,True,543,single_proximity_candidate,False
+way/140561512,Bauhaus,Hannover,30165,Schulenburger Landstraße,,OSM way center,498,Hannover,30165,Schulenburger Landstrasse 125,6.84,3794.09,True,498,single_proximity_candidate,False
+way/142047669,Bauhaus drive in,Landshut,84030,Maybachstraße,4,OSM way center,606,Landshut,84030,Porschestrasse 24-28,299.48,48844.05,True,,no_official_candidate_within_250m,False
+way/148988039,Bauhaus,Gersthofen,86368,Hery-Park,2700,OSM way center,548,Gersthofen,86368,Hery-Park 2700,6.81,2352.94,True,548,single_proximity_candidate,False
+way/155164522,Bauhaus,Mainz,55130,Max-Hufschmidt-Straße,9,OSM way center,614,Mainz-Weisenau,55130,Max-Hufschmidt-Strasse 9,26.64,5784.03,True,614,single_proximity_candidate,False
+way/158710321,Bauhaus,Ravensburg,88212,Bleicherstraße,36,OSM way center,587,Ravensburg,88212,Bleicherstrasse 36,27.12,47933.05,True,587,single_proximity_candidate,False
+way/159926244,Bauhaus,Hamburg,22113,Unterer Landweg,77,OSM way center,595,Hamburg-Moorfleet,22113,Unterer Landweg 77,17.69,7164.9,True,595,single_proximity_candidate,False
+way/168141060,Bauhaus,Leipzig,04356,Handelsstraße,3,OSM way center,646,Leipzig,04356,Handelsstrasse 3,175.16,63288.17,True,646,single_proximity_candidate,False
+way/168141069,Bauhaus,,,,,OSM way center,646,Leipzig,04356,Handelsstrasse 3,227.58,63301.8,,646,single_proximity_candidate,False
+way/173434235,Bauhaus,Bochum,44809,Hofsteder Straße,205,OSM way center,648,Bochum-Hofstede,44809,Hofsteder Straße 205,158.71,3820.38,True,648,single_proximity_candidate,False
+way/177266742,Bauhaus,Flensburg,24941,Schleswiger Straße,107-109,OSM way center,635,Flensburg,24941,Schleswiger Strasse 107-109,93.18,62304.94,True,635,single_proximity_candidate,False
+way/201115893,Bauhaus,Wuppertal,42289,Widukindstraße,97,OSM way center,617,Wuppertal-Barmen (Heckinghausen),42289,Widukindstrasse 97,113.84,3889.56,True,617,single_proximity_candidate,False
+way/202318101,Bauhaus,Düren,52353,Fehlender Feld,11,OSM way center,637,Düren,52353,Fehlender Feld 11,1754.4,23108.93,True,,no_official_candidate_within_250m,False
+way/240042193,Bauhaus,Wildau,15745,Chausseestraße,1,OSM way center,605,Wildau,15745,Chausseestrasse 1,276.17,12943.3,True,,no_official_candidate_within_250m,False
+way/240159417,Bauhaus,Singen (Hohentwiel),78224,Marie-Curie-Straße,2,OSM way center,649,Singen,78224,Marie-Curie-Straße 2,53.25,35372.13,True,649,single_proximity_candidate,False
+way/244977926,Bauhaus,Hamburg,21029,Curslacker Neuer Deich,16-20,OSM way center,620,Hamburg-Bergedorf,21029,Curslacker Neuer Deich 16-20,19.74,8278.07,True,620,single_proximity_candidate,False
+way/245150872,Bauhaus Drive-In-Arena,,,,,OSM way center,555,Leverkusen,51377,Syltstrasse 14,201.57,10258.95,,555,single_proximity_candidate,False
+way/246999247,Bauhaus,Gießen,35394,Bänningerstraße,9,OSM way center,652,Gießen Schiffenberger Tal,35394,Bänninger Strasse 9,61.61,12994.27,True,652,single_proximity_candidate,False
+way/248788421,Bauhaus,Essingen,73457,Margarete-Steiff-Straße,18,OSM way center,580,Aalen-Essingen,73457,Margarete-Steiff-Strasse 20,166.72,14481.49,True,580,single_proximity_candidate,False
+way/251464504,Bauhaus,,,,,OSM way center,643,Berlin-Kurfürstendamm,10711,Kurfürstendamm 129a,410.52,2294.28,,,no_official_candidate_within_250m,False
+way/269791656,Bauhaus,Mannheim,68161,,1-5,OSM way center,655,Mannheim-Quadrate,68161,R5 1-5,49.14,4730.3,True,655,single_proximity_candidate,False
+way/277000970,Bauhaus,Bonn,53225,Gerhardstraße,2,OSM way center,657,Bonn-Beuel,53225,Gerhardstraße 2,132.01,4046.55,True,657,single_proximity_candidate,False
+way/285603576,Bauhaus,Berlin,13581,Brunsbütteler Damm,144,OSM way center,596,Berlin-Spandau Brunsbütteler Damm,13581,Brunsbüttler Damm 144-154,11.44,2916.22,True,596,single_proximity_candidate,False
+way/293418460,Bauhaus,Essen,45141,Langemarckstraße,2,OSM way center,539,Essen-Frillendorf,45141,Langemarckstrasse 2,30.94,4395.29,True,539,single_proximity_candidate,False
+way/293418467,Bauhaus,Essen,45141,Langemarckstraße,2,OSM way center,539,Essen-Frillendorf,45141,Langemarckstrasse 2,58.63,4402.82,True,539,single_proximity_candidate,False
+way/299599300,Bauhaus,Hamburg,22529,Alte Kollaustraße,44,OSM way center,654,Hamburg-Lokstedt,22529,Alte Kollaustr. 44 / 46,32.34,2937.7,True,654,single_proximity_candidate,False
+way/320125149,Bauhaus,Darmstadt,64293,Otto-Röhm-Straße,50,OSM way center,574,Darmstadt,64293,Otto-Röhm-Strasse 50,13.34,27348.95,True,574,single_proximity_candidate,False
+way/338416027,Bauhaus,Pulheim,50259,Siemensstraße,2,OSM way center,891,Pulheim,50259,Siemensstraße 2,51.52,8142.36,True,891,single_proximity_candidate,False
+way/375670000,Bauhaus,Wuppertal,42285,Oberbergische Straße,200,OSM way center,868,Wuppertal-Barmen (Lichtscheid),42285,Oberbergische Str. 200,152.87,4040.94,True,868,single_proximity_candidate,False
+way/412474154,Bauhaus,Karlsruhe,76131,Käppelestraße,2,OSM way center,852,Karlsruhe-Oststadt,76131,Käppelestraße 2,14.74,2894.72,True,852,single_proximity_candidate,False
+way/437519834,Bauhaus,Stuttgart,70178,Sophienstraße,23,OSM way center,871,Stuttgart,70178,Sophienstrasse 23,169.87,6324.79,True,871,single_proximity_candidate,False
+way/496104341,Bauhaus,München,80939,Maria-Probst-Straße,50,OSM way center,870,München-Freimann,80939,Maria-Probst-Str. 50,376.25,8857.91,True,,no_official_candidate_within_250m,False
+way/499376604,Bauhaus,Darmstadt,64293,Otto-Röhm-Straße,39-45,OSM way center,574,Darmstadt,64293,Otto-Röhm-Strasse 50,229.76,27341.09,True,574,single_proximity_candidate,False
+way/542947207,Bauhaus,,,,,OSM way center,638,Saarbrücken,66123,Dudweiler Landstraße 14,265.93,16783.05,,,no_official_candidate_within_250m,False
+way/620125890,Bauhaus,Karlsruhe,76137,Nebeniusstraße,4-6,OSM way center,330,Karlsruhe-Südstadt,76137,Ettlinger Str..47 / Ecke Neben,22.56,2866.54,True,330,single_proximity_candidate,False
+way/652382589,Bauhaus,Mainz,,Alte Mainzer Straße,127,OSM way center,614,Mainz-Weisenau,55130,Max-Hufschmidt-Strasse 9,244.28,5743.25,,614,single_proximity_candidate,False
+way/759059433,Bauhaus,Reutlingen,72770,Justus-von-Liebig-Straße,1,OSM way center,875,Reutlingen,72770,Justus-von-Liebig-Str. 1-3,60.63,25396.24,True,875,single_proximity_candidate,False
+way/768890944,Bauhaus,Dresden,01239,Tschirnhausstraße,2,OSM way center,645,Dresden-Nickern,01239,Tschirnhausstraße 2,78.69,93817.88,True,645,single_proximity_candidate,False
+way/927633999,Bauhaus,Dortmund,44287,Schleefstraße,20-22,OSM way center,509,Dortmund-Aplerbeck,44287,Schleefstrasse 20-22,537.1,7189.68,True,,no_official_candidate_within_250m,False
+way/945724462,Bauhaus,Berlin,10711,Kurfürstendamm,129a,OSM way center,643,Berlin-Kurfürstendamm,10711,Kurfürstendamm 129a,87.2,2165.43,True,643,single_proximity_candidate,False
+way/965168208,Bauhaus Profi Depot,Münster,48155,Theodor-Scheiwe-Straße,4,OSM way center,661,Münster,48155,Theodor-Scheiwe-Strasse 2,187.12,46993.94,True,661,single_proximity_candidate,False
+way/1015150437,Bauhaus,Freiburg im Breisgau,79115,Basler Straße,98,OSM way center,591,Freiburg,79115,Basler Strasse 98,6.88,40239.71,True,591,single_proximity_candidate,False
+way/1058622586,Bauhaus Drive-In-Arena,,,,,OSM way center,560,Hanau,63457,Edisonstrasse 3,172.1,12231.86,,560,single_proximity_candidate,False
+way/1096186782,Bauhaus,Augsburg,86154,Donauwörther Straße,293,OSM way center,862,Augsburg-Oberhausen,86154,Donauwörther Straße 293,12.84,2359.42,True,862,single_proximity_candidate,False
+way/1262910446,Bauhaus,Mainz-Kastel,55252,Fritz-Hußler-Straße,20,OSM way center,896,Wiesbaden/ Mainz-Kastel,55252,Gottfried-Dörr-Str. 21,313.38,4806.36,True,,no_official_candidate_within_250m,False
+way/1289813642,Bauhaus,Mainz-Kastel,55252,Gottfried-Dörr-Straße,21,OSM way center,896,Wiesbaden/ Mainz-Kastel,55252,Gottfried-Dörr-Str. 21,432.14,4970.6,True,,no_official_candidate_within_250m,False
+way/1294579873,Bauhaus,,,Gorxheimer Straße,3,OSM way center,897,Mannheim-Columbus,68309,Gorxheimer Straße 3,123.48,4042.68,,897,single_proximity_candidate,False
+way/1294579874,Bauhaus Drive-In Arena,,,,,OSM way center,897,Mannheim-Columbus,68309,Gorxheimer Straße 3,137.53,3977.86,,897,single_proximity_candidate,False

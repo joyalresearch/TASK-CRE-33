@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=79115",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=79115",
+    "loadedTime": "2026-10-31T17:44:45.954Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 527,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=79115",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:44:45 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=79115",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Freiburg\",\"slug\":\"freiburg\",\"name\":\"BAUHAUS GmbH & Co. KG Süd\",\"id\":591,\"store_id\":591,\"location\":{\"lat\":47.983340147499,\"lng\":7.8205325778111},\"address\":{\"lines\":[\"Basler Strasse 98\"],\"city\":\"Freiburg\",\"zipcode\":\"79115\"},\"distance\":0.8,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

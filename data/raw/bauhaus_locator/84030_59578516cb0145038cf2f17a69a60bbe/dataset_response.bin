@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=84030",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=84030",
+    "loadedTime": "2026-10-31T17:45:19.956Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 533,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=84030",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:45:19 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=84030",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Landshut\",\"slug\":\"landshut\",\"name\":\"BAUHAUS GmbH & Co. KG Bayern\",\"id\":606,\"store_id\":606,\"location\":{\"lat\":48.553528028406,\"lng\":12.158535153235},\"address\":{\"lines\":[\"Porschestrasse 24-28\"],\"city\":\"Landshut\",\"zipcode\":\"84030\"},\"distance\":4.24,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

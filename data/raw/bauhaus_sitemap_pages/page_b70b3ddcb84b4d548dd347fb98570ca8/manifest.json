@@ -1,0 +1,34 @@
+{
+  "started_at_utc": "2026-10-31T18:45:26.831019+00:00",
+  "source_url": "https://www.bauhaus.info/fc/kassel/6288",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc/kassel/6288",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "captured",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "apify_http_status": 201,
+  "run_id": null,
+  "dataset_sha256": "41482696f4759cba7ac0d974463eec7a6529647b490a48cccd11771a7691b5dd",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/fc/kassel/6288",
+    "loadedTime": "2026-10-31T18:46:08.819Z",
+    "httpStatusCode": 404,
+    "contentLengthBytes": 156520,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "source_sha256": "3d0484c4129ee2c437d258186d735416534775b9545a3291fd5fe34106db3e27",
+  "source_representation": "UTF-8 encoding of provider raw string",
+  "final_url": "https://www.bauhaus.info/fc/kassel/6288",
+  "redirect_observed": false,
+  "classification": "unreviewed",
+  "is_active_store_verified": false,
+  "finished_at_utc": "2026-10-31T18:46:10.880032+00:00"
+}

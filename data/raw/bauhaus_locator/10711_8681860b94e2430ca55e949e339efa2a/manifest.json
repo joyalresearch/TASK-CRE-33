@@ -1,0 +1,21 @@
+{
+  "started_at_utc": "2026-10-31T06:55:31.033410+00:00",
+  "source_url": "https://www.bauhaus.info/api/stores?q=10711",
+  "postcode": "10711",
+  "actor": "apify/web-fetch",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/api/stores?q=10711",
+    "formats": [
+      "raw"
+    ]
+  },
+  "automatic_retries": 0,
+  "coverage_verified": false,
+  "status": "failed",
+  "apify_http_status": 400,
+  "run_id": null,
+  "dataset_sha256": "9dfa3c42b3160129cb219281716c5271f3820e5e8951d6304f3bcfe1d66b87a4",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-10-31T06:56:11.756165+00:00"
+}

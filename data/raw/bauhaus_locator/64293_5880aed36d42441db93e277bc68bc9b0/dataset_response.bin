@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=64293",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=64293",
+    "loadedTime": "2026-10-31T17:39:12.290Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 548,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=64293",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:39:12 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=64293",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Darmstadt\",\"slug\":\"darmstadt\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Main-Neckar\",\"id\":574,\"store_id\":574,\"location\":{\"lat\":49.887170633559,\"lng\":8.6433327000569},\"address\":{\"lines\":[\"Otto-Röhm-Strasse 50\"],\"city\":\"Darmstadt\",\"zipcode\":\"64293\"},\"distance\":1.15,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

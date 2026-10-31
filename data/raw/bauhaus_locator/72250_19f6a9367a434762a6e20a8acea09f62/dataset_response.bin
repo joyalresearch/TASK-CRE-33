@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=72250",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=72250",
+    "loadedTime": "2026-10-31T17:42:29.400Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 524,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=72250",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:42:29 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=72250",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Freudenstadt\",\"slug\":\"freudenstadt\",\"name\":\"BAUHAUS GmbH & Co. KG Süd\",\"id\":642,\"store_id\":642,\"location\":{\"lat\":48.4828531,\"lng\":8.4121985},\"address\":{\"lines\":[\"Im Sulzhau 1\"],\"city\":\"Freudenstadt\",\"zipcode\":\"72250\"},\"distance\":0.15,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

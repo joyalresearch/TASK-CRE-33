@@ -1,0 +1,29 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 8584539424,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 995919993,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Haßloch",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "67454",
+        "addr:street": "Fritz-Karl-Henkel-Straße",
+        "building": "retail"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 11615.19,
+      "geometry_wkt_25832": "POLYGON ((446194.8984321888 5469240.257548272, 446190.81340976595 5469287.816760574, 446195.2094051393 5469288.196086649, 446190.62982288736 5469341.574968177, 446186.45379001426 5469390.202432547, 446264.37316235784 5469396.842477078, 446265.8850304498 5469379.260927404, 446254.69561146025 5469378.314436307, 446256.1808174073 5469360.977745491, 446268.4384570007 5469362.024947353, 446274.17870328174 5469295.148412247, 446268.7146303791 5469294.679432159, 446272.8126597031 5469246.897797716, 446194.8984321888 5469240.257548272))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

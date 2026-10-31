@@ -1,0 +1,31 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 1083762657,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 93484846,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Nürnberg",
+        "addr:country": "DE",
+        "addr:housenumber": "89",
+        "addr:postcode": "90439",
+        "addr:street": "Geisseestraße",
+        "building": "retail",
+        "building:levels": "2",
+        "roof:shape": "flat"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 11815.15,
+      "geometry_wkt_25832": "POLYGON ((647937.1286563157 5477661.9414861435, 647992.576768271 5477691.798610389, 647998.0113748645 5477694.72686175, 648012.4685071781 5477668.019197969, 648026.0771006299 5477675.329357983, 648037.7711788184 5477653.6752937725, 647897.957137309 5477578.583004369, 647895.5129374077 5477583.111259252, 647843.5156333646 5477555.172934541, 647816.048539492 5477607.170962841, 647868.3514891871 5477635.328677963, 647869.629310775 5477633.149485712, 647872.479665995 5477627.820125687, 647925.8155652775 5477656.128726195, 647923.94158281 5477659.693450481, 647922.9648687106 5477661.469175648, 647934.0202957373 5477667.4195743, 647935.1123788962 5477665.402235939, 647937.1286563157 5477661.9414861435))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

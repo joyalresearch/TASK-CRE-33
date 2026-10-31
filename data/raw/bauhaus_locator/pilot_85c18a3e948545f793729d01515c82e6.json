@@ -1,0 +1,29 @@
+{
+  "started_at_utc": "2026-10-31T06:39:12.497328+00:00",
+  "seed_file": "data/processed/bauhaus_locator_postcode_seeds.json",
+  "seed_sha256": "95987f98b26da87540989b93e07a86b3f14581b6119c9d397dba9401d56bf9b2",
+  "selected_postcodes": [
+    "01239",
+    "50354",
+    "97424"
+  ],
+  "coverage_verified": false,
+  "results": [
+    {
+      "postcode": "01239",
+      "status": "acquired",
+      "capture": "data\\raw\\bauhaus_locator\\01239_2a710fb9b9204d7cb0b9a07a480f9cac"
+    },
+    {
+      "postcode": "50354",
+      "status": "acquired",
+      "capture": "data\\raw\\bauhaus_locator\\50354_e28653e3d3c14944bfe5e32cf7d9da08"
+    },
+    {
+      "postcode": "97424",
+      "status": "acquired",
+      "capture": "data\\raw\\bauhaus_locator\\97424_93b652f795514514a9b37049baa5e427"
+    }
+  ],
+  "finished_at_utc": "2026-10-31T06:41:24.649429+00:00"
+}

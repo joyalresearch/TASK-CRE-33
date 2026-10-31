@@ -1,0 +1,25 @@
+{
+  "started_at_utc": "2026-10-31T18:31:45.664237+00:00",
+  "source_url": "https://www.bauhaus.info/fc/gersthofen/6274",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc/gersthofen/6274",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "confirmed_terminal_unresolved",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "apify_http_status": 400,
+  "run_id": "Ce2pqvdPwbZoW09es",
+  "dataset_sha256": "3fea6ac08a195ce2f9e0720ee2e435b15e40f391fe388eebf943dfadfc31f646",
+  "apify_error_type": "run-failed",
+  "run_sha256": "1cd21ea2bd6cee9d93ca3d13f289a0861ade17900f9b02707d0647a8b4bda552",
+  "run_status": "TIMED-OUT",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-10-31T18:33:46.401016+00:00"
+}

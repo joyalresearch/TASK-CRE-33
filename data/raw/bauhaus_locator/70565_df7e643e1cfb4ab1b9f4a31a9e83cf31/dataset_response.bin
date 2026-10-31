@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=70565",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=70565",
+    "loadedTime": "2026-10-31T17:42:13.085Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1650,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=70565",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:42:13 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=70565",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Stuttgart-Möhringen\",\"slug\":\"stuttgart-moehringen\",\"name\":\"BAUHAUS GmbH & Co. KG Schwaben\",\"id\":626,\"store_id\":626,\"location\":{\"lat\":48.723902774904,\"lng\":9.1260692979091},\"address\":{\"lines\":[\"Industriestrasse 57\"],\"city\":\"Stuttgart\",\"zipcode\":\"70565\"},\"distance\":0.73,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Stuttgart\",\"slug\":\"stuttgart\",\"name\":\"BAUHAUS GmbH & Co. KG Schwaben\",\"id\":871,\"store_id\":871,\"location\":{\"lat\":48.77223,\"lng\":9.1710313},\"address\":{\"lines\":[\"Sophienstrasse 23\"],\"city\":\"Stuttgart\",\"zipcode\":\"70178\"},\"distance\":7.03,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Stuttgart-Untertürkheim\",\"slug\":\"stuttgart-untertuerkheim\",\"name\":\"BAUHAUS GmbH & Co. KG Schwaben\",\"id\":631,\"store_id\":631,\"location\":{\"lat\":48.773989735558,\"lng\":9.2593677118517},\"address\":{\"lines\":[\"Augsburger Strasse 500\"],\"city\":\"Stuttgart\",\"zipcode\":\"70327\"},\"distance\":11.86,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]}]"
+}]

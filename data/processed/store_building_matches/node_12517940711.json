@@ -1,0 +1,32 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 12517940711,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 115955249,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Mülheim-Kärlich",
+        "addr:housenumber": "2",
+        "addr:postcode": "56218",
+        "addr:street": "In der Pützgewann",
+        "addr:suburb": "Urmitz-Bahnhof",
+        "building": "retail",
+        "building:levels": "1",
+        "roof:levels": "0",
+        "roof:shape": "flat"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 12451.54,
+      "geometry_wkt_25832": "POLYGON ((394235.6073922615 5583702.793388915, 394239.731350379 5583713.811578785, 394252.2300096873 5583748.5876892, 394260.1859528334 5583770.96362641, 394175.3781928113 5583800.802492792, 394089.8779070034 5583829.744548187, 394068.4691700995 5583767.996186859, 394153.4726013301 5583738.340776468, 394150.95719020965 5583732.028816929, 394235.6073922615 5583702.793388915))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

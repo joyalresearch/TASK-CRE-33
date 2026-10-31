@@ -1,0 +1,38 @@
+
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    environment:
+      POSTGRES_DB: iris_local
+      POSTGRES_USER: iris_user
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+      IRIS_LOADER_PASSWORD: ${IRIS_LOADER_PASSWORD:?Set IRIS_LOADER_PASSWORD in .env}
+    ports:
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - iris_postgres_data:/var/lib/postgresql/data
+      - ./sql:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - pg_isready -U iris_user -d iris_local
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: iris-cre-33:dev
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB_URI: postgresql://iris_loader@db:5432/iris_local
+      PGPASSWORD: ${IRIS_LOADER_PASSWORD:?Set IRIS_LOADER_PASSWORD in .env}
+    profiles:
+      - tools
+
+volumes:
+  iris_postgres_data:

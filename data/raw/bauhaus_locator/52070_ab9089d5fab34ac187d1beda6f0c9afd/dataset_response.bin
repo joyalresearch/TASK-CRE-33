@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=52070",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=52070",
+    "loadedTime": "2026-10-31T17:35:00.725Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1060,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=52070",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:35:00 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=52070",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Aachen\",\"slug\":\"aachen\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":586,\"store_id\":586,\"location\":{\"lat\":50.797168471353,\"lng\":6.1052965580865},\"address\":{\"lines\":[\"Gut-Dämme-Strasse 4\"],\"city\":\"Aachen\",\"zipcode\":\"52070\"},\"distance\":0.67,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Würselen\",\"slug\":\"wuerselen\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":613,\"store_id\":613,\"location\":{\"lat\":50.807120433955,\"lng\":6.1508050116166},\"address\":{\"lines\":[\"Adenauer Strasse 14-16\"],\"city\":\"Würselen\",\"zipcode\":\"52146\"},\"distance\":4.04,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

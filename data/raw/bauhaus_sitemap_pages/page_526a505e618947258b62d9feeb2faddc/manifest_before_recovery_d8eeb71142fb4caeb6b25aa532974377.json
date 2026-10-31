@@ -1,0 +1,19 @@
+{
+  "started_at_utc": "2026-10-31T18:36:49.604839+00:00",
+  "source_url": "https://www.bauhaus.info/fc/grevenbroich/76",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc/grevenbroich/76",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "unknown_outcome",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "error_type": "ConnectionResetError",
+  "finished_at_utc": "2026-10-31T18:38:44.785989+00:00"
+}

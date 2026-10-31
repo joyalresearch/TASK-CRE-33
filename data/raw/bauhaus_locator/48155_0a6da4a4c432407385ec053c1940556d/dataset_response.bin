@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=48155",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=48155",
+    "loadedTime": "2026-10-31T17:33:51.116Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 522,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=48155",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:33:51 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=48155",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Münster\",\"slug\":\"muenster\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":661,\"store_id\":661,\"location\":{\"lat\":51.945125,\"lng\":7.64672},\"address\":{\"lines\":[\"Theodor-Scheiwe-Strasse 2\"],\"city\":\"Münster\",\"zipcode\":\"48155\"},\"distance\":1.85,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

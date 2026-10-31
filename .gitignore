@@ -1,0 +1,33 @@
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.pgpass
+pgpass.conf
+*.pem
+*.key
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local backups and archives
+data/local_code_backups/
+*.zip
+*.7z
+*.rar
+*.bak
+*.tmp

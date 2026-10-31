@@ -1,0 +1,25 @@
+{
+  "started_at_utc": "2026-10-31T18:28:29.955434+00:00",
+  "source_url": "https://www.bauhaus.info/fc/berlin/70",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc/berlin/70",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "confirmed_terminal_unresolved",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "apify_http_status": 400,
+  "run_id": "PXNYcQI4KoJixQpOX",
+  "dataset_sha256": "42ef68465a823d02257f94d42f715452d665a2514e6ab4fa00a55af414da8259",
+  "apify_error_type": "run-failed",
+  "run_sha256": "3ce0a2f88389ec3a7806c3b4f5b6a541ff1d3be48fd433e94611d015fe318a8e",
+  "run_status": "TIMED-OUT",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-10-31T18:30:30.662405+00:00"
+}

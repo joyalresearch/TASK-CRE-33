@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=61118",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=61118",
+    "loadedTime": "2026-10-31T17:38:50.518Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1607,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=61118",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:38:50 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=61118",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Bad Vilbel\",\"slug\":\"bad-vilbel\",\"name\":\"BAUHAUS GmbH & Co. KG Hessen\",\"id\":898,\"store_id\":898,\"location\":{\"lat\":50.193003105334,\"lng\":8.7293474251015},\"address\":{\"lines\":[\"Zeppelinstrasse 25\"],\"city\":\"Bad Vilbel\",\"zipcode\":\"61118\"},\"distance\":1.34,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Frankfurt\",\"slug\":\"frankfurt\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Main-Neckar\",\"id\":589,\"store_id\":589,\"location\":{\"lat\":50.132166,\"lng\":8.763255},\"address\":{\"lines\":[\"Hanauer Landstrasse 517-543\"],\"city\":\"Frankfurt\",\"zipcode\":\"60386\"},\"distance\":6.74,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Hanau\",\"slug\":\"hanau\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Main-Neckar\",\"id\":560,\"store_id\":560,\"location\":{\"lat\":50.114669187176,\"lng\":8.9302674220273},\"address\":{\"lines\":[\"Edisonstrasse 3\"],\"city\":\"Hanau\",\"zipcode\":\"63457\"},\"distance\":15.57,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

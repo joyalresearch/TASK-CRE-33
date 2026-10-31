@@ -1,0 +1,29 @@
+{
+  "started_at_utc": "2026-10-31T18:13:36.236271+00:00",
+  "source_url": "https://www.bauhaus.info/sitemaps/sitemap.xml",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/sitemaps/sitemap.xml",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "validated_xml",
+  "coverage_verified": false,
+  "automatic_post_retries": 0,
+  "apify_http_status": 201,
+  "run_id": null,
+  "dataset_sha256": "41a29ad216c6d13bfa8aa58edd63425fd797dbd4c354804d8501ae51a471282f",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/sitemaps/sitemap.xml",
+    "loadedTime": "2026-10-31T18:13:52.663Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1399,
+    "contentType": "text/xml; charset=utf-8"
+  },
+  "source_sha256": "c92ebb6f6cd4b5b3d1596869cab8355afbe4afc85c542062333dd233b6f23286",
+  "source_representation": "UTF-8 encoding of provider raw string",
+  "xml_root": "sitemapindex",
+  "listed_url_count": 15,
+  "finished_at_utc": "2026-10-31T18:13:53.400339+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.bauhaus.info/api/stores-search?lat=51.151786&lng=10.480957&user_lat=undefined&user_lng=undefined",
+  "method": "GET",
+  "started_at_utc": "2026-10-31T04:57:18.781487+00:00",
+  "coverage_verified": false,
+  "status": 403,
+  "final_url": "https://www.bauhaus.info/api/stores-search?lat=51.151786&lng=10.480957&user_lat=undefined&user_lng=undefined",
+  "content_type": "text/html; charset=UTF-8",
+  "response_bytes": 631647,
+  "sha256": "034040fbe4698949511e0de3f3a9012057010a8c398060e74aec0a5b1390fe53",
+  "finished_at_utc": "2026-10-31T04:57:19.090275+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "started_at_utc": "2026-10-31T18:09:33.224215+00:00",
+  "source_url": "https://www.bauhaus.info/api/stores-search?lat=51.0561194&lng=12.1028242&user_lat=undefined&user_lng=undefined",
+  "postcode": null,
+  "query": {
+    "type": "coordinates",
+    "lat": 51.0561194,
+    "lng": 12.1028242
+  },
+  "actor": "apify/web-fetch",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/api/stores-search?lat=51.0561194&lng=12.1028242&user_lat=undefined&user_lng=undefined",
+    "formats": [
+      "raw"
+    ]
+  },
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "coverage_verified": false,
+  "retryable": false,
+  "status": "validated",
+  "apify_http_status": 201,
+  "run_id": null,
+  "dataset_sha256": "445d7e414bcc6ef460939d05ee967df7086f7d6130ecf68ffefc80ff681f6bcb",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores-search?lat=51.0561194&lng=12.1028242&user_lat=undefined&user_lng=undefined",
+    "loadedTime": "2026-10-31T18:09:37.881Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 620,
+    "contentType": "application/json; charset=utf-8"
+  },
+  "source_sha256": "fcd74718efb56c53474f9c034c7628e9f5acc1798e4f226c3eace4923d2d62bb",
+  "source_representation": "UTF-8 encoding of provider raw string",
+  "locator_initial": {
+    "search_radius": 25,
+    "max_radius": 1000,
+    "center_lat": 51.0561194,
+    "center_lng": 12.1028242
+  },
+  "store_count": 1,
+  "finished_at_utc": "2026-10-31T18:09:38.467265+00:00"
+}

@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=35576",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=35576",
+    "loadedTime": "2026-10-31T17:29:19.963Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1079,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=35576",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:29:19 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=35576",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Wetzlar\",\"slug\":\"wetzlar\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":558,\"store_id\":558,\"location\":{\"lat\":50.566823647766,\"lng\":8.5032263186307},\"address\":{\"lines\":[\"Philipsstrasse 8\"],\"city\":\"Wetzlar\",\"zipcode\":\"35576\"},\"distance\":1.44,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Gießen Schiffenberger Tal\",\"slug\":\"giessen-schiffenberger-tal\",\"name\":\"BAUHAUS GmbH & Co. KG Hessen\",\"id\":652,\"store_id\":652,\"location\":{\"lat\":50.572182,\"lng\":8.685749},\"address\":{\"lines\":[\"Bänninger Strasse 9\"],\"city\":\"Gießen\",\"zipcode\":\"35394\"},\"distance\":14.34,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

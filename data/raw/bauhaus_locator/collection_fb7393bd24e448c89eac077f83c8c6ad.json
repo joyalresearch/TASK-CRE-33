@@ -1,0 +1,2753 @@
+{
+  "started_at_utc": "2026-10-31T17:16:05.958014+00:00",
+  "mode": "all_seeds",
+  "seed_file": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\processed\\bauhaus_locator_postcode_seeds.json",
+  "seed_sha256": "95987f98b26da87540989b93e07a86b3f14581b6119c9d397dba9401d56bf9b2",
+  "output_dir": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator",
+  "selected_postcodes": [
+    "01239",
+    "03042",
+    "04356",
+    "06712",
+    "07548",
+    "08529",
+    "10585",
+    "10711",
+    "10787",
+    "10967",
+    "12103",
+    "12163",
+    "12277",
+    "12439",
+    "13127",
+    "13405",
+    "13435",
+    "13581",
+    "13597",
+    "15745",
+    "15831",
+    "18069",
+    "18439",
+    "19061",
+    "21029",
+    "21079",
+    "21337",
+    "22041",
+    "22113",
+    "22177",
+    "22419",
+    "22525",
+    "22529",
+    "22549",
+    "22885",
+    "23554",
+    "23556",
+    "23562",
+    "24107",
+    "24116",
+    "24223",
+    "24837",
+    "24941",
+    "28207",
+    "28307",
+    "28816",
+    "30159",
+    "30163",
+    "30165",
+    "30880",
+    "33609",
+    "34127",
+    "34277",
+    "35394",
+    "35576",
+    "38114",
+    "38124",
+    "39126",
+    "40233",
+    "40472",
+    "40599",
+    "40625",
+    "41470",
+    "42285",
+    "42289",
+    "42719",
+    "44145",
+    "44287",
+    "44805",
+    "44809",
+    "44867",
+    "45141",
+    "45145",
+    "47269",
+    "47807",
+    "48155",
+    "50226",
+    "50259",
+    "50354",
+    "50825",
+    "51103",
+    "51149",
+    "51377",
+    "51429",
+    "52070",
+    "52146",
+    "52353",
+    "53115",
+    "53225",
+    "53332",
+    "53474",
+    "53773",
+    "54294",
+    "55120",
+    "55130",
+    "55252",
+    "55545",
+    "56070",
+    "56218",
+    "56566",
+    "58089",
+    "58454",
+    "58636",
+    "60386",
+    "61118",
+    "63457",
+    "63584",
+    "64293",
+    "64646",
+    "66763",
+    "66806",
+    "67071",
+    "67346",
+    "67454",
+    "68161",
+    "68305",
+    "69115",
+    "70178",
+    "70327",
+    "70565",
+    "72202",
+    "72250",
+    "72336",
+    "72770",
+    "73457",
+    "74172",
+    "75179",
+    "76131",
+    "76137",
+    "76185",
+    "76437",
+    "76646",
+    "77656",
+    "78048",
+    "78166",
+    "78224",
+    "78658",
+    "79115",
+    "79541",
+    "80687",
+    "80939",
+    "84030",
+    "85057",
+    "86154",
+    "86159",
+    "86165",
+    "86368",
+    "87700",
+    "88212",
+    "89077",
+    "89520",
+    "90439",
+    "90547",
+    "93053",
+    "94036",
+    "97424"
+  ],
+  "max_new_runs": 156,
+  "new_run_attempts": 138,
+  "max_attempts_per_postcode": 3,
+  "retry_delays_seconds": [
+    30,
+    60
+  ],
+  "coverage_verified": false,
+  "status": "completed",
+  "results": [
+    {
+      "postcode": "01239",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\01239_2a710fb9b9204d7cb0b9a07a480f9cac"
+    },
+    {
+      "postcode": "03042",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\03042_0686abf2e67a483997c5997f5adf8541"
+    },
+    {
+      "postcode": "04356",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\04356_781196723b614512a1034ad835c45ddc"
+    },
+    {
+      "postcode": "06712",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\06712_9a9bd920e4f646d0be0cbc0b7606b610"
+    },
+    {
+      "postcode": "07548",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\07548_7efbc87b52194cbca6d8949de55cabf0"
+    },
+    {
+      "postcode": "08529",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\08529_7a67a25fa6b84b25b7eb0f41460bd879"
+    },
+    {
+      "postcode": "10585",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\10585_f7189345301b4eacbc8da096d5046891"
+    },
+    {
+      "postcode": "10711",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\10711_f64d36c9d1254c56bebc1ca57f038a12"
+    },
+    {
+      "postcode": "10787",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\10787_db939612eb444bd5a43ddfd04b39f68a"
+    },
+    {
+      "postcode": "10967",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\10967_5acf90406e78460283fbacfe158e38ed"
+    },
+    {
+      "postcode": "12103",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\12103_b6b1887473a144529171ce34a39a223e"
+    },
+    {
+      "postcode": "12163",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\12163_a9936fc575b54f8ebc2d4a50736fe342"
+    },
+    {
+      "postcode": "12277",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\12277_aed6476bbed74b838da7387467e3a08a"
+    },
+    {
+      "postcode": "12439",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\12439_e17201df7dac42efa392995ac4711ec0"
+    },
+    {
+      "postcode": "13127",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\13127_08dc6270c4ef4f9c8666a81216626651"
+    },
+    {
+      "postcode": "13405",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\13405_da3029246d064b1292bce76c65ff7407"
+    },
+    {
+      "postcode": "13435",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:16:06.000336+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\13435_84a04b0d1e14433eb8c24658ef8e1062",
+          "started_at_utc": "2026-10-31T17:16:06.003702+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:16:21.202845+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\13435_84a04b0d1e14433eb8c24658ef8e1062",
+      "finished_at_utc": "2026-10-31T17:16:21.231364+00:00"
+    },
+    {
+      "postcode": "13581",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:16:24.234762+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\13581_9392a72d9fcc4500a412e5075b84393b",
+          "started_at_utc": "2026-10-31T17:16:24.238504+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:16:58.072057+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\13581_9392a72d9fcc4500a412e5075b84393b",
+      "finished_at_utc": "2026-10-31T17:16:58.098477+00:00"
+    },
+    {
+      "postcode": "13597",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:17:01.101728+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\13597_bf77c59db867446e9b4265dfa38637f0",
+          "started_at_utc": "2026-10-31T17:17:01.106004+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:17:31.256142+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\13597_bf77c59db867446e9b4265dfa38637f0",
+      "finished_at_utc": "2026-10-31T17:17:31.287354+00:00"
+    },
+    {
+      "postcode": "15745",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:17:34.291447+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\15745_bf774d1ebafe4f70af932b076c5ab44b",
+          "started_at_utc": "2026-10-31T17:17:34.295440+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:17:56.535514+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\15745_bf774d1ebafe4f70af932b076c5ab44b",
+      "finished_at_utc": "2026-10-31T17:17:56.566386+00:00"
+    },
+    {
+      "postcode": "15831",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:17:59.569860+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\15831_585e076a23654440b9c702414e57cfd2",
+          "started_at_utc": "2026-10-31T17:17:59.574436+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:18:18.732664+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\15831_585e076a23654440b9c702414e57cfd2",
+      "finished_at_utc": "2026-10-31T17:18:18.764385+00:00"
+    },
+    {
+      "postcode": "18069",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:18:21.767644+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\18069_f1cac9267dd04d2fae2f31b831ee9cf4",
+          "started_at_utc": "2026-10-31T17:18:21.771783+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:18:41.083569+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\18069_f1cac9267dd04d2fae2f31b831ee9cf4",
+      "finished_at_utc": "2026-10-31T17:18:41.115808+00:00"
+    },
+    {
+      "postcode": "18439",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:18:44.119116+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\18439_8598b752231843738db3fb2d1a6007bf",
+          "started_at_utc": "2026-10-31T17:18:44.122939+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:19:11.680289+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\18439_8598b752231843738db3fb2d1a6007bf",
+      "finished_at_utc": "2026-10-31T17:19:11.713623+00:00"
+    },
+    {
+      "postcode": "19061",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:19:14.716862+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\19061_3c0ecb769a94494ab68dc8020ddf372c",
+          "started_at_utc": "2026-10-31T17:19:14.718593+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:19:33.628790+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\19061_3c0ecb769a94494ab68dc8020ddf372c",
+      "finished_at_utc": "2026-10-31T17:19:33.678137+00:00"
+    },
+    {
+      "postcode": "21029",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:19:36.682609+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\21029_fd67f917084a4dd3824e7c1382f3e274",
+          "started_at_utc": "2026-10-31T17:19:36.684867+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:19:50.543964+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\21029_fd67f917084a4dd3824e7c1382f3e274",
+      "finished_at_utc": "2026-10-31T17:19:50.574550+00:00"
+    },
+    {
+      "postcode": "21079",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:19:53.585596+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\21079_219c2880bba24e02a28132a3af32663b",
+          "started_at_utc": "2026-10-31T17:19:53.589930+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:21:06.589044+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\21079_219c2880bba24e02a28132a3af32663b",
+      "finished_at_utc": "2026-10-31T17:21:06.628159+00:00"
+    },
+    {
+      "postcode": "21337",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:21:09.633186+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\21337_314673f4fd6f4ce09f9a1b62d168800e",
+          "started_at_utc": "2026-10-31T17:21:09.637871+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:21:14.984160+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\21337_314673f4fd6f4ce09f9a1b62d168800e",
+      "finished_at_utc": "2026-10-31T17:21:15.014082+00:00"
+    },
+    {
+      "postcode": "22041",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:21:18.018682+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22041_0db1d3dba0e7469784b168350acdc24d",
+          "started_at_utc": "2026-10-31T17:21:18.023743+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:22:50.006428+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22041_0db1d3dba0e7469784b168350acdc24d",
+      "finished_at_utc": "2026-10-31T17:22:50.045185+00:00"
+    },
+    {
+      "postcode": "22113",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:22:53.048236+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22113_f52428db187c489d84161ef595374025",
+          "started_at_utc": "2026-10-31T17:22:53.052556+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:23:08.875237+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22113_f52428db187c489d84161ef595374025",
+      "finished_at_utc": "2026-10-31T17:23:08.908501+00:00"
+    },
+    {
+      "postcode": "22177",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:23:11.911900+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22177_9176395d764a4115a5cb83b5a0fa6ae0",
+          "started_at_utc": "2026-10-31T17:23:11.916237+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:25:06.316078+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22177_9176395d764a4115a5cb83b5a0fa6ae0",
+      "finished_at_utc": "2026-10-31T17:25:06.358140+00:00"
+    },
+    {
+      "postcode": "22419",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:25:09.361392+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22419_8a9183eb94ef4e3f9fd101b39590cbb6",
+          "started_at_utc": "2026-10-31T17:25:09.366548+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:25:15.328432+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22419_8a9183eb94ef4e3f9fd101b39590cbb6",
+      "finished_at_utc": "2026-10-31T17:25:15.363852+00:00"
+    },
+    {
+      "postcode": "22525",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:25:18.368761+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22525_f86b3e94deb7408ca78175a4efeb3e71",
+          "started_at_utc": "2026-10-31T17:25:18.372743+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:25:23.631193+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22525_f86b3e94deb7408ca78175a4efeb3e71",
+      "finished_at_utc": "2026-10-31T17:25:23.666068+00:00"
+    },
+    {
+      "postcode": "22529",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:25:26.670715+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22529_b8d8f06412454864956a505c0d6c843b",
+          "started_at_utc": "2026-10-31T17:25:26.675071+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:25:34.280519+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22529_b8d8f06412454864956a505c0d6c843b",
+      "finished_at_utc": "2026-10-31T17:25:34.313718+00:00"
+    },
+    {
+      "postcode": "22549",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:25:37.317006+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22549_01345128eeb24674916cf61580f2eeb9",
+          "started_at_utc": "2026-10-31T17:25:37.320983+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:25:41.950379+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22549_01345128eeb24674916cf61580f2eeb9",
+      "finished_at_utc": "2026-10-31T17:25:41.981457+00:00"
+    },
+    {
+      "postcode": "22885",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:25:44.984705+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22885_315290ef5750484cb2c93ab89609ac00",
+          "started_at_utc": "2026-10-31T17:25:44.989771+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:25:51.254161+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\22885_315290ef5750484cb2c93ab89609ac00",
+      "finished_at_utc": "2026-10-31T17:25:51.299540+00:00"
+    },
+    {
+      "postcode": "23554",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:25:54.302841+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\23554_89121a8024e744a9bb44cd341b92e721",
+          "started_at_utc": "2026-10-31T17:25:54.305563+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:25:58.375447+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\23554_89121a8024e744a9bb44cd341b92e721",
+      "finished_at_utc": "2026-10-31T17:25:58.424939+00:00"
+    },
+    {
+      "postcode": "23556",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:26:01.428906+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\23556_4da64e14aa364d0eb332988b38cfdbcb",
+          "started_at_utc": "2026-10-31T17:26:01.432925+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:26:07.231166+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\23556_4da64e14aa364d0eb332988b38cfdbcb",
+      "finished_at_utc": "2026-10-31T17:26:07.270288+00:00"
+    },
+    {
+      "postcode": "23562",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:26:10.273475+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\23562_1f7887a73629475b8d13eeb8744a2c8b",
+          "started_at_utc": "2026-10-31T17:26:10.277068+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:26:13.344353+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\23562_1f7887a73629475b8d13eeb8744a2c8b",
+      "finished_at_utc": "2026-10-31T17:26:13.391418+00:00"
+    },
+    {
+      "postcode": "24107",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:26:16.399679+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\24107_efdc1dbdf72645aba2743e2901454d3a",
+          "started_at_utc": "2026-10-31T17:26:16.411175+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:26:21.688719+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\24107_efdc1dbdf72645aba2743e2901454d3a",
+      "finished_at_utc": "2026-10-31T17:26:21.733480+00:00"
+    },
+    {
+      "postcode": "24116",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:26:24.738339+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\24116_a3dfd921f4c942698803a7289defe817",
+          "started_at_utc": "2026-10-31T17:26:24.746814+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:26:29.040824+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\24116_a3dfd921f4c942698803a7289defe817",
+      "finished_at_utc": "2026-10-31T17:26:29.085300+00:00"
+    },
+    {
+      "postcode": "24223",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:26:32.090507+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\24223_055d2fc09c024e59a5041b845798d2da",
+          "started_at_utc": "2026-10-31T17:26:32.100553+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:26:35.930098+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\24223_055d2fc09c024e59a5041b845798d2da",
+      "finished_at_utc": "2026-10-31T17:26:35.973866+00:00"
+    },
+    {
+      "postcode": "24837",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:26:38.979962+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\24837_96dce9283b184ca18ed3dc4c94b03aa9",
+          "started_at_utc": "2026-10-31T17:26:38.983154+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:26:43.354075+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\24837_96dce9283b184ca18ed3dc4c94b03aa9",
+      "finished_at_utc": "2026-10-31T17:26:43.405877+00:00"
+    },
+    {
+      "postcode": "24941",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:26:46.412200+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\24941_f8e86ef1d3044e88bcce63f9ce68e10a",
+          "started_at_utc": "2026-10-31T17:26:46.417244+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:26:53.287551+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\24941_f8e86ef1d3044e88bcce63f9ce68e10a",
+      "finished_at_utc": "2026-10-31T17:26:53.335958+00:00"
+    },
+    {
+      "postcode": "28207",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:26:56.342678+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\28207_2e05a3fb53884475962127fc6cb248f2",
+          "started_at_utc": "2026-10-31T17:26:56.349306+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:27:09.735673+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\28207_2e05a3fb53884475962127fc6cb248f2",
+      "finished_at_utc": "2026-10-31T17:27:09.781047+00:00"
+    },
+    {
+      "postcode": "28307",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:27:12.787149+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\28307_ad6381b6442249d7b4181a9027788352",
+          "started_at_utc": "2026-10-31T17:27:12.792362+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:27:28.667827+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\28307_ad6381b6442249d7b4181a9027788352",
+      "finished_at_utc": "2026-10-31T17:27:28.716919+00:00"
+    },
+    {
+      "postcode": "28816",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:27:31.720129+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\28816_c868bfef0d4747dda40abcb42ab1dae6",
+          "started_at_utc": "2026-10-31T17:27:31.724442+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:27:37.016402+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\28816_c868bfef0d4747dda40abcb42ab1dae6",
+      "finished_at_utc": "2026-10-31T17:27:37.065064+00:00"
+    },
+    {
+      "postcode": "30159",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:27:40.071478+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\30159_51d584c40fb0400787753140fb29077b",
+          "started_at_utc": "2026-10-31T17:27:40.077290+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:27:45.798264+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\30159_51d584c40fb0400787753140fb29077b",
+      "finished_at_utc": "2026-10-31T17:27:45.848786+00:00"
+    },
+    {
+      "postcode": "30163",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:27:48.854516+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\30163_013a42c0f1934eb59f13f5ab7e8384c1",
+          "started_at_utc": "2026-10-31T17:27:48.871389+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:27:56.833908+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\30163_013a42c0f1934eb59f13f5ab7e8384c1",
+      "finished_at_utc": "2026-10-31T17:27:56.877724+00:00"
+    },
+    {
+      "postcode": "30165",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:27:59.883578+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\30165_cecf814efc394fc29c1a4a03cfc0c520",
+          "started_at_utc": "2026-10-31T17:27:59.890197+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:28:04.923593+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\30165_cecf814efc394fc29c1a4a03cfc0c520",
+      "finished_at_utc": "2026-10-31T17:28:04.967509+00:00"
+    },
+    {
+      "postcode": "30880",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:28:07.974212+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\30880_b1d5c3cdfdec4e02965956ad4a7872c2",
+          "started_at_utc": "2026-10-31T17:28:07.980730+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:28:10.949597+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\30880_b1d5c3cdfdec4e02965956ad4a7872c2",
+      "finished_at_utc": "2026-10-31T17:28:11.000313+00:00"
+    },
+    {
+      "postcode": "33609",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:28:14.007231+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\33609_c69f54c15e0e4ad29c112f0474a86cbb",
+          "started_at_utc": "2026-10-31T17:28:14.012260+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:28:22.218807+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\33609_c69f54c15e0e4ad29c112f0474a86cbb",
+      "finished_at_utc": "2026-10-31T17:28:22.267724+00:00"
+    },
+    {
+      "postcode": "34127",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:28:25.271101+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\34127_64d0c2c215aa47d29228225a40b0cadf",
+          "started_at_utc": "2026-10-31T17:28:25.276169+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:28:29.158307+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\34127_64d0c2c215aa47d29228225a40b0cadf",
+      "finished_at_utc": "2026-10-31T17:28:29.204203+00:00"
+    },
+    {
+      "postcode": "34277",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:28:32.211019+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\34277_1ba8ef833d8745d08f1980f39f3f1fec",
+          "started_at_utc": "2026-10-31T17:28:32.218098+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:28:50.882665+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\34277_1ba8ef833d8745d08f1980f39f3f1fec",
+      "finished_at_utc": "2026-10-31T17:28:50.935386+00:00"
+    },
+    {
+      "postcode": "35394",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:28:53.940387+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\35394_bee700f51eb3495d86c10957e6fd347b",
+          "started_at_utc": "2026-10-31T17:28:53.945190+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:29:01.931137+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\35394_bee700f51eb3495d86c10957e6fd347b",
+      "finished_at_utc": "2026-10-31T17:29:01.974322+00:00"
+    },
+    {
+      "postcode": "35576",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:29:04.982784+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\35576_45b208769d62452dbec0c52b5bcbe358",
+          "started_at_utc": "2026-10-31T17:29:04.992438+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:29:20.663613+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\35576_45b208769d62452dbec0c52b5bcbe358",
+      "finished_at_utc": "2026-10-31T17:29:20.716031+00:00"
+    },
+    {
+      "postcode": "38114",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:29:23.721440+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\38114_bb1aa89c027647bfb0acb8593780130d",
+          "started_at_utc": "2026-10-31T17:29:23.727433+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:29:38.681489+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\38114_bb1aa89c027647bfb0acb8593780130d",
+      "finished_at_utc": "2026-10-31T17:29:38.726345+00:00"
+    },
+    {
+      "postcode": "38124",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:29:41.732188+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\38124_645518a125d9446db2b24a94c5702ee0",
+          "started_at_utc": "2026-10-31T17:29:41.741800+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:29:46.681908+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\38124_645518a125d9446db2b24a94c5702ee0",
+      "finished_at_utc": "2026-10-31T17:29:46.729569+00:00"
+    },
+    {
+      "postcode": "39126",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:29:49.738306+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\39126_1e26129b2357470ba0df23154032c8e7",
+          "started_at_utc": "2026-10-31T17:29:49.746135+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:29:55.293765+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\39126_1e26129b2357470ba0df23154032c8e7",
+      "finished_at_utc": "2026-10-31T17:29:55.347706+00:00"
+    },
+    {
+      "postcode": "40233",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:29:58.354159+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\40233_d292cb0a99254e70834780ed91c41947",
+          "started_at_utc": "2026-10-31T17:29:58.360384+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:30:05.482284+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\40233_d292cb0a99254e70834780ed91c41947",
+      "finished_at_utc": "2026-10-31T17:30:05.534378+00:00"
+    },
+    {
+      "postcode": "40472",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:30:08.541892+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\40472_1fc8cb5edebf4cbf99cca127fd118ee8",
+          "started_at_utc": "2026-10-31T17:30:08.552010+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:30:15.215807+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\40472_1fc8cb5edebf4cbf99cca127fd118ee8",
+      "finished_at_utc": "2026-10-31T17:30:15.267232+00:00"
+    },
+    {
+      "postcode": "40599",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:30:18.274380+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\40599_d5421807d10b4878897fc3ea6a66a954",
+          "started_at_utc": "2026-10-31T17:30:18.279368+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:30:31.830092+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\40599_d5421807d10b4878897fc3ea6a66a954",
+      "finished_at_utc": "2026-10-31T17:30:31.883004+00:00"
+    },
+    {
+      "postcode": "40625",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:30:34.890003+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\40625_4bc3630ae2de48de88b02349305c75aa",
+          "started_at_utc": "2026-10-31T17:30:34.895215+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:30:39.636345+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\40625_4bc3630ae2de48de88b02349305c75aa",
+      "finished_at_utc": "2026-10-31T17:30:39.684259+00:00"
+    },
+    {
+      "postcode": "41470",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:30:42.689643+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\41470_e5274e0cdbb84abe94247598fd0733f7",
+          "started_at_utc": "2026-10-31T17:30:42.692929+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:31:45.923001+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\41470_e5274e0cdbb84abe94247598fd0733f7",
+      "finished_at_utc": "2026-10-31T17:31:45.955855+00:00"
+    },
+    {
+      "postcode": "42285",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:31:48.960176+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\42285_9b9269fcc4884d94a4601068c8e5a8d4",
+          "started_at_utc": "2026-10-31T17:31:48.963934+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:31:53.583715+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\42285_9b9269fcc4884d94a4601068c8e5a8d4",
+      "finished_at_utc": "2026-10-31T17:31:53.633041+00:00"
+    },
+    {
+      "postcode": "42289",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:31:56.640341+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\42289_1d344572f6764a91a11d9e3081758875",
+          "started_at_utc": "2026-10-31T17:31:56.646835+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:32:03.166176+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\42289_1d344572f6764a91a11d9e3081758875",
+      "finished_at_utc": "2026-10-31T17:32:03.207153+00:00"
+    },
+    {
+      "postcode": "42719",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:32:06.213010+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\42719_60467d2ab8ff44b7a6caf4ca00537ca8",
+          "started_at_utc": "2026-10-31T17:32:06.218079+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:32:09.755840+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\42719_60467d2ab8ff44b7a6caf4ca00537ca8",
+      "finished_at_utc": "2026-10-31T17:32:09.803293+00:00"
+    },
+    {
+      "postcode": "44145",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:32:12.811002+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\44145_56e1d69528fa4d3cb96ac6d900c70a3b",
+          "started_at_utc": "2026-10-31T17:32:12.821728+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:32:19.060501+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\44145_56e1d69528fa4d3cb96ac6d900c70a3b",
+      "finished_at_utc": "2026-10-31T17:32:19.106865+00:00"
+    },
+    {
+      "postcode": "44287",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:32:22.115628+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\44287_80f89516db0749ce8b4d3e6165e39b9c",
+          "started_at_utc": "2026-10-31T17:32:22.124855+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:32:28.641012+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\44287_80f89516db0749ce8b4d3e6165e39b9c",
+      "finished_at_utc": "2026-10-31T17:32:28.692315+00:00"
+    },
+    {
+      "postcode": "44805",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:32:31.697502+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\44805_e6c5ce539bb14da0b0b7f9227dd2a7eb",
+          "started_at_utc": "2026-10-31T17:32:31.702684+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:32:37.379492+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\44805_e6c5ce539bb14da0b0b7f9227dd2a7eb",
+      "finished_at_utc": "2026-10-31T17:32:37.428943+00:00"
+    },
+    {
+      "postcode": "44809",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:32:40.433771+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\44809_74ae582c6a214a65bbefaa3fbaa593bb",
+          "started_at_utc": "2026-10-31T17:32:40.438097+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:32:51.442439+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\44809_74ae582c6a214a65bbefaa3fbaa593bb",
+      "finished_at_utc": "2026-10-31T17:32:51.494842+00:00"
+    },
+    {
+      "postcode": "44867",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:32:54.503085+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\44867_d11802cf79c54832a0c910e8e3794c0f",
+          "started_at_utc": "2026-10-31T17:32:54.507735+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:33:05.383648+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\44867_d11802cf79c54832a0c910e8e3794c0f",
+      "finished_at_utc": "2026-10-31T17:33:05.429484+00:00"
+    },
+    {
+      "postcode": "45141",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:33:08.437021+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\45141_679543ef716240118dc73ae6b3892d51",
+          "started_at_utc": "2026-10-31T17:33:08.447557+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:33:15.414738+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\45141_679543ef716240118dc73ae6b3892d51",
+      "finished_at_utc": "2026-10-31T17:33:15.460040+00:00"
+    },
+    {
+      "postcode": "45145",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:33:18.464611+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\45145_8b1ff1ac184c40b091dd3f92bf23e5ab",
+          "started_at_utc": "2026-10-31T17:33:18.466775+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:33:26.035670+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\45145_8b1ff1ac184c40b091dd3f92bf23e5ab",
+      "finished_at_utc": "2026-10-31T17:33:26.081729+00:00"
+    },
+    {
+      "postcode": "47269",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:33:29.090604+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\47269_1c586c90f0054f58b06e45182932a00e",
+          "started_at_utc": "2026-10-31T17:33:29.096965+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:33:33.588480+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\47269_1c586c90f0054f58b06e45182932a00e",
+      "finished_at_utc": "2026-10-31T17:33:33.638483+00:00"
+    },
+    {
+      "postcode": "47807",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:33:36.645345+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\47807_58f349e692584184899bf87140c30d7d",
+          "started_at_utc": "2026-10-31T17:33:36.650004+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:33:41.973526+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\47807_58f349e692584184899bf87140c30d7d",
+      "finished_at_utc": "2026-10-31T17:33:42.015272+00:00"
+    },
+    {
+      "postcode": "48155",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:33:45.021292+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\48155_0a6da4a4c432407385ec053c1940556d",
+          "started_at_utc": "2026-10-31T17:33:45.031339+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:33:51.758143+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\48155_0a6da4a4c432407385ec053c1940556d",
+      "finished_at_utc": "2026-10-31T17:33:51.808932+00:00"
+    },
+    {
+      "postcode": "50226",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:33:54.816174+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\50226_400ffd1bdb73430a9a2634fc66c81aa0",
+          "started_at_utc": "2026-10-31T17:33:54.820189+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:34:00.408784+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\50226_400ffd1bdb73430a9a2634fc66c81aa0",
+      "finished_at_utc": "2026-10-31T17:34:00.452249+00:00"
+    },
+    {
+      "postcode": "50259",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:34:03.457809+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\50259_389f0214e2b64d04b33099031fdfc039",
+          "started_at_utc": "2026-10-31T17:34:03.463768+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:34:08.714630+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\50259_389f0214e2b64d04b33099031fdfc039",
+      "finished_at_utc": "2026-10-31T17:34:08.763815+00:00"
+    },
+    {
+      "postcode": "50354",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\50354_e28653e3d3c14944bfe5e32cf7d9da08"
+    },
+    {
+      "postcode": "50825",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:34:11.785043+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\50825_724c997ba97545c89c227d11d1db27bb",
+          "started_at_utc": "2026-10-31T17:34:11.788963+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:34:17.755733+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\50825_724c997ba97545c89c227d11d1db27bb",
+      "finished_at_utc": "2026-10-31T17:34:17.793618+00:00"
+    },
+    {
+      "postcode": "51103",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:34:20.796943+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\51103_4a9235398cec43429d571e36c13ca8dd",
+          "started_at_utc": "2026-10-31T17:34:20.803901+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:34:26.529012+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\51103_4a9235398cec43429d571e36c13ca8dd",
+      "finished_at_utc": "2026-10-31T17:34:26.571486+00:00"
+    },
+    {
+      "postcode": "51149",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:34:29.576544+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\51149_a4383bdc6b5e422280a0b645c884d1d8",
+          "started_at_utc": "2026-10-31T17:34:29.584006+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:34:35.035763+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\51149_a4383bdc6b5e422280a0b645c884d1d8",
+      "finished_at_utc": "2026-10-31T17:34:35.080791+00:00"
+    },
+    {
+      "postcode": "51377",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:34:38.086745+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\51377_5e8c5aebe5b04eae82baf95735574dff",
+          "started_at_utc": "2026-10-31T17:34:38.094436+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:34:43.375106+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\51377_5e8c5aebe5b04eae82baf95735574dff",
+      "finished_at_utc": "2026-10-31T17:34:43.421171+00:00"
+    },
+    {
+      "postcode": "51429",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:34:46.428998+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\51429_647d3873a9414d87810e9e17a3894015",
+          "started_at_utc": "2026-10-31T17:34:46.448312+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:34:51.775917+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\51429_647d3873a9414d87810e9e17a3894015",
+      "finished_at_utc": "2026-10-31T17:34:51.826544+00:00"
+    },
+    {
+      "postcode": "52070",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:34:54.834244+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\52070_ab9089d5fab34ac187d1beda6f0c9afd",
+          "started_at_utc": "2026-10-31T17:34:54.849360+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:35:01.354541+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\52070_ab9089d5fab34ac187d1beda6f0c9afd",
+      "finished_at_utc": "2026-10-31T17:35:01.400114+00:00"
+    },
+    {
+      "postcode": "52146",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:35:04.406349+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\52146_33fcf707c723410aaa2f49fefaf39fe0",
+          "started_at_utc": "2026-10-31T17:35:04.421005+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:35:07.366684+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\52146_33fcf707c723410aaa2f49fefaf39fe0",
+      "finished_at_utc": "2026-10-31T17:35:07.410051+00:00"
+    },
+    {
+      "postcode": "52353",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:35:10.417469+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\52353_9afcbe899f3d4d06aba1ba4f2fe31306",
+          "started_at_utc": "2026-10-31T17:35:10.429865+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:35:19.188486+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\52353_9afcbe899f3d4d06aba1ba4f2fe31306",
+      "finished_at_utc": "2026-10-31T17:35:19.231906+00:00"
+    },
+    {
+      "postcode": "53115",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:35:22.237832+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\53115_386be3d5d00c44da80744b30fb36ddf5",
+          "started_at_utc": "2026-10-31T17:35:22.248900+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:35:51.024370+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\53115_386be3d5d00c44da80744b30fb36ddf5",
+      "finished_at_utc": "2026-10-31T17:35:51.075367+00:00"
+    },
+    {
+      "postcode": "53225",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:35:54.083170+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\53225_43ce3615778e41a78766fbd4c9fa2f78",
+          "started_at_utc": "2026-10-31T17:35:54.096434+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:36:00.599442+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\53225_43ce3615778e41a78766fbd4c9fa2f78",
+      "finished_at_utc": "2026-10-31T17:36:00.650096+00:00"
+    },
+    {
+      "postcode": "53332",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:36:03.656007+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\53332_ca6b5f6250994e88a249d95e5d95e46b",
+          "started_at_utc": "2026-10-31T17:36:03.663469+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:36:10.993021+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\53332_ca6b5f6250994e88a249d95e5d95e46b",
+      "finished_at_utc": "2026-10-31T17:36:11.036425+00:00"
+    },
+    {
+      "postcode": "53474",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:36:14.043927+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\53474_9508e1b482264116954abdd77a1f9a2a",
+          "started_at_utc": "2026-10-31T17:36:14.053843+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:36:18.470890+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\53474_9508e1b482264116954abdd77a1f9a2a",
+      "finished_at_utc": "2026-10-31T17:36:18.516071+00:00"
+    },
+    {
+      "postcode": "53773",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:36:21.522312+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\53773_1e62f49d01634a3e9bca78deb5a8f9e1",
+          "started_at_utc": "2026-10-31T17:36:21.531184+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:36:28.154314+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\53773_1e62f49d01634a3e9bca78deb5a8f9e1",
+      "finished_at_utc": "2026-10-31T17:36:28.201343+00:00"
+    },
+    {
+      "postcode": "54294",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:36:31.208355+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\54294_961c92479fa74e05898a2a6235342b08",
+          "started_at_utc": "2026-10-31T17:36:31.214650+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:36:38.025909+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\54294_961c92479fa74e05898a2a6235342b08",
+      "finished_at_utc": "2026-10-31T17:36:38.068585+00:00"
+    },
+    {
+      "postcode": "55120",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:36:41.074984+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\55120_9e2959313935443f8953515b8d701e33",
+          "started_at_utc": "2026-10-31T17:36:41.082335+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:36:46.677730+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\55120_9e2959313935443f8953515b8d701e33",
+      "finished_at_utc": "2026-10-31T17:36:46.721963+00:00"
+    },
+    {
+      "postcode": "55130",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:36:49.729479+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\55130_11d917b713c34fffbfd7d374f2ac7eec",
+          "started_at_utc": "2026-10-31T17:36:49.736974+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:36:56.186779+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\55130_11d917b713c34fffbfd7d374f2ac7eec",
+      "finished_at_utc": "2026-10-31T17:36:56.232945+00:00"
+    },
+    {
+      "postcode": "55252",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:36:59.239020+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\55252_f8c3c0e27c2443e0aa79df18f3316920",
+          "started_at_utc": "2026-10-31T17:36:59.247683+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:37:02.066126+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\55252_f8c3c0e27c2443e0aa79df18f3316920",
+      "finished_at_utc": "2026-10-31T17:37:02.109559+00:00"
+    },
+    {
+      "postcode": "55545",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:37:05.115101+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\55545_00c6fbcde4454a6487bbdf5f9c87067f",
+          "started_at_utc": "2026-10-31T17:37:05.121604+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:37:37.149872+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\55545_00c6fbcde4454a6487bbdf5f9c87067f",
+      "finished_at_utc": "2026-10-31T17:37:37.189784+00:00"
+    },
+    {
+      "postcode": "56070",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:37:40.196980+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\56070_2231aade795f4541a5ae705d05964170",
+          "started_at_utc": "2026-10-31T17:37:40.210909+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:37:45.491406+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\56070_2231aade795f4541a5ae705d05964170",
+      "finished_at_utc": "2026-10-31T17:37:45.534576+00:00"
+    },
+    {
+      "postcode": "56218",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:37:48.539547+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\56218_4f2799b0cdc84a4ba4d75f2f7878a473",
+          "started_at_utc": "2026-10-31T17:37:48.543798+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:37:51.940429+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\56218_4f2799b0cdc84a4ba4d75f2f7878a473",
+      "finished_at_utc": "2026-10-31T17:37:51.983008+00:00"
+    },
+    {
+      "postcode": "56566",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:37:54.986947+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\56566_10ea2744e4b6496dbfd413ffc5d16791",
+          "started_at_utc": "2026-10-31T17:37:54.990786+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:38:00.070464+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\56566_10ea2744e4b6496dbfd413ffc5d16791",
+      "finished_at_utc": "2026-10-31T17:38:00.115689+00:00"
+    },
+    {
+      "postcode": "58089",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:38:03.122208+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\58089_6b84c623d51e48bbad1caf96a86de7c0",
+          "started_at_utc": "2026-10-31T17:38:03.129105+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:38:07.084051+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\58089_6b84c623d51e48bbad1caf96a86de7c0",
+      "finished_at_utc": "2026-10-31T17:38:07.127829+00:00"
+    },
+    {
+      "postcode": "58454",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:38:10.131340+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\58454_1b981c9f3cbb47449436572def5fb3b9",
+          "started_at_utc": "2026-10-31T17:38:10.143060+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:38:28.352921+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\58454_1b981c9f3cbb47449436572def5fb3b9",
+      "finished_at_utc": "2026-10-31T17:38:28.394472+00:00"
+    },
+    {
+      "postcode": "58636",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:38:31.399064+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\58636_878b0f7c6a784066b102ed21d75ccb46",
+          "started_at_utc": "2026-10-31T17:38:31.403485+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:38:36.049156+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\58636_878b0f7c6a784066b102ed21d75ccb46",
+      "finished_at_utc": "2026-10-31T17:38:36.097474+00:00"
+    },
+    {
+      "postcode": "60386",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:38:39.101624+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\60386_5bc288b0f4e243849190579727a895da",
+          "started_at_utc": "2026-10-31T17:38:39.128746+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:38:43.550769+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\60386_5bc288b0f4e243849190579727a895da",
+      "finished_at_utc": "2026-10-31T17:38:43.593183+00:00"
+    },
+    {
+      "postcode": "61118",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:38:46.598561+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\61118_7dae544ba8ff4f3ea31d1ab474e2f823",
+          "started_at_utc": "2026-10-31T17:38:46.638704+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:38:51.282250+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\61118_7dae544ba8ff4f3ea31d1ab474e2f823",
+      "finished_at_utc": "2026-10-31T17:38:51.320846+00:00"
+    },
+    {
+      "postcode": "63457",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:38:54.325031+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\63457_1337f75958ae4d658e51e74b04d6a401",
+          "started_at_utc": "2026-10-31T17:38:54.331592+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:38:59.368064+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\63457_1337f75958ae4d658e51e74b04d6a401",
+      "finished_at_utc": "2026-10-31T17:38:59.415019+00:00"
+    },
+    {
+      "postcode": "63584",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:39:02.419020+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\63584_a095c81bd5b7405fb949cc55ab1f0cb1",
+          "started_at_utc": "2026-10-31T17:39:02.424077+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:39:06.254426+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\63584_a095c81bd5b7405fb949cc55ab1f0cb1",
+      "finished_at_utc": "2026-10-31T17:39:06.301946+00:00"
+    },
+    {
+      "postcode": "64293",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:39:09.306882+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\64293_5880aed36d42441db93e277bc68bc9b0",
+          "started_at_utc": "2026-10-31T17:39:09.311116+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:39:12.909537+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\64293_5880aed36d42441db93e277bc68bc9b0",
+      "finished_at_utc": "2026-10-31T17:39:12.952195+00:00"
+    },
+    {
+      "postcode": "64646",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:39:15.955548+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\64646_ac0b7706ba4c4dfaa989f74e88d501fb",
+          "started_at_utc": "2026-10-31T17:39:15.957384+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:39:19.653341+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\64646_ac0b7706ba4c4dfaa989f74e88d501fb",
+      "finished_at_utc": "2026-10-31T17:39:19.697971+00:00"
+    },
+    {
+      "postcode": "66763",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:39:22.701957+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\66763_e9750e0c422f4c2d8c3d756cfc375166",
+          "started_at_utc": "2026-10-31T17:39:22.706927+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:39:26.443712+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\66763_e9750e0c422f4c2d8c3d756cfc375166",
+      "finished_at_utc": "2026-10-31T17:39:26.492818+00:00"
+    },
+    {
+      "postcode": "66806",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:39:29.513039+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\66806_e528fe3ea7ff415e9d9eef0603d4322b",
+          "started_at_utc": "2026-10-31T17:39:29.515791+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:39:51.571154+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\66806_e528fe3ea7ff415e9d9eef0603d4322b",
+      "finished_at_utc": "2026-10-31T17:39:51.615636+00:00"
+    },
+    {
+      "postcode": "67071",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:39:54.619921+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\67071_c64dfd39518d408f9f58a5952f4b8023",
+          "started_at_utc": "2026-10-31T17:39:54.624350+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:40:08.616555+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\67071_c64dfd39518d408f9f58a5952f4b8023",
+      "finished_at_utc": "2026-10-31T17:40:08.660765+00:00"
+    },
+    {
+      "postcode": "67346",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:40:11.664871+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\67346_da7d8eb86a104be39ea368e9fdbe33bc",
+          "started_at_utc": "2026-10-31T17:40:11.669395+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:40:38.495028+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\67346_da7d8eb86a104be39ea368e9fdbe33bc",
+      "finished_at_utc": "2026-10-31T17:40:38.542909+00:00"
+    },
+    {
+      "postcode": "67454",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:40:41.547221+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\67454_ebc4f9ac983a4e9b8a5f2d1a6ea478b7",
+          "started_at_utc": "2026-10-31T17:40:41.551653+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:40:44.695390+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\67454_ebc4f9ac983a4e9b8a5f2d1a6ea478b7",
+      "finished_at_utc": "2026-10-31T17:40:44.740809+00:00"
+    },
+    {
+      "postcode": "68161",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:40:47.744787+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\68161_a9182513b0bc4f3cb39709387b0f0b61",
+          "started_at_utc": "2026-10-31T17:40:47.775408+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:40:52.218343+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\68161_a9182513b0bc4f3cb39709387b0f0b61",
+      "finished_at_utc": "2026-10-31T17:40:52.263353+00:00"
+    },
+    {
+      "postcode": "68305",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:40:55.266592+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\68305_7171dc6152a9476f8bcb02e8a97517fe",
+          "started_at_utc": "2026-10-31T17:40:55.269854+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:41:16.185437+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\68305_7171dc6152a9476f8bcb02e8a97517fe",
+      "finished_at_utc": "2026-10-31T17:41:16.231822+00:00"
+    },
+    {
+      "postcode": "69115",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:41:19.236202+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\69115_b8bfa65ea8fa4b10b7f17abaa9a9a8b2",
+          "started_at_utc": "2026-10-31T17:41:19.242870+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:41:22.773837+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\69115_b8bfa65ea8fa4b10b7f17abaa9a9a8b2",
+      "finished_at_utc": "2026-10-31T17:41:22.820414+00:00"
+    },
+    {
+      "postcode": "70178",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:41:25.825278+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\70178_fd782aba998246a18876fc188660e7bc",
+          "started_at_utc": "2026-10-31T17:41:25.829594+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:41:30.433983+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\70178_fd782aba998246a18876fc188660e7bc",
+      "finished_at_utc": "2026-10-31T17:41:30.473303+00:00"
+    },
+    {
+      "postcode": "70327",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:41:33.475740+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\70327_0cb7cbbcb2d14d59afa9d55715184858",
+          "started_at_utc": "2026-10-31T17:41:33.477761+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:42:05.539029+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\70327_0cb7cbbcb2d14d59afa9d55715184858",
+      "finished_at_utc": "2026-10-31T17:42:05.590387+00:00"
+    },
+    {
+      "postcode": "70565",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:42:08.593234+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\70565_df7e643e1cfb4ab1b9f4a31a9e83cf31",
+          "started_at_utc": "2026-10-31T17:42:08.596076+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:42:13.638614+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\70565_df7e643e1cfb4ab1b9f4a31a9e83cf31",
+      "finished_at_utc": "2026-10-31T17:42:13.693393+00:00"
+    },
+    {
+      "postcode": "72202",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:42:16.696439+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\72202_4c939030820d4580ae9eaca7867c0423",
+          "started_at_utc": "2026-10-31T17:42:16.699527+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:42:21.816559+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\72202_4c939030820d4580ae9eaca7867c0423",
+      "finished_at_utc": "2026-10-31T17:42:21.862854+00:00"
+    },
+    {
+      "postcode": "72250",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:42:24.865643+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\72250_19f6a9367a434762a6e20a8acea09f62",
+          "started_at_utc": "2026-10-31T17:42:24.868244+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:42:29.998570+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\72250_19f6a9367a434762a6e20a8acea09f62",
+      "finished_at_utc": "2026-10-31T17:42:30.055889+00:00"
+    },
+    {
+      "postcode": "72336",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:42:33.058763+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\72336_0bcb3ee0fcd24742badc1795edfc301a",
+          "started_at_utc": "2026-10-31T17:42:33.061236+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:42:37.366578+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\72336_0bcb3ee0fcd24742badc1795edfc301a",
+      "finished_at_utc": "2026-10-31T17:42:37.406135+00:00"
+    },
+    {
+      "postcode": "72770",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:42:40.408552+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\72770_67decd50e67e4ac292a06eeb2e557b97",
+          "started_at_utc": "2026-10-31T17:42:40.410907+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:42:45.043635+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\72770_67decd50e67e4ac292a06eeb2e557b97",
+      "finished_at_utc": "2026-10-31T17:42:45.094582+00:00"
+    },
+    {
+      "postcode": "73457",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:42:48.097439+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\73457_03b26abe3ae74230a9386a9e59cd9aa9",
+          "started_at_utc": "2026-10-31T17:42:48.099840+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:42:53.260526+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\73457_03b26abe3ae74230a9386a9e59cd9aa9",
+      "finished_at_utc": "2026-10-31T17:42:53.297794+00:00"
+    },
+    {
+      "postcode": "74172",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:42:56.300584+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\74172_0f84c209859c47439cefabc250943364",
+          "started_at_utc": "2026-10-31T17:42:56.303516+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:43:00.546290+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\74172_0f84c209859c47439cefabc250943364",
+      "finished_at_utc": "2026-10-31T17:43:00.585628+00:00"
+    },
+    {
+      "postcode": "75179",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:43:03.588356+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\75179_d9ab4ee45ed04accb7952bcf889c6b2f",
+          "started_at_utc": "2026-10-31T17:43:03.590328+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:43:06.436200+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\75179_d9ab4ee45ed04accb7952bcf889c6b2f",
+      "finished_at_utc": "2026-10-31T17:43:06.469871+00:00"
+    },
+    {
+      "postcode": "76131",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:43:09.472259+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\76131_bce9d87f2779481a981f257fb2abb0f6",
+          "started_at_utc": "2026-10-31T17:43:09.473997+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:43:13.967158+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\76131_bce9d87f2779481a981f257fb2abb0f6",
+      "finished_at_utc": "2026-10-31T17:43:14.003422+00:00"
+    },
+    {
+      "postcode": "76137",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:43:17.005820+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\76137_4b7ecbb8dee647df80cc9501ea30f680",
+          "started_at_utc": "2026-10-31T17:43:17.008055+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:43:20.434676+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\76137_4b7ecbb8dee647df80cc9501ea30f680",
+      "finished_at_utc": "2026-10-31T17:43:20.475437+00:00"
+    },
+    {
+      "postcode": "76185",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:43:23.479526+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\76185_7899ef4c15384ac0908c1849cdef49a7",
+          "started_at_utc": "2026-10-31T17:43:23.481314+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:43:31.902412+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\76185_7899ef4c15384ac0908c1849cdef49a7",
+      "finished_at_utc": "2026-10-31T17:43:31.934900+00:00"
+    },
+    {
+      "postcode": "76437",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:43:34.938027+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\76437_77b42cfa6eb849378c54510da11fd930",
+          "started_at_utc": "2026-10-31T17:43:34.940813+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:43:39.958117+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\76437_77b42cfa6eb849378c54510da11fd930",
+      "finished_at_utc": "2026-10-31T17:43:39.989003+00:00"
+    },
+    {
+      "postcode": "76646",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:43:42.992122+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\76646_987327339a9247b09a9f1238ca1e422d",
+          "started_at_utc": "2026-10-31T17:43:42.995035+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:43:49.446232+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\76646_987327339a9247b09a9f1238ca1e422d",
+      "finished_at_utc": "2026-10-31T17:43:49.489950+00:00"
+    },
+    {
+      "postcode": "77656",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:43:52.493874+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\77656_b9ae3594f3ea43be86399606a208cf1f",
+          "started_at_utc": "2026-10-31T17:43:52.497014+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:43:57.754876+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\77656_b9ae3594f3ea43be86399606a208cf1f",
+      "finished_at_utc": "2026-10-31T17:43:57.795908+00:00"
+    },
+    {
+      "postcode": "78048",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:44:00.799523+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\78048_9d901bed1a954d8d849278ead66bda80",
+          "started_at_utc": "2026-10-31T17:44:00.802238+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:44:05.168474+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\78048_9d901bed1a954d8d849278ead66bda80",
+      "finished_at_utc": "2026-10-31T17:44:05.217672+00:00"
+    },
+    {
+      "postcode": "78166",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:44:08.220963+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\78166_ec58c4b7ead14ecd9ed5084b332acf79",
+          "started_at_utc": "2026-10-31T17:44:08.224044+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:44:15.643295+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\78166_ec58c4b7ead14ecd9ed5084b332acf79",
+      "finished_at_utc": "2026-10-31T17:44:15.694425+00:00"
+    },
+    {
+      "postcode": "78224",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:44:18.697515+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\78224_bbaa573abd1b427ab38b3cea8bf60eb9",
+          "started_at_utc": "2026-10-31T17:44:18.699469+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:44:30.751483+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\78224_bbaa573abd1b427ab38b3cea8bf60eb9",
+      "finished_at_utc": "2026-10-31T17:44:30.792809+00:00"
+    },
+    {
+      "postcode": "78658",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:44:33.797048+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\78658_5de5ef41256e438d863c33068ab5b839",
+          "started_at_utc": "2026-10-31T17:44:33.798856+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:44:38.087924+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\78658_5de5ef41256e438d863c33068ab5b839",
+      "finished_at_utc": "2026-10-31T17:44:38.139782+00:00"
+    },
+    {
+      "postcode": "79115",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:44:41.143808+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\79115_f7c8d9524b454af5aaa8bd37032c39f2",
+          "started_at_utc": "2026-10-31T17:44:41.146959+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:44:46.495272+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\79115_f7c8d9524b454af5aaa8bd37032c39f2",
+      "finished_at_utc": "2026-10-31T17:44:46.542662+00:00"
+    },
+    {
+      "postcode": "79541",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:44:49.546590+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\79541_f8d1c22cf6ff458e8bf86a286b018d24",
+          "started_at_utc": "2026-10-31T17:44:49.549546+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:44:52.758859+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\79541_f8d1c22cf6ff458e8bf86a286b018d24",
+      "finished_at_utc": "2026-10-31T17:44:52.807841+00:00"
+    },
+    {
+      "postcode": "80687",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:44:55.812914+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\80687_a1e7634adabe49229e15a28e62c94416",
+          "started_at_utc": "2026-10-31T17:44:55.815491+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:45:00.336587+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\80687_a1e7634adabe49229e15a28e62c94416",
+      "finished_at_utc": "2026-10-31T17:45:00.381292+00:00"
+    },
+    {
+      "postcode": "80939",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:45:03.385138+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\80939_179800bf47a34ddba4a3c285898ced28",
+          "started_at_utc": "2026-10-31T17:45:03.387113+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:45:13.065023+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\80939_179800bf47a34ddba4a3c285898ced28",
+      "finished_at_utc": "2026-10-31T17:45:13.102851+00:00"
+    },
+    {
+      "postcode": "84030",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:45:16.191780+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\84030_59578516cb0145038cf2f17a69a60bbe",
+          "started_at_utc": "2026-10-31T17:45:16.199754+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:45:20.565906+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\84030_59578516cb0145038cf2f17a69a60bbe",
+      "finished_at_utc": "2026-10-31T17:45:20.605577+00:00"
+    },
+    {
+      "postcode": "85057",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:45:23.608816+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\85057_bb4dead82a4a4f3d9281ca5f9bef286a",
+          "started_at_utc": "2026-10-31T17:45:23.613406+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:45:30.019529+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\85057_bb4dead82a4a4f3d9281ca5f9bef286a",
+      "finished_at_utc": "2026-10-31T17:45:30.058150+00:00"
+    },
+    {
+      "postcode": "86154",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:45:33.062819+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\86154_2462ffec12cb449e9a7f296563af2e4e",
+          "started_at_utc": "2026-10-31T17:45:33.064671+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:45:41.063924+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\86154_2462ffec12cb449e9a7f296563af2e4e",
+      "finished_at_utc": "2026-10-31T17:45:41.113220+00:00"
+    },
+    {
+      "postcode": "86159",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:45:44.117793+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\86159_7da4a3d3a4d8418ea83ede87fc9adb12",
+          "started_at_utc": "2026-10-31T17:45:44.119752+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:46:06.699039+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\86159_7da4a3d3a4d8418ea83ede87fc9adb12",
+      "finished_at_utc": "2026-10-31T17:46:06.750837+00:00"
+    },
+    {
+      "postcode": "86165",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:46:09.753968+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\86165_30c57603141b4dcf962ced1b7d9586b9",
+          "started_at_utc": "2026-10-31T17:46:09.755817+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:46:15.772469+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\86165_30c57603141b4dcf962ced1b7d9586b9",
+      "finished_at_utc": "2026-10-31T17:46:15.822246+00:00"
+    },
+    {
+      "postcode": "86368",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:46:18.827017+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\86368_000dad34e9a34d9fb8629ab3296ccb1c",
+          "started_at_utc": "2026-10-31T17:46:18.828969+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:46:22.039933+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\86368_000dad34e9a34d9fb8629ab3296ccb1c",
+      "finished_at_utc": "2026-10-31T17:46:22.084824+00:00"
+    },
+    {
+      "postcode": "87700",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:46:25.088360+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\87700_2b9866e37fbd4a7faef446088610b294",
+          "started_at_utc": "2026-10-31T17:46:25.090648+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:46:31.530178+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\87700_2b9866e37fbd4a7faef446088610b294",
+      "finished_at_utc": "2026-10-31T17:46:31.575036+00:00"
+    },
+    {
+      "postcode": "88212",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:46:34.577717+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\88212_80f599e31c254747ad163ecd1e74bf0d",
+          "started_at_utc": "2026-10-31T17:46:34.579734+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:46:43.254689+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\88212_80f599e31c254747ad163ecd1e74bf0d",
+      "finished_at_utc": "2026-10-31T17:46:43.299918+00:00"
+    },
+    {
+      "postcode": "89077",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:46:46.303214+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\89077_9b605d36d39748b9831592052980a7eb",
+          "started_at_utc": "2026-10-31T17:46:46.306124+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:46:59.759755+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\89077_9b605d36d39748b9831592052980a7eb",
+      "finished_at_utc": "2026-10-31T17:46:59.800620+00:00"
+    },
+    {
+      "postcode": "89520",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:47:02.803483+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\89520_a05ca9ab2eeb4241aced7fd8e3ea69c4",
+          "started_at_utc": "2026-10-31T17:47:02.805754+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:47:09.285160+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\89520_a05ca9ab2eeb4241aced7fd8e3ea69c4",
+      "finished_at_utc": "2026-10-31T17:47:09.336399+00:00"
+    },
+    {
+      "postcode": "90439",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:47:12.339898+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\90439_fb2eea7297b6440d9cea714a1ada1918",
+          "started_at_utc": "2026-10-31T17:47:12.341840+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:47:15.952187+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\90439_fb2eea7297b6440d9cea714a1ada1918",
+      "finished_at_utc": "2026-10-31T17:47:15.995008+00:00"
+    },
+    {
+      "postcode": "90547",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:47:19.000166+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\90547_6222561fbd904bc1bef7a20ff6c51b23",
+          "started_at_utc": "2026-10-31T17:47:19.002269+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:47:26.134840+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\90547_6222561fbd904bc1bef7a20ff6c51b23",
+      "finished_at_utc": "2026-10-31T17:47:26.180481+00:00"
+    },
+    {
+      "postcode": "93053",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:47:29.184207+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\93053_a7ec4d2a77e348978a9758c699385ab3",
+          "started_at_utc": "2026-10-31T17:47:29.188210+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:47:55.900674+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\93053_a7ec4d2a77e348978a9758c699385ab3",
+      "finished_at_utc": "2026-10-31T17:47:55.951641+00:00"
+    },
+    {
+      "postcode": "94036",
+      "status": "acquired",
+      "started_at_utc": "2026-10-31T17:47:58.955106+00:00",
+      "attempts": [
+        {
+          "attempt": 1,
+          "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\94036_1259a691eca14e9aa96cec56c8c420d0",
+          "started_at_utc": "2026-10-31T17:47:58.957135+00:00",
+          "status": "validated",
+          "returncode": 0,
+          "finished_at_utc": "2026-10-31T17:48:05.307701+00:00",
+          "run_id": null
+        }
+      ],
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\94036_1259a691eca14e9aa96cec56c8c420d0",
+      "finished_at_utc": "2026-10-31T17:48:05.353138+00:00"
+    },
+    {
+      "postcode": "97424",
+      "status": "cached",
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_locator\\97424_93b652f795514514a9b37049baa5e427"
+    }
+  ],
+  "unresolved_postcodes": [],
+  "unprocessed_postcodes": [],
+  "finished_at_utc": "2026-10-31T17:48:08.390875+00:00"
+}

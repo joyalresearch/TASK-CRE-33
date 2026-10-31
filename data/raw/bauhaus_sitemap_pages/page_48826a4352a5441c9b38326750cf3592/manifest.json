@@ -1,0 +1,25 @@
+{
+  "started_at_utc": "2026-10-31T18:51:25.636915+00:00",
+  "source_url": "https://www.bauhaus.info/fc/mannheim-wohlgelegen/6277",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc/mannheim-wohlgelegen/6277",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "confirmed_terminal_unresolved",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "apify_http_status": 400,
+  "run_id": "gThfP0kQM8hKXpBI4",
+  "dataset_sha256": "3350050ab0240c948c319197507f275917695aa8631a61231017ad16cb662e5a",
+  "apify_error_type": "run-failed",
+  "run_sha256": "9c545b25406088f417dbca8d068600967ac2b3d8b555fc75e943225130501292",
+  "run_status": "TIMED-OUT",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-10-31T18:53:26.275948+00:00"
+}

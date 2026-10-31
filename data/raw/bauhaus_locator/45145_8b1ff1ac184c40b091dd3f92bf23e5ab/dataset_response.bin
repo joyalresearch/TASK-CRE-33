@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=45145",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=45145",
+    "loadedTime": "2026-10-31T17:33:25.356Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 3285,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=45145",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:33:25 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=45145",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Essen-Frohnhausen\",\"slug\":\"essen-frohnhausen\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Ruhr\",\"id\":505,\"store_id\":505,\"location\":{\"lat\":51.451438924675,\"lng\":6.9895645403364},\"address\":{\"lines\":[\"Schederhof Str. 129\"],\"city\":\"Essen\",\"zipcode\":\"45145\"},\"distance\":1.01,\"opening_hours\":[{\"weekday\":1,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"09:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Essen-Frillendorf\",\"slug\":\"essen-frillendorf\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Ruhr\",\"id\":539,\"store_id\":539,\"location\":{\"lat\":51.468724524545,\"lng\":7.0465114552916},\"address\":{\"lines\":[\"Langemarckstrasse 2\"],\"city\":\"Essen\",\"zipcode\":\"45141\"},\"distance\":5.4,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Gelsenkirchen\",\"slug\":\"gelsenkirchen\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Ruhr\",\"id\":692,\"store_id\":692,\"location\":{\"lat\":51.522067,\"lng\":7.07513},\"address\":{\"lines\":[\"Grothusstraße 22\"],\"city\":\"Gelsenkirchen\",\"zipcode\":\"45881\"},\"distance\":10.7,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Bochum-Wattenscheid\",\"slug\":\"bochum-wattenscheid\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Ruhr\",\"id\":535,\"store_id\":535,\"location\":{\"lat\":51.473810679818,\"lng\":7.1363543818439},\"address\":{\"lines\":[\"Fritz-Reuter-Strasse 38\"],\"city\":\"Bochum\",\"zipcode\":\"44867\"},\"distance\":11.48,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Duisburg-Grossenbaum\",\"slug\":\"duisburg-grossenbaum\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Ruhr\",\"id\":579,\"store_id\":579,\"location\":{\"lat\":51.374128054759,\"lng\":6.7742739910137},\"address\":{\"lines\":[\"Keniastrasse 28\"],\"city\":\"Duisburg\",\"zipcode\":\"47269\"},\"distance\":16.23,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Bochum-Hofstede\",\"slug\":\"bochum-hofstede\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Ruhr\",\"id\":648,\"store_id\":648,\"location\":{\"lat\":51.50161,\"lng\":7.20468},\"address\":{\"lines\":[\"Hofsteder Straße 205\"],\"city\":\"Bochum\",\"zipcode\":\"44809\"},\"distance\":16.92,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

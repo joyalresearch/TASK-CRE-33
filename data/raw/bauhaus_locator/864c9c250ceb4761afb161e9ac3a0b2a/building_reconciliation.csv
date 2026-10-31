@@ -1,0 +1,15 @@
+official_store_id,official_name,official_postcode,containment_status,containing_osm_ids,nearest_osm_id,nearest_polygon_distance_m,association_verified
+840,Berlin Am Wittenbergplatz,10787,no_containment,,way/251464504,3620.36,False
+656,Berlin-Wedding,13405,no_containment,,way/24049246,18.12,False
+814,Berlin Am Hermannplatz,10967,single_containment_candidate,way/26832459,way/26832459,0.0,False
+812,Berlin-Charlottenburg,10585,no_containment,,way/945724462,2099.23,False
+597,Berlin-Schöneberg,12103,no_containment,,way/28505596,2885.5,False
+850,Berlin-Wittenau,13435,single_containment_candidate,way/40459768,way/40459768,0.0,False
+643,Berlin-Kurfürstendamm,10711,no_containment,,way/945724462,0.09,False
+894,Berlin-Steglitz,12163,single_containment_candidate,way/28505596,way/28505596,0.0,False
+578,Berlin-Pankow,13127,single_containment_candidate,way/80858331,way/80858331,0.0,False
+866,Berlin-Treptow,12439,single_containment_candidate,way/24230210,way/24230210,0.0,False
+623,Berlin-Spandau,13597,single_containment_candidate,way/25114190,way/25114190,0.0,False
+604,Berlin-Marienfelde,12277,single_containment_candidate,way/27493871,way/27493871,0.0,False
+596,Berlin-Spandau Brunsbütteler Damm,13581,single_containment_candidate,way/285603576,way/285603576,0.0,False
+565,Mahlow,15831,single_containment_candidate,way/33542710,way/33542710,0.0,False

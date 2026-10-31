@@ -1,0 +1,25 @@
+{
+  "started_at_utc": "2026-10-31T18:48:17.713018+00:00",
+  "source_url": "https://www.bauhaus.info/fc/lutterberg/6278",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc/lutterberg/6278",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "confirmed_terminal_unresolved",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "apify_http_status": 400,
+  "run_id": "aI0eEEWPpZsCPQ3DN",
+  "dataset_sha256": "c4f8027780502dfacb1c425829bd8a04570f2026f80a46b54b08e6466ce15945",
+  "apify_error_type": "run-failed",
+  "run_sha256": "5416453e60d416873e98a13e0ab8f14ccc5acb587bf20e7203971f25ef3e0a3a",
+  "run_status": "TIMED-OUT",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-10-31T18:50:18.501680+00:00"
+}

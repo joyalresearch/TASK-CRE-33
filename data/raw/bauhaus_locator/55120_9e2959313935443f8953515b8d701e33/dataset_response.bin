@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=55120",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=55120",
+    "loadedTime": "2026-10-31T17:36:46.077Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1625,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=55120",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:36:46 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=55120",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Mainz-Mombach\",\"slug\":\"mainz-mombach\",\"name\":\"BAUHAUS GmbH & Co. KG Mittelrhein\",\"id\":854,\"store_id\":854,\"location\":{\"lat\":50.02956,\"lng\":8.22164},\"address\":{\"lines\":[\"Rheinallee 128\"],\"city\":\"Mainz\",\"zipcode\":\"55120\"},\"distance\":0.82,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Wiesbaden/ Mainz-Kastel\",\"slug\":\"wiesbaden-mainz-kastel\",\"name\":\"BAUHAUS GmbH & Co. KG Hessen\",\"id\":896,\"store_id\":896,\"location\":{\"lat\":50.0255502,\"lng\":8.2858621},\"address\":{\"lines\":[\"Gottfried-Dörr-Str. 21\"],\"city\":\"Wiesbaden\",\"zipcode\":\"55252\"},\"distance\":4.47,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Mainz-Weisenau\",\"slug\":\"mainz-weisenau\",\"name\":\"BAUHAUS GmbH & Co. KG Südwest\",\"id\":614,\"store_id\":614,\"location\":{\"lat\":49.973448058298,\"lng\":8.2866848443169},\"address\":{\"lines\":[\"Max-Hufschmidt-Strasse 9\"],\"city\":\"Mainz\",\"zipcode\":\"55130\"},\"distance\":7.07,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

@@ -1,0 +1,15 @@
+{
+  "buildings_total": 167,
+  "areas_processed": 167,
+  "areas_cached": 3,
+  "areas_failed": 0,
+  "failures": [],
+  "parking_ways_discovered": 1042,
+  "parking_polygons_near_buildings": 808,
+  "candidate_pairs": 867,
+  "deferred_relation_occurrences": 11,
+  "radius_m": 150.0,
+  "distance_crs": "EPSG:25832",
+  "ownership_verified": 0,
+  "partial_run": false
+}

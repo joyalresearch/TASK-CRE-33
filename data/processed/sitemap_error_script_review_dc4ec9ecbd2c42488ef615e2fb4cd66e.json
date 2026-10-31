@@ -1,0 +1,202 @@
+{
+  "created_at_utc": "2026-10-31T19:33:54.156547+00:00",
+  "collection_report": "data\\raw\\bauhaus_sitemap_pages\\collection_41f1f350a1d14c66be7ba25ea26dea02.json",
+  "collection_report_sha256": "4604fb2014ebb3de7072c2bb979bcda4aadc2ea8c967adf2a2f286581034237d",
+  "pages": [
+    {
+      "sitemap_id": 100,
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_333c31648bbd41af9668b4d8e4b8f293",
+      "source_sha256": "e6a180f706cea2211963e8e1a387917ca1d8c9656d1cee0445dd5ec1301497a4",
+      "next_error_document": true,
+      "script_blocks": 10,
+      "findings": {
+        "framework_error": [
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "343 25.709 26.1343 25.6119C26.1417 22.2537 26.1417 18.8955 26.1417 15.5373Z\\\",\\\"fill\\\":\\\"#061AB1\\\"}]\\n1d:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          }
+        ],
+        "facility_data": [],
+        "facility_type_or_status": []
+      },
+      "classification": "unresolved_sitemap_entry",
+      "note": "Keyword hits may be shared application content. They do not independently establish facility identity or closure."
+    },
+    {
+      "sitemap_id": 6261,
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_0bc8ee717b4047ccabad6b4aba54abb8",
+      "source_sha256": "7d5be7c4a56fa1b14477cea8abdfb51c12fd43229f979da2e1c93aed143428a9",
+      "next_error_document": true,
+      "script_blocks": 12,
+      "findings": {
+        "framework_error": [
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "343 25.709 26.1343 25.6119C26.1417 22.2537 26.1417 18.8955 26.1417 15.5373Z\\\",\\\"fill\\\":\\\"#061AB1\\\"}]\\n1e:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          },
+          {
+            "script_index": 9,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "self.__next_f.push([1,\"21:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          }
+        ],
+        "facility_data": [],
+        "facility_type_or_status": []
+      },
+      "classification": "unresolved_sitemap_entry",
+      "note": "Keyword hits may be shared application content. They do not independently establish facility identity or closure."
+    },
+    {
+      "sitemap_id": 74,
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_20142ef568d84e4eb9dfb7d4d516220e",
+      "source_sha256": "efec0918557e796b72d78e6fbc4af99c84476529131fcd26b5720e240cc47df9",
+      "next_error_document": true,
+      "script_blocks": 10,
+      "findings": {
+        "framework_error": [
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "343 25.709 26.1343 25.6119C26.1417 22.2537 26.1417 18.8955 26.1417 15.5373Z\\\",\\\"fill\\\":\\\"#061AB1\\\"}]\\n21:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\ned:I[27201,[\\\"$4\\\",\\\"$5\\\",\\\"$6\\\",\\\"$7\\\",\\\"$8\\\",\\\"$9\\\",\\\"$a\\\",\\\"$b\\\",\\\"$c\\\"],\\\"IconMark\\\"]\\n27:[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/favicon.ico\\\",\\\"sizes\\\":\\\"32x32\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\""
+          },
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "con/apple-touch-icon.png\\\",\\\"type\\\":\\\"image/png\\\",\\\"sizes\\\":\\\"180x180\\\"}],[\\\"$\\\",\\\"$Led\\\",\\\"4\\\",{}]]\\n1e:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          }
+        ],
+        "facility_data": [],
+        "facility_type_or_status": []
+      },
+      "classification": "unresolved_sitemap_entry",
+      "note": "Keyword hits may be shared application content. They do not independently establish facility identity or closure."
+    },
+    {
+      "sitemap_id": 76,
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_526a505e618947258b62d9feeb2faddc",
+      "source_sha256": "fc59303e801a877af34866e8d36763137fadd56748abc1b2a8388eada66c8f54",
+      "next_error_document": true,
+      "script_blocks": 10,
+      "findings": {
+        "framework_error": [
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "343 25.709 26.1343 25.6119C26.1417 22.2537 26.1417 18.8955 26.1417 15.5373Z\\\",\\\"fill\\\":\\\"#061AB1\\\"}]\\n21:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\ned:I[27201,[\\\"$4\\\",\\\"$5\\\",\\\"$6\\\",\\\"$7\\\",\\\"$8\\\",\\\"$9\\\",\\\"$a\\\",\\\"$b\\\",\\\"$c\\\"],\\\"IconMark\\\"]\\n27:[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/favicon.ico\\\",\\\"sizes\\\":\\\"32x32\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\""
+          },
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "con/apple-touch-icon.png\\\",\\\"type\\\":\\\"image/png\\\",\\\"sizes\\\":\\\"180x180\\\"}],[\\\"$\\\",\\\"$Led\\\",\\\"4\\\",{}]]\\n1e:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          }
+        ],
+        "facility_data": [],
+        "facility_type_or_status": []
+      },
+      "classification": "unresolved_sitemap_entry",
+      "note": "Keyword hits may be shared application content. They do not independently establish facility identity or closure."
+    },
+    {
+      "sitemap_id": 6288,
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_b70b3ddcb84b4d548dd347fb98570ca8",
+      "source_sha256": "3d0484c4129ee2c437d258186d735416534775b9545a3291fd5fe34106db3e27",
+      "next_error_document": true,
+      "script_blocks": 10,
+      "findings": {
+        "framework_error": [
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "343 25.709 26.1343 25.6119C26.1417 22.2537 26.1417 18.8955 26.1417 15.5373Z\\\",\\\"fill\\\":\\\"#061AB1\\\"}]\\n21:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\ned:I[27201,[\\\"$4\\\",\\\"$5\\\",\\\"$6\\\",\\\"$7\\\",\\\"$8\\\",\\\"$9\\\",\\\"$a\\\",\\\"$b\\\",\\\"$c\\\"],\\\"IconMark\\\"]\\n27:[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/favicon.ico\\\",\\\"sizes\\\":\\\"32x32\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\""
+          },
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "con/apple-touch-icon.png\\\",\\\"type\\\":\\\"image/png\\\",\\\"sizes\\\":\\\"180x180\\\"}],[\\\"$\\\",\\\"$Led\\\",\\\"4\\\",{}]]\\n1e:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          }
+        ],
+        "facility_data": [],
+        "facility_type_or_status": []
+      },
+      "classification": "unresolved_sitemap_entry",
+      "note": "Keyword hits may be shared application content. They do not independently establish facility identity or closure."
+    },
+    {
+      "sitemap_id": 299,
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_2959eafaa5bc43b288a8011e4cb062c0",
+      "source_sha256": "3364d87a6ed9b019a271568512456b3903aa70185c66a31cb375602dad0df335",
+      "next_error_document": true,
+      "script_blocks": 12,
+      "findings": {
+        "framework_error": [
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "343 25.709 26.1343 25.6119C26.1417 22.2537 26.1417 18.8955 26.1417 15.5373Z\\\",\\\"fill\\\":\\\"#061AB1\\\"}]\\n1e:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          },
+          {
+            "script_index": 9,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "self.__next_f.push([1,\"21:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          }
+        ],
+        "facility_data": [],
+        "facility_type_or_status": []
+      },
+      "classification": "unresolved_sitemap_entry",
+      "note": "Keyword hits may be shared application content. They do not independently establish facility identity or closure."
+    },
+    {
+      "sitemap_id": 6272,
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_bcd56169a40f4c2ba57544768f07a25f",
+      "source_sha256": "da8e01fa43d13fa841a16a687590859dfda6513a16372659fe42e4b6f950665e",
+      "next_error_document": true,
+      "script_blocks": 12,
+      "findings": {
+        "framework_error": [
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "343 25.709 26.1343 25.6119C26.1417 22.2537 26.1417 18.8955 26.1417 15.5373Z\\\",\\\"fill\\\":\\\"#061AB1\\\"}]\\n1e:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          },
+          {
+            "script_index": 9,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "self.__next_f.push([1,\"21:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          }
+        ],
+        "facility_data": [],
+        "facility_type_or_status": []
+      },
+      "classification": "unresolved_sitemap_entry",
+      "note": "Keyword hits may be shared application content. They do not independently establish facility identity or closure."
+    },
+    {
+      "sitemap_id": 72,
+      "capture": "C:\\Users\\joyal\\Projects\\iris-cre-33\\data\\raw\\bauhaus_sitemap_pages\\page_6a7e860009d14a409ddc23fbd54d19da",
+      "source_sha256": "9e3bfa670a98ab94957ad63f09f27108f6482d3ff35f7fe601e2975c2165da1a",
+      "next_error_document": true,
+      "script_blocks": 12,
+      "findings": {
+        "framework_error": [
+          {
+            "script_index": 8,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "343 25.709 26.1343 25.6119C26.1417 22.2537 26.1417 18.8955 26.1417 15.5373Z\\\",\\\"fill\\\":\\\"#061AB1\\\"}]\\n1e:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          },
+          {
+            "script_index": 9,
+            "marker": "NEXT_HTTP_ERROR_FALLBACK",
+            "context": "self.__next_f.push([1,\"21:E{\\\"digest\\\":\\\"NEXT_HTTP_ERROR_FALLBACK;404\\\"}\\n\"])"
+          }
+        ],
+        "facility_data": [],
+        "facility_type_or_status": []
+      },
+      "classification": "unresolved_sitemap_entry",
+      "note": "Keyword hits may be shared application content. They do not independently establish facility identity or closure."
+    }
+  ]
+}

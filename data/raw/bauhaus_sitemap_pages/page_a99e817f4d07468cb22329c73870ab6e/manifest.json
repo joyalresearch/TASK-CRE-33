@@ -1,0 +1,29 @@
+{
+  "started_at_utc": "2026-10-31T18:20:48.077271+00:00",
+  "source_url": "https://www.bauhaus.info/fc//500",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc//500",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "confirmed_terminal_unresolved",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "apify_http_status": 400,
+  "run_id": "h2Cmk4R8l3yCivUga",
+  "dataset_sha256": "8ae73ce1cd94670c8da63a597e21335d508c3b2ff46afce5d43c78c0a9dcef60",
+  "apify_error_type": "run-failed",
+  "run_sha256": "e704cdbc896bd70fa7a5767c9146851611b0f39a35c5a531fd1b8251460e8287",
+  "run_status": "TIMED-OUT",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-10-31T18:22:48.666179+00:00",
+  "reviewed_at_utc": "2026-10-31T18:25:33.358665+00:00",
+  "review_basis": "Hash-verified saved run.json reports TIMED-OUT",
+  "previous_manifest": "manifest_before_review_a9683d48990b48f8b459675e873a4c67.json",
+  "previous_manifest_sha256": "4f04a867d19c5e849dd67f53d20a41bd07f4c798fa5f9c4a4a03127aa32746ca"
+}

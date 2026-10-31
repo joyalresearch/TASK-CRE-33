@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.bauhaus.info/fc//100</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc//100"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/mannheim-wohlgelegen/299</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/mannheim-wohlgelegen/299"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hannover-stadtmitte/300</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hannover-stadtmitte/300"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/karlsruhe-suedstadt/330</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/karlsruhe-suedstadt/330"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/magdeburg/400</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/magdeburg/400"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/plauen/406</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/plauen/406"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/heidenheim/485</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/heidenheim/485"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/duesseldorf-flingern/491</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/duesseldorf-flingern/491"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hannover/498</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hannover/498"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc//500</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc//500"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/essen-frohnhausen/505</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/essen-frohnhausen/505"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hagen/507</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hagen/507"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/neckarsulm/508</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/neckarsulm/508"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/dortmund-aplerbeck/509</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/dortmund-aplerbeck/509"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/augsburg/515</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/augsburg/515"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bochum-harpen/519</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bochum-harpen/519"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/muenchen-laim/520</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/muenchen-laim/520"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bielefeld/521</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bielefeld/521"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/karlsruhe-muehlburg/525</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/karlsruhe-muehlburg/525"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bremerhaven/528</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bremerhaven/528"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/rastatt/530</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/rastatt/530"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/speyer/531</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/speyer/531"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/luebeck-st-juergen/534</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/luebeck-st-juergen/534"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bochum-wattenscheid/535</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bochum-wattenscheid/535"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bad-kreuznach/537</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bad-kreuznach/537"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/essen-frillendorf/539</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/essen-frillendorf/539"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/krefeld-untergath/541</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/krefeld-untergath/541"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/zimmern-ob-rottweil/543</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/zimmern-ob-rottweil/543"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/nagold/544</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/nagold/544"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/villingen-schwenningen/547</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/villingen-schwenningen/547"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/gersthofen/548</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/gersthofen/548"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/stuhr-gross-mackenstedt/553</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/stuhr-gross-mackenstedt/553"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/leverkusen/555</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/leverkusen/555"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/mannheim-waldhof/557</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/mannheim-waldhof/557"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/wetzlar/558</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/wetzlar/558"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/muelheim-kaerlich/559</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/muelheim-kaerlich/559"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hanau/560</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hanau/560"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/passau/561</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/passau/561"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/solingen/562</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/solingen/562"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/mahlow/565</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/mahlow/565"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/duesseldorf-gerresheim/566</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/duesseldorf-gerresheim/566"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/nuernberg-stein/567</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/nuernberg-stein/567"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/ingolstadt/568</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/ingolstadt/568"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/frechen/569</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/frechen/569"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/kiel-suchsdorf/571</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/kiel-suchsdorf/571"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/regensburg/572</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/regensburg/572"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/dortmund-nordstadt/573</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/dortmund-nordstadt/573"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/darmstadt/574</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/darmstadt/574"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/birkenwerder/577</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/birkenwerder/577"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-pankow/578</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-pankow/578"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/duisburg-grossenbaum/579</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/duisburg-grossenbaum/579"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/aalen-essingen/580</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/aalen-essingen/580"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/mannheim-mallau/583</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/mannheim-mallau/583"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/balingen/584</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/balingen/584"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/dillingen/585</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/dillingen/585"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/aachen/586</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/aachen/586"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/ravensburg/587</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/ravensburg/587"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/frankfurt/589</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/frankfurt/589"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/pforzheim/590</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/pforzheim/590"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/freiburg/591</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/freiburg/591"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/loerrach-haagen/594</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/loerrach-haagen/594"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg-moorfleet/595</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg-moorfleet/595"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-spandau-brunsbuetteler-damm/596</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-spandau-brunsbuetteler-damm/596"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-schoeneberg/597</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-schoeneberg/597"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/memmingen/598</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/memmingen/598"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/ulm/599</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/ulm/599"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/stralsund/600</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/stralsund/600"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/ludwigshafen/601</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/ludwigshafen/601"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/gruendau-lieblos/602</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/gruendau-lieblos/602"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/fuldabrueck/603</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/fuldabrueck/603"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-marienfelde/604</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-marienfelde/604"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/wildau/605</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/wildau/605"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/landshut/606</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/landshut/606"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/braunschweig/607</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/braunschweig/607"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/koeln-porz/608</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/koeln-porz/608"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bornheim/609</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bornheim/609"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/wuerselen/613</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/wuerselen/613"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/mainz-weisenau/614</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/mainz-weisenau/614"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/aschaffenburg/615</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/aschaffenburg/615"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/koeln-kalk/616</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/koeln-kalk/616"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/wuppertal-barmen/617</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/wuppertal-barmen/617"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/duesseldorf-reisholz/618</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/duesseldorf-reisholz/618"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg-harburg/619</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg-harburg/619"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg-bergedorf/620</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg-bergedorf/620"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/offenburg/621</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/offenburg/621"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/ensdorf/622</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/ensdorf/622"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-spandau/623</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-spandau/623"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/barsbuettel/624</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/barsbuettel/624"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/witten/625</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/witten/625"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/stuttgart-moehringen/626</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/stuttgart-moehringen/626"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bremen/6261</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bremen/6261"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/krefeld/6263</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/krefeld/6263"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/osnabrueck/6265</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/osnabrueck/6265"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin/6270</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin/6270"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg/6271</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg/6271"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/schifferstadt/6272</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/schifferstadt/6272"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/gersthofen/6274</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/gersthofen/6274"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/grevenbroich/6276</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/grevenbroich/6276"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/mannheim-wohlgelegen/6277</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/mannheim-wohlgelegen/6277"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/lutterberg/6278</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/lutterberg/6278"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/neuss/628</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/neuss/628"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/kassel/6288</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/kassel/6288"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/huerth/629</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/huerth/629"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/braunschweig-stoeckheim/630</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/braunschweig-stoeckheim/630"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/stuttgart-untertuerkheim/631</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/stuttgart-untertuerkheim/631"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/augsburg-lechhausen/632</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/augsburg-lechhausen/632"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/krefeld-mevissenstrasse/633</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/krefeld-mevissenstrasse/633"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/schwentinental-raisdorf/634</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/schwentinental-raisdorf/634"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/flensburg/635</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/flensburg/635"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/heidelberg/636</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/heidelberg/636"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/dueren/637</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/dueren/637"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/saarbruecken/638</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/saarbruecken/638"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/luebeck/639</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/luebeck/639"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/freudenstadt/642</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/freudenstadt/642"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-kurfuerstendamm/643</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-kurfuerstendamm/643"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/dresden-nickern/645</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/dresden-nickern/645"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/leipzig/646</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/leipzig/646"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bremen-stresemannstr/647</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bremen-stresemannstr/647"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bochum-hofstede/648</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bochum-hofstede/648"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/singen/649</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/singen/649"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/neuwied/650</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/neuwied/650"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/laatzen/651</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/laatzen/651"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/giessen-schiffenberger-tal/652</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/giessen-schiffenberger-tal/652"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg-lokstedt/654</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg-lokstedt/654"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/mannheim-quadrate/655</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/mannheim-quadrate/655"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-wedding/656</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-wedding/656"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bonn-beuel/657</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bonn-beuel/657"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/kassel/658</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/kassel/658"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/heppenheim/659</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/heppenheim/659"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/muenster/661</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/muenster/661"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/donaueschingen/662</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/donaueschingen/662"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg-bramfeld/663</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg-bramfeld/663"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg-stellingen/664</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg-stellingen/664"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/koeln-ehrenfeld/665</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/koeln-ehrenfeld/665"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/lueneburg/666</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/lueneburg/666"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/rostock-schutow/667</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/rostock-schutow/667"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/schwerin-grosser-dreesch/668</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/schwerin-grosser-dreesch/668"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/gera/669</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/gera/669"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/gelsenkirchen/692</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/gelsenkirchen/692"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin/70</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin/70"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg/71</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg/71"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/schifferstadt/72</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/schifferstadt/72"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/gersthofen/74</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/gersthofen/74"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/grevenbroich/76</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/grevenbroich/76"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-charlottenburg/812</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-charlottenburg/812"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-am-hermannplatz/814</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-am-hermannplatz/814"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-am-wittenbergplatz/840</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-am-wittenbergplatz/840"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-wittenau/850</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-wittenau/850"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg-wandsbek/851</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg-wandsbek/851"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/karlsruhe-oststadt/852</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/karlsruhe-oststadt/852"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/kiel-ravensberg/853</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/kiel-ravensberg/853"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/mainz-mombach/854</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/mainz-mombach/854"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/cottbus/855</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/cottbus/855"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hennef/856</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hennef/856"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/koblenz-luetzel/857</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/koblenz-luetzel/857"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg-langenhorn/858</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg-langenhorn/858"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/nuernberg/859</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/nuernberg/859"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/schweinfurt/861</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/schweinfurt/861"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/augsburg-oberhausen/862</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/augsburg-oberhausen/862"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bremen-osterholz/863</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bremen-osterholz/863"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/luebeck-moisling/864</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/luebeck-moisling/864"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hamburg-lurup/865</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hamburg-lurup/865"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-treptow/866</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-treptow/866"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/wuppertal-barmen/868</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/wuppertal-barmen/868"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/muenchen-freimann/870</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/muenchen-freimann/870"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/stuttgart/871</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/stuttgart/871"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bruchsal/872</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bruchsal/872"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/hassloch/874</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/hassloch/874"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/reutlingen/875</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/reutlingen/875"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/trier/877</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/trier/877"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/duesseldorf-rath/878</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/duesseldorf-rath/878"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/moenchengladbach/879</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/moenchengladbach/879"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bonn-endenich/890</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bonn-endenich/890"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/pulheim/891</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/pulheim/891"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bergisch-gladbach-bensberg/892</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bergisch-gladbach-bensberg/892"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bad-neuenahr-ahrweiler/893</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bad-neuenahr-ahrweiler/893"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/berlin-steglitz/894</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/berlin-steglitz/894"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/wiesbaden-mainz-kastel/896</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/wiesbaden-mainz-kastel/896"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/mannheim-columbus/897</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/mannheim-columbus/897"/>
+  </url>
+  <url>
+    <loc>https://www.bauhaus.info/fc/bad-vilbel/898</loc>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.bauhaus.info/fc/bad-vilbel/898"/>
+  </url>
+</urlset>

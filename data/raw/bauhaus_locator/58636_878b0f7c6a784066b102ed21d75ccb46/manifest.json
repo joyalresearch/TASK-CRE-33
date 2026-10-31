@@ -1,0 +1,32 @@
+{
+  "started_at_utc": "2026-10-31T17:38:31.567396+00:00",
+  "source_url": "https://www.bauhaus.info/api/stores?q=58636",
+  "postcode": "58636",
+  "actor": "apify/web-fetch",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/api/stores?q=58636",
+    "formats": [
+      "raw"
+    ]
+  },
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "coverage_verified": false,
+  "retryable": false,
+  "status": "validated",
+  "apify_http_status": 201,
+  "run_id": null,
+  "dataset_sha256": "85eafa7efa700205edada7dac5e722f808691bca6d006c65b277b864be7de347",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=58636",
+    "loadedTime": "2026-10-31T17:38:35.426Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1072,
+    "contentType": "application/json"
+  },
+  "source_sha256": "fe565d6ea42b129ca8ab353a2ff8c7ede91d016be5037e19b507d646539fe724",
+  "source_representation": "UTF-8 encoding of provider raw string",
+  "store_count": 2,
+  "finished_at_utc": "2026-10-31T17:38:36.034800+00:00"
+}

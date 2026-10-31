@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=72770",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=72770",
+    "loadedTime": "2026-10-31T17:42:44.481Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 534,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=72770",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:42:44 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=72770",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Reutlingen\",\"slug\":\"reutlingen\",\"name\":\"BAUHAUS GmbH & Co. KG Schwaben\",\"id\":875,\"store_id\":875,\"location\":{\"lat\":48.495943,\"lng\":9.157211},\"address\":{\"lines\":[\"Justus-von-Liebig-Str. 1-3\"],\"city\":\"Reutlingen\",\"zipcode\":\"72770\"},\"distance\":3.87,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

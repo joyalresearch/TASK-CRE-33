@@ -1,0 +1,32 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 1739559562,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 46754081,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Lübeck",
+        "addr:country": "DE",
+        "addr:housenumber": "106",
+        "addr:postcode": "23562",
+        "addr:street": "Ratzeburger Allee",
+        "building": "retail",
+        "building:levels": "1",
+        "roof:shape": "flat",
+        "source": "Aerowest Hires aerial images"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 6917.23,
+      "geometry_wkt_25832": "POLYGON ((612346.4365561355 5967435.118315799, 612347.2809264115 5967417.540999076, 612347.273853713 5967416.194013828, 612359.1372642849 5967416.668806543, 612356.1154943915 5967490.515070316, 612251.8076397548 5967486.268869503, 612251.5504180368 5967492.584918287, 612216.2178591638 5967491.145363794, 612217.7396160467 5967453.860740236, 612234.2979390739 5967454.537145999, 612245.4047097039 5967454.993458742, 612246.1274511022 5967437.2573825335, 612295.4476080049 5967439.26740483, 612295.5584281557 5967436.576442079, 612295.7003377354 5967433.140470542, 612301.7371466924 5967433.385892565, 612307.096620139 5967433.603893744, 612306.9533638128 5967437.095486336, 612306.8468198022 5967439.608460763, 612346.25666051 5967441.224741538, 612346.4365561355 5967435.118315799))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

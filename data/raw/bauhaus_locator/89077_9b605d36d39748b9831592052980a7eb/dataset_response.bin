@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=89077",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=89077",
+    "loadedTime": "2026-10-31T17:46:59.178Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 521,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=89077",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:46:59 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=89077",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Ulm\",\"slug\":\"ulm\",\"name\":\"BAUHAUS GmbH & Co. KG Schwaben\",\"id\":599,\"store_id\":599,\"location\":{\"lat\":48.399647393694,\"lng\":9.9686511326983},\"address\":{\"lines\":[\"Blaubeurer Strasse 59\"],\"city\":\"Ulm\",\"zipcode\":\"89077\"},\"distance\":0.64,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

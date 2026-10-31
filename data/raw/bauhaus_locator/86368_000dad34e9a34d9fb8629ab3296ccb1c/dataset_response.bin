@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=86368",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=86368",
+    "loadedTime": "2026-10-31T17:46:21.373Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 2170,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=86368",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:46:21 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=86368",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Gersthofen\",\"slug\":\"gersthofen\",\"name\":\"BAUHAUS GmbH & Co. KG Bayern\",\"id\":548,\"store_id\":548,\"location\":{\"lat\":48.424004341593,\"lng\":10.862734334878},\"address\":{\"lines\":[\"Hery-Park 2700\"],\"city\":\"Gersthofen\",\"zipcode\":\"86368\"},\"distance\":2.89,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Augsburg-Oberhausen\",\"slug\":\"augsburg-oberhausen\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Donau\",\"id\":862,\"store_id\":862,\"location\":{\"lat\":48.40541,\"lng\":10.87776},\"address\":{\"lines\":[\"Donauwörther Straße 293\"],\"city\":\"Augsburg\",\"zipcode\":\"86154\"},\"distance\":4.85,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Augsburg - Lechhausen\",\"slug\":\"augsburg---lechhausen\",\"name\":\"BAUHAUS GmbH & Co. KG Bayern\",\"id\":632,\"store_id\":632,\"location\":{\"lat\":48.382728855638,\"lng\":10.938164558466},\"address\":{\"lines\":[\"Südtiroler Strasse 1\"],\"city\":\"Augsburg\",\"zipcode\":\"86165\"},\"distance\":9.95,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Augsburg\",\"slug\":\"augsburg\",\"name\":\"BAUHAUS GmbH & Co. KG Bayern\",\"id\":515,\"store_id\":515,\"location\":{\"lat\":48.33845934747,\"lng\":10.900701799802},\"address\":{\"lines\":[\"Alter Postweg 99\"],\"city\":\"Augsburg\",\"zipcode\":\"86159\"},\"distance\":11.77,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:30\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:30\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:30\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:30\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:30\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:30\",\"to\":\"20:00\"}]}]"
+}]

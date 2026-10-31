@@ -1,0 +1,2814 @@
+{
+  "created_at_utc": "2026-10-31T19:44:00.244702+00:00",
+  "evidence_path": "data\\processed\\building_association_evidence_fecaea30a1dd4e9680697e91f7f795db.json",
+  "evidence_sha256": "37b30829548974249ca99f7ef53ff6ab9a420c5d034778cdf0644ae98a0cdbca",
+  "inventory_path": "data\\processed\\bauhaus_locator_consolidated_a8a5f18b3ffe4e69b630844191188187.json",
+  "inventory_sha256": "2b7254db563e3b7bb7422d93ffa39320ce94714bcb860604a109aa9934f212a8",
+  "decision_rule_version": "screening-address-containment-v2",
+  "status_counts": {
+    "unresolved_no_containment": 52,
+    "accepted_screening_association": 86,
+    "provisional_association": 21,
+    "parking_structure_review": 2
+  },
+  "decisions": [
+    {
+      "official_store_id": 300,
+      "official_name": "Hannover-Stadtmitte",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 330,
+      "official_name": "Karlsruhe-Südstadt",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 400,
+      "official_name": "Magdeburg",
+      "status": "accepted_screening_association",
+      "osm_id": "way/48133177",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 7604.03
+    },
+    {
+      "official_store_id": 406,
+      "official_name": "Plauen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/98695080",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 7293.19
+    },
+    {
+      "official_store_id": 485,
+      "official_name": "Heidenheim",
+      "status": "accepted_screening_association",
+      "osm_id": "way/227400424",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 9695.29
+    },
+    {
+      "official_store_id": 491,
+      "official_name": "Düsseldorf-Flingern",
+      "status": "provisional_association",
+      "osm_id": "way/307282610",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Cached containment found; address or building-use evidence is insufficient for acceptance"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "cached_geometry_review": {
+        "source": "data\\processed\\cached_geometry_gap_search_9ada88d77424467ca7066942a8f6321a.json",
+        "source_sha256": "cec45fe71a1efef806855808aa63f3854a7300a62e231b11336f04868580f9d4",
+        "candidates": [
+          {
+            "osm_id": "way/307282610",
+            "geometry_wkt_25832": "POLYGON ((347289.618023389 5677146.620883353, 347284.0698370534 5677094.057232864, 347283.39571266784 5677087.845107128, 347254.309596995 5677089.668276362, 347241.91432428476 5677090.426926468, 347239.50565607694 5677078.535064313, 347235.0400389945 5677057.645517398, 347233.52771581826 5677042.766667123, 347232.729039437 5677034.955689304, 347222.2014417769 5677036.014881667, 347222.9642307635 5677043.79354076, 347223.0302988476 5677044.603984698, 347213.2975668756 5677046.540964668, 347211.2364072997 5677036.230198242, 347187.52712631377 5677040.976288341, 347186.7398959887 5677037.304935988, 347176.40668444 5677039.493582917, 347190.10885406507 5677104.178484459, 347191.2473103936 5677109.553229196, 347199.10841078043 5677107.894535655, 347199.3514520311 5677107.842779675, 347198.26916461956 5677102.711196772, 347197.17856856494 5677097.535345831, 347199.42878148303 5677097.067669765, 347197.4104137295 5677087.490142305, 347216.0485385753 5677083.529486869, 347221.63625789096 5677093.29005522, 347227.01557520777 5677102.389100233, 347233.43685246096 5677102.832197045, 347253.0760419697 5677104.094712617, 347249.99892529624 5677143.67178269, 347265.70850125246 5677145.095882558, 347289.618023389 5677146.620883353))",
+            "area_sqm": 5222.58,
+            "tags": {
+              "building": "retail",
+              "building:use:retail": "yes",
+              "source:outline": "ALK NRW"
+            },
+            "sources": [
+              "data\\raw\\osm_store_areas\\node_2302565844.osm"
+            ],
+            "containing_official_store_ids": [
+              491
+            ],
+            "association_accepted": false
+          }
+        ]
+      },
+      "candidate_footprint_area_sqm": 5222.58
+    },
+    {
+      "official_store_id": 498,
+      "official_name": "Hannover",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 505,
+      "official_name": "Essen-Frohnhausen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/29033850",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 2990.26
+    },
+    {
+      "official_store_id": 507,
+      "official_name": "Hagen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/54727041",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 11860.77
+    },
+    {
+      "official_store_id": 508,
+      "official_name": "Neckarsulm",
+      "status": "provisional_association",
+      "osm_id": "way/45883708",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 3611.21
+    },
+    {
+      "official_store_id": 509,
+      "official_name": "Dortmund-Aplerbeck",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 515,
+      "official_name": "Augsburg",
+      "status": "accepted_screening_association",
+      "osm_id": "way/87352620",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 4759.64
+    },
+    {
+      "official_store_id": 519,
+      "official_name": "Bochum Harpen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/93211530",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 5257.05
+    },
+    {
+      "official_store_id": 520,
+      "official_name": "München-Laim",
+      "status": "parking_structure_review",
+      "osm_id": "way/26359280",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Official point falls within a parking structure",
+        "Excluded from store-roof estimation pending facility review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "cached_geometry_review": {
+        "source": "data\\processed\\cached_geometry_gap_search_9ada88d77424467ca7066942a8f6321a.json",
+        "source_sha256": "cec45fe71a1efef806855808aa63f3854a7300a62e231b11336f04868580f9d4",
+        "candidates": [
+          {
+            "osm_id": "way/26359280",
+            "geometry_wkt_25832": "POLYGON ((687786.7418800915 5334997.4220033465, 687811.5562485278 5334995.755816298, 687812.921872488 5334995.667154782, 687854.1471792951 5334992.904630781, 687850.2291969203 5334934.90017641, 687840.4670555235 5334935.569726226, 687787.9856750745 5334939.130965733, 687782.828475125 5334939.484538909, 687786.7418800915 5334997.4220033465))",
+            "area_sqm": 3925.1,
+            "tags": {
+              "access": "private",
+              "amenity": "parking",
+              "building": "parking",
+              "capacity": "500",
+              "description": "An Important notice is, that the upper layers from 1st Level upwards are closed at 20:00h with a grid. So you have no chance to get your car out after 20:00h and on sunday.\nThe basement layer is open at any time.",
+              "height": "15",
+              "maxstay": "3 hours",
+              "opening_hours": "Mo-Sa 08:00-20:00",
+              "parking": "multi-storey",
+              "roof:shape": "flat",
+              "supervised": "yes",
+              "surface": "concrete"
+            },
+            "sources": [
+              "data\\raw\\osm_store_areas\\node_442539005.osm"
+            ],
+            "containing_official_store_ids": [
+              520
+            ],
+            "association_accepted": false
+          }
+        ]
+      },
+      "candidate_footprint_area_sqm": 3925.1
+    },
+    {
+      "official_store_id": 521,
+      "official_name": "Bielefeld",
+      "status": "accepted_screening_association",
+      "osm_id": "way/40707294",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 3430.75
+    },
+    {
+      "official_store_id": 525,
+      "official_name": "Karlsruhe-Mühlburg",
+      "status": "accepted_screening_association",
+      "osm_id": "way/108248464",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 5438.71
+    },
+    {
+      "official_store_id": 528,
+      "official_name": "Bremerhaven",
+      "status": "accepted_screening_association",
+      "osm_id": "way/118752984",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [
+        "Postcode comparison unavailable"
+      ],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 5270.25
+    },
+    {
+      "official_store_id": 530,
+      "official_name": "Rastatt",
+      "status": "accepted_screening_association",
+      "osm_id": "way/28715246",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 12927.54
+    },
+    {
+      "official_store_id": 531,
+      "official_name": "Speyer",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 534,
+      "official_name": "Lübeck-St. Jürgen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/46754081",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 6917.23
+    },
+    {
+      "official_store_id": 535,
+      "official_name": "Bochum-Wattenscheid",
+      "status": "accepted_screening_association",
+      "osm_id": "way/96593449",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 6685.99
+    },
+    {
+      "official_store_id": 537,
+      "official_name": "Bad Kreuznach",
+      "status": "accepted_screening_association",
+      "osm_id": "way/52513722",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 16021.69
+    },
+    {
+      "official_store_id": 539,
+      "official_name": "Essen-Frillendorf",
+      "status": "accepted_screening_association",
+      "osm_id": "way/293418460",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag",
+        "BAUHAUS brand and DIY-shop tags support association despite industrial/warehouse building tag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 6295.53
+    },
+    {
+      "official_store_id": 541,
+      "official_name": "Krefeld-Untergath",
+      "status": "provisional_association",
+      "osm_id": "way/82445638",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Official and OSM postcodes differ"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 8474.07
+    },
+    {
+      "official_store_id": 543,
+      "official_name": "Zimmern ob Rottweil",
+      "status": "accepted_screening_association",
+      "osm_id": "way/136758060",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 5311.28
+    },
+    {
+      "official_store_id": 544,
+      "official_name": "Nagold",
+      "status": "provisional_association",
+      "osm_id": "way/40450747",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 4338.37
+    },
+    {
+      "official_store_id": 547,
+      "official_name": "Villingen-Schwenningen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/30808551",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 11860.45
+    },
+    {
+      "official_store_id": 548,
+      "official_name": "Gersthofen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/148988039",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 9322.65
+    },
+    {
+      "official_store_id": 553,
+      "official_name": "Stuhr-Groß-Mackenstedt",
+      "status": "accepted_screening_association",
+      "osm_id": "way/4700552",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 13214.42
+    },
+    {
+      "official_store_id": 555,
+      "official_name": "Leverkusen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/26790316",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 9210.23
+    },
+    {
+      "official_store_id": 557,
+      "official_name": "Mannheim-Waldhof",
+      "status": "accepted_screening_association",
+      "osm_id": "way/116468051",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 6362.47
+    },
+    {
+      "official_store_id": 558,
+      "official_name": "Wetzlar",
+      "status": "accepted_screening_association",
+      "osm_id": "way/26285106",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 11209.88
+    },
+    {
+      "official_store_id": 559,
+      "official_name": "Mülheim-Kärlich",
+      "status": "accepted_screening_association",
+      "osm_id": "way/115955249",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 12451.54
+    },
+    {
+      "official_store_id": 560,
+      "official_name": "Hanau",
+      "status": "accepted_screening_association",
+      "osm_id": "way/25520936",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 18910.78
+    },
+    {
+      "official_store_id": 561,
+      "official_name": "Passau",
+      "status": "accepted_screening_association",
+      "osm_id": "way/102410272",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 5974.64
+    },
+    {
+      "official_store_id": 562,
+      "official_name": "Solingen",
+      "status": "provisional_association",
+      "osm_id": "way/87313466",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 4189.46
+    },
+    {
+      "official_store_id": 565,
+      "official_name": "Mahlow",
+      "status": "accepted_screening_association",
+      "osm_id": "way/33542710",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 7800.84
+    },
+    {
+      "official_store_id": 566,
+      "official_name": "Düsseldorf-Gerresheim",
+      "status": "accepted_screening_association",
+      "osm_id": "way/24517843",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 29962.63
+    },
+    {
+      "official_store_id": 567,
+      "official_name": "Nürnberg-Stein",
+      "status": "accepted_screening_association",
+      "osm_id": "way/28132164",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 8410.43
+    },
+    {
+      "official_store_id": 568,
+      "official_name": "Ingolstadt",
+      "status": "accepted_screening_association",
+      "osm_id": "way/30072118",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 7156.26
+    },
+    {
+      "official_store_id": 569,
+      "official_name": "Frechen",
+      "status": "provisional_association",
+      "osm_id": "way/62811069",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 23402.16
+    },
+    {
+      "official_store_id": 571,
+      "official_name": "Kiel-Suchsdorf",
+      "status": "provisional_association",
+      "osm_id": "way/54856134",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Official and OSM postcodes differ"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 6968.69
+    },
+    {
+      "official_store_id": 572,
+      "official_name": "Regensburg",
+      "status": "accepted_screening_association",
+      "osm_id": "way/31410869",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 14291.83
+    },
+    {
+      "official_store_id": 573,
+      "official_name": "Dortmund Nordstadt",
+      "status": "accepted_screening_association",
+      "osm_id": "way/24864353",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 15219.55
+    },
+    {
+      "official_store_id": 574,
+      "official_name": "Darmstadt",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 577,
+      "official_name": "Birkenwerder",
+      "status": "provisional_association",
+      "osm_id": "way/60455187",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "limitations": [
+        "Postcode comparison unavailable"
+      ],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 13830.63
+    },
+    {
+      "official_store_id": 578,
+      "official_name": "Berlin-Pankow",
+      "status": "accepted_screening_association",
+      "osm_id": "way/80858331",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 6153.07
+    },
+    {
+      "official_store_id": 579,
+      "official_name": "Duisburg-Grossenbaum",
+      "status": "accepted_screening_association",
+      "osm_id": "way/23619103",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 9001.82
+    },
+    {
+      "official_store_id": 580,
+      "official_name": "Aalen-Essingen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/26958041",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 10330.99
+    },
+    {
+      "official_store_id": 583,
+      "official_name": "Mannheim-Mallau",
+      "status": "accepted_screening_association",
+      "osm_id": "way/88370653",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [
+        "Postcode comparison unavailable"
+      ],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 16697.21
+    },
+    {
+      "official_store_id": 584,
+      "official_name": "Balingen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/118286988",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 3889.11
+    },
+    {
+      "official_store_id": 585,
+      "official_name": "Dillingen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/90064343",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 15519.13
+    },
+    {
+      "official_store_id": 586,
+      "official_name": "Aachen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/19727326",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 13269.94
+    },
+    {
+      "official_store_id": 587,
+      "official_name": "Ravensburg",
+      "status": "accepted_screening_association",
+      "osm_id": "way/158710321",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 11017.3
+    },
+    {
+      "official_store_id": 589,
+      "official_name": "Frankfurt",
+      "status": "accepted_screening_association",
+      "osm_id": "way/48466507",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 14190.26
+    },
+    {
+      "official_store_id": 590,
+      "official_name": "Pforzheim",
+      "status": "accepted_screening_association",
+      "osm_id": "way/27436941",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 11046.82
+    },
+    {
+      "official_store_id": 591,
+      "official_name": "Freiburg",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 594,
+      "official_name": "Lörrach-Haagen",
+      "status": "provisional_association",
+      "osm_id": "way/90494889",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 16479.07
+    },
+    {
+      "official_store_id": 595,
+      "official_name": "Hamburg-Moorfleet",
+      "status": "accepted_screening_association",
+      "osm_id": "way/159926244",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 15322.43
+    },
+    {
+      "official_store_id": 596,
+      "official_name": "Berlin-Spandau Brunsbütteler Damm",
+      "status": "provisional_association",
+      "osm_id": "way/285603576",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 10698.65
+    },
+    {
+      "official_store_id": 597,
+      "official_name": "Berlin-Schöneberg",
+      "status": "accepted_screening_association",
+      "osm_id": "relation/175667",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Cached polygon contains official point",
+        "Street, house number and postcode match",
+        "Retail/commercial building candidate; no parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "cached_geometry_review": {
+        "source": "data\\processed\\cached_geometry_gap_search_9ada88d77424467ca7066942a8f6321a.json",
+        "source_sha256": "cec45fe71a1efef806855808aa63f3854a7300a62e231b11336f04868580f9d4",
+        "candidates": [
+          {
+            "osm_id": "relation/175667",
+            "geometry_wkt_25832": "POLYGON ((796654.4773466282 5822140.501850325, 796654.3969830459 5822144.077931814, 796657.7570019823 5822144.169911289, 796661.5385520814 5822144.276272459, 796661.6583024643 5822140.724887726, 796684.9653329836 5822141.400537922, 796684.9956338677 5822140.900371028, 796691.6505465368 5822141.147361863, 796691.6808269587 5822141.997023012, 796701.4934667186 5822142.301465327, 796701.5731433204 5822141.436154459, 796707.7067247494 5822141.6292710705, 796707.5404786335 5822148.7587941745, 796709.132916831 5822148.788340659, 796772.9356053986 5822149.809661274, 796801.5967747844 5822150.274859615, 796802.0178760954 5821989.536510821, 796614.5765068962 5821984.773666446, 796609.7794331473 5822139.010425032, 796654.4773466282 5822140.501850325), (796688.693144724 5822041.404358067, 796722.8948901029 5822042.528203951, 796722.4764093675 5822058.656184308, 796744.6175798031 5822059.12757569, 796744.4594255376 5822080.402922312, 796687.4392912437 5822078.521205552, 796688.693144724 5822041.404358067))",
+            "area_sqm": 28221.51,
+            "tags": {
+              "addr:city": "Berlin",
+              "addr:country": "DE",
+              "addr:housenumber": "18",
+              "addr:postcode": "12103",
+              "addr:street": "Alboinstraße",
+              "building": "retail",
+              "roof:colour": "#d9dbd8",
+              "roof:levels": "0",
+              "roof:shape": "many",
+              "toilets:wheelchair": "yes",
+              "type": "multipolygon",
+              "wheelchair": "yes"
+            },
+            "sources": [
+              "data\\raw\\bauhaus_locator\\864c9c250ceb4761afb161e9ac3a0b2a\\osm_discovery_40533827bd8e4e3cb4184acdd535fcac\\assembled_candidates.json"
+            ],
+            "containing_official_store_ids": [
+              597
+            ],
+            "association_accepted": false
+          }
+        ]
+      },
+      "candidate_footprint_area_sqm": 28221.51
+    },
+    {
+      "official_store_id": 598,
+      "official_name": "Memmingen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/34201992",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 11785.38
+    },
+    {
+      "official_store_id": 599,
+      "official_name": "Ulm",
+      "status": "accepted_screening_association",
+      "osm_id": "way/182747470",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 13678.77
+    },
+    {
+      "official_store_id": 600,
+      "official_name": "Stralsund",
+      "status": "accepted_screening_association",
+      "osm_id": "way/29350709",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 10712.2
+    },
+    {
+      "official_store_id": 601,
+      "official_name": "Ludwigshafen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/70786923",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 20127.45
+    },
+    {
+      "official_store_id": 602,
+      "official_name": "Gründau-Lieblos",
+      "status": "accepted_screening_association",
+      "osm_id": "way/91898070",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 15264.64
+    },
+    {
+      "official_store_id": 603,
+      "official_name": "Fuldabrück",
+      "status": "accepted_screening_association",
+      "osm_id": "way/52007850",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 10535.57
+    },
+    {
+      "official_store_id": 604,
+      "official_name": "Berlin-Marienfelde",
+      "status": "accepted_screening_association",
+      "osm_id": "way/27493871",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 15727.12
+    },
+    {
+      "official_store_id": 605,
+      "official_name": "Wildau",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 606,
+      "official_name": "Landshut",
+      "status": "provisional_association",
+      "osm_id": "way/110307778",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 13242.53
+    },
+    {
+      "official_store_id": 607,
+      "official_name": "Braunschweig",
+      "status": "accepted_screening_association",
+      "osm_id": "way/31670307",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 14788.08
+    },
+    {
+      "official_store_id": 608,
+      "official_name": "Köln-Porz",
+      "status": "accepted_screening_association",
+      "osm_id": "way/28334460",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 13778.19
+    },
+    {
+      "official_store_id": 609,
+      "official_name": "Bornheim",
+      "status": "accepted_screening_association",
+      "osm_id": "way/35910944",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 15542.65
+    },
+    {
+      "official_store_id": 613,
+      "official_name": "Würselen",
+      "status": "provisional_association",
+      "osm_id": "way/24393423",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 17366.91
+    },
+    {
+      "official_store_id": 614,
+      "official_name": "Mainz-Weisenau",
+      "status": "accepted_screening_association",
+      "osm_id": "way/155164522",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 16441.85
+    },
+    {
+      "official_store_id": 615,
+      "official_name": "Aschaffenburg",
+      "status": "provisional_association",
+      "osm_id": "way/24802709",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "limitations": [
+        "Postcode comparison unavailable"
+      ],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 17965.66
+    },
+    {
+      "official_store_id": 616,
+      "official_name": "Köln-Kalk",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 617,
+      "official_name": "Wuppertal-Barmen (Heckinghausen)",
+      "status": "accepted_screening_association",
+      "osm_id": "way/201115893",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 15143.41
+    },
+    {
+      "official_store_id": 618,
+      "official_name": "Düsseldorf-Reisholz",
+      "status": "accepted_screening_association",
+      "osm_id": "way/119309678",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 16733.56
+    },
+    {
+      "official_store_id": 619,
+      "official_name": "Hamburg-Harburg",
+      "status": "accepted_screening_association",
+      "osm_id": "way/118916585",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag",
+        "BAUHAUS brand and DIY-shop tags support association despite industrial/warehouse building tag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 4678.42
+    },
+    {
+      "official_store_id": 620,
+      "official_name": "Hamburg-Bergedorf",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 621,
+      "official_name": "Offenburg",
+      "status": "accepted_screening_association",
+      "osm_id": "way/33712617",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 13356.25
+    },
+    {
+      "official_store_id": 622,
+      "official_name": "Ensdorf",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 623,
+      "official_name": "Berlin-Spandau",
+      "status": "accepted_screening_association",
+      "osm_id": "way/25114190",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 20247.45
+    },
+    {
+      "official_store_id": 624,
+      "official_name": "Barsbüttel",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 625,
+      "official_name": "Witten",
+      "status": "accepted_screening_association",
+      "osm_id": "way/97882534",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 20619.93
+    },
+    {
+      "official_store_id": 626,
+      "official_name": "Stuttgart-Möhringen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/44004385",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag",
+        "BAUHAUS brand and DIY-shop tags support association despite industrial/warehouse building tag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 12357.81
+    },
+    {
+      "official_store_id": 628,
+      "official_name": "Neuss",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 629,
+      "official_name": "Hürth",
+      "status": "accepted_screening_association",
+      "osm_id": "way/56191943",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 15561.31
+    },
+    {
+      "official_store_id": 630,
+      "official_name": "Braunschweig-Stöckheim",
+      "status": "accepted_screening_association",
+      "osm_id": "way/28143475",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag",
+        "BAUHAUS brand and DIY-shop tags support association despite industrial/warehouse building tag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 5182.94
+    },
+    {
+      "official_store_id": 631,
+      "official_name": "Stuttgart-Untertürkheim",
+      "status": "accepted_screening_association",
+      "osm_id": "way/126440693",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 12257.22
+    },
+    {
+      "official_store_id": 632,
+      "official_name": "Augsburg - Lechhausen",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 633,
+      "official_name": "Krefeld-Mevissenstraße",
+      "status": "provisional_association",
+      "osm_id": "way/322043866",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "limitations": [
+        "Postcode comparison unavailable"
+      ],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 10658.89
+    },
+    {
+      "official_store_id": 634,
+      "official_name": "Schwentinental-Raisdorf",
+      "status": "accepted_screening_association",
+      "osm_id": "way/52131203",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 17055.99
+    },
+    {
+      "official_store_id": 635,
+      "official_name": "Flensburg",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 636,
+      "official_name": "Heidelberg",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 637,
+      "official_name": "Düren",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 638,
+      "official_name": "Saarbrücken",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 639,
+      "official_name": "Lübeck",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 642,
+      "official_name": "Freudenstadt",
+      "status": "accepted_screening_association",
+      "osm_id": "way/80253164",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 17389.63
+    },
+    {
+      "official_store_id": 643,
+      "official_name": "Berlin-Kurfürstendamm",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 645,
+      "official_name": "Dresden-Nickern",
+      "status": "accepted_screening_association",
+      "osm_id": "way/768890944",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 20610.58
+    },
+    {
+      "official_store_id": 646,
+      "official_name": "Leipzig",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 647,
+      "official_name": "Bremen-Stresemannstr.",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 648,
+      "official_name": "Bochum-Hofstede",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 649,
+      "official_name": "Singen",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 650,
+      "official_name": "Neuwied",
+      "status": "accepted_screening_association",
+      "osm_id": "way/36124286",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 9567.51
+    },
+    {
+      "official_store_id": 651,
+      "official_name": "Laatzen",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 652,
+      "official_name": "Gießen Schiffenberger Tal",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 654,
+      "official_name": "Hamburg-Lokstedt",
+      "status": "provisional_association",
+      "osm_id": "way/299599300",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 14697.79
+    },
+    {
+      "official_store_id": 655,
+      "official_name": "Mannheim-Quadrate",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 656,
+      "official_name": "Berlin-Wedding",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 657,
+      "official_name": "Bonn-Beuel",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 658,
+      "official_name": "Kassel",
+      "status": "accepted_screening_association",
+      "osm_id": "way/100467501",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 11077.78
+    },
+    {
+      "official_store_id": 659,
+      "official_name": "Heppenheim",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 661,
+      "official_name": "Münster",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 662,
+      "official_name": "Donaueschingen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/120126663",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 7535.91
+    },
+    {
+      "official_store_id": 663,
+      "official_name": "Hamburg-Bramfeld",
+      "status": "accepted_screening_association",
+      "osm_id": "way/23386017",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 13118.79
+    },
+    {
+      "official_store_id": 664,
+      "official_name": "Hamburg-Stellingen",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 665,
+      "official_name": "Köln-Ehrenfeld",
+      "status": "accepted_screening_association",
+      "osm_id": "way/29401013",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 9364.6
+    },
+    {
+      "official_store_id": 666,
+      "official_name": "Lüneburg",
+      "status": "accepted_screening_association",
+      "osm_id": "way/44904672",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 11206.83
+    },
+    {
+      "official_store_id": 667,
+      "official_name": "Rostock-Schutow",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 668,
+      "official_name": "Schwerin-Großer Dreesch",
+      "status": "accepted_screening_association",
+      "osm_id": "way/92704442",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 9066.41
+    },
+    {
+      "official_store_id": 669,
+      "official_name": "Gera",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 692,
+      "official_name": "Gelsenkirchen",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 812,
+      "official_name": "Berlin-Charlottenburg",
+      "status": "provisional_association",
+      "osm_id": "way/44958511",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Cached containment found; address or building-use evidence is insufficient for acceptance"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "cached_geometry_review": {
+        "source": "data\\processed\\cached_geometry_gap_search_9ada88d77424467ca7066942a8f6321a.json",
+        "source_sha256": "cec45fe71a1efef806855808aa63f3854a7300a62e231b11336f04868580f9d4",
+        "candidates": [
+          {
+            "osm_id": "way/44958511",
+            "geometry_wkt_25832": "POLYGON ((792009.1288135126 5826787.8363779085, 792012.1957454423 5826788.331863025, 792018.8755788452 5826789.411218223, 792053.823802881 5826795.079131222, 792053.6273845297 5826796.316731905, 792061.4798546577 5826797.588887758, 792061.6762750084 5826796.351287322, 792069.0499242184 5826797.550236943, 792069.9880760757 5826790.389146518, 792071.2909027811 5826790.567358089, 792072.4128663988 5826782.379854755, 792071.0564504598 5826782.18728742, 792072.093337898 5826774.2847260535, 792059.3911943866 5826772.51095226, 792058.0983949273 5826782.305691952, 792020.84868254 5826776.656477291, 792017.5586219592 5826776.136507506, 792014.2407716031 5826775.626035153, 792011.1324796306 5826775.139234303, 792009.1288135126 5826787.8363779085))",
+            "area_sqm": 942.89,
+            "tags": {
+              "building": "residential",
+              "building:levels": "7",
+              "layer": "1",
+              "roof:shape": "flat"
+            },
+            "sources": [
+              "data\\raw\\osm_store_areas\\node_416660121.osm",
+              "data\\raw\\bauhaus_locator\\864c9c250ceb4761afb161e9ac3a0b2a\\osm_discovery_40533827bd8e4e3cb4184acdd535fcac\\assembled_candidates.json"
+            ],
+            "containing_official_store_ids": [
+              812
+            ],
+            "association_accepted": false
+          }
+        ]
+      },
+      "candidate_footprint_area_sqm": 942.89
+    },
+    {
+      "official_store_id": 814,
+      "official_name": "Berlin Am Hermannplatz",
+      "status": "provisional_association",
+      "osm_id": "way/26832459",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Street/house number differs under current normalization; range and abbreviation differences require review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 6169.95
+    },
+    {
+      "official_store_id": 840,
+      "official_name": "Berlin Am Wittenbergplatz",
+      "status": "parking_structure_review",
+      "osm_id": "way/26709558",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Official point falls within a parking structure",
+        "Excluded from store-roof estimation pending facility review"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "cached_geometry_review": {
+        "source": "data\\processed\\cached_geometry_gap_search_9ada88d77424467ca7066942a8f6321a.json",
+        "source_sha256": "cec45fe71a1efef806855808aa63f3854a7300a62e231b11336f04868580f9d4",
+        "candidates": [
+          {
+            "osm_id": "way/26709558",
+            "geometry_wkt_25832": "POLYGON ((794781.8299688327 5825889.352110599, 794779.8025152322 5825889.107214526, 794763.2189681595 5825888.442472329, 794760.7369838934 5825964.193625748, 794765.2182119305 5825964.385596985, 794774.7442966944 5825964.792364532, 794779.6195875606 5825964.996942581, 794791.1288815876 5825965.478644849, 794792.1004821586 5825955.118137272, 794779.3199608622 5825954.381336143, 794781.8299688327 5825889.352110599))",
+            "area_sqm": 1527.01,
+            "tags": {
+              "access": "yes",
+              "amenity": "parking",
+              "building": "yes",
+              "fee": "yes",
+              "fee:conditional": "no @ (customers AND stay < 1 hour)",
+              "name": "Bauhaus",
+              "operator": "Bauhaus",
+              "operator:type": "business",
+              "parking": "multi-storey"
+            },
+            "sources": [
+              "data\\raw\\osm_store_areas\\node_422779946.osm",
+              "data\\raw\\bauhaus_locator\\864c9c250ceb4761afb161e9ac3a0b2a\\osm_discovery_40533827bd8e4e3cb4184acdd535fcac\\assembled_candidates.json"
+            ],
+            "containing_official_store_ids": [
+              840
+            ],
+            "association_accepted": false
+          }
+        ]
+      },
+      "candidate_footprint_area_sqm": 1527.01
+    },
+    {
+      "official_store_id": 850,
+      "official_name": "Berlin-Wittenau",
+      "status": "provisional_association",
+      "osm_id": "way/40459768",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "limitations": [
+        "Postcode comparison unavailable"
+      ],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 5922.49
+    },
+    {
+      "official_store_id": 851,
+      "official_name": "Hamburg-Wandsbek",
+      "status": "provisional_association",
+      "osm_id": "way/24025561",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "limitations": [
+        "Postcode comparison unavailable"
+      ],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 8832.88
+    },
+    {
+      "official_store_id": 852,
+      "official_name": "Karlsruhe-Oststadt",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 853,
+      "official_name": "Kiel-Ravensberg",
+      "status": "accepted_screening_association",
+      "osm_id": "way/25619088",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 10002.31
+    },
+    {
+      "official_store_id": 854,
+      "official_name": "Mainz-Mombach",
+      "status": "accepted_screening_association",
+      "osm_id": "way/59338792",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 8755.08
+    },
+    {
+      "official_store_id": 855,
+      "official_name": "Cottbus",
+      "status": "accepted_screening_association",
+      "osm_id": "way/23180187",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 6943.11
+    },
+    {
+      "official_store_id": 856,
+      "official_name": "Hennef",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 857,
+      "official_name": "Koblenz-Lützel",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 858,
+      "official_name": "Hamburg-Langenhorn",
+      "status": "accepted_screening_association",
+      "osm_id": "way/26570627",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 5781.37
+    },
+    {
+      "official_store_id": 859,
+      "official_name": "Nürnberg",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 861,
+      "official_name": "Schweinfurt",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 862,
+      "official_name": "Augsburg-Oberhausen",
+      "status": "accepted_screening_association",
+      "osm_id": "way/1096186782",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 11577.2
+    },
+    {
+      "official_store_id": 863,
+      "official_name": "Bremen-Osterholz (Weserpark)",
+      "status": "provisional_association",
+      "osm_id": "way/37120956",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "limitations": [
+        "Postcode comparison unavailable"
+      ],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 12418.7
+    },
+    {
+      "official_store_id": 864,
+      "official_name": "Lübeck-Moisling",
+      "status": "accepted_screening_association",
+      "osm_id": "way/28846255",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 11749.8
+    },
+    {
+      "official_store_id": 865,
+      "official_name": "Hamburg-Lurup",
+      "status": "accepted_screening_association",
+      "osm_id": "way/22762245",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 12419.65
+    },
+    {
+      "official_store_id": 866,
+      "official_name": "Berlin-Treptow",
+      "status": "accepted_screening_association",
+      "osm_id": "way/24230210",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 9303.8
+    },
+    {
+      "official_store_id": 868,
+      "official_name": "Wuppertal-Barmen (Lichtscheid)",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 870,
+      "official_name": "München-Freimann",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 871,
+      "official_name": "Stuttgart",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 872,
+      "official_name": "Bruchsal",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 874,
+      "official_name": "Haßloch",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 875,
+      "official_name": "Reutlingen",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 877,
+      "official_name": "Trier",
+      "status": "accepted_screening_association",
+      "osm_id": "way/113971134",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 19947.9
+    },
+    {
+      "official_store_id": 878,
+      "official_name": "Düsseldorf Rath",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 879,
+      "official_name": "Mönchengladbach",
+      "status": "provisional_association",
+      "osm_id": "way/30860030",
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "Insufficient polygon address evidence"
+      ],
+      "limitations": [
+        "Postcode comparison unavailable"
+      ],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 12231.21
+    },
+    {
+      "official_store_id": 890,
+      "official_name": "Bonn-Endenich",
+      "status": "accepted_screening_association",
+      "osm_id": "way/369231324",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [
+        "Postcode comparison unavailable"
+      ],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 14561.2
+    },
+    {
+      "official_store_id": 891,
+      "official_name": "Pulheim",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 892,
+      "official_name": "Bergisch Gladbach-Bensberg",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 893,
+      "official_name": "Bad Neuenahr-Ahrweiler",
+      "status": "accepted_screening_association",
+      "osm_id": "way/96216146",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 4966.61
+    },
+    {
+      "official_store_id": 894,
+      "official_name": "Berlin-Steglitz",
+      "status": "accepted_screening_association",
+      "osm_id": "way/28505596",
+      "association_accepted_for_screening": true,
+      "reasons": [
+        "Unique containing candidate and matching street/house number",
+        "No recorded postcode conflict or parking flag"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false,
+      "candidate_footprint_area_sqm": 9159.74
+    },
+    {
+      "official_store_id": 896,
+      "official_name": "Wiesbaden/ Mainz-Kastel",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 897,
+      "official_name": "Mannheim-Columbus",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    },
+    {
+      "official_store_id": 898,
+      "official_name": "Bad Vilbel",
+      "status": "unresolved_no_containment",
+      "osm_id": null,
+      "association_accepted_for_screening": false,
+      "reasons": [
+        "No containing polygon in the existing candidate inventory"
+      ],
+      "limitations": [],
+      "estimated_pv_kwp": null,
+      "ownership_verified": false,
+      "exclusive_roof_use_verified": false,
+      "installation_suitability_verified": false
+    }
+  ],
+  "capacity_estimates_calculated": false,
+  "nationwide_completeness_verified": false,
+  "limitations": [
+    "Acceptance concerns store association for screening only.",
+    "A footprint is not a measured usable roof surface.",
+    "Missing or conflicting address evidence remains explicit.",
+    "No-containment does not prove that OSM lacks a suitable polygon."
+  ],
+  "previous_decisions": "data\\processed\\official_building_decisions_2c3ed1aa64e9429ab78bc0f519fce122.json",
+  "previous_decisions_sha256": "c450a7b10e66a645d3a7c79bcc61e3b211746c611f08efe61e8c9e634bf1dded",
+  "cached_gap_search": "data\\processed\\cached_geometry_gap_search_9ada88d77424467ca7066942a8f6321a.json",
+  "cached_gap_search_sha256": "cec45fe71a1efef806855808aa63f3854a7300a62e231b11336f04868580f9d4",
+  "updated_official_store_ids": [
+    491,
+    520,
+    597,
+    812,
+    840
+  ]
+}

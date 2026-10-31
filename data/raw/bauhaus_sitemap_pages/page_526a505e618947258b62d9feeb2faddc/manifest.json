@@ -1,0 +1,45 @@
+{
+  "started_at_utc": "2026-10-31T18:36:49.604839+00:00",
+  "source_url": "https://www.bauhaus.info/fc/grevenbroich/76",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc/grevenbroich/76",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "captured",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "error_type": "ConnectionResetError",
+  "finished_at_utc": "2026-10-31T18:38:44.785989+00:00",
+  "run_id": "Wmsy7ehn8bLtT7Edw",
+  "run_status": "SUCCEEDED",
+  "run_sha256": "804daf0aa7aff359f089fbc29e6ac99b66b91350603a1efc94cfcf6d4f3419c6",
+  "dataset_id": "aa7gCAspgF4wIRTOm",
+  "dataset_sha256": "6eeb7731514480b4578443ee8423326a976a029e36f264aebf33102a7cc89105",
+  "source_sha256": "fc59303e801a877af34866e8d36763137fadd56748abc1b2a8388eada66c8f54",
+  "source_representation": "UTF-8 encoding of provider raw string",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/fc/grevenbroich/76",
+    "loadedTime": "2026-10-31T18:37:42.423Z",
+    "httpStatusCode": 404,
+    "contentLengthBytes": 156594,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "final_url": "https://www.bauhaus.info/fc/grevenbroich/76",
+  "redirect_observed": false,
+  "classification": "unreviewed",
+  "is_active_store_verified": false,
+  "recovered_at_utc": "2026-10-31T18:40:52.983235+00:00",
+  "recovery_method": "Read existing run and dataset using GET",
+  "recovery_urls": [
+    "https://api.apify.com/v2/actor-runs/Wmsy7ehn8bLtT7Edw",
+    "https://api.apify.com/v2/datasets/aa7gCAspgF4wIRTOm/items?format=json&clean=false&offset=0&limit=2"
+  ],
+  "previous_manifest": "manifest_before_recovery_d8eeb71142fb4caeb6b25aa532974377.json",
+  "previous_manifest_sha256": "7a7f46fa56bde62a2aac47ff6f3b2c75815752bb88f20101288fc072b87b61d0"
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "id": "uRMwaJgMdahoK62Ns",
+    "actId": "a6Sqhlnt4touIHTub",
+    "userId": "L1IJjSseoEFF5UKGD",
+    "startedAt": "2026-10-31T18:26:26.185Z",
+    "finishedAt": "2026-10-31T18:28:26.197Z",
+    "status": "TIMED-OUT",
+    "meta": {
+      "origin": "API",
+      "userAgent": "Python-urllib/3.13"
+    },
+    "stats": {
+      "inputBodyLen": 67,
+      "migrationCount": 0,
+      "rebootCount": 0,
+      "restartCount": 0,
+      "durationMillis": 119897,
+      "resurrectCount": 0,
+      "runTimeSecs": 119.897,
+      "metamorph": 0,
+      "computeUnits": 0.03330472222222222,
+      "memAvgBytes": 162182962.2331955,
+      "memMaxBytes": 168845312,
+      "memCurrentBytes": 0,
+      "cpuAvgUsage": 1.191569270819328,
+      "cpuMaxUsage": 63.33333333333333,
+      "cpuCurrentUsage": 0,
+      "netRxBytes": 198903,
+      "netTxBytes": 90449
+    },
+    "options": {
+      "build": "latest",
+      "timeoutSecs": 120,
+      "memoryMbytes": 1024,
+      "maxTotalChargeUsd": 0.01,
+      "maxItems": null,
+      "isMaxTotalChargeUsdSetByUser": true,
+      "diskMbytes": 2048
+    },
+    "buildId": "ZdAEj7OMWPWkgR4Sa",
+    "exitCode": null,
+    "defaultKeyValueStoreId": "9OsMmuWDfpdfOvJ9c",
+    "defaultDatasetId": "gkNGpiGKQqba5NH4S",
+    "defaultRequestQueueId": "J08pVFqNSYUaXorWA",
+    "storageIds": {
+      "keyValueStores": {
+        "default": "9OsMmuWDfpdfOvJ9c"
+      },
+      "datasets": {
+        "default": "gkNGpiGKQqba5NH4S"
+      },
+      "requestQueues": {
+        "default": "J08pVFqNSYUaXorWA"
+      }
+    },
+    "pricingInfo": {
+      "minimalMaxTotalChargeUsd": null,
+      "pricingModel": "PAY_PER_EVENT",
+      "isPriceChangeNotificationSuppressed": true,
+      "apifyMarginPercentage": 0.2,
+      "createdAt": "2026-09-10T09:36:43.089Z",
+      "startedAt": "2026-09-10T09:36:43.089Z",
+      "pricingPerEvent": {
+        "actorChargeEvents": {
+          "fetch": {
+            "eventTitle": "Fetch",
+            "eventDescription": "Successful fetch",
+            "isOneTimeEvent": false,
+            "isPrimaryEvent": true,
+            "eventPriceUsd": 0.0015
+          },
+          "apify-actor-start": {
+            "eventTitle": "Actor Start",
+            "eventDescription": "Charged when the Actor starts running. Number of events charged depends on Actor memory (one event per GB, minimum one event).",
+            "isOneTimeEvent": true,
+            "eventPriceUsd": 0.00005
+          }
+        }
+      }
+    },
+    "chargedEventCounts": {
+      "fetch": 0,
+      "apify-actor-start": 1
+    },
+    "platformUsageBillingModel": "DEVELOPER",
+    "accountedChargedEventCounts": {
+      "fetch": 0,
+      "apify-actor-start": 1
+    },
+    "standby": null,
+    "generalAccess": "FOLLOW_USER_SETTING",
+    "buildNumber": "0.0.31",
+    "containerUrl": "https://1uef5mvqv8dh.runs.apify.net",
+    "usageTotalUsd": 0.00005,
+    "consoleUrl": "https://console.apify.com/view/runs/uRMwaJgMdahoK62Ns",
+    "eventUsage": {
+      "fetch": {
+        "eventTitle": "Fetch",
+        "eventTotalUsd": 0
+      },
+      "apify-actor-start": {
+        "eventTitle": "Actor Start",
+        "eventTotalUsd": 0.00005
+      }
+    },
+    "output": {
+      "dataset": "https://api.apify.com/v2/datasets/gkNGpiGKQqba5NH4S/items?signature=MC4wLjFzNE5OajNsOWQxdFlJTGhuWkZnNQ"
+    }
+  }
+}

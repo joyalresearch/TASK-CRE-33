@@ -1,0 +1,25 @@
+{
+  "started_at_utc": "2026-10-31T18:43:22.997853+00:00",
+  "source_url": "https://www.bauhaus.info/fc/hamburg/71",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc/hamburg/71",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "confirmed_terminal_unresolved",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "apify_http_status": 400,
+  "run_id": "etWFKJlOkWsHjhTSo",
+  "dataset_sha256": "3bb742d203b14fe34bf8700a6f8394db3ddafd666fde8e0230ade8c350502e95",
+  "apify_error_type": "run-failed",
+  "run_sha256": "c53650736efc1c2fdee357765910dcf4e0a1c01fe6e9839c2c0d12358cdaed91",
+  "run_status": "TIMED-OUT",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-10-31T18:45:23.766655+00:00"
+}

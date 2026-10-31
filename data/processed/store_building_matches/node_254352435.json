@@ -1,0 +1,31 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 254352435,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 40450747,
+      "building_type": "commercial",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Nagold",
+        "addr:country": "DE",
+        "addr:housenumber": "64",
+        "addr:postcode": "72202",
+        "addr:street": "Haiterbacher Straße",
+        "building": "commercial",
+        "building:levels": "1",
+        "roof:levels": "0"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 4338.37,
+      "geometry_wkt_25832": "POLYGON ((479996.21607830306 5376962.05468552, 479997.95209593535 5376954.167450987, 480000.529491888 5376942.108821575, 480007.0886430189 5376908.138020586, 480041.0996917071 5376914.575911197, 480041.33912399923 5376913.4079086725, 480041.6292378618 5376911.961832704, 480065.0798390866 5376916.714288802, 480064.4268934475 5376919.917936708, 480075.6536078043 5376922.190360667, 480074.41876493086 5376927.819299506, 480074.05601506645 5376929.599103309, 480064.69122214377 5376975.929355804, 480058.95236921596 5376974.7713641655, 480056.1083852689 5376988.698358244, 480038.2713761788 5376985.082117236, 480039.67882017087 5376978.185361458, 480017.34370302997 5376973.651376545, 480018.772833143 5376966.632265276, 479996.21607830306 5376962.05468552))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

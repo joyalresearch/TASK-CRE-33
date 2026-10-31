@@ -1,0 +1,25 @@
+{
+  "started_at_utc": "2026-10-31T18:34:45.789209+00:00",
+  "source_url": "https://www.bauhaus.info/fc/grevenbroich/6276",
+  "actor": "apify/web-fetch",
+  "actor_input": {
+    "url": "https://www.bauhaus.info/fc/grevenbroich/6276",
+    "formats": [
+      "raw"
+    ]
+  },
+  "status": "confirmed_terminal_unresolved",
+  "retryable": false,
+  "coverage_verified": false,
+  "python_post_retries": 0,
+  "provider_internal_retries": "provider-controlled",
+  "api_url": "https://api.apify.com/v2/actors/apify~web-fetch/run-sync-get-dataset-items?timeout=120&maxTotalChargeUsd=0.01&format=json&clean=false",
+  "apify_http_status": 400,
+  "run_id": "G1zySvVg4qGiuA5kU",
+  "dataset_sha256": "e9c1ac60a23dda65cc60a054bf566fcf2d9108ab5a0f984cd00c25b41c4fa81a",
+  "apify_error_type": "run-failed",
+  "run_sha256": "249a6f88eaddf264259e0cfc982f795120d3c6ef5058f72c80cda0ba1da93f64",
+  "run_status": "TIMED-OUT",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-10-31T18:36:46.558302+00:00"
+}

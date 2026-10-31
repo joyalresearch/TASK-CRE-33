@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=40599",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=40599",
+    "loadedTime": "2026-10-31T17:30:31.049Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 3825,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=40599",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:30:31 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=40599",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Düsseldorf-Reisholz\",\"slug\":\"duesseldorf-reisholz\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Ruhr\",\"id\":618,\"store_id\":618,\"location\":{\"lat\":51.178639474845,\"lng\":6.8526097159228},\"address\":{\"lines\":[\"Reisholzer Bahnstrasse 37\"],\"city\":\"Düsseldorf\",\"zipcode\":\"40599\"},\"distance\":1.38,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Düsseldorf-Gerresheim\",\"slug\":\"duesseldorf-gerresheim\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Ruhr\",\"id\":566,\"store_id\":566,\"location\":{\"lat\":51.223996640292,\"lng\":6.8556229508879},\"address\":{\"lines\":[\"Nach den Mauresköthen 137\"],\"city\":\"Düsseldorf\",\"zipcode\":\"40625\"},\"distance\":4.8,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Düsseldorf-Flingern\",\"slug\":\"duesseldorf-flingern\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Ruhr\",\"id\":491,\"store_id\":491,\"location\":{\"lat\":51.22477233097,\"lng\":6.8121052580793},\"address\":{\"lines\":[\"Kettwiger Strasse 69\"],\"city\":\"Düsseldorf\",\"zipcode\":\"40233\"},\"distance\":6.31,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Neuss\",\"slug\":\"neuss\",\"name\":\"BAUHAUS GmbH & Co. KG Rheinland\",\"id\":628,\"store_id\":628,\"location\":{\"lat\":51.145812298578,\"lng\":6.7557290373335},\"address\":{\"lines\":[\"Am Kirchenmorgen 1\"],\"city\":\"Neuss\",\"zipcode\":\"41470\"},\"distance\":9.03,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Düsseldorf Rath\",\"slug\":\"duesseldorf-rath\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Ruhr\",\"id\":878,\"store_id\":878,\"location\":{\"lat\":51.2778281,\"lng\":6.8037877},\"address\":{\"lines\":[\"Am Hülserhof 49\"],\"city\":\"Düsseldorf\",\"zipcode\":\"40472\"},\"distance\":11.66,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Solingen\",\"slug\":\"solingen\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":562,\"store_id\":562,\"location\":{\"lat\":51.190859904681,\"lng\":7.0692185154757},\"address\":{\"lines\":[\"Focher Strasse 53\"],\"city\":\"Solingen\",\"zipcode\":\"42719\"},\"distance\":13.8,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Leverkusen\",\"slug\":\"leverkusen\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":555,\"store_id\":555,\"location\":{\"lat\":51.034193013446,\"lng\":7.0109394043005},\"address\":{\"lines\":[\"Syltstrasse 14\"],\"city\":\"Leverkusen\",\"zipcode\":\"51377\"},\"distance\":19.1,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

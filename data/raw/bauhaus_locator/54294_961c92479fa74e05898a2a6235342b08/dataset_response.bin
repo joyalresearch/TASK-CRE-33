@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=54294",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=54294",
+    "loadedTime": "2026-10-31T17:36:37.369Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 513,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=54294",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:36:37 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=54294",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Trier\",\"slug\":\"trier\",\"name\":\"BAUHAUS GmbH & Co. KG Südwest\",\"id\":877,\"store_id\":877,\"location\":{\"lat\":49.730785,\"lng\":6.603542},\"address\":{\"lines\":[\"Luxemburger Str. 234\"],\"city\":\"Trier\",\"zipcode\":\"54294\"},\"distance\":0.52,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

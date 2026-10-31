@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=78658",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=78658",
+    "loadedTime": "2026-10-31T17:44:37.358Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1121,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=78658",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:44:37 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=78658",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Zimmern ob Rottweil\",\"slug\":\"zimmern-ob-rottweil\",\"name\":\"BAUHAUS GmbH & Co. KG Süd\",\"id\":543,\"store_id\":543,\"location\":{\"lat\":48.17054541998,\"lng\":8.5739158643448},\"address\":{\"lines\":[\"Raiffeisenstrasse 1\"],\"city\":\"Zimmern ob Rottweil\",\"zipcode\":\"78658\"},\"distance\":1.68,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Villingen-Schwenningen\",\"slug\":\"villingen-schwenningen\",\"name\":\"BAUHAUS GmbH & Co. KG Süd\",\"id\":547,\"store_id\":547,\"location\":{\"lat\":48.070485346781,\"lng\":8.4468792719007},\"address\":{\"lines\":[\"Berliner Strasse 19\"],\"city\":\"Villingen\",\"zipcode\":\"78048\"},\"distance\":13.18,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

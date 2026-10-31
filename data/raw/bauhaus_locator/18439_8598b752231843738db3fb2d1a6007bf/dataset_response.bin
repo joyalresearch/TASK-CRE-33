@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=18439",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=18439",
+    "loadedTime": "2026-10-31T17:19:10.900Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 532,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=18439",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:19:10 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=18439",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Stralsund\",\"slug\":\"stralsund\",\"name\":\"BAUHAUS GmbH Nord-Ost & Co. KG\",\"id\":600,\"store_id\":600,\"location\":{\"lat\":54.269964694678,\"lng\":13.114094408092},\"address\":{\"lines\":[\"Gustower Weg 1\"],\"city\":\"Stralsund\",\"zipcode\":\"18439\"},\"distance\":1.33,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]}]"
+}]

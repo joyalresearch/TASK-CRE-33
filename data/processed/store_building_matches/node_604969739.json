@@ -1,0 +1,30 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 604969739,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 98695080,
+      "building_type": "commercial",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Plauen",
+        "addr:country": "DE",
+        "addr:housenumber": "80",
+        "addr:postcode": "08529",
+        "addr:street": "Äußere Reichenbacher Straße",
+        "addr:suburb": "Alt Chrieschwitz",
+        "building": "commercial"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 7293.19,
+      "geometry_wkt_25832": "POLYGON ((725405.2293750811 5598618.065433331, 725408.3165954686 5598618.297935709, 725446.1153099657 5598621.109198352, 725464.2779506878 5598622.466654263, 725463.8325839329 5598628.383358954, 725476.8621374486 5598629.342691749, 725489.8841214777 5598630.312869165, 725490.2882347635 5598624.862132464, 725528.3917965542 5598627.687056701, 725530.4528972565 5598599.989648579, 725518.6489990451 5598599.105000619, 725520.5775517733 5598573.172627097, 725378.9695979482 5598562.627412634, 725376.904593854 5598590.268971673, 725407.1407025206 5598592.522099409, 725405.2293750811 5598618.065433331))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=44287",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=44287",
+    "loadedTime": "2026-10-31T17:32:28.001Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 2134,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=44287",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:32:27 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=44287",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Dortmund-Aplerbeck\",\"slug\":\"dortmund-aplerbeck\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":509,\"store_id\":509,\"location\":{\"lat\":51.50563658213,\"lng\":7.573853618008},\"address\":{\"lines\":[\"Schleefstrasse 20-22\"],\"city\":\"Dortmund\",\"zipcode\":\"44287\"},\"distance\":1.76,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Dortmund Nordstadt\",\"slug\":\"dortmund-nordstadt\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":573,\"store_id\":573,\"location\":{\"lat\":51.5368765547,\"lng\":7.4765313646064},\"address\":{\"lines\":[\"Bornstrasse 333\"],\"city\":\"Dortmund\",\"zipcode\":\"44145\"},\"distance\":7.6,\"opening_hours\":[{\"weekday\":1,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"08:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"08:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Witten\",\"slug\":\"witten\",\"name\":\"BAUHAUS GmbH & Co. KG Ruhr\",\"id\":625,\"store_id\":625,\"location\":{\"lat\":51.455197910539,\"lng\":7.3939768708458},\"address\":{\"lines\":[\"Brauckstrasse 20\"],\"city\":\"Witten\",\"zipcode\":\"58454\"},\"distance\":12.21,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Hagen\",\"slug\":\"hagen\",\"name\":\"BAUHAUS GmbH & Co. KG West\",\"id\":507,\"store_id\":507,\"location\":{\"lat\":51.373572223192,\"lng\":7.4575474792408},\"address\":{\"lines\":[\"Eckeseyer Strasse 90\"],\"city\":\"Hagen\",\"zipcode\":\"58089\"},\"distance\":14.99,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

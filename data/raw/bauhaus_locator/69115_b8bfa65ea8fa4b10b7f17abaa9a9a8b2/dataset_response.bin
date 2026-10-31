@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=69115",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=69115",
+    "loadedTime": "2026-10-31T17:41:22.191Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 2196,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=69115",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:41:22 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=69115",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Heidelberg\",\"slug\":\"heidelberg\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Main-Neckar\",\"id\":636,\"store_id\":636,\"location\":{\"lat\":49.406734419428,\"lng\":8.6585045927841},\"address\":{\"lines\":[\"Eppelheimer Strasse 48\"],\"city\":\"Heidelberg\",\"zipcode\":\"69115\"},\"distance\":1.73,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Mannheim-Mallau\",\"slug\":\"mannheim-mallau\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Main-Neckar\",\"id\":583,\"store_id\":583,\"location\":{\"lat\":49.454873360509,\"lng\":8.5125775412268},\"address\":{\"lines\":[\"Bohnenberger Strasse 17\"],\"city\":\"Mannheim\",\"zipcode\":\"68219\"},\"distance\":13.5,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Mannheim-Columbus\",\"slug\":\"mannheim-columbus\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Main-Neckar\",\"id\":897,\"store_id\":897,\"location\":{\"lat\":49.515345,\"lng\":8.535418},\"address\":{\"lines\":[\"Gorxheimer Straße 3\"],\"city\":\"Mannheim\",\"zipcode\":\"68309\"},\"distance\":16.38,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]},{\"display_name\":\"Mannheim-Quadrate\",\"slug\":\"mannheim-quadrate\",\"name\":\"BAUHAUS GmbH & Co. KG Rhein-Main-Neckar\",\"id\":655,\"store_id\":655,\"location\":{\"lat\":49.488368,\"lng\":8.471789},\"address\":{\"lines\":[\"R5 1-5\"],\"city\":\"Mannheim\",\"zipcode\":\"68161\"},\"distance\":17.87,\"opening_hours\":[{\"weekday\":1,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"09:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"09:00\",\"to\":\"20:00\"}]}]"
+}]

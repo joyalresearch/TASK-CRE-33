@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=52353",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=52353",
+    "loadedTime": "2026-10-31T17:35:18.390Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 518,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=52353",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:35:18 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=52353",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Düren\",\"slug\":\"dueren\",\"name\":\"BAUHAUS GmbH & Co. KG Rheinland\",\"id\":637,\"store_id\":637,\"location\":{\"lat\":50.82735069,\"lng\":6.45212582},\"address\":{\"lines\":[\"Fehlender Feld 11\"],\"city\":\"Düren\",\"zipcode\":\"52353\"},\"distance\":0.72,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

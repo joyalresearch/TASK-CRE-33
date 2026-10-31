@@ -1,0 +1,31 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 10044308316,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 26285106,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Wetzlar",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "35576",
+        "addr:street": "Philipsstraße",
+        "addr:suburb": "Niedergirmes",
+        "building": "retail",
+        "roof:shape": "flat"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 11209.88,
+      "geometry_wkt_25832": "POLYGON ((464757.7978832346 5601811.0028368365, 464763.159215474 5601750.81897088, 464804.672528139 5601754.499402549, 464894.0839155668 5601762.41905695, 464894.6633722925 5601755.865526206, 464948.71972880757 5601760.6531299455, 464967.59114667604 5601773.993528848, 464963.9664012642 5601814.561085357, 464855.92546798557 5601804.974530967, 464854.62798657606 5601819.583725744, 464757.7978832346 5601811.0028368365))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

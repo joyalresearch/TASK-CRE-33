@@ -1,0 +1,30 @@
+{
+  "store_osm_type": "node",
+  "store_osm_id": 7111767781,
+  "store_name": "Bauhaus",
+  "store_brand_wikidata": "Q672043",
+  "source": "OpenStreetMap",
+  "matches": [
+    {
+      "osm_way_id": 59338792,
+      "building_type": "retail",
+      "building_name": null,
+      "building_tags": {
+        "addr:city": "Mainz",
+        "addr:country": "DE",
+        "addr:housenumber": "128",
+        "addr:postcode": "55120",
+        "addr:street": "Rheinallee",
+        "building": "retail",
+        "building:levels": "2"
+      },
+      "association_method": "point_in_polygon",
+      "association_status": "spatial_candidate",
+      "ownership_verified": false,
+      "area_sqm": 8755.08,
+      "geometry_wkt_25832": "POLYGON ((444311.8215452822 5542153.23843119, 444348.82898405957 5542214.878446155, 444257.994276085 5542269.119289909, 444231.3882020456 5542257.131491812, 444228.0933596278 5542251.63939826, 444222.47683194233 5542255.000409433, 444204.0140705815 5542223.691108575, 444222.6938652222 5542211.8876805855, 444220.3607292421 5542207.953428798, 444311.8215452822 5542153.23843119))",
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ]
+}

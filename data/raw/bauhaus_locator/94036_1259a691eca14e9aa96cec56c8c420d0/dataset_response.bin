@@ -1,0 +1,29 @@
+[{
+  "url": "https://www.bauhaus.info/api/stores?q=94036",
+  "fetch": {
+    "loadedUrl": "https://www.bauhaus.info/api/stores?q=94036",
+    "loadedTime": "2026-10-31T17:48:04.663Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 526,
+    "contentType": "application/json"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.bauhaus.info/api/stores?q=94036",
+    "title": null,
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "date": "Sat, 31 Oct 2026 17:48:04 GMT",
+      "keep-alive": "timeout=5",
+      "transfer-encoding": "chunked",
+      "x-apify-unblocker-final-url": "https://www.bauhaus.info/api/stores?q=94036",
+      "x-apify-unblocker-route": "CALLISTO"
+    }
+  },
+  "raw": "[{\"display_name\":\"Passau\",\"slug\":\"passau\",\"name\":\"BAUHAUS GmbH & Co. KG Bayern\",\"id\":561,\"store_id\":561,\"location\":{\"lat\":48.565049994148,\"lng\":13.426301672564},\"address\":{\"lines\":[\"Danziger Strasse 47\"],\"city\":\"Passau\",\"zipcode\":\"94036\"},\"distance\":3.72,\"opening_hours\":[{\"weekday\":1,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":2,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":3,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":4,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":5,\"from\":\"07:00\",\"to\":\"20:00\"},{\"weekday\":6,\"from\":\"07:00\",\"to\":\"20:00\"}]}]"
+}]

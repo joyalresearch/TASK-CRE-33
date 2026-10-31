@@ -1,0 +1,302 @@
+{
+  "total_brand_verified_nodes": 37,
+  "processed_nodes": 37,
+  "pending_nodes": 0,
+  "pending_node_ids": [],
+  "unresolved_nodes": 2,
+  "unresolved_node_ids": [
+    1605507205,
+    4580891593
+  ],
+  "candidate_matches": 33,
+  "manual_review_matches": 2,
+  "candidate_area_sqm": 382745.05,
+  "manual_review_area_sqm": 1456.01,
+  "manual_review_reasons": {
+    "non_retail_building_type": 2
+  },
+  "candidates": [
+    {
+      "store_node_id": 30560661,
+      "building_way_id": 116468051,
+      "building_type": "retail",
+      "area_sqm": 6362.47,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 253378262,
+      "building_way_id": 24025561,
+      "building_type": "retail",
+      "area_sqm": 8832.88,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 254352435,
+      "building_way_id": 40450747,
+      "building_type": "commercial",
+      "area_sqm": 4338.37,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 279218164,
+      "building_way_id": 227400424,
+      "building_type": "retail",
+      "area_sqm": 9695.29,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 286555103,
+      "building_way_id": 88370653,
+      "building_type": "retail",
+      "area_sqm": 16697.21,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 297084872,
+      "building_way_id": 119907320,
+      "building_type": "retail",
+      "area_sqm": 15336.32,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 442539005,
+      "building_way_id": 30804120,
+      "building_type": "commercial",
+      "area_sqm": 13176.65,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 490066695,
+      "building_way_id": 40459768,
+      "building_type": "retail",
+      "area_sqm": 5922.49,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 604969739,
+      "building_way_id": 98695080,
+      "building_type": "commercial",
+      "area_sqm": 7293.19,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 823521634,
+      "building_way_id": 118752984,
+      "building_type": "retail",
+      "area_sqm": 5270.25,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 1036180405,
+      "building_way_id": 182747470,
+      "building_type": "retail",
+      "area_sqm": 13678.77,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 1083762657,
+      "building_way_id": 93484846,
+      "building_type": "retail",
+      "area_sqm": 11815.15,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 1389121491,
+      "building_way_id": 40707294,
+      "building_type": "retail",
+      "area_sqm": 3430.75,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 1739559562,
+      "building_way_id": 46754081,
+      "building_type": "retail",
+      "area_sqm": 6917.23,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 2302565844,
+      "building_way_id": 146186390,
+      "building_type": "retail",
+      "area_sqm": 2037.47,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 2935166520,
+      "building_way_id": 28846255,
+      "building_type": "commercial",
+      "area_sqm": 11749.8,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 3730393002,
+      "building_way_id": 369231324,
+      "building_type": "retail",
+      "area_sqm": 14561.2,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 3875846542,
+      "building_way_id": 91898070,
+      "building_type": "retail",
+      "area_sqm": 15264.64,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 4797070542,
+      "building_way_id": 24517843,
+      "building_type": "yes",
+      "area_sqm": 29962.63,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 5301851476,
+      "building_way_id": 119309678,
+      "building_type": "retail",
+      "area_sqm": 16733.56,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 5329643356,
+      "building_way_id": 37120956,
+      "building_type": "yes",
+      "area_sqm": 12418.7,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 6586555027,
+      "building_way_id": 25520936,
+      "building_type": "retail",
+      "area_sqm": 18910.78,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 7111767781,
+      "building_way_id": 59338792,
+      "building_type": "retail",
+      "area_sqm": 8755.08,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 7340432568,
+      "building_way_id": 373370403,
+      "building_type": "retail",
+      "area_sqm": 15984.07,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 7452492738,
+      "building_way_id": 546189796,
+      "building_type": "yes",
+      "area_sqm": 17273.88,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 7518511157,
+      "building_way_id": 322043866,
+      "building_type": "retail",
+      "area_sqm": 10658.89,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 8584539424,
+      "building_way_id": 995919993,
+      "building_type": "retail",
+      "area_sqm": 11615.19,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 10044308316,
+      "building_way_id": 26285106,
+      "building_type": "retail",
+      "area_sqm": 11209.88,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 10057200156,
+      "building_way_id": 28505596,
+      "building_type": "retail",
+      "area_sqm": 9159.74,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 10093313817,
+      "building_way_id": 28987296,
+      "building_type": "retail",
+      "area_sqm": 3073.34,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 11059529684,
+      "building_way_id": 27493871,
+      "building_type": "retail",
+      "area_sqm": 15727.12,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 11778986402,
+      "building_way_id": 1268231705,
+      "building_type": "retail",
+      "area_sqm": 16430.52,
+      "review_status": "candidate",
+      "review_reason": null
+    },
+    {
+      "store_node_id": 12517940711,
+      "building_way_id": 115955249,
+      "building_type": "retail",
+      "area_sqm": 12451.54,
+      "review_status": "candidate",
+      "review_reason": null
+    }
+  ],
+  "manual_review": [
+    {
+      "store_node_id": 416660121,
+      "building_way_id": 87602600,
+      "building_type": "residential",
+      "area_sqm": 639.14,
+      "review_status": "manual_review",
+      "review_reason": "non_retail_building_type"
+    },
+    {
+      "store_node_id": 422779946,
+      "building_way_id": 26709557,
+      "building_type": "office",
+      "area_sqm": 816.87,
+      "review_status": "manual_review",
+      "review_reason": "non_retail_building_type"
+    }
+  ]
+}
