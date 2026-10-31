@@ -44,6 +44,16 @@ The 172 building polygons comprise 167 consolidated OSM candidates and five addi
 
 The 1,137 parking polygons form an acquisition and audit inventory. They are not all attributed to BAUHAUS. Only 34 polygons qualify for the separate parking-capacity scenarios.
 
+## Key findings
+
+The collected official locator evidence identifies 161 distinct BAUHAUS stores. Of these, 86 have accepted screening building associations and 21 have provisional associations. Another 54 remain unavailable for rooftop estimation: 52 lack selected containing geometry and two require parking-structure review.
+
+The 86 accepted associations yield an illustrative rooftop estimate of 119.94 MWp under the stated assumptions. This represents the selected screening subset, not verified installable capacity or a nationwide total.
+
+Strict parking identity screening reduces the 1,137 source candidates to 34 qualifying BAUHAUS-tagged polygons, covering 275,049.82 m² after geometric exclusions. Their conditional parking-canopy scenarios range from 8.251 to 16.503 MWp, with a central scenario of 13.752 MWp.
+
+The main remaining uncertainties concern inventory completeness, unresolved building associations, property rights and physical installation feasibility. Rooftop and parking estimates remain separate.
+
 ## Runtime requirements
 
 - Docker Engine or Docker Desktop.
