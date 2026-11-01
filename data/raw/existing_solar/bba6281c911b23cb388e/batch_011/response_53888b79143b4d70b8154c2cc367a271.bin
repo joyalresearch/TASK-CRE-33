@@ -1,0 +1,192 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-01T13:30:36Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 7138413806,
+  "lat": 48.7245548,
+  "lon": 9.1267848,
+  "timestamp": "2020-10-26T12:44:08Z",
+  "version": 2,
+  "changeset": 93062014,
+  "user": "SIA325",
+  "uid": 5342866,
+  "tags": {
+    "generator:method": "photovoltaic",
+    "generator:output:electricity": "yes",
+    "generator:source": "solar",
+    "generator:type": "solar_photovoltaic_panel",
+    "power": "generator"
+  }
+},
+{
+  "type": "node",
+  "id": 12115025284,
+  "lat": 50.7605369,
+  "lon": 7.0293724,
+  "timestamp": "2024-08-16T13:00:57Z",
+  "version": 1,
+  "changeset": 155326708,
+  "user": "redrace",
+  "uid": 149451,
+  "tags": {
+    "generator:method": "photovoltaic",
+    "generator:output:electricity": "yes",
+    "generator:source": "solar",
+    "generator:type": "solar_photovoltaic_panel",
+    "power": "generator"
+  }
+},
+{
+  "type": "node",
+  "id": 12704710860,
+  "lat": 50.7600043,
+  "lon": 7.0297372,
+  "timestamp": "2025-03-27T12:53:27Z",
+  "version": 1,
+  "changeset": 164162992,
+  "user": "redrace",
+  "uid": 149451
+},
+{
+  "type": "node",
+  "id": 12704710861,
+  "lat": 50.7593298,
+  "lon": 7.0304990,
+  "timestamp": "2025-03-27T12:53:27Z",
+  "version": 1,
+  "changeset": 164162992,
+  "user": "redrace",
+  "uid": 149451
+},
+{
+  "type": "node",
+  "id": 12704710862,
+  "lat": 50.7591135,
+  "lon": 7.0300350,
+  "timestamp": "2025-03-27T12:53:27Z",
+  "version": 1,
+  "changeset": 164162992,
+  "user": "redrace",
+  "uid": 149451
+},
+{
+  "type": "node",
+  "id": 12704710863,
+  "lat": 50.7597922,
+  "lon": 7.0292665,
+  "timestamp": "2025-03-27T12:53:27Z",
+  "version": 1,
+  "changeset": 164162992,
+  "user": "redrace",
+  "uid": 149451
+},
+{
+  "type": "node",
+  "id": 13405907936,
+  "lat": 50.7323862,
+  "lon": 7.0803330,
+  "timestamp": "2025-12-25T18:08:12Z",
+  "version": 1,
+  "changeset": 176404861,
+  "user": "sebastian89",
+  "uid": 149408
+},
+{
+  "type": "node",
+  "id": 13405907937,
+  "lat": 50.7324551,
+  "lon": 7.0804773,
+  "timestamp": "2025-12-25T18:08:12Z",
+  "version": 1,
+  "changeset": 176404861,
+  "user": "sebastian89",
+  "uid": 149408
+},
+{
+  "type": "node",
+  "id": 13405907938,
+  "lat": 50.7327406,
+  "lon": 7.0801367,
+  "timestamp": "2025-12-25T18:08:12Z",
+  "version": 1,
+  "changeset": 176404861,
+  "user": "sebastian89",
+  "uid": 149408
+},
+{
+  "type": "node",
+  "id": 13405907939,
+  "lat": 50.7326716,
+  "lon": 7.0799924,
+  "timestamp": "2025-12-25T18:08:12Z",
+  "version": 1,
+  "changeset": 176404861,
+  "user": "sebastian89",
+  "uid": 149408
+},
+{
+  "type": "way",
+  "id": 1372040854,
+  "timestamp": "2025-03-27T12:53:27Z",
+  "version": 1,
+  "changeset": 164162992,
+  "user": "redrace",
+  "uid": 149451,
+  "nodes": [
+    12704710863,
+    12704710862,
+    12704710861,
+    12704710860,
+    12704710863
+  ],
+  "tags": {
+    "generator:method": "photovoltaic",
+    "generator:output:electricity": "yes",
+    "generator:source": "solar",
+    "generator:type": "solar_photovoltaic_panel",
+    "power": "generator"
+  }
+},
+{
+  "type": "way",
+  "id": 1461615287,
+  "timestamp": "2025-12-25T18:08:12Z",
+  "version": 1,
+  "changeset": 176404861,
+  "user": "sebastian89",
+  "uid": 149408,
+  "nodes": [
+    13405907939,
+    13405907938,
+    13405907937,
+    13405907936,
+    13405907939
+  ],
+  "tags": {
+    "generator:method": "photovoltaic",
+    "generator:output:electricity": "yes",
+    "generator:source": "solar",
+    "generator:type": "solar_photovoltaic_panel",
+    "power": "generator"
+  }
+},
+{
+  "type": "count",
+  "id": 0,
+  "tags": {
+    "nodes": "10",
+    "ways": "2",
+    "relations": "0",
+    "total": "12"
+  }
+}
+
+  ]
+}

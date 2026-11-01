@@ -90,7 +90,7 @@ Expected results:
 - Pipeline dry run completes without database writes.
 - 172 building polygons and 1,137 parking polygons.
 - 1,309 expected staging records.
-- 39 tests pass.
+- 46 tests pass.
 
 ## PostgreSQL/PostGIS execution
 
@@ -324,9 +324,45 @@ Implementation: `src/iris_cre_33/estimate_parking_pv.py`, bay fractions `0.30`, 
 
 The scenarios use selected assumptions from the reference study rather than its complete methodology. They exclude site-specific layout, clearance, tree/shading, structural, grid and permissions assessments.
 
-Reference: [Fraunhofer ISE — Stromstudie für Baden-Württemberg, January 2024](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/presseinformationen/2024/IHK-Stromstudie_v06.pdf).
+Reference: [Fraunhofer ISE — Stromstudie für Baden-Württemberg, January 2024](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/presseinformationen/2024/Abschlussbericht_Stromstudie_Ba-Wue_V05_080224.pdf).
 
 All parking capacity results remain provisional. Parking `estimated_pv_kwp` values remain NULL in staging. Rooftop and parking capacities are not combined.
+
+## Existing-solar evidence assessment
+
+A separate assessment examines existing-solar evidence without changing the gross capacity calculations or database load.
+
+The Overpass collection covers 107 selected roof polygons and 34 qualifying parking polygons in 15 validated batches. It returned eight distinct solar-tagged objects: five ways and three nodes. None intersects the selected estimate assets. This result does not establish that existing solar is absent; OSM tagging, search coverage and mapped geometry remain incomplete.
+
+Captured external sources document rooftop solar at two facilities:
+
+| Facility | Source evidence | Assessment |
+| --- | --- | --- |
+| Stuttgart-Untert?rkheim, ID 631 | GIGA.GREEN reports 589.05 kWp and 1,386 modules | Building association accepted; solar-covered area unavailable |
+| Wiesbaden/Mainz-Kastel, ID 896 | Project architect describes rooftop photovoltaic equipment | Building geometry and solar-covered area unavailable |
+
+The evidence register records source URLs, saved-page paths, capture hashes and extracted passages. These are source-reported claims, not independent installation measurements. The Wiesbaden capture contains English wording; equivalence to the original German text has not been independently checked.
+
+Gross estimates are retained. No solar-area deductions are accepted, and net additional capacity remains NULL. Reported installed capacity, module counts, solar points and nearby solar polygons are not converted automatically into occupied roof area. Roof evidence is assessed separately from parking evidence.
+
+The report retains 161 official facility records and 1,137 parking records, including assets outside the selected solar search. This extension provides evidence classification; numerical gross-to-net estimation remains incomplete.
+
+Evidence and implementation:
+
+- `src/iris_cre_33/collect_existing_solar.py`
+- `src/iris_cre_33/report_existing_solar.py`
+- `data/reference/existing_solar_evidence.json`
+- `data/raw/existing_solar/bba6281c911b23cb388e/`
+- `data/raw/existing_solar_external/`
+- `data/reports/existing_solar/existing_solar_assessment_51405434d6614aa8a371296e36197405.json`
+
+With the project dependencies installed, the assessment can be reproduced from saved evidence without network or database access:
+
+```powershell
+python src/iris_cre_33/report_existing_solar.py --pv-report data/processed/reconciled_pv_0357b8d5cc8f40ecaf9d77c7c255d33b.json --parking-report data/processed/parking_pv_scenarios_2938d366aa7d4ef693e39f6df8964d71.json --collection data/raw/existing_solar/bba6281c911b23cb388e
+```
+
+Validation: 46 tests passed locally and in Docker. The existing pipeline dry run and the solar assessment also passed in network-disabled containers. The solar assessment used a read-only repository mount because its evidence files are not copied into the application image.
 
 ## Recomputing estimates
 
@@ -410,8 +446,8 @@ Observed results for the current implementation:
 | --- | --- |
 | Docker build | Passed |
 | Offline packaged-data dry run | Passed |
-| Local automated tests | 39 passed |
-| Container automated tests | 39 passed |
+| Local automated tests | 46 passed |
+| Container automated tests | 46 passed |
 | Fresh isolated database load | 172 building inserts; 1,137 parking inserts |
 | Repeat database load | Zero inserts; 1,309 updates |
 | PostGIS verification | Passed on both loads |
@@ -471,6 +507,6 @@ Geographic source data: **© OpenStreetMap contributors**, available under the O
 
 Official store information: [BAUHAUS](https://www.bauhaus.info/).
 
-Parking scenario reference: [Fraunhofer ISE / BWIHK electricity study for Baden-Württemberg, January 2024](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/presseinformationen/2024/IHK-Stromstudie_v06.pdf), section 3.5, pages 36–37.
+Parking scenario reference: [Fraunhofer ISE / BWIHK electricity study for Baden-Württemberg, January 2024](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/presseinformationen/2024/Abschlussbericht_Stromstudie_Ba-Wue_V05_080224.pdf), section 3.5, pages 36–37.
 
 Credentials are supplied through environment variables. `.env.example` contains configuration placeholders only.

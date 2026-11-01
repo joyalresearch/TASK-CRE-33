@@ -1,0 +1,30 @@
+{
+  "started_at_utc": "2026-11-01T10:59:26.071322+00:00",
+  "status": "validated_response",
+  "query_sha256": "62abbc0cc1f6dc031cb722dd0ff7745b59523c0b59475e6a072a7f6570485655",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "targets": [
+    "parking/way/107584349",
+    "parking/way/110726720",
+    "parking/way/110732432",
+    "parking/way/142910888",
+    "parking/way/153784496",
+    "parking/way/1559799660",
+    "parking/way/193310520",
+    "parking/way/22973903",
+    "parking/way/23386120",
+    "parking/way/24225627"
+  ],
+  "automatic_retries": 0,
+  "http_status": 200,
+  "content_type": "application/json",
+  "retry_after": null,
+  "response_file": "response_e5b096bb58774369a3ec96b6471ac6eb.bin",
+  "response_sha256": "a1190e938e98cb84701b893d53523bb3a56c1586c06bb708f18de1ec62869d0a",
+  "osm_base_timestamp": "2026-11-01T10:58:06Z",
+  "returned_objects": 0,
+  "solar_tagged_objects": 0,
+  "solar_object_types": {},
+  "solar_object_ids": [],
+  "finished_at_utc": "2026-11-01T11:00:16.841406+00:00"
+}

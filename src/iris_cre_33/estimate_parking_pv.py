@@ -20,7 +20,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 REFERENCE_URL = (
     "https://www.ise.fraunhofer.de/content/dam/ise/de/"
-    "documents/presseinformationen/2024/IHK-Stromstudie_v06.pdf"
+    "documents/presseinformationen/2024/Abschlussbericht_Stromstudie_Ba-Wue_V05_080224.pdf"
 )
 
 RULE_VERSION = "bauhaus-explicit-tags-v1"

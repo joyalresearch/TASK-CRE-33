@@ -1,0 +1,41 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-01T13:36:41Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 13319707934,
+  "lat": 50.2013250,
+  "lon": 9.1388754,
+  "timestamp": "2025-11-20T17:17:53Z",
+  "version": 1,
+  "changeset": 174916264,
+  "user": "ironspock",
+  "uid": 10728241,
+  "tags": {
+    "generator:method": "photovoltaic",
+    "generator:output:electricity": "small_installation",
+    "generator:source": "solar",
+    "generator:type": "solar_photovoltaic_panel",
+    "location": "roof",
+    "power": "generator"
+  }
+},
+{
+  "type": "count",
+  "id": 0,
+  "tags": {
+    "nodes": "1",
+    "ways": "0",
+    "relations": "0",
+    "total": "1"
+  }
+}
+
+  ]
+}

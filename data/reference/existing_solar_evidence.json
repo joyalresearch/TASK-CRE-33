@@ -1,0 +1,46 @@
+{
+  "schema_version": "external-solar-evidence-v1",
+  "records": [
+    {
+      "official_store_id": 631,
+      "component": "roof",
+      "source_organization": "GIGA.GREEN",
+      "source_url": "https://www.giga.green/en/news/photovoltaik-im-diy-handel-solarstrom-fur-bauhaus-in-stuttgart-unterturkheim",
+      "source_capture_path": "data/raw/existing_solar_external/stuttgart_untertuerkheim.mhtml",
+      "source_capture_sha256": "cc702e98f5c4a0b11d44405550f64714e6fc9e8732c90b5e36c332c973c0b146",
+      "extraction_checked_at_utc": "2026-11-01T14:10:25.595001+00:00",
+      "evidence_type": "project_participant_report",
+      "facility_link_basis": "Article names BAUHAUS Stuttgart-Untertuerkheim; reviewed match to official store ID 631.",
+      "claim": "Project participant reports installed rooftop PV.",
+      "source_passages": [
+        "589.05 kWp installed PV capacity",
+        "1,386 solar modules installed"
+      ],
+      "reported_installed_capacity_kwp": 589.05,
+      "reported_module_count": 1386,
+      "measured_covered_area_sqm": null,
+      "verification_limitations": "Source-reported figures, not independent measurements. No covered-area deduction."
+    },
+    {
+      "official_store_id": 896,
+      "component": "roof",
+      "source_organization": "SHA Scheffler Helbich Architekten",
+      "source_url": "https://sha.de/news/feierliche-eroeffnung-des-neuen-bauhaus-fachcentrums-in-wiesbaden",
+      "source_capture_path": "data/raw/existing_solar_external/wiesbaden_mainz_kastel.mhtml",
+      "source_capture_sha256": "b837f77e4694a45e5effb2312646d7009d9d740b15f0e27f286cb2f512ff5482",
+      "saved_page_language": "English",
+      "translation_status": "English wording preserved in the archive; equivalence to the original German text has not been independently checked.",
+      "extraction_checked_at_utc": "2026-11-01T14:15:36.137901+00:00",
+      "evidence_type": "project_architect_report",
+      "facility_link_basis": "Saved article identifies the BAUHAUS development in Wiesbaden/Mainz-Kastel; reviewed match to official store ID 896.",
+      "claim": "Saved architect article describes rooftop photovoltaic equipment.",
+      "source_passages": [
+        "The roof of the new retail center features extensive greening and a photovoltaic system"
+      ],
+      "reported_installed_capacity_kwp": null,
+      "reported_module_count": null,
+      "measured_covered_area_sqm": null,
+      "verification_limitations": "No measured panel coverage. No selected building geometry in the existing rooftop report."
+    }
+  ]
+}

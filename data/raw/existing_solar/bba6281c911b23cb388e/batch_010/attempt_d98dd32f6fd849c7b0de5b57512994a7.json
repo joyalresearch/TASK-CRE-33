@@ -1,0 +1,34 @@
+{
+  "started_at_utc": "2026-11-01T13:29:56.465121+00:00",
+  "status": "validated_response",
+  "query_sha256": "f15456d888954c55b68737d1d936f5de3d50482077d7eef2c04498f223590b88",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "targets": [
+    "roof/way/30072118",
+    "roof/way/307282610",
+    "roof/way/30808551",
+    "roof/way/30860030",
+    "roof/way/31410869",
+    "roof/way/31670307",
+    "roof/way/322043866",
+    "roof/way/33542710",
+    "roof/way/33712617",
+    "roof/way/34201992"
+  ],
+  "automatic_retries": 0,
+  "http_status": 200,
+  "content_type": "application/json",
+  "retry_after": null,
+  "response_file": "response_d98dd32f6fd849c7b0de5b57512994a7.bin",
+  "response_sha256": "bcf4a7958ec1ada7c3ccba0dc4e1d105a6c92835217a86b8175d57910c1cffe1",
+  "osm_base_timestamp": "2026-11-01T13:29:35Z",
+  "returned_objects": 11,
+  "solar_tagged_objects": 1,
+  "solar_object_types": {
+    "way": 1
+  },
+  "solar_object_ids": [
+    "way/948246877"
+  ],
+  "finished_at_utc": "2026-11-01T13:30:52.196642+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "started_at_utc": "2026-11-01T13:17:09.633979+00:00",
+  "status": "unresolved",
+  "query_sha256": "f15456d888954c55b68737d1d936f5de3d50482077d7eef2c04498f223590b88",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "targets": [
+    "roof/way/30072118",
+    "roof/way/307282610",
+    "roof/way/30808551",
+    "roof/way/30860030",
+    "roof/way/31410869",
+    "roof/way/31670307",
+    "roof/way/322043866",
+    "roof/way/33542710",
+    "roof/way/33712617",
+    "roof/way/34201992"
+  ],
+  "automatic_retries": 0,
+  "http_status": 502,
+  "content_type": "text/plain",
+  "retry_after": null,
+  "response_file": "response_4c4015dc49844c4a93c701376d92815d.bin",
+  "response_sha256": "8084e21e11df846a2e41bb93ddaf66961aa2ef71e9a9fc1f46debc960b303042",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-11-01T13:17:10.183933+00:00"
+}

@@ -1,0 +1,398 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-01T11:15:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 13649393454,
+  "lat": 51.1760984,
+  "lon": 6.8491168,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393455,
+  "lat": 51.1762583,
+  "lon": 6.8496667,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393456,
+  "lat": 51.1760650,
+  "lon": 6.8498097,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393457,
+  "lat": 51.1764496,
+  "lon": 6.8511327,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393458,
+  "lat": 51.1765237,
+  "lon": 6.8510780,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393459,
+  "lat": 51.1766529,
+  "lon": 6.8515226,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393460,
+  "lat": 51.1781847,
+  "lon": 6.8503895,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393461,
+  "lat": 51.1780463,
+  "lon": 6.8499136,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393462,
+  "lat": 51.1784735,
+  "lon": 6.8495976,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393463,
+  "lat": 51.1785690,
+  "lon": 6.8499261,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393464,
+  "lat": 51.1794089,
+  "lon": 6.8493048,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 13649393465,
+  "lat": 51.1787780,
+  "lon": 6.8471346,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101
+},
+{
+  "type": "node",
+  "id": 14077753496,
+  "lat": 48.1710442,
+  "lon": 8.5733383,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077753497,
+  "lat": 48.1710385,
+  "lon": 8.5734723,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077753498,
+  "lat": 48.1710761,
+  "lon": 8.5734759,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077753499,
+  "lat": 48.1710732,
+  "lon": 8.5735440,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077753500,
+  "lat": 48.1710973,
+  "lon": 8.5735463,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077758301,
+  "lat": 48.1710780,
+  "lon": 8.5739957,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077758302,
+  "lat": 48.1711066,
+  "lon": 8.5739985,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077758303,
+  "lat": 48.1710990,
+  "lon": 8.5741751,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077758304,
+  "lat": 48.1709624,
+  "lon": 8.5741619,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077758305,
+  "lat": 48.1709674,
+  "lon": 8.5740455,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077758306,
+  "lat": 48.1710125,
+  "lon": 8.5740499,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077758307,
+  "lat": 48.1710181,
+  "lon": 8.5739206,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077758308,
+  "lat": 48.1709741,
+  "lon": 8.5739164,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14077758309,
+  "lat": 48.1710118,
+  "lon": 8.5733351,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14155955455,
+  "lat": 48.1710109,
+  "lon": 8.5733562,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 1,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "node",
+  "id": 14155955456,
+  "lat": 48.1709983,
+  "lon": 8.5733550,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 1,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649
+},
+{
+  "type": "way",
+  "id": 1489079922,
+  "timestamp": "2026-03-15T10:04:34Z",
+  "version": 1,
+  "changeset": 179890217,
+  "user": "Henry572",
+  "uid": 16121101,
+  "nodes": [
+    13649393465,
+    13649393464,
+    13649393463,
+    13649393462,
+    13649393461,
+    13649393460,
+    13649393459,
+    13649393458,
+    13649393457,
+    13649393456,
+    13649393455,
+    13649393454,
+    13649393465
+  ],
+  "tags": {
+    "generator:output:electricity": "yes",
+    "generator:source": "solar",
+    "generator:type": "solar_photovoltaic_panel",
+    "location": "roof",
+    "power": "generator"
+  }
+},
+{
+  "type": "way",
+  "id": 1547802928,
+  "timestamp": "2026-09-05T18:22:55Z",
+  "version": 2,
+  "changeset": 188584811,
+  "user": "RalfRW",
+  "uid": 12742649,
+  "nodes": [
+    14077753496,
+    14077753497,
+    14077753498,
+    14077753499,
+    14077753500,
+    14077758301,
+    14077758302,
+    14077758303,
+    14077758304,
+    14077758305,
+    14077758306,
+    14077758307,
+    14077758308,
+    14155955456,
+    14155955455,
+    14077758309,
+    14077753496
+  ],
+  "tags": {
+    "generator:method": "photovoltaic",
+    "generator:output:electricity": "yes",
+    "generator:source": "solar",
+    "generator:type": "solar_photovoltaic_panel",
+    "layer": "1",
+    "level": "1",
+    "power": "generator"
+  }
+},
+{
+  "type": "count",
+  "id": 0,
+  "tags": {
+    "nodes": "28",
+    "ways": "2",
+    "relations": "0",
+    "total": "30"
+  }
+}
+
+  ]
+}

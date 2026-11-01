@@ -1,0 +1,26 @@
+{
+  "started_at_utc": "2026-11-01T11:01:50.133435+00:00",
+  "status": "unresolved",
+  "query_sha256": "3fb7968ee4f38388246103ca6b15e7eb0899bec24a79fa940793f8f456d23b3c",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "targets": [
+    "parking/way/307157413",
+    "parking/way/38891010",
+    "parking/way/445765816",
+    "parking/way/4700611",
+    "parking/way/51943980",
+    "parking/way/52007851",
+    "parking/way/62811073",
+    "parking/way/657262033",
+    "parking/way/74164747",
+    "parking/way/74396587"
+  ],
+  "automatic_retries": 0,
+  "http_status": 502,
+  "content_type": "text/plain",
+  "retry_after": null,
+  "response_file": "response_895b2606a211425cb4b0dd7806a542e1.bin",
+  "response_sha256": "8084e21e11df846a2e41bb93ddaf66961aa2ef71e9a9fc1f46debc960b303042",
+  "error_type": "RuntimeError",
+  "finished_at_utc": "2026-11-01T11:01:50.748065+00:00"
+}

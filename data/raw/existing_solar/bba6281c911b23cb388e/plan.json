@@ -1,0 +1,1826 @@
+{
+  "schema_version": "solar-evidence-collection-v1",
+  "source": "OpenStreetMap via Overpass",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "inputs": {
+    "pv_report_sha256": "390444b68df7b09bf2b9568dfd62cf13039d40a21396691721950ba874da3408",
+    "parking_report_sha256": "510d39777aafd19f869cf4316666e5a7c98c8cda4b9ba20431fa089495390ea2",
+    "buildings": "0de970956ab6a1de450b274a8867f787c256baf89e82aad6aa27d669c192df9a",
+    "pv": "390444b68df7b09bf2b9568dfd62cf13039d40a21396691721950ba874da3408",
+    "cologne": "6f02606b7167ef739e432a3d03eb7e3f744d52410e9e624cd74483f5dcadac15",
+    "nationwide": "08955c7e6df32fe47240d4f1a7778a56e1bb55cb02b41ad4947966a83b6d5c7e"
+  },
+  "padding_m": 25.0,
+  "batch_size": 10,
+  "targets": [
+    {
+      "key": "parking/way/107584349",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "b7f2696c49cee7fc094b4e349d76e00e7d6d7aa3a329a0ef7dbc0191872b0fbb",
+      "bbox_south_west_north_east": [
+        50.13076755455418,
+        8.761913723786398,
+        50.13254796633703,
+        8.76528676069396
+      ]
+    },
+    {
+      "key": "parking/way/110726720",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "963e4610e17d584038d45904a856274292b54f358498a1af1bb26a2ebadd415d",
+      "bbox_south_west_north_east": [
+        50.730833249391296,
+        7.079200281436731,
+        50.731956544643936,
+        7.0809440915249455
+      ]
+    },
+    {
+      "key": "parking/way/110732432",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "9f653532ab2b7dc67e666f631ec15469fde23f6e56b35c47a77f9d3caa8efb0a",
+      "bbox_south_west_north_east": [
+        50.7315081520471,
+        7.076363967071304,
+        50.73290315641007,
+        7.078571867923444
+      ]
+    },
+    {
+      "key": "parking/way/142910888",
+      "association_status": "near_provisional_building_candidate",
+      "geometry_sha256": "cfe66d7190806dcabb3dc82e886a2042340c6f6f3aff5e0020dba07c0ccdd65f",
+      "bbox_south_west_north_east": [
+        51.18994124868106,
+        7.067352088014587,
+        51.19119374036369,
+        7.0692880737324835
+      ]
+    },
+    {
+      "key": "parking/way/153784496",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "693d2f29824563799565fa12af3bbd210aec1dd174166ae10dbfbed420c66214",
+      "bbox_south_west_north_east": [
+        48.48136751014786,
+        8.410049369971853,
+        48.484362092412205,
+        8.412820594198148
+      ]
+    },
+    {
+      "key": "parking/way/1559799660",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "cae86b81e91a3097884589a72d920aa545d549793c2ccb9835d29c42671c7be5",
+      "bbox_south_west_north_east": [
+        51.37303098505744,
+        6.77247563802227,
+        51.37511230815971,
+        6.774283236491211
+      ]
+    },
+    {
+      "key": "parking/way/193310520",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "0251dcbc7be812109e241d74beb001a48b8ce29345812048f7a2f5e08c904f1d",
+      "bbox_south_west_north_east": [
+        48.399475931932265,
+        9.967718851528558,
+        48.40116414880569,
+        9.970978735017107
+      ]
+    },
+    {
+      "key": "parking/way/22973903",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "fab899ef0e0c4ae12dc40869ec89d12d1a85b1259487bf0a822cd081d78435e4",
+      "bbox_south_west_north_east": [
+        48.99379055791317,
+        12.114684350260875,
+        48.99607114637178,
+        12.117198029199548
+      ]
+    },
+    {
+      "key": "parking/way/23386120",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "39a069f3fd56aae67785d4aa3e30ca8bea85b7a2385e8053917bb06adaa3cdeb",
+      "bbox_south_west_north_east": [
+        53.60272880668075,
+        10.069940604407982,
+        53.604770898714314,
+        10.072551651550127
+      ]
+    },
+    {
+      "key": "parking/way/24225627",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "f8fa4dc69a0ab30bc691deedbcd398510719d0b07ff36dd30c4362af30afcbf5",
+      "bbox_south_west_north_east": [
+        50.028382208942276,
+        8.220554211997666,
+        50.02968499157081,
+        8.222802486691188
+      ]
+    },
+    {
+      "key": "parking/way/24518391",
+      "association_status": "near_provisional_building_candidate",
+      "geometry_sha256": "87857be00e3c88c7a1ec68e90702dc40a7e56b3ddccf912b74de9698534a5787",
+      "bbox_south_west_north_east": [
+        52.533701407784115,
+        13.17413951712756,
+        52.53514332821061,
+        13.176064085547504
+      ]
+    },
+    {
+      "key": "parking/way/24662344",
+      "association_status": "near_provisional_building_candidate",
+      "geometry_sha256": "c1a4a520abc47830f68021c6d92eff831bc3d93a7bc56deff96f16a196c64953",
+      "bbox_south_west_north_east": [
+        49.961407749265746,
+        9.171769834223417,
+        49.96368575082102,
+        9.175152557583242
+      ]
+    },
+    {
+      "key": "parking/way/257001931",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "f5784b3fcbe8a57c2b99e25bb98c33ccca3152a2a94e57e99e05345d9d6d7d4f",
+      "bbox_south_west_north_east": [
+        50.201383461961804,
+        9.13865488671495,
+        50.202954186761936,
+        9.142149526787298
+      ]
+    },
+    {
+      "key": "parking/way/26790318",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "9f3fd3bb339b0a7e546970d9c81127f760e32e829a98352223e1eaea743a839c",
+      "bbox_south_west_north_east": [
+        51.03329495944352,
+        7.0094501305500785,
+        51.034670914818655,
+        7.010868084161459
+      ]
+    },
+    {
+      "key": "parking/way/268724483",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "99c165b483d2f55b9b296a82c88f12a8e9251a056807196c87776f2a46c7ab24",
+      "bbox_south_west_north_east": [
+        51.033741573914796,
+        7.011464016625943,
+        51.03500895402616,
+        7.013718915917145
+      ]
+    },
+    {
+      "key": "parking/way/27646300",
+      "association_status": "near_provisional_building_candidate",
+      "geometry_sha256": "055bedb6beed377b9f569cf3055b6c860392377bc4da776fdeed94889dda6fd2",
+      "bbox_south_west_north_east": [
+        53.05110207492495,
+        8.961476852695268,
+        53.05330252496475,
+        8.963511760298772
+      ]
+    },
+    {
+      "key": "parking/way/28098616",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "8f16234940d7ef1bbbcdae9a5d8cfb53d61fc198a2bdadcbfbe7584ac1962870",
+      "bbox_south_west_north_east": [
+        48.774415889031275,
+        11.385459974411491,
+        48.77605280321273,
+        11.387646929493707
+      ]
+    },
+    {
+      "key": "parking/way/28334437",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "84536cef44130a02667eeb3fba4de558906b3b0b6369f54e62494d84fd76ab60",
+      "bbox_south_west_north_east": [
+        50.896729245709324,
+        7.069578431059861,
+        50.898147348809,
+        7.072969782338721
+      ]
+    },
+    {
+      "key": "parking/way/28490289",
+      "association_status": "near_provisional_building_candidate",
+      "geometry_sha256": "e78f0ac967ba15a7d3ad6d0c837243cdb28841df7f7dcc99c00a0f0f5ff3636c",
+      "bbox_south_west_north_east": [
+        47.634484970433284,
+        7.676528437479454,
+        47.63579091673344,
+        7.678806780334955
+      ]
+    },
+    {
+      "key": "parking/way/292290855",
+      "association_status": "near_provisional_building_candidate",
+      "geometry_sha256": "f815f5caddc2a369dc89e82c3ac58a1af32947c6787bf876dfab5fade613bfcb",
+      "bbox_south_west_north_east": [
+        49.18336000390147,
+        9.22299786473584,
+        49.18447317652219,
+        9.224530641069613
+      ]
+    },
+    {
+      "key": "parking/way/307157413",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "6c5d6c5d093a27e7022eb9a411f178171383406bae9339300d9c7c4f5a5bc8af",
+      "bbox_south_west_north_east": [
+        51.37161323824523,
+        7.455683492316281,
+        51.3753861448923,
+        7.4590309632847465
+      ]
+    },
+    {
+      "key": "parking/way/38891010",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "18464383f7621295ed7f01e42056ee821b840aaebd831396a6bb704fcd6762a8",
+      "bbox_south_west_north_east": [
+        51.450721180229486,
+        6.989256762410192,
+        51.45198808714694,
+        6.991077500093952
+      ]
+    },
+    {
+      "key": "parking/way/445765816",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "a6317d096737a4c7543ddade8a241464be1e890abfb30b5929938886bc5acb4a",
+      "bbox_south_west_north_east": [
+        51.46966221765686,
+        7.044963042802161,
+        51.47023478232768,
+        7.046189757544555
+      ]
+    },
+    {
+      "key": "parking/way/4700611",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "ed2282c4f64cddec1e03a6f0fb94dd024fc08d433dcceac80663cf6f2af3da04",
+      "bbox_south_west_north_east": [
+        53.008020276286516,
+        8.702957907610307,
+        53.00927392335325,
+        8.706269992366805
+      ]
+    },
+    {
+      "key": "parking/way/51943980",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "2135de08e867311c07b5c895d51e029f17ae88020fb26040b580c05e14ca4eb9",
+      "bbox_south_west_north_east": [
+        51.467498671753496,
+        7.044520476491042,
+        51.46990162799295,
+        7.0466433418621675
+      ]
+    },
+    {
+      "key": "parking/way/52007851",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "f2d7a619505d850569d72a2c03a7896ffc98687aa50220563c6b7fce87960876",
+      "bbox_south_west_north_east": [
+        51.272214813917785,
+        9.500814315274974,
+        51.27400109489075,
+        9.505059488126507
+      ]
+    },
+    {
+      "key": "parking/way/62811073",
+      "association_status": "near_provisional_building_candidate",
+      "geometry_sha256": "dba0e6a4f7fba74d2076b6c08b8e25313bbe5b08b5e3583d7a2ffcef8c4b2a1d",
+      "bbox_south_west_north_east": [
+        50.91817175384778,
+        6.836411076170503,
+        50.91982234828742,
+        6.8407153377138945
+      ]
+    },
+    {
+      "key": "parking/way/657262033",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "e5b5ab243a475b110fb7a508983bd1966624f128234539104875f2b0243d174b",
+      "bbox_south_west_north_east": [
+        52.52844808303492,
+        13.217271267799822,
+        52.52955907880564,
+        13.220593249339776
+      ]
+    },
+    {
+      "key": "parking/way/74164747",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "b3758a41ee3d9d5bd55d061ff94b465ce7d0b5500368d833c2943f4695404955",
+      "bbox_south_west_north_east": [
+        51.179018653333465,
+        6.8501226111887785,
+        51.18054833266019,
+        6.8538624789279226
+      ]
+    },
+    {
+      "key": "parking/way/74396587",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "bf3aebe0cff77115cd516b69af9391368602516d2ba635b852be92bdf86a8efc",
+      "bbox_south_west_north_east": [
+        51.453616726087496,
+        7.391182783886621,
+        51.457188334009366,
+        7.393493217351596
+      ]
+    },
+    {
+      "key": "parking/way/803807087",
+      "association_status": "near_provisional_building_candidate",
+      "geometry_sha256": "4bff60859af76970e05fe146133bb688bd8fe82724a2f807a8f266ffc76bc310",
+      "bbox_south_west_north_east": [
+        51.348334596493196,
+        6.528851033162654,
+        51.350499188905104,
+        6.532002747866268
+      ]
+    },
+    {
+      "key": "parking/way/88260898",
+      "association_status": "near_provisional_building_candidate",
+      "geometry_sha256": "89c9147c51b2cf286b51f023f31ea1d9ca617bae2672df2ca83ea1a618800d83",
+      "bbox_south_west_north_east": [
+        51.190125759285806,
+        7.066700930066082,
+        51.190990438322636,
+        7.068098814982734
+      ]
+    },
+    {
+      "key": "parking/way/93218850",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "a142696a9481922ba336ec4294cec685791bc4fae3314b2f9033c782a044e43f",
+      "bbox_south_west_north_east": [
+        51.498985377825036,
+        7.256977852767881,
+        51.50017029899215,
+        7.259130163385614
+      ]
+    },
+    {
+      "key": "parking/way/98235011",
+      "association_status": "near_accepted_building_candidate",
+      "geometry_sha256": "c11df7258d0de6213ba62e3a83c9335c5b91ff1b95cbc735d42287074fc1b140",
+      "bbox_south_west_north_east": [
+        51.47321287436724,
+        7.13465006520371,
+        51.47451340731198,
+        7.137643670270877
+      ]
+    },
+    {
+      "key": "roof/relation/175667",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "07f0b1b358ece05967fe0e4d61fbbbebd59f83a38ac03a6a9a65a6a93277d22d",
+      "bbox_south_west_north_east": [
+        52.46699682530503,
+        13.36697444876632,
+        52.46892411564228,
+        13.370601410387472
+      ]
+    },
+    {
+      "key": "roof/way/100467501",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "cf66c35d56950bf50ddbc62fb1117672127383faedc33364f14e8b7917648c47",
+      "bbox_south_west_north_east": [
+        51.34071607101343,
+        9.475727259429034,
+        51.34208937174563,
+        9.478921021357932
+      ]
+    },
+    {
+      "key": "roof/way/102410272",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "d07680be64dd61915186f2629fb3dffaaa4e7b5557bb79356ccb120597e2b72f",
+      "bbox_south_west_north_east": [
+        48.56430754640887,
+        13.425237369963593,
+        48.56575475339505,
+        13.427308929918125
+      ]
+    },
+    {
+      "key": "roof/way/108248464",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "526bb3af078c4a1008804c75fde03ccd55fcfd9c9e04e044f5619dede1e51826",
+      "bbox_south_west_north_east": [
+        49.01679299138884,
+        8.354158111013875,
+        49.01812062535708,
+        8.356464916027885
+      ]
+    },
+    {
+      "key": "roof/way/1096186782",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "e27eaff73639588d0aa9df839de5a923d0637044a3ee8066db6221b453939f25",
+      "bbox_south_west_north_east": [
+        48.40443056701937,
+        10.876248729118604,
+        48.406159890287256,
+        10.879311914163338
+      ]
+    },
+    {
+      "key": "roof/way/110307778",
+      "association_status": "provisional_association",
+      "geometry_sha256": "f5893eca05e685bebee46c8d816e80cb427469729c1dacbfd755155d16d8eaa9",
+      "bbox_south_west_north_east": [
+        48.552694242988494,
+        12.156632378887872,
+        48.554602767000375,
+        12.159854151050872
+      ]
+    },
+    {
+      "key": "roof/way/113971134",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "d43e8168e5da808e048ff48b954126c8b34d46a3ab0b2033e0839744f1037f4c",
+      "bbox_south_west_north_east": [
+        49.72969154130107,
+        6.60181047759893,
+        49.73222084304355,
+        6.60493594067457
+      ]
+    },
+    {
+      "key": "roof/way/115955249",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "c586d931f29774af5932e641df4eaee7a6636a8233ba3a9c5d9dd66349c6624f",
+      "bbox_south_west_north_east": [
+        50.39562415341471,
+        7.509220679776471,
+        50.397188785300344,
+        7.512619464729227
+      ]
+    },
+    {
+      "key": "roof/way/116468051",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "b784eb89d5cbbe78a85eb62309e7e8e9b85f3d97ad8ad102c83a6942d2bad499",
+      "bbox_south_west_north_east": [
+        49.52915934572575,
+        8.482409345931895,
+        49.53066455972436,
+        8.484280564442978
+      ]
+    },
+    {
+      "key": "roof/way/118286988",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "5f47fc029591ba58de325c4d5f4da97dd2be0b0d28df9e45e1e3bc3bcb866702",
+      "bbox_south_west_north_east": [
+        48.26207352007806,
+        8.850975100832178,
+        48.263120879859656,
+        8.852562895592788
+      ]
+    },
+    {
+      "key": "roof/way/118752984",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "bb6a8f516b90e247f9cb326f541c90a1394f744f0faa3508099c82051929e708",
+      "bbox_south_west_north_east": [
+        53.546016728525835,
+        8.59461737926637,
+        53.54734291224653,
+        8.596726536159695
+      ]
+    },
+    {
+      "key": "roof/way/118916585",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "368727d78b3881a6fa230cedf29623aa8c461876318699c485cd5a4fa43e73b3",
+      "bbox_south_west_north_east": [
+        53.45797240308872,
+        9.99182127177358,
+        53.45927419622734,
+        9.993746731640442
+      ]
+    },
+    {
+      "key": "roof/way/119309678",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "69cecd1002075e1102dd4aa6417de93a4e65fd872406bce3ca90c3da768dbcba",
+      "bbox_south_west_north_east": [
+        51.17798386086083,
+        6.850281862313279,
+        51.17994339482822,
+        6.854208229147824
+      ]
+    },
+    {
+      "key": "roof/way/120126663",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "21a47b0f8e0ddd465c65b598672b5674b5d6f13de24de5ca875b384f755d0cfa",
+      "bbox_south_west_north_east": [
+        47.93533649978335,
+        8.498627028975518,
+        47.93709381126665,
+        8.500802486502465
+      ]
+    },
+    {
+      "key": "roof/way/126440693",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "50d3ed293c2de78eeb561ee99d2c8a47cade6e7eee7d8f2be85d7543a848a358",
+      "bbox_south_west_north_east": [
+        48.7724614095759,
+        9.258624443567939,
+        48.77497745917092,
+        9.261398539248303
+      ]
+    },
+    {
+      "key": "roof/way/136758060",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "4e82a423b7821b755b2ee04ab8c48338a23e85f934da83ba64afeda0f8a67152",
+      "bbox_south_west_north_east": [
+        48.17000832765039,
+        8.57302391875891,
+        48.171095775384195,
+        8.574959583157428
+      ]
+    },
+    {
+      "key": "roof/way/148988039",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "69bb1e00cae2f6fe3e7a9de54f857a19aa63fcb4626c20783e0bff2ae19690bf",
+      "bbox_south_west_north_east": [
+        48.42340409745278,
+        10.861438788124612,
+        48.42472594705561,
+        10.864056050838885
+      ]
+    },
+    {
+      "key": "roof/way/155164522",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "b3021dbf6073bba95310fc6178e46e4e9f681ef9cd221115b38c2c8321bc2755",
+      "bbox_south_west_north_east": [
+        49.97257437414803,
+        8.284173358520858,
+        49.974487313803046,
+        8.288498868011843
+      ]
+    },
+    {
+      "key": "roof/way/158710321",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "aa288c32b8098af88502f69f653d2185523d22e45464f62a516690d583ad0a39",
+      "bbox_south_west_north_east": [
+        47.79222866959232,
+        9.611254013425178,
+        47.79408144989763,
+        9.613761197644607
+      ]
+    },
+    {
+      "key": "roof/way/159926244",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "881bb020a63b16cf087eafc2bbcf755f375ed925e85045fdb96c8017d6fbdad5",
+      "bbox_south_west_north_east": [
+        53.51141861246401,
+        10.090399524611602,
+        53.51366058786925,
+        10.093884385618601
+      ]
+    },
+    {
+      "key": "roof/way/182747470",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "6d1340bd153db4c9c60db4f4ca1311db34a976318079a5f2a70a8264fc444fc3",
+      "bbox_south_west_north_east": [
+        48.39883320074405,
+        9.967970065769304,
+        48.400461496677714,
+        9.97205693626144
+      ]
+    },
+    {
+      "key": "roof/way/19727326",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "214ed566693186bbc11a80d438a3e2e17168898d66d672ce248467e5a80e6ab7",
+      "bbox_south_west_north_east": [
+        50.79628472203281,
+        6.10384647976229,
+        50.79816209973899,
+        6.106638207753519
+      ]
+    },
+    {
+      "key": "roof/way/201115893",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "8997ef6684c1a38c39a7e3831ad019ca8c77fdc0e37c828dbe4181525f3cd27c",
+      "bbox_south_west_north_east": [
+        51.27259678092484,
+        7.219058806206993,
+        51.273793245923756,
+        7.224310116443072
+      ]
+    },
+    {
+      "key": "roof/way/227400424",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "77fa15feb6f358691ad842ca76ec6097a066adbf0a719c8681d1c363de31a2f5",
+      "bbox_south_west_north_east": [
+        48.71457212280186,
+        10.159173766747061,
+        48.716210377094384,
+        10.161471829795934
+      ]
+    },
+    {
+      "key": "roof/way/22762245",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "dba3ee0765e5312d38ad0b73e44a36e8eb109d136cab92183fdf0ccbd7d027f6",
+      "bbox_south_west_north_east": [
+        53.58483508188335,
+        9.872612427323745,
+        53.58670771762104,
+        9.874839513583902
+      ]
+    },
+    {
+      "key": "roof/way/23180187",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "3821f328d1004ef759b19377b057ac7293ecee12e9ed79987b063ed8a60c3c31",
+      "bbox_south_west_north_east": [
+        51.762546704693385,
+        14.359147726069738,
+        51.7638848966598,
+        14.360960365545413
+      ]
+    },
+    {
+      "key": "roof/way/23386017",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "5b4cfd62f75641fff0cd263fdbc25c0768c9a73e05252ff3e034f58d219ae9b0",
+      "bbox_south_west_north_east": [
+        53.60289513378744,
+        10.07032496361853,
+        53.60466406734149,
+        10.073550034491738
+      ]
+    },
+    {
+      "key": "roof/way/23619103",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "20e978df613ca28f01ae4adf28699b60034d84f8c5d1086392bc5129bc6b0834",
+      "bbox_south_west_north_east": [
+        51.37317745113051,
+        6.7732628311435175,
+        51.37508024901854,
+        6.775170773989461
+      ]
+    },
+    {
+      "key": "roof/way/24025561",
+      "association_status": "provisional_association",
+      "geometry_sha256": "73fe90c92395d99175e0eb0484d8191e04838f1a75b3a94bdea0cd3ceeec838f",
+      "bbox_south_west_north_east": [
+        53.57622965707362,
+        10.079706230765508,
+        53.57816128261133,
+        10.082337467747964
+      ]
+    },
+    {
+      "key": "roof/way/24230210",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "babd2b363e1160abfe2766feaa6f24685382b97231a1e43433bd381deba5c04f",
+      "bbox_south_west_north_east": [
+        52.46080921231614,
+        13.502633415845493,
+        52.46245168600872,
+        13.505516346816455
+      ]
+    },
+    {
+      "key": "roof/way/24393423",
+      "association_status": "provisional_association",
+      "geometry_sha256": "e9ac709ca3fc87c245558d7e02c80bf365e2aa370f71fb6d0daa97f79e9286da",
+      "bbox_south_west_north_east": [
+        50.805805091608384,
+        6.1489607749706074,
+        50.807854300434386,
+        6.152323922769972
+      ]
+    },
+    {
+      "key": "roof/way/24517843",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "5f001445867ae234580a7b8ea8ff621de4c9981bfeecdba777da718dc6e95c92",
+      "bbox_south_west_north_east": [
+        51.22294065932278,
+        6.85241949666111,
+        51.22500044128635,
+        6.858954006801993
+      ]
+    },
+    {
+      "key": "roof/way/24802709",
+      "association_status": "provisional_association",
+      "geometry_sha256": "e42eb6e3489bdc34483c168117a41b1227c3ef3a1931fde0867b8adff0d6aecb",
+      "bbox_south_west_north_east": [
+        49.960825260890736,
+        9.171016756190488,
+        49.963411939145004,
+        9.174971634602004
+      ]
+    },
+    {
+      "key": "roof/way/24864353",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "8640b546ad3d7bd09d8b4453222609623dc26089b9da7cf959f76c42575f7a7b",
+      "bbox_south_west_north_east": [
+        51.5362385411624,
+        7.475149595883705,
+        51.537708156088435,
+        7.479096108752534
+      ]
+    },
+    {
+      "key": "roof/way/25114190",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "8d980faa935d3164701900bc29a209f2eae7d545a3c38cc94f721b51d7bbf646",
+      "bbox_south_west_north_east": [
+        52.5285330593164,
+        13.217586084935604,
+        52.53039349176316,
+        13.221545062109472
+      ]
+    },
+    {
+      "key": "roof/way/25520936",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "eec96e9a0f72537055a0eee21d7f99f7f0542b6263ae3124a450a65dfa79b9a4",
+      "bbox_south_west_north_east": [
+        50.11348196619241,
+        8.928675878046393,
+        50.115709344000955,
+        8.932731051330798
+      ]
+    },
+    {
+      "key": "roof/way/25619088",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "3b09c6f9a4e5ccecee3dca272b21de0302c4674102f45d5e6600b7dbe38f6510",
+      "bbox_south_west_north_east": [
+        54.33083553047956,
+        10.112987237371328,
+        54.33279930743858,
+        10.116110215867124
+      ]
+    },
+    {
+      "key": "roof/way/26285106",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "7aec04ace820044c08af1ca21f15c131d42cc6b0c145e34aedf112831b55e9d1",
+      "bbox_south_west_north_east": [
+        50.56639027514398,
+        8.50201830122774,
+        50.56746382479291,
+        8.505689997565963
+      ]
+    },
+    {
+      "key": "roof/way/26570627",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "fb3477aedd7de42ac24e6691b0ad654192a6b1a25e0ca41ca04621f2cf55425f",
+      "bbox_south_west_north_east": [
+        53.663691481606456,
+        9.993273624095142,
+        53.665320598650986,
+        9.99495712763427
+      ]
+    },
+    {
+      "key": "roof/way/26790316",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "c59595aac0c651d6dfad28a0fe48b28f5d7c14b2e075679b7211c016baba06f5",
+      "bbox_south_west_north_east": [
+        51.03344747673676,
+        7.009926490751857,
+        51.03506852501856,
+        7.0128497079467556
+      ]
+    },
+    {
+      "key": "roof/way/26832459",
+      "association_status": "provisional_association",
+      "geometry_sha256": "1b80667e1dfe047b1f91c7a8561fe0ae110443747f8994d0a75b8aec25eea4df",
+      "bbox_south_west_north_east": [
+        52.4846702922966,
+        13.420710892308064,
+        52.48585190617062,
+        13.422789824195931
+      ]
+    },
+    {
+      "key": "roof/way/26958041",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "5638f594c28e22e1e4e8ee0453f10f18bac161d58f45312192c73c9f6c84b644",
+      "bbox_south_west_north_east": [
+        48.82109189817434,
+        10.043410604575445,
+        48.82229566689937,
+        10.046721295449425
+      ]
+    },
+    {
+      "key": "roof/way/27436941",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "29f3238be164a121b8836fd37b5e923b714b7a3e0b220854228f30cfd3a8165b",
+      "bbox_south_west_north_east": [
+        48.89801690757608,
+        8.667223497357737,
+        48.89937389243468,
+        8.670675704512288
+      ]
+    },
+    {
+      "key": "roof/way/27493871",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "20a3202ec8066ab406e5909c56af56a1aa4ef1f506d27028a1bd58f837476a9b",
+      "bbox_south_west_north_east": [
+        52.40646413274619,
+        13.370907251573362,
+        52.40846296153317,
+        13.373469137758981
+      ]
+    },
+    {
+      "key": "roof/way/28132164",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "78b630c0b5f22e30fc5d4699fc555c3e5e66daeeab3fe37e67066ead400d8750",
+      "bbox_south_west_north_east": [
+        49.40636569049197,
+        10.999523685990278,
+        49.40788470931614,
+        11.002192116813141
+      ]
+    },
+    {
+      "key": "roof/way/28143475",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "52b1c51b212d5c549b39b4f275660be086e4ad61f53f1c030034634d59ab054f",
+      "bbox_south_west_north_east": [
+        52.21482131516605,
+        10.529648912553059,
+        52.216274085427756,
+        10.531666681706438
+      ]
+    },
+    {
+      "key": "roof/way/28334460",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "a3368297c39f5cb32252833c7ddc257e46c500167ff679096b018b279ef8afb7",
+      "bbox_south_west_north_east": [
+        50.896105640490205,
+        7.069877293481271,
+        50.89758807460171,
+        7.073528242219086
+      ]
+    },
+    {
+      "key": "roof/way/28505596",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "b04a1de8f2cfce020b27a1a2191d95873d7ffc7ac00cf06980d76d6f98982a1f",
+      "bbox_south_west_north_east": [
+        52.46394042387684,
+        13.324746385808282,
+        52.46556475413321,
+        13.327990337017676
+      ]
+    },
+    {
+      "key": "roof/way/285603576",
+      "association_status": "provisional_association",
+      "geometry_sha256": "29bbf82f0da2756dc8d95de9d94e7c1aaba5c9d7c6df38a4d89c7679ef2cc34b",
+      "bbox_south_west_north_east": [
+        52.53373041033956,
+        13.175009239518795,
+        52.53568785133665,
+        13.177067310309818
+      ]
+    },
+    {
+      "key": "roof/way/28715246",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "6a232fdabc09f65acc4692372f694b4ec57b585f40abca04b96c77e4d123a36b",
+      "bbox_south_west_north_east": [
+        48.859527119851194,
+        8.239894174584373,
+        48.86144946550446,
+        8.242843866192315
+      ]
+    },
+    {
+      "key": "roof/way/28846255",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "51a94fd936dcb0b15cd64004a522acf9490a72521b86e2ab39348c948243286e",
+      "bbox_south_west_north_east": [
+        53.86114895193539,
+        10.62661174424913,
+        53.8632326582529,
+        10.62954513347553
+      ]
+    },
+    {
+      "key": "roof/way/29033850",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "1b2a4b479ed8bde5866527aa42932c202542b2dd1135f8601eb8a038cfbc0e9b",
+      "bbox_south_west_north_east": [
+        51.45085625940298,
+        6.988668119295812,
+        51.45214062003405,
+        6.990241880198133
+      ]
+    },
+    {
+      "key": "roof/way/293418460",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "f4c77463a718b1fd283f167c16b7c0d5baa6eacb3753cc774e6cb977945dcfd8",
+      "bbox_south_west_north_east": [
+        51.467625328404125,
+        7.045618278494087,
+        51.4692935831098,
+        7.047674725919941
+      ]
+    },
+    {
+      "key": "roof/way/29350709",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "0fabc6e19b52176b54fdfee070791d3d1067dc78f3cc8eeac3cab8a9327cc753",
+      "bbox_south_west_north_east": [
+        54.26904525292555,
+        13.112835908360523,
+        54.27098242187771,
+        13.115392919225457
+      ]
+    },
+    {
+      "key": "roof/way/29401013",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "0db717b31f97a0d410c2047a373386a96f33ea696ef89dac1a7d38f0685032ee",
+      "bbox_south_west_north_east": [
+        50.945049045202275,
+        6.910123633475625,
+        50.94696991432134,
+        6.912452824828153
+      ]
+    },
+    {
+      "key": "roof/way/299599300",
+      "association_status": "provisional_association",
+      "geometry_sha256": "5f529b6e1d314d56daa57671bfe198a4210292545658b85d4f150a0a048da4eb",
+      "bbox_south_west_north_east": [
+        53.603555828106806,
+        9.962594851517729,
+        53.605011792359676,
+        9.966370706475937
+      ]
+    },
+    {
+      "key": "roof/way/30072118",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "24b7754b512b1bbfc369a778d0441d505d4b73bd229e22b9934c439f0decf699",
+      "bbox_south_west_north_east": [
+        48.77455251585522,
+        11.385383890362863,
+        48.775902503388906,
+        11.38712183865163
+      ]
+    },
+    {
+      "key": "roof/way/307282610",
+      "association_status": "provisional_association",
+      "geometry_sha256": "8f00f2a4e6296ea8d01b317aaca7f31cec10d5954a43a8936a2c3ac92b367039",
+      "bbox_south_west_north_east": [
+        51.224005746016,
+        6.811043848660483,
+        51.22547373827384,
+        6.8133339326304485
+      ]
+    },
+    {
+      "key": "roof/way/30808551",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "95280a0736a645424ddce6437997050db25812850165f5335c99c057349ba512",
+      "bbox_south_west_north_east": [
+        48.06980528216836,
+        8.44531943011778,
+        48.07154772776805,
+        8.448082762527621
+      ]
+    },
+    {
+      "key": "roof/way/30860030",
+      "association_status": "provisional_association",
+      "geometry_sha256": "b554d2464b22bb99f19b173245e528554a0aa6c499a05ab5259fe79130414196",
+      "bbox_south_west_north_east": [
+        51.15343692462922,
+        6.447916995840315,
+        51.1553118733772,
+        6.450610904013523
+      ]
+    },
+    {
+      "key": "roof/way/31410869",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "915073fd43118213d570aa2db7fb588c045e353a579199b9cd8e6cb2138dcd18",
+      "bbox_south_west_north_east": [
+        48.99329086232856,
+        12.115195772746024,
+        48.995066845574485,
+        12.117821021157676
+      ]
+    },
+    {
+      "key": "roof/way/31670307",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "322e2e8e9cc9b7d3f82b95c229f9e8608821c8c73eb795adbdd36a65f2685eff",
+      "bbox_south_west_north_east": [
+        52.27134107894969,
+        10.496243406731276,
+        52.27371072382766,
+        10.498827315812033
+      ]
+    },
+    {
+      "key": "roof/way/322043866",
+      "association_status": "provisional_association",
+      "geometry_sha256": "6d2c2afe560048d7a875ae8b9c2c671f82c5fb1fa907e76235bac80300ea1263",
+      "bbox_south_west_north_east": [
+        51.34903415402256,
+        6.530288649268135,
+        51.35106064944778,
+        6.532944489166095
+      ]
+    },
+    {
+      "key": "roof/way/33542710",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "56414f97e705168115a91303e2c4583997dc998812169ff80ce305d0ba6abfe4",
+      "bbox_south_west_north_east": [
+        52.357177004506454,
+        13.434929536977888,
+        52.3589756969826,
+        13.437863071238725
+      ]
+    },
+    {
+      "key": "roof/way/33712617",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "5aaef625199460001bf356e13b02fa4fababf2ee99a9d40abb9ecfbccd826303",
+      "bbox_south_west_north_east": [
+        48.471101208731405,
+        7.927868737619616,
+        48.47258206304702,
+        7.931471939633901
+      ]
+    },
+    {
+      "key": "roof/way/34201992",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "63123288b1ad72fe76c59f2acd4ee1483862a667246518845590069c7f22d410",
+      "bbox_south_west_north_east": [
+        48.00417165743756,
+        10.17040157339671,
+        48.006116692866954,
+        10.173089720468745
+      ]
+    },
+    {
+      "key": "roof/way/35910944",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "7bd3c753bfc62b0bcb1be12ab86744cbab95583d903742cfe18c143e76ca5ea8",
+      "bbox_south_west_north_east": [
+        50.758401847613605,
+        7.026509916863132,
+        50.76066715403579,
+        7.029654575013967
+      ]
+    },
+    {
+      "key": "roof/way/36124286",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "0c226fb4b64d6c5e9979301aa0c7b7470c84e2ddb6e896a35b8b756b0d8d7ade",
+      "bbox_south_west_north_east": [
+        50.43801461882743,
+        7.488907603558752,
+        50.43957939869165,
+        7.490980689809598
+      ]
+    },
+    {
+      "key": "roof/way/369231324",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "8c4b3e1f3761f9d4939cd56be3f0c3c298815367e0ac2f567c9ffc2143c3f049",
+      "bbox_south_west_north_east": [
+        50.73018443552431,
+        7.077572238243164,
+        50.73241182044173,
+        7.08045866745539
+      ]
+    },
+    {
+      "key": "roof/way/37120956",
+      "association_status": "provisional_association",
+      "geometry_sha256": "d6e9eed4124ad6347223e5a456672e60d06ac49d92d70ab2cac0c8cff3246dfd",
+      "bbox_south_west_north_east": [
+        53.05115567529814,
+        8.9622240514754,
+        53.05335016538746,
+        8.964497259175094
+      ]
+    },
+    {
+      "key": "roof/way/40450747",
+      "association_status": "provisional_association",
+      "geometry_sha256": "fd17625c2f75219af6077fb6f54fb132609bb6950c356993defbbb7489913c2e",
+      "bbox_south_west_north_east": [
+        48.54473119596642,
+        8.728628555365598,
+        48.54590730099054,
+        8.730384047330812
+      ]
+    },
+    {
+      "key": "roof/way/40459768",
+      "association_status": "provisional_association",
+      "geometry_sha256": "72c3591a1e3c57be57863aa2432219b5d8ffa6c922d48ffaf982cd90a3085171",
+      "bbox_south_west_north_east": [
+        52.59434091067928,
+        13.334178153185508,
+        52.595719288454646,
+        13.336611844617636
+      ]
+    },
+    {
+      "key": "roof/way/40707294",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "52a092ce2489847fe7d31e315143cfa9c55d9a4036f44fef2d3ff4ef13e40a71",
+      "bbox_south_west_north_east": [
+        52.03437179927812,
+        8.56621034951821,
+        52.03541829483235,
+        8.568274030106645
+      ]
+    },
+    {
+      "key": "roof/way/44004385",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "ed1089bf4e4bcc68d5d596efe98c57896134c1036da61e2019f88ee277a52b60",
+      "bbox_south_west_north_east": [
+        48.72337020326546,
+        9.12438477532539,
+        48.724830598561425,
+        9.127912722434692
+      ]
+    },
+    {
+      "key": "roof/way/44904672",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "cb139a3b36ded2f7d1dd6fa473eb50d2954c84b9a04123fd4f59756d927da39a",
+      "bbox_south_west_north_east": [
+        53.23798912156811,
+        10.462570957621427,
+        53.240262787863216,
+        10.464693738237042
+      ]
+    },
+    {
+      "key": "roof/way/44958511",
+      "association_status": "provisional_association",
+      "geometry_sha256": "701e003b46dd74d2a7bcd7484bd5d7b880f6a4356bf664dede1600ee603ebd1f",
+      "bbox_south_west_north_east": [
+        52.512431323795035,
+        13.303581798054493,
+        52.51310401836763,
+        13.305242817349674
+      ]
+    },
+    {
+      "key": "roof/way/45883708",
+      "association_status": "provisional_association",
+      "geometry_sha256": "e3859977682f7eebab24f9e5d0935d9ab83b24bf19b434cc7a363a61b07a96aa",
+      "bbox_south_west_north_east": [
+        49.183265730787724,
+        9.223277069003247,
+        49.1843906693268,
+        9.224699338805326
+      ]
+    },
+    {
+      "key": "roof/way/46754081",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "bbfa99bb61f127571db107bc42b019297819427a5a8eb199b92aa1e64e5a2f31",
+      "bbox_south_west_north_east": [
+        53.84286805949058,
+        10.705247642227377,
+        53.84402433782314,
+        10.708151350850885
+      ]
+    },
+    {
+      "key": "roof/way/4700552",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "2812bfa3831ac7058b561c02dfa4f1642b6b594f2ac5c28e602f698b148c2600",
+      "bbox_south_west_north_east": [
+        53.00722797631457,
+        8.703226984627722,
+        53.00875362394304,
+        8.706389208231716
+      ]
+    },
+    {
+      "key": "roof/way/48133177",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "8f189bf94567ae3810c7fb24a9ee37159a1a775fec9dcc04e38269c95c4dda2e",
+      "bbox_south_west_north_east": [
+        52.16547353764585,
+        11.662721639052606,
+        52.16731556110096,
+        11.664982348001038
+      ]
+    },
+    {
+      "key": "roof/way/48466507",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "7d9e4234dc667e2adb0f408de05515ad3106813294848fad3e70bbe2ac7cabb1",
+      "bbox_south_west_north_east": [
+        50.13111423384318,
+        8.761397317497577,
+        50.13321588158899,
+        8.764969286691233
+      ]
+    },
+    {
+      "key": "roof/way/52007850",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "a5483992ab238a13ecc64f7c9d5c3f7cd7916328225c74503773d3aa11be3dc6",
+      "bbox_south_west_north_east": [
+        51.272007602226,
+        9.500314417591282,
+        51.27384949777851,
+        9.503506977397084
+      ]
+    },
+    {
+      "key": "roof/way/52131203",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "9ccf10c6d5778c4787a045fe55c8ed4dac00b7773eea7be0042ca96fc9e7e4f6",
+      "bbox_south_west_north_east": [
+        54.28804323386133,
+        10.227960977822681,
+        54.28997086525914,
+        10.232114498446164
+      ]
+    },
+    {
+      "key": "roof/way/52513722",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "e7c404b2d119550c87793ad5d51e49c13ae1ae5c537f54b3be1ef760bab7ccba",
+      "bbox_south_west_north_east": [
+        49.85401821306266,
+        7.894047195879124,
+        49.85660290619447,
+        7.897318106412888
+      ]
+    },
+    {
+      "key": "roof/way/54727041",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "5f3939634b0efe12adeecde459db791c51dee6ca1a314573afd43010120d505e",
+      "bbox_south_west_north_east": [
+        51.372147645295804,
+        7.456112275816825,
+        51.375432554669786,
+        7.458680706658591
+      ]
+    },
+    {
+      "key": "roof/way/54856134",
+      "association_status": "provisional_association",
+      "geometry_sha256": "10bcc49b354410ab44a555c2deae44a023585af09b62f111d48a3101be47dabf",
+      "bbox_south_west_north_east": [
+        54.35345454118315,
+        10.091125414135135,
+        54.35484396795597,
+        10.093488282065028
+      ]
+    },
+    {
+      "key": "roof/way/56191943",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "d35594e278b06dce15cf20778cbc316b8479e20dc55f1798df65f9efa5c13a17",
+      "bbox_south_west_north_east": [
+        50.88405460253562,
+        6.895340990141528,
+        50.886434726661975,
+        6.8988257474320624
+      ]
+    },
+    {
+      "key": "roof/way/59338792",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "c8f71c9d3122c3ec8c4677f4c4daef057c7965e270d6d4e6d84b48175b0d78ea",
+      "bbox_south_west_north_east": [
+        50.02885262358613,
+        8.220622857918878,
+        50.03033899240429,
+        8.223343375337544
+      ]
+    },
+    {
+      "key": "roof/way/60455187",
+      "association_status": "provisional_association",
+      "geometry_sha256": "f92aff9ff59ca583b9f0c56420e500617578ca2b05890b67e4d412aec0dc35a8",
+      "bbox_south_west_north_east": [
+        52.703105340802054,
+        13.267173905510647,
+        52.70497434499641,
+        13.269470288626144
+      ]
+    },
+    {
+      "key": "roof/way/62811069",
+      "association_status": "provisional_association",
+      "geometry_sha256": "c3dd98daf599de9224e064392948ef2f1ac0407c7b0656d78b3caa1ee434c7b0",
+      "bbox_south_west_north_east": [
+        50.91890205034655,
+        6.836518689087664,
+        50.92055854839581,
+        6.842111310983184
+      ]
+    },
+    {
+      "key": "roof/way/70786923",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "02e7a5712cd51a1dc1f9a134594a20156b4db0dae98606a2c11eb6defb63bcab",
+      "bbox_south_west_north_east": [
+        49.4836572379342,
+        8.352913673594893,
+        49.48549156568611,
+        8.357050026869286
+      ]
+    },
+    {
+      "key": "roof/way/768890944",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "5ca1f125917ce2dc9fea446b6e2196034ca2a95b1839e5fb7b57095d54d89b0c",
+      "bbox_south_west_north_east": [
+        50.99670120686765,
+        13.794872144997235,
+        50.999528169696774,
+        13.798549839105915
+      ]
+    },
+    {
+      "key": "roof/way/80253164",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "f54892c8493fe7541508d3f4b1c1aa4e03f89229355b6d4b1b2ce7afd0f587ae",
+      "bbox_south_west_north_east": [
+        48.4814971590393,
+        8.411090049983798,
+        48.4841635708815,
+        8.41324100064832
+      ]
+    },
+    {
+      "key": "roof/way/80858331",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "35cc6f7e041b174e8fa9f3d075e976351c754d152589043e84815afe6fcd357f",
+      "bbox_south_west_north_east": [
+        52.614305644333,
+        13.432573636531746,
+        52.61582954740528,
+        13.43452456288042
+      ]
+    },
+    {
+      "key": "roof/way/82445638",
+      "association_status": "provisional_association",
+      "geometry_sha256": "792d170802c9a6767994fb624e4e1e8215c7dc4a0d2e90655515081ab4af018a",
+      "bbox_south_west_north_east": [
+        51.31699147849084,
+        6.582917485664459,
+        51.31890972151079,
+        6.585101608013125
+      ]
+    },
+    {
+      "key": "roof/way/87313466",
+      "association_status": "provisional_association",
+      "geometry_sha256": "f958ae3d0ddee873371158c14e6eae7874424106cc66cdadda85849fc9bebc2b",
+      "bbox_south_west_north_east": [
+        51.19029581431761,
+        7.068128133578329,
+        51.19148910656799,
+        7.070222092516581
+      ]
+    },
+    {
+      "key": "roof/way/87352620",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "76bedc81d3d359c0071d2bd59f6b1fb16cd6496c25e3e34495cc8e7b2f506be0",
+      "bbox_south_west_north_east": [
+        48.337942462406524,
+        10.89945446019545,
+        48.33904873760337,
+        10.901558234657818
+      ]
+    },
+    {
+      "key": "roof/way/88370653",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "c61cd3f4daf4a8bb28252401bb1808cc996bab5aad642382125da4100672a003",
+      "bbox_south_west_north_east": [
+        49.45429784392624,
+        8.5111840721668,
+        49.45669035935696,
+        8.513755359945257
+      ]
+    },
+    {
+      "key": "roof/way/90064343",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "6cb2f41ee71d4d66d4a72c89406027afde01215e78faeae2d643bd97663d034a",
+      "bbox_south_west_north_east": [
+        49.34705396780819,
+        6.728473224517367,
+        49.34899725152597,
+        6.731588073283629
+      ]
+    },
+    {
+      "key": "roof/way/90494889",
+      "association_status": "provisional_association",
+      "geometry_sha256": "03d6c63abeb3787630d758d98a8ce9ad90c956619d1531400f8a81330f88ee32",
+      "bbox_south_west_north_east": [
+        47.633614005999085,
+        7.676278563012194,
+        47.63502673896356,
+        7.680478898177294
+      ]
+    },
+    {
+      "key": "roof/way/91898070",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "2f47483146a0e4ac23c398792f83fc8f6603f29bee583ad5bd586baa5a7e3922",
+      "bbox_south_west_north_east": [
+        50.201318921533904,
+        9.137990348437768,
+        50.20256147751423,
+        9.141713453248924
+      ]
+    },
+    {
+      "key": "roof/way/92704442",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "08a7d2ba67e24c625fc24326dbd80434fa6260c01d4bc2914228396c42acf9af",
+      "bbox_south_west_north_east": [
+        53.59579523494379,
+        11.430406999477476,
+        53.59707220897844,
+        11.433487221422485
+      ]
+    },
+    {
+      "key": "roof/way/93211530",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "ec6603d6bb4384ec5966cbbd4701f651256346dd85d7b6d51ff9e2b4878fdadc",
+      "bbox_south_west_north_east": [
+        51.499247831733655,
+        7.2563210652912735,
+        51.50041954630601,
+        7.258787589551318
+      ]
+    },
+    {
+      "key": "roof/way/96216146",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "d04cbb3cbfbe725dd9dd246da59e5938202afdc85280603d1317b9f5de6588f9",
+      "bbox_south_west_north_east": [
+        50.54641147883231,
+        7.109990337763149,
+        50.5476784858793,
+        7.1123516090590595
+      ]
+    },
+    {
+      "key": "roof/way/96593449",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "18c565254168757c5d7dba34082015bdab5ff036968ff82bda96d09a9fbc9822",
+      "bbox_south_west_north_east": [
+        51.47330180270127,
+        7.135141387251116,
+        51.474390899571546,
+        7.1376613488322995
+      ]
+    },
+    {
+      "key": "roof/way/97882534",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "dca3bb81c2d2f4ce6d7348f007516b42e8726371f666b01767fc9b9641c7913c",
+      "bbox_south_west_north_east": [
+        51.45367188854173,
+        7.392732844061399,
+        51.45580570570687,
+        7.395251144178712
+      ]
+    },
+    {
+      "key": "roof/way/98695080",
+      "association_status": "accepted_screening_association",
+      "geometry_sha256": "f5433329cb4e9fb1c8f6ee59a4b733d82e61a9bdd22af9b7766b51868a6aed8c",
+      "bbox_south_west_north_east": [
+        50.49539031975249,
+        12.177535823640182,
+        50.49640457998757,
+        12.180407379879048
+      ]
+    }
+  ],
+  "batches": [
+    {
+      "index": 1,
+      "targets": [
+        "parking/way/107584349",
+        "parking/way/110726720",
+        "parking/way/110732432",
+        "parking/way/142910888",
+        "parking/way/153784496",
+        "parking/way/1559799660",
+        "parking/way/193310520",
+        "parking/way/22973903",
+        "parking/way/23386120",
+        "parking/way/24225627"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.13076755,8.76191372,50.13254797,8.76528676);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.13076755,8.76191372,50.13254797,8.76528676);\nnwr[\"generator:method\"=\"photovoltaic\"](50.13076755,8.76191372,50.13254797,8.76528676);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.13076755,8.76191372,50.13254797,8.76528676);\nnwr[\"roof:material\"=\"solar_panels\"](50.13076755,8.76191372,50.13254797,8.76528676);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.73083325,7.07920028,50.73195654,7.08094409);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.73083325,7.07920028,50.73195654,7.08094409);\nnwr[\"generator:method\"=\"photovoltaic\"](50.73083325,7.07920028,50.73195654,7.08094409);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.73083325,7.07920028,50.73195654,7.08094409);\nnwr[\"roof:material\"=\"solar_panels\"](50.73083325,7.07920028,50.73195654,7.08094409);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.73150815,7.07636397,50.73290316,7.07857187);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.73150815,7.07636397,50.73290316,7.07857187);\nnwr[\"generator:method\"=\"photovoltaic\"](50.73150815,7.07636397,50.73290316,7.07857187);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.73150815,7.07636397,50.73290316,7.07857187);\nnwr[\"roof:material\"=\"solar_panels\"](50.73150815,7.07636397,50.73290316,7.07857187);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.18994125,7.06735209,51.19119374,7.06928807);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.18994125,7.06735209,51.19119374,7.06928807);\nnwr[\"generator:method\"=\"photovoltaic\"](51.18994125,7.06735209,51.19119374,7.06928807);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.18994125,7.06735209,51.19119374,7.06928807);\nnwr[\"roof:material\"=\"solar_panels\"](51.18994125,7.06735209,51.19119374,7.06928807);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.48136751,8.41004937,48.48436209,8.41282059);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.48136751,8.41004937,48.48436209,8.41282059);\nnwr[\"generator:method\"=\"photovoltaic\"](48.48136751,8.41004937,48.48436209,8.41282059);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.48136751,8.41004937,48.48436209,8.41282059);\nnwr[\"roof:material\"=\"solar_panels\"](48.48136751,8.41004937,48.48436209,8.41282059);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.37303099,6.77247564,51.37511231,6.77428324);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.37303099,6.77247564,51.37511231,6.77428324);\nnwr[\"generator:method\"=\"photovoltaic\"](51.37303099,6.77247564,51.37511231,6.77428324);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.37303099,6.77247564,51.37511231,6.77428324);\nnwr[\"roof:material\"=\"solar_panels\"](51.37303099,6.77247564,51.37511231,6.77428324);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.39947593,9.96771885,48.40116415,9.97097874);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.39947593,9.96771885,48.40116415,9.97097874);\nnwr[\"generator:method\"=\"photovoltaic\"](48.39947593,9.96771885,48.40116415,9.97097874);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.39947593,9.96771885,48.40116415,9.97097874);\nnwr[\"roof:material\"=\"solar_panels\"](48.39947593,9.96771885,48.40116415,9.97097874);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.99379056,12.11468435,48.99607115,12.11719803);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.99379056,12.11468435,48.99607115,12.11719803);\nnwr[\"generator:method\"=\"photovoltaic\"](48.99379056,12.11468435,48.99607115,12.11719803);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.99379056,12.11468435,48.99607115,12.11719803);\nnwr[\"roof:material\"=\"solar_panels\"](48.99379056,12.11468435,48.99607115,12.11719803);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.60272881,10.06994060,53.60477090,10.07255165);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.60272881,10.06994060,53.60477090,10.07255165);\nnwr[\"generator:method\"=\"photovoltaic\"](53.60272881,10.06994060,53.60477090,10.07255165);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.60272881,10.06994060,53.60477090,10.07255165);\nnwr[\"roof:material\"=\"solar_panels\"](53.60272881,10.06994060,53.60477090,10.07255165);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.02838221,8.22055421,50.02968499,8.22280249);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.02838221,8.22055421,50.02968499,8.22280249);\nnwr[\"generator:method\"=\"photovoltaic\"](50.02838221,8.22055421,50.02968499,8.22280249);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.02838221,8.22055421,50.02968499,8.22280249);\nnwr[\"roof:material\"=\"solar_panels\"](50.02838221,8.22055421,50.02968499,8.22280249);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "62abbc0cc1f6dc031cb722dd0ff7745b59523c0b59475e6a072a7f6570485655"
+    },
+    {
+      "index": 2,
+      "targets": [
+        "parking/way/24518391",
+        "parking/way/24662344",
+        "parking/way/257001931",
+        "parking/way/26790318",
+        "parking/way/268724483",
+        "parking/way/27646300",
+        "parking/way/28098616",
+        "parking/way/28334437",
+        "parking/way/28490289",
+        "parking/way/292290855"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.53370141,13.17413952,52.53514333,13.17606409);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.53370141,13.17413952,52.53514333,13.17606409);\nnwr[\"generator:method\"=\"photovoltaic\"](52.53370141,13.17413952,52.53514333,13.17606409);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.53370141,13.17413952,52.53514333,13.17606409);\nnwr[\"roof:material\"=\"solar_panels\"](52.53370141,13.17413952,52.53514333,13.17606409);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.96140775,9.17176983,49.96368575,9.17515256);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.96140775,9.17176983,49.96368575,9.17515256);\nnwr[\"generator:method\"=\"photovoltaic\"](49.96140775,9.17176983,49.96368575,9.17515256);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.96140775,9.17176983,49.96368575,9.17515256);\nnwr[\"roof:material\"=\"solar_panels\"](49.96140775,9.17176983,49.96368575,9.17515256);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.20138346,9.13865489,50.20295419,9.14214953);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.20138346,9.13865489,50.20295419,9.14214953);\nnwr[\"generator:method\"=\"photovoltaic\"](50.20138346,9.13865489,50.20295419,9.14214953);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.20138346,9.13865489,50.20295419,9.14214953);\nnwr[\"roof:material\"=\"solar_panels\"](50.20138346,9.13865489,50.20295419,9.14214953);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.03329496,7.00945013,51.03467091,7.01086808);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.03329496,7.00945013,51.03467091,7.01086808);\nnwr[\"generator:method\"=\"photovoltaic\"](51.03329496,7.00945013,51.03467091,7.01086808);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.03329496,7.00945013,51.03467091,7.01086808);\nnwr[\"roof:material\"=\"solar_panels\"](51.03329496,7.00945013,51.03467091,7.01086808);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.03374157,7.01146402,51.03500895,7.01371892);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.03374157,7.01146402,51.03500895,7.01371892);\nnwr[\"generator:method\"=\"photovoltaic\"](51.03374157,7.01146402,51.03500895,7.01371892);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.03374157,7.01146402,51.03500895,7.01371892);\nnwr[\"roof:material\"=\"solar_panels\"](51.03374157,7.01146402,51.03500895,7.01371892);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.05110207,8.96147685,53.05330252,8.96351176);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.05110207,8.96147685,53.05330252,8.96351176);\nnwr[\"generator:method\"=\"photovoltaic\"](53.05110207,8.96147685,53.05330252,8.96351176);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.05110207,8.96147685,53.05330252,8.96351176);\nnwr[\"roof:material\"=\"solar_panels\"](53.05110207,8.96147685,53.05330252,8.96351176);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.77441589,11.38545997,48.77605280,11.38764693);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.77441589,11.38545997,48.77605280,11.38764693);\nnwr[\"generator:method\"=\"photovoltaic\"](48.77441589,11.38545997,48.77605280,11.38764693);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.77441589,11.38545997,48.77605280,11.38764693);\nnwr[\"roof:material\"=\"solar_panels\"](48.77441589,11.38545997,48.77605280,11.38764693);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.89672925,7.06957843,50.89814735,7.07296978);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.89672925,7.06957843,50.89814735,7.07296978);\nnwr[\"generator:method\"=\"photovoltaic\"](50.89672925,7.06957843,50.89814735,7.07296978);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.89672925,7.06957843,50.89814735,7.07296978);\nnwr[\"roof:material\"=\"solar_panels\"](50.89672925,7.06957843,50.89814735,7.07296978);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](47.63448497,7.67652844,47.63579092,7.67880678);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](47.63448497,7.67652844,47.63579092,7.67880678);\nnwr[\"generator:method\"=\"photovoltaic\"](47.63448497,7.67652844,47.63579092,7.67880678);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](47.63448497,7.67652844,47.63579092,7.67880678);\nnwr[\"roof:material\"=\"solar_panels\"](47.63448497,7.67652844,47.63579092,7.67880678);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.18336000,9.22299786,49.18447318,9.22453064);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.18336000,9.22299786,49.18447318,9.22453064);\nnwr[\"generator:method\"=\"photovoltaic\"](49.18336000,9.22299786,49.18447318,9.22453064);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.18336000,9.22299786,49.18447318,9.22453064);\nnwr[\"roof:material\"=\"solar_panels\"](49.18336000,9.22299786,49.18447318,9.22453064);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "485efeeddf3380a41306e9da0864c2d89b5e5a2d69b5b2b5257a3d6c0e7ef66f"
+    },
+    {
+      "index": 3,
+      "targets": [
+        "parking/way/307157413",
+        "parking/way/38891010",
+        "parking/way/445765816",
+        "parking/way/4700611",
+        "parking/way/51943980",
+        "parking/way/52007851",
+        "parking/way/62811073",
+        "parking/way/657262033",
+        "parking/way/74164747",
+        "parking/way/74396587"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.37161324,7.45568349,51.37538614,7.45903096);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.37161324,7.45568349,51.37538614,7.45903096);\nnwr[\"generator:method\"=\"photovoltaic\"](51.37161324,7.45568349,51.37538614,7.45903096);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.37161324,7.45568349,51.37538614,7.45903096);\nnwr[\"roof:material\"=\"solar_panels\"](51.37161324,7.45568349,51.37538614,7.45903096);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.45072118,6.98925676,51.45198809,6.99107750);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.45072118,6.98925676,51.45198809,6.99107750);\nnwr[\"generator:method\"=\"photovoltaic\"](51.45072118,6.98925676,51.45198809,6.99107750);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.45072118,6.98925676,51.45198809,6.99107750);\nnwr[\"roof:material\"=\"solar_panels\"](51.45072118,6.98925676,51.45198809,6.99107750);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.46966222,7.04496304,51.47023478,7.04618976);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.46966222,7.04496304,51.47023478,7.04618976);\nnwr[\"generator:method\"=\"photovoltaic\"](51.46966222,7.04496304,51.47023478,7.04618976);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.46966222,7.04496304,51.47023478,7.04618976);\nnwr[\"roof:material\"=\"solar_panels\"](51.46966222,7.04496304,51.47023478,7.04618976);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.00802028,8.70295791,53.00927392,8.70626999);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.00802028,8.70295791,53.00927392,8.70626999);\nnwr[\"generator:method\"=\"photovoltaic\"](53.00802028,8.70295791,53.00927392,8.70626999);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.00802028,8.70295791,53.00927392,8.70626999);\nnwr[\"roof:material\"=\"solar_panels\"](53.00802028,8.70295791,53.00927392,8.70626999);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.46749867,7.04452048,51.46990163,7.04664334);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.46749867,7.04452048,51.46990163,7.04664334);\nnwr[\"generator:method\"=\"photovoltaic\"](51.46749867,7.04452048,51.46990163,7.04664334);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.46749867,7.04452048,51.46990163,7.04664334);\nnwr[\"roof:material\"=\"solar_panels\"](51.46749867,7.04452048,51.46990163,7.04664334);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.27221481,9.50081432,51.27400109,9.50505949);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.27221481,9.50081432,51.27400109,9.50505949);\nnwr[\"generator:method\"=\"photovoltaic\"](51.27221481,9.50081432,51.27400109,9.50505949);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.27221481,9.50081432,51.27400109,9.50505949);\nnwr[\"roof:material\"=\"solar_panels\"](51.27221481,9.50081432,51.27400109,9.50505949);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.91817175,6.83641108,50.91982235,6.84071534);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.91817175,6.83641108,50.91982235,6.84071534);\nnwr[\"generator:method\"=\"photovoltaic\"](50.91817175,6.83641108,50.91982235,6.84071534);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.91817175,6.83641108,50.91982235,6.84071534);\nnwr[\"roof:material\"=\"solar_panels\"](50.91817175,6.83641108,50.91982235,6.84071534);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.52844808,13.21727127,52.52955908,13.22059325);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.52844808,13.21727127,52.52955908,13.22059325);\nnwr[\"generator:method\"=\"photovoltaic\"](52.52844808,13.21727127,52.52955908,13.22059325);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.52844808,13.21727127,52.52955908,13.22059325);\nnwr[\"roof:material\"=\"solar_panels\"](52.52844808,13.21727127,52.52955908,13.22059325);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.17901865,6.85012261,51.18054833,6.85386248);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.17901865,6.85012261,51.18054833,6.85386248);\nnwr[\"generator:method\"=\"photovoltaic\"](51.17901865,6.85012261,51.18054833,6.85386248);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.17901865,6.85012261,51.18054833,6.85386248);\nnwr[\"roof:material\"=\"solar_panels\"](51.17901865,6.85012261,51.18054833,6.85386248);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.45361673,7.39118278,51.45718833,7.39349322);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.45361673,7.39118278,51.45718833,7.39349322);\nnwr[\"generator:method\"=\"photovoltaic\"](51.45361673,7.39118278,51.45718833,7.39349322);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.45361673,7.39118278,51.45718833,7.39349322);\nnwr[\"roof:material\"=\"solar_panels\"](51.45361673,7.39118278,51.45718833,7.39349322);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "3fb7968ee4f38388246103ca6b15e7eb0899bec24a79fa940793f8f456d23b3c"
+    },
+    {
+      "index": 4,
+      "targets": [
+        "parking/way/803807087",
+        "parking/way/88260898",
+        "parking/way/93218850",
+        "parking/way/98235011",
+        "roof/relation/175667",
+        "roof/way/100467501",
+        "roof/way/102410272",
+        "roof/way/108248464",
+        "roof/way/1096186782",
+        "roof/way/110307778"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.34833460,6.52885103,51.35049919,6.53200275);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.34833460,6.52885103,51.35049919,6.53200275);\nnwr[\"generator:method\"=\"photovoltaic\"](51.34833460,6.52885103,51.35049919,6.53200275);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.34833460,6.52885103,51.35049919,6.53200275);\nnwr[\"roof:material\"=\"solar_panels\"](51.34833460,6.52885103,51.35049919,6.53200275);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.19012576,7.06670093,51.19099044,7.06809881);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.19012576,7.06670093,51.19099044,7.06809881);\nnwr[\"generator:method\"=\"photovoltaic\"](51.19012576,7.06670093,51.19099044,7.06809881);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.19012576,7.06670093,51.19099044,7.06809881);\nnwr[\"roof:material\"=\"solar_panels\"](51.19012576,7.06670093,51.19099044,7.06809881);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.49898538,7.25697785,51.50017030,7.25913016);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.49898538,7.25697785,51.50017030,7.25913016);\nnwr[\"generator:method\"=\"photovoltaic\"](51.49898538,7.25697785,51.50017030,7.25913016);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.49898538,7.25697785,51.50017030,7.25913016);\nnwr[\"roof:material\"=\"solar_panels\"](51.49898538,7.25697785,51.50017030,7.25913016);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.47321287,7.13465007,51.47451341,7.13764367);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.47321287,7.13465007,51.47451341,7.13764367);\nnwr[\"generator:method\"=\"photovoltaic\"](51.47321287,7.13465007,51.47451341,7.13764367);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.47321287,7.13465007,51.47451341,7.13764367);\nnwr[\"roof:material\"=\"solar_panels\"](51.47321287,7.13465007,51.47451341,7.13764367);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.46699683,13.36697445,52.46892412,13.37060141);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.46699683,13.36697445,52.46892412,13.37060141);\nnwr[\"generator:method\"=\"photovoltaic\"](52.46699683,13.36697445,52.46892412,13.37060141);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.46699683,13.36697445,52.46892412,13.37060141);\nnwr[\"roof:material\"=\"solar_panels\"](52.46699683,13.36697445,52.46892412,13.37060141);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.34071607,9.47572726,51.34208937,9.47892102);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.34071607,9.47572726,51.34208937,9.47892102);\nnwr[\"generator:method\"=\"photovoltaic\"](51.34071607,9.47572726,51.34208937,9.47892102);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.34071607,9.47572726,51.34208937,9.47892102);\nnwr[\"roof:material\"=\"solar_panels\"](51.34071607,9.47572726,51.34208937,9.47892102);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.56430755,13.42523737,48.56575475,13.42730893);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.56430755,13.42523737,48.56575475,13.42730893);\nnwr[\"generator:method\"=\"photovoltaic\"](48.56430755,13.42523737,48.56575475,13.42730893);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.56430755,13.42523737,48.56575475,13.42730893);\nnwr[\"roof:material\"=\"solar_panels\"](48.56430755,13.42523737,48.56575475,13.42730893);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.01679299,8.35415811,49.01812063,8.35646492);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.01679299,8.35415811,49.01812063,8.35646492);\nnwr[\"generator:method\"=\"photovoltaic\"](49.01679299,8.35415811,49.01812063,8.35646492);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.01679299,8.35415811,49.01812063,8.35646492);\nnwr[\"roof:material\"=\"solar_panels\"](49.01679299,8.35415811,49.01812063,8.35646492);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.40443057,10.87624873,48.40615989,10.87931191);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.40443057,10.87624873,48.40615989,10.87931191);\nnwr[\"generator:method\"=\"photovoltaic\"](48.40443057,10.87624873,48.40615989,10.87931191);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.40443057,10.87624873,48.40615989,10.87931191);\nnwr[\"roof:material\"=\"solar_panels\"](48.40443057,10.87624873,48.40615989,10.87931191);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.55269424,12.15663238,48.55460277,12.15985415);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.55269424,12.15663238,48.55460277,12.15985415);\nnwr[\"generator:method\"=\"photovoltaic\"](48.55269424,12.15663238,48.55460277,12.15985415);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.55269424,12.15663238,48.55460277,12.15985415);\nnwr[\"roof:material\"=\"solar_panels\"](48.55269424,12.15663238,48.55460277,12.15985415);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "877e4bea499024295a6c79aa3e90100bd4c5829e9b2b67ea6932962312ea407b"
+    },
+    {
+      "index": 5,
+      "targets": [
+        "roof/way/113971134",
+        "roof/way/115955249",
+        "roof/way/116468051",
+        "roof/way/118286988",
+        "roof/way/118752984",
+        "roof/way/118916585",
+        "roof/way/119309678",
+        "roof/way/120126663",
+        "roof/way/126440693",
+        "roof/way/136758060"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.72969154,6.60181048,49.73222084,6.60493594);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.72969154,6.60181048,49.73222084,6.60493594);\nnwr[\"generator:method\"=\"photovoltaic\"](49.72969154,6.60181048,49.73222084,6.60493594);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.72969154,6.60181048,49.73222084,6.60493594);\nnwr[\"roof:material\"=\"solar_panels\"](49.72969154,6.60181048,49.73222084,6.60493594);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.39562415,7.50922068,50.39718879,7.51261946);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.39562415,7.50922068,50.39718879,7.51261946);\nnwr[\"generator:method\"=\"photovoltaic\"](50.39562415,7.50922068,50.39718879,7.51261946);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.39562415,7.50922068,50.39718879,7.51261946);\nnwr[\"roof:material\"=\"solar_panels\"](50.39562415,7.50922068,50.39718879,7.51261946);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.52915935,8.48240935,49.53066456,8.48428056);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.52915935,8.48240935,49.53066456,8.48428056);\nnwr[\"generator:method\"=\"photovoltaic\"](49.52915935,8.48240935,49.53066456,8.48428056);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.52915935,8.48240935,49.53066456,8.48428056);\nnwr[\"roof:material\"=\"solar_panels\"](49.52915935,8.48240935,49.53066456,8.48428056);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.26207352,8.85097510,48.26312088,8.85256290);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.26207352,8.85097510,48.26312088,8.85256290);\nnwr[\"generator:method\"=\"photovoltaic\"](48.26207352,8.85097510,48.26312088,8.85256290);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.26207352,8.85097510,48.26312088,8.85256290);\nnwr[\"roof:material\"=\"solar_panels\"](48.26207352,8.85097510,48.26312088,8.85256290);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.54601673,8.59461738,53.54734291,8.59672654);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.54601673,8.59461738,53.54734291,8.59672654);\nnwr[\"generator:method\"=\"photovoltaic\"](53.54601673,8.59461738,53.54734291,8.59672654);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.54601673,8.59461738,53.54734291,8.59672654);\nnwr[\"roof:material\"=\"solar_panels\"](53.54601673,8.59461738,53.54734291,8.59672654);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.45797240,9.99182127,53.45927420,9.99374673);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.45797240,9.99182127,53.45927420,9.99374673);\nnwr[\"generator:method\"=\"photovoltaic\"](53.45797240,9.99182127,53.45927420,9.99374673);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.45797240,9.99182127,53.45927420,9.99374673);\nnwr[\"roof:material\"=\"solar_panels\"](53.45797240,9.99182127,53.45927420,9.99374673);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.17798386,6.85028186,51.17994339,6.85420823);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.17798386,6.85028186,51.17994339,6.85420823);\nnwr[\"generator:method\"=\"photovoltaic\"](51.17798386,6.85028186,51.17994339,6.85420823);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.17798386,6.85028186,51.17994339,6.85420823);\nnwr[\"roof:material\"=\"solar_panels\"](51.17798386,6.85028186,51.17994339,6.85420823);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](47.93533650,8.49862703,47.93709381,8.50080249);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](47.93533650,8.49862703,47.93709381,8.50080249);\nnwr[\"generator:method\"=\"photovoltaic\"](47.93533650,8.49862703,47.93709381,8.50080249);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](47.93533650,8.49862703,47.93709381,8.50080249);\nnwr[\"roof:material\"=\"solar_panels\"](47.93533650,8.49862703,47.93709381,8.50080249);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.77246141,9.25862444,48.77497746,9.26139854);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.77246141,9.25862444,48.77497746,9.26139854);\nnwr[\"generator:method\"=\"photovoltaic\"](48.77246141,9.25862444,48.77497746,9.26139854);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.77246141,9.25862444,48.77497746,9.26139854);\nnwr[\"roof:material\"=\"solar_panels\"](48.77246141,9.25862444,48.77497746,9.26139854);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.17000833,8.57302392,48.17109578,8.57495958);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.17000833,8.57302392,48.17109578,8.57495958);\nnwr[\"generator:method\"=\"photovoltaic\"](48.17000833,8.57302392,48.17109578,8.57495958);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.17000833,8.57302392,48.17109578,8.57495958);\nnwr[\"roof:material\"=\"solar_panels\"](48.17000833,8.57302392,48.17109578,8.57495958);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "e5a8a179e7799585e269890dc84db66ede244d52ab592f8e8737c273c16439ce"
+    },
+    {
+      "index": 6,
+      "targets": [
+        "roof/way/148988039",
+        "roof/way/155164522",
+        "roof/way/158710321",
+        "roof/way/159926244",
+        "roof/way/182747470",
+        "roof/way/19727326",
+        "roof/way/201115893",
+        "roof/way/227400424",
+        "roof/way/22762245",
+        "roof/way/23180187"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.42340410,10.86143879,48.42472595,10.86405605);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.42340410,10.86143879,48.42472595,10.86405605);\nnwr[\"generator:method\"=\"photovoltaic\"](48.42340410,10.86143879,48.42472595,10.86405605);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.42340410,10.86143879,48.42472595,10.86405605);\nnwr[\"roof:material\"=\"solar_panels\"](48.42340410,10.86143879,48.42472595,10.86405605);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.97257437,8.28417336,49.97448731,8.28849887);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.97257437,8.28417336,49.97448731,8.28849887);\nnwr[\"generator:method\"=\"photovoltaic\"](49.97257437,8.28417336,49.97448731,8.28849887);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.97257437,8.28417336,49.97448731,8.28849887);\nnwr[\"roof:material\"=\"solar_panels\"](49.97257437,8.28417336,49.97448731,8.28849887);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](47.79222867,9.61125401,47.79408145,9.61376120);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](47.79222867,9.61125401,47.79408145,9.61376120);\nnwr[\"generator:method\"=\"photovoltaic\"](47.79222867,9.61125401,47.79408145,9.61376120);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](47.79222867,9.61125401,47.79408145,9.61376120);\nnwr[\"roof:material\"=\"solar_panels\"](47.79222867,9.61125401,47.79408145,9.61376120);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.51141861,10.09039952,53.51366059,10.09388439);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.51141861,10.09039952,53.51366059,10.09388439);\nnwr[\"generator:method\"=\"photovoltaic\"](53.51141861,10.09039952,53.51366059,10.09388439);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.51141861,10.09039952,53.51366059,10.09388439);\nnwr[\"roof:material\"=\"solar_panels\"](53.51141861,10.09039952,53.51366059,10.09388439);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.39883320,9.96797007,48.40046150,9.97205694);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.39883320,9.96797007,48.40046150,9.97205694);\nnwr[\"generator:method\"=\"photovoltaic\"](48.39883320,9.96797007,48.40046150,9.97205694);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.39883320,9.96797007,48.40046150,9.97205694);\nnwr[\"roof:material\"=\"solar_panels\"](48.39883320,9.96797007,48.40046150,9.97205694);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.79628472,6.10384648,50.79816210,6.10663821);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.79628472,6.10384648,50.79816210,6.10663821);\nnwr[\"generator:method\"=\"photovoltaic\"](50.79628472,6.10384648,50.79816210,6.10663821);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.79628472,6.10384648,50.79816210,6.10663821);\nnwr[\"roof:material\"=\"solar_panels\"](50.79628472,6.10384648,50.79816210,6.10663821);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.27259678,7.21905881,51.27379325,7.22431012);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.27259678,7.21905881,51.27379325,7.22431012);\nnwr[\"generator:method\"=\"photovoltaic\"](51.27259678,7.21905881,51.27379325,7.22431012);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.27259678,7.21905881,51.27379325,7.22431012);\nnwr[\"roof:material\"=\"solar_panels\"](51.27259678,7.21905881,51.27379325,7.22431012);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.71457212,10.15917377,48.71621038,10.16147183);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.71457212,10.15917377,48.71621038,10.16147183);\nnwr[\"generator:method\"=\"photovoltaic\"](48.71457212,10.15917377,48.71621038,10.16147183);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.71457212,10.15917377,48.71621038,10.16147183);\nnwr[\"roof:material\"=\"solar_panels\"](48.71457212,10.15917377,48.71621038,10.16147183);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.58483508,9.87261243,53.58670772,9.87483951);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.58483508,9.87261243,53.58670772,9.87483951);\nnwr[\"generator:method\"=\"photovoltaic\"](53.58483508,9.87261243,53.58670772,9.87483951);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.58483508,9.87261243,53.58670772,9.87483951);\nnwr[\"roof:material\"=\"solar_panels\"](53.58483508,9.87261243,53.58670772,9.87483951);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.76254670,14.35914773,51.76388490,14.36096037);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.76254670,14.35914773,51.76388490,14.36096037);\nnwr[\"generator:method\"=\"photovoltaic\"](51.76254670,14.35914773,51.76388490,14.36096037);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.76254670,14.35914773,51.76388490,14.36096037);\nnwr[\"roof:material\"=\"solar_panels\"](51.76254670,14.35914773,51.76388490,14.36096037);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "5abc4fde5bfb927dcfd80e4bcb00f1826b66956a9244d1da3f407e1c7011da5c"
+    },
+    {
+      "index": 7,
+      "targets": [
+        "roof/way/23386017",
+        "roof/way/23619103",
+        "roof/way/24025561",
+        "roof/way/24230210",
+        "roof/way/24393423",
+        "roof/way/24517843",
+        "roof/way/24802709",
+        "roof/way/24864353",
+        "roof/way/25114190",
+        "roof/way/25520936"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.60289513,10.07032496,53.60466407,10.07355003);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.60289513,10.07032496,53.60466407,10.07355003);\nnwr[\"generator:method\"=\"photovoltaic\"](53.60289513,10.07032496,53.60466407,10.07355003);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.60289513,10.07032496,53.60466407,10.07355003);\nnwr[\"roof:material\"=\"solar_panels\"](53.60289513,10.07032496,53.60466407,10.07355003);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.37317745,6.77326283,51.37508025,6.77517077);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.37317745,6.77326283,51.37508025,6.77517077);\nnwr[\"generator:method\"=\"photovoltaic\"](51.37317745,6.77326283,51.37508025,6.77517077);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.37317745,6.77326283,51.37508025,6.77517077);\nnwr[\"roof:material\"=\"solar_panels\"](51.37317745,6.77326283,51.37508025,6.77517077);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.57622966,10.07970623,53.57816128,10.08233747);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.57622966,10.07970623,53.57816128,10.08233747);\nnwr[\"generator:method\"=\"photovoltaic\"](53.57622966,10.07970623,53.57816128,10.08233747);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.57622966,10.07970623,53.57816128,10.08233747);\nnwr[\"roof:material\"=\"solar_panels\"](53.57622966,10.07970623,53.57816128,10.08233747);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.46080921,13.50263342,52.46245169,13.50551635);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.46080921,13.50263342,52.46245169,13.50551635);\nnwr[\"generator:method\"=\"photovoltaic\"](52.46080921,13.50263342,52.46245169,13.50551635);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.46080921,13.50263342,52.46245169,13.50551635);\nnwr[\"roof:material\"=\"solar_panels\"](52.46080921,13.50263342,52.46245169,13.50551635);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.80580509,6.14896077,50.80785430,6.15232392);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.80580509,6.14896077,50.80785430,6.15232392);\nnwr[\"generator:method\"=\"photovoltaic\"](50.80580509,6.14896077,50.80785430,6.15232392);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.80580509,6.14896077,50.80785430,6.15232392);\nnwr[\"roof:material\"=\"solar_panels\"](50.80580509,6.14896077,50.80785430,6.15232392);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.22294066,6.85241950,51.22500044,6.85895401);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.22294066,6.85241950,51.22500044,6.85895401);\nnwr[\"generator:method\"=\"photovoltaic\"](51.22294066,6.85241950,51.22500044,6.85895401);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.22294066,6.85241950,51.22500044,6.85895401);\nnwr[\"roof:material\"=\"solar_panels\"](51.22294066,6.85241950,51.22500044,6.85895401);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.96082526,9.17101676,49.96341194,9.17497163);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.96082526,9.17101676,49.96341194,9.17497163);\nnwr[\"generator:method\"=\"photovoltaic\"](49.96082526,9.17101676,49.96341194,9.17497163);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.96082526,9.17101676,49.96341194,9.17497163);\nnwr[\"roof:material\"=\"solar_panels\"](49.96082526,9.17101676,49.96341194,9.17497163);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.53623854,7.47514960,51.53770816,7.47909611);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.53623854,7.47514960,51.53770816,7.47909611);\nnwr[\"generator:method\"=\"photovoltaic\"](51.53623854,7.47514960,51.53770816,7.47909611);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.53623854,7.47514960,51.53770816,7.47909611);\nnwr[\"roof:material\"=\"solar_panels\"](51.53623854,7.47514960,51.53770816,7.47909611);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.52853306,13.21758608,52.53039349,13.22154506);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.52853306,13.21758608,52.53039349,13.22154506);\nnwr[\"generator:method\"=\"photovoltaic\"](52.52853306,13.21758608,52.53039349,13.22154506);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.52853306,13.21758608,52.53039349,13.22154506);\nnwr[\"roof:material\"=\"solar_panels\"](52.52853306,13.21758608,52.53039349,13.22154506);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.11348197,8.92867588,50.11570934,8.93273105);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.11348197,8.92867588,50.11570934,8.93273105);\nnwr[\"generator:method\"=\"photovoltaic\"](50.11348197,8.92867588,50.11570934,8.93273105);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.11348197,8.92867588,50.11570934,8.93273105);\nnwr[\"roof:material\"=\"solar_panels\"](50.11348197,8.92867588,50.11570934,8.93273105);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "073826cc52824bc1fecb6a54859c717c50667a6d458b8aa4c29b89761342c73d"
+    },
+    {
+      "index": 8,
+      "targets": [
+        "roof/way/25619088",
+        "roof/way/26285106",
+        "roof/way/26570627",
+        "roof/way/26790316",
+        "roof/way/26832459",
+        "roof/way/26958041",
+        "roof/way/27436941",
+        "roof/way/27493871",
+        "roof/way/28132164",
+        "roof/way/28143475"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](54.33083553,10.11298724,54.33279931,10.11611022);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](54.33083553,10.11298724,54.33279931,10.11611022);\nnwr[\"generator:method\"=\"photovoltaic\"](54.33083553,10.11298724,54.33279931,10.11611022);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](54.33083553,10.11298724,54.33279931,10.11611022);\nnwr[\"roof:material\"=\"solar_panels\"](54.33083553,10.11298724,54.33279931,10.11611022);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.56639028,8.50201830,50.56746382,8.50569000);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.56639028,8.50201830,50.56746382,8.50569000);\nnwr[\"generator:method\"=\"photovoltaic\"](50.56639028,8.50201830,50.56746382,8.50569000);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.56639028,8.50201830,50.56746382,8.50569000);\nnwr[\"roof:material\"=\"solar_panels\"](50.56639028,8.50201830,50.56746382,8.50569000);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.66369148,9.99327362,53.66532060,9.99495713);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.66369148,9.99327362,53.66532060,9.99495713);\nnwr[\"generator:method\"=\"photovoltaic\"](53.66369148,9.99327362,53.66532060,9.99495713);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.66369148,9.99327362,53.66532060,9.99495713);\nnwr[\"roof:material\"=\"solar_panels\"](53.66369148,9.99327362,53.66532060,9.99495713);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.03344748,7.00992649,51.03506853,7.01284971);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.03344748,7.00992649,51.03506853,7.01284971);\nnwr[\"generator:method\"=\"photovoltaic\"](51.03344748,7.00992649,51.03506853,7.01284971);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.03344748,7.00992649,51.03506853,7.01284971);\nnwr[\"roof:material\"=\"solar_panels\"](51.03344748,7.00992649,51.03506853,7.01284971);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.48467029,13.42071089,52.48585191,13.42278982);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.48467029,13.42071089,52.48585191,13.42278982);\nnwr[\"generator:method\"=\"photovoltaic\"](52.48467029,13.42071089,52.48585191,13.42278982);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.48467029,13.42071089,52.48585191,13.42278982);\nnwr[\"roof:material\"=\"solar_panels\"](52.48467029,13.42071089,52.48585191,13.42278982);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.82109190,10.04341060,48.82229567,10.04672130);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.82109190,10.04341060,48.82229567,10.04672130);\nnwr[\"generator:method\"=\"photovoltaic\"](48.82109190,10.04341060,48.82229567,10.04672130);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.82109190,10.04341060,48.82229567,10.04672130);\nnwr[\"roof:material\"=\"solar_panels\"](48.82109190,10.04341060,48.82229567,10.04672130);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.89801691,8.66722350,48.89937389,8.67067570);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.89801691,8.66722350,48.89937389,8.67067570);\nnwr[\"generator:method\"=\"photovoltaic\"](48.89801691,8.66722350,48.89937389,8.67067570);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.89801691,8.66722350,48.89937389,8.67067570);\nnwr[\"roof:material\"=\"solar_panels\"](48.89801691,8.66722350,48.89937389,8.67067570);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.40646413,13.37090725,52.40846296,13.37346914);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.40646413,13.37090725,52.40846296,13.37346914);\nnwr[\"generator:method\"=\"photovoltaic\"](52.40646413,13.37090725,52.40846296,13.37346914);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.40646413,13.37090725,52.40846296,13.37346914);\nnwr[\"roof:material\"=\"solar_panels\"](52.40646413,13.37090725,52.40846296,13.37346914);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.40636569,10.99952369,49.40788471,11.00219212);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.40636569,10.99952369,49.40788471,11.00219212);\nnwr[\"generator:method\"=\"photovoltaic\"](49.40636569,10.99952369,49.40788471,11.00219212);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.40636569,10.99952369,49.40788471,11.00219212);\nnwr[\"roof:material\"=\"solar_panels\"](49.40636569,10.99952369,49.40788471,11.00219212);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.21482132,10.52964891,52.21627409,10.53166668);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.21482132,10.52964891,52.21627409,10.53166668);\nnwr[\"generator:method\"=\"photovoltaic\"](52.21482132,10.52964891,52.21627409,10.53166668);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.21482132,10.52964891,52.21627409,10.53166668);\nnwr[\"roof:material\"=\"solar_panels\"](52.21482132,10.52964891,52.21627409,10.53166668);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "12634a000a51e91d4e6e895a8fab4ea1d8562ccc59fbcca5f4940afb750933f9"
+    },
+    {
+      "index": 9,
+      "targets": [
+        "roof/way/28334460",
+        "roof/way/28505596",
+        "roof/way/285603576",
+        "roof/way/28715246",
+        "roof/way/28846255",
+        "roof/way/29033850",
+        "roof/way/293418460",
+        "roof/way/29350709",
+        "roof/way/29401013",
+        "roof/way/299599300"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.89610564,7.06987729,50.89758807,7.07352824);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.89610564,7.06987729,50.89758807,7.07352824);\nnwr[\"generator:method\"=\"photovoltaic\"](50.89610564,7.06987729,50.89758807,7.07352824);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.89610564,7.06987729,50.89758807,7.07352824);\nnwr[\"roof:material\"=\"solar_panels\"](50.89610564,7.06987729,50.89758807,7.07352824);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.46394042,13.32474639,52.46556475,13.32799034);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.46394042,13.32474639,52.46556475,13.32799034);\nnwr[\"generator:method\"=\"photovoltaic\"](52.46394042,13.32474639,52.46556475,13.32799034);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.46394042,13.32474639,52.46556475,13.32799034);\nnwr[\"roof:material\"=\"solar_panels\"](52.46394042,13.32474639,52.46556475,13.32799034);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.53373041,13.17500924,52.53568785,13.17706731);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.53373041,13.17500924,52.53568785,13.17706731);\nnwr[\"generator:method\"=\"photovoltaic\"](52.53373041,13.17500924,52.53568785,13.17706731);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.53373041,13.17500924,52.53568785,13.17706731);\nnwr[\"roof:material\"=\"solar_panels\"](52.53373041,13.17500924,52.53568785,13.17706731);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.85952712,8.23989417,48.86144947,8.24284387);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.85952712,8.23989417,48.86144947,8.24284387);\nnwr[\"generator:method\"=\"photovoltaic\"](48.85952712,8.23989417,48.86144947,8.24284387);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.85952712,8.23989417,48.86144947,8.24284387);\nnwr[\"roof:material\"=\"solar_panels\"](48.85952712,8.23989417,48.86144947,8.24284387);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.86114895,10.62661174,53.86323266,10.62954513);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.86114895,10.62661174,53.86323266,10.62954513);\nnwr[\"generator:method\"=\"photovoltaic\"](53.86114895,10.62661174,53.86323266,10.62954513);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.86114895,10.62661174,53.86323266,10.62954513);\nnwr[\"roof:material\"=\"solar_panels\"](53.86114895,10.62661174,53.86323266,10.62954513);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.45085626,6.98866812,51.45214062,6.99024188);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.45085626,6.98866812,51.45214062,6.99024188);\nnwr[\"generator:method\"=\"photovoltaic\"](51.45085626,6.98866812,51.45214062,6.99024188);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.45085626,6.98866812,51.45214062,6.99024188);\nnwr[\"roof:material\"=\"solar_panels\"](51.45085626,6.98866812,51.45214062,6.99024188);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.46762533,7.04561828,51.46929358,7.04767473);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.46762533,7.04561828,51.46929358,7.04767473);\nnwr[\"generator:method\"=\"photovoltaic\"](51.46762533,7.04561828,51.46929358,7.04767473);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.46762533,7.04561828,51.46929358,7.04767473);\nnwr[\"roof:material\"=\"solar_panels\"](51.46762533,7.04561828,51.46929358,7.04767473);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](54.26904525,13.11283591,54.27098242,13.11539292);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](54.26904525,13.11283591,54.27098242,13.11539292);\nnwr[\"generator:method\"=\"photovoltaic\"](54.26904525,13.11283591,54.27098242,13.11539292);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](54.26904525,13.11283591,54.27098242,13.11539292);\nnwr[\"roof:material\"=\"solar_panels\"](54.26904525,13.11283591,54.27098242,13.11539292);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.94504905,6.91012363,50.94696991,6.91245282);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.94504905,6.91012363,50.94696991,6.91245282);\nnwr[\"generator:method\"=\"photovoltaic\"](50.94504905,6.91012363,50.94696991,6.91245282);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.94504905,6.91012363,50.94696991,6.91245282);\nnwr[\"roof:material\"=\"solar_panels\"](50.94504905,6.91012363,50.94696991,6.91245282);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.60355583,9.96259485,53.60501179,9.96637071);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.60355583,9.96259485,53.60501179,9.96637071);\nnwr[\"generator:method\"=\"photovoltaic\"](53.60355583,9.96259485,53.60501179,9.96637071);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.60355583,9.96259485,53.60501179,9.96637071);\nnwr[\"roof:material\"=\"solar_panels\"](53.60355583,9.96259485,53.60501179,9.96637071);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "3fc44dce05f613d0bf68291b77b660f13200402773139720007e723439a13ef5"
+    },
+    {
+      "index": 10,
+      "targets": [
+        "roof/way/30072118",
+        "roof/way/307282610",
+        "roof/way/30808551",
+        "roof/way/30860030",
+        "roof/way/31410869",
+        "roof/way/31670307",
+        "roof/way/322043866",
+        "roof/way/33542710",
+        "roof/way/33712617",
+        "roof/way/34201992"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.77455252,11.38538389,48.77590250,11.38712184);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.77455252,11.38538389,48.77590250,11.38712184);\nnwr[\"generator:method\"=\"photovoltaic\"](48.77455252,11.38538389,48.77590250,11.38712184);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.77455252,11.38538389,48.77590250,11.38712184);\nnwr[\"roof:material\"=\"solar_panels\"](48.77455252,11.38538389,48.77590250,11.38712184);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.22400575,6.81104385,51.22547374,6.81333393);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.22400575,6.81104385,51.22547374,6.81333393);\nnwr[\"generator:method\"=\"photovoltaic\"](51.22400575,6.81104385,51.22547374,6.81333393);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.22400575,6.81104385,51.22547374,6.81333393);\nnwr[\"roof:material\"=\"solar_panels\"](51.22400575,6.81104385,51.22547374,6.81333393);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.06980528,8.44531943,48.07154773,8.44808276);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.06980528,8.44531943,48.07154773,8.44808276);\nnwr[\"generator:method\"=\"photovoltaic\"](48.06980528,8.44531943,48.07154773,8.44808276);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.06980528,8.44531943,48.07154773,8.44808276);\nnwr[\"roof:material\"=\"solar_panels\"](48.06980528,8.44531943,48.07154773,8.44808276);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.15343692,6.44791700,51.15531187,6.45061090);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.15343692,6.44791700,51.15531187,6.45061090);\nnwr[\"generator:method\"=\"photovoltaic\"](51.15343692,6.44791700,51.15531187,6.45061090);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.15343692,6.44791700,51.15531187,6.45061090);\nnwr[\"roof:material\"=\"solar_panels\"](51.15343692,6.44791700,51.15531187,6.45061090);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.99329086,12.11519577,48.99506685,12.11782102);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.99329086,12.11519577,48.99506685,12.11782102);\nnwr[\"generator:method\"=\"photovoltaic\"](48.99329086,12.11519577,48.99506685,12.11782102);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.99329086,12.11519577,48.99506685,12.11782102);\nnwr[\"roof:material\"=\"solar_panels\"](48.99329086,12.11519577,48.99506685,12.11782102);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.27134108,10.49624341,52.27371072,10.49882732);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.27134108,10.49624341,52.27371072,10.49882732);\nnwr[\"generator:method\"=\"photovoltaic\"](52.27134108,10.49624341,52.27371072,10.49882732);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.27134108,10.49624341,52.27371072,10.49882732);\nnwr[\"roof:material\"=\"solar_panels\"](52.27134108,10.49624341,52.27371072,10.49882732);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.34903415,6.53028865,51.35106065,6.53294449);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.34903415,6.53028865,51.35106065,6.53294449);\nnwr[\"generator:method\"=\"photovoltaic\"](51.34903415,6.53028865,51.35106065,6.53294449);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.34903415,6.53028865,51.35106065,6.53294449);\nnwr[\"roof:material\"=\"solar_panels\"](51.34903415,6.53028865,51.35106065,6.53294449);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.35717700,13.43492954,52.35897570,13.43786307);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.35717700,13.43492954,52.35897570,13.43786307);\nnwr[\"generator:method\"=\"photovoltaic\"](52.35717700,13.43492954,52.35897570,13.43786307);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.35717700,13.43492954,52.35897570,13.43786307);\nnwr[\"roof:material\"=\"solar_panels\"](52.35717700,13.43492954,52.35897570,13.43786307);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.47110121,7.92786874,48.47258206,7.93147194);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.47110121,7.92786874,48.47258206,7.93147194);\nnwr[\"generator:method\"=\"photovoltaic\"](48.47110121,7.92786874,48.47258206,7.93147194);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.47110121,7.92786874,48.47258206,7.93147194);\nnwr[\"roof:material\"=\"solar_panels\"](48.47110121,7.92786874,48.47258206,7.93147194);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.00417166,10.17040157,48.00611669,10.17308972);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.00417166,10.17040157,48.00611669,10.17308972);\nnwr[\"generator:method\"=\"photovoltaic\"](48.00417166,10.17040157,48.00611669,10.17308972);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.00417166,10.17040157,48.00611669,10.17308972);\nnwr[\"roof:material\"=\"solar_panels\"](48.00417166,10.17040157,48.00611669,10.17308972);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "f15456d888954c55b68737d1d936f5de3d50482077d7eef2c04498f223590b88"
+    },
+    {
+      "index": 11,
+      "targets": [
+        "roof/way/35910944",
+        "roof/way/36124286",
+        "roof/way/369231324",
+        "roof/way/37120956",
+        "roof/way/40450747",
+        "roof/way/40459768",
+        "roof/way/40707294",
+        "roof/way/44004385",
+        "roof/way/44904672",
+        "roof/way/44958511"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.75840185,7.02650992,50.76066715,7.02965458);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.75840185,7.02650992,50.76066715,7.02965458);\nnwr[\"generator:method\"=\"photovoltaic\"](50.75840185,7.02650992,50.76066715,7.02965458);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.75840185,7.02650992,50.76066715,7.02965458);\nnwr[\"roof:material\"=\"solar_panels\"](50.75840185,7.02650992,50.76066715,7.02965458);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.43801462,7.48890760,50.43957940,7.49098069);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.43801462,7.48890760,50.43957940,7.49098069);\nnwr[\"generator:method\"=\"photovoltaic\"](50.43801462,7.48890760,50.43957940,7.49098069);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.43801462,7.48890760,50.43957940,7.49098069);\nnwr[\"roof:material\"=\"solar_panels\"](50.43801462,7.48890760,50.43957940,7.49098069);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.73018444,7.07757224,50.73241182,7.08045867);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.73018444,7.07757224,50.73241182,7.08045867);\nnwr[\"generator:method\"=\"photovoltaic\"](50.73018444,7.07757224,50.73241182,7.08045867);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.73018444,7.07757224,50.73241182,7.08045867);\nnwr[\"roof:material\"=\"solar_panels\"](50.73018444,7.07757224,50.73241182,7.08045867);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.05115568,8.96222405,53.05335017,8.96449726);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.05115568,8.96222405,53.05335017,8.96449726);\nnwr[\"generator:method\"=\"photovoltaic\"](53.05115568,8.96222405,53.05335017,8.96449726);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.05115568,8.96222405,53.05335017,8.96449726);\nnwr[\"roof:material\"=\"solar_panels\"](53.05115568,8.96222405,53.05335017,8.96449726);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.54473120,8.72862856,48.54590730,8.73038405);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.54473120,8.72862856,48.54590730,8.73038405);\nnwr[\"generator:method\"=\"photovoltaic\"](48.54473120,8.72862856,48.54590730,8.73038405);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.54473120,8.72862856,48.54590730,8.73038405);\nnwr[\"roof:material\"=\"solar_panels\"](48.54473120,8.72862856,48.54590730,8.73038405);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.59434091,13.33417815,52.59571929,13.33661184);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.59434091,13.33417815,52.59571929,13.33661184);\nnwr[\"generator:method\"=\"photovoltaic\"](52.59434091,13.33417815,52.59571929,13.33661184);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.59434091,13.33417815,52.59571929,13.33661184);\nnwr[\"roof:material\"=\"solar_panels\"](52.59434091,13.33417815,52.59571929,13.33661184);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.03437180,8.56621035,52.03541829,8.56827403);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.03437180,8.56621035,52.03541829,8.56827403);\nnwr[\"generator:method\"=\"photovoltaic\"](52.03437180,8.56621035,52.03541829,8.56827403);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.03437180,8.56621035,52.03541829,8.56827403);\nnwr[\"roof:material\"=\"solar_panels\"](52.03437180,8.56621035,52.03541829,8.56827403);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.72337020,9.12438478,48.72483060,9.12791272);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.72337020,9.12438478,48.72483060,9.12791272);\nnwr[\"generator:method\"=\"photovoltaic\"](48.72337020,9.12438478,48.72483060,9.12791272);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.72337020,9.12438478,48.72483060,9.12791272);\nnwr[\"roof:material\"=\"solar_panels\"](48.72337020,9.12438478,48.72483060,9.12791272);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.23798912,10.46257096,53.24026279,10.46469374);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.23798912,10.46257096,53.24026279,10.46469374);\nnwr[\"generator:method\"=\"photovoltaic\"](53.23798912,10.46257096,53.24026279,10.46469374);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.23798912,10.46257096,53.24026279,10.46469374);\nnwr[\"roof:material\"=\"solar_panels\"](53.23798912,10.46257096,53.24026279,10.46469374);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.51243132,13.30358180,52.51310402,13.30524282);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.51243132,13.30358180,52.51310402,13.30524282);\nnwr[\"generator:method\"=\"photovoltaic\"](52.51243132,13.30358180,52.51310402,13.30524282);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.51243132,13.30358180,52.51310402,13.30524282);\nnwr[\"roof:material\"=\"solar_panels\"](52.51243132,13.30358180,52.51310402,13.30524282);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "db82838a83325efef8b9befff58fcbd533cf5705d4865a61dfaaf7c31aff5c7b"
+    },
+    {
+      "index": 12,
+      "targets": [
+        "roof/way/45883708",
+        "roof/way/46754081",
+        "roof/way/4700552",
+        "roof/way/48133177",
+        "roof/way/48466507",
+        "roof/way/52007850",
+        "roof/way/52131203",
+        "roof/way/52513722",
+        "roof/way/54727041",
+        "roof/way/54856134"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.18326573,9.22327707,49.18439067,9.22469934);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.18326573,9.22327707,49.18439067,9.22469934);\nnwr[\"generator:method\"=\"photovoltaic\"](49.18326573,9.22327707,49.18439067,9.22469934);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.18326573,9.22327707,49.18439067,9.22469934);\nnwr[\"roof:material\"=\"solar_panels\"](49.18326573,9.22327707,49.18439067,9.22469934);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.84286806,10.70524764,53.84402434,10.70815135);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.84286806,10.70524764,53.84402434,10.70815135);\nnwr[\"generator:method\"=\"photovoltaic\"](53.84286806,10.70524764,53.84402434,10.70815135);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.84286806,10.70524764,53.84402434,10.70815135);\nnwr[\"roof:material\"=\"solar_panels\"](53.84286806,10.70524764,53.84402434,10.70815135);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.00722798,8.70322698,53.00875362,8.70638921);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.00722798,8.70322698,53.00875362,8.70638921);\nnwr[\"generator:method\"=\"photovoltaic\"](53.00722798,8.70322698,53.00875362,8.70638921);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.00722798,8.70322698,53.00875362,8.70638921);\nnwr[\"roof:material\"=\"solar_panels\"](53.00722798,8.70322698,53.00875362,8.70638921);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.16547354,11.66272164,52.16731556,11.66498235);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.16547354,11.66272164,52.16731556,11.66498235);\nnwr[\"generator:method\"=\"photovoltaic\"](52.16547354,11.66272164,52.16731556,11.66498235);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.16547354,11.66272164,52.16731556,11.66498235);\nnwr[\"roof:material\"=\"solar_panels\"](52.16547354,11.66272164,52.16731556,11.66498235);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.13111423,8.76139732,50.13321588,8.76496929);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.13111423,8.76139732,50.13321588,8.76496929);\nnwr[\"generator:method\"=\"photovoltaic\"](50.13111423,8.76139732,50.13321588,8.76496929);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.13111423,8.76139732,50.13321588,8.76496929);\nnwr[\"roof:material\"=\"solar_panels\"](50.13111423,8.76139732,50.13321588,8.76496929);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.27200760,9.50031442,51.27384950,9.50350698);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.27200760,9.50031442,51.27384950,9.50350698);\nnwr[\"generator:method\"=\"photovoltaic\"](51.27200760,9.50031442,51.27384950,9.50350698);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.27200760,9.50031442,51.27384950,9.50350698);\nnwr[\"roof:material\"=\"solar_panels\"](51.27200760,9.50031442,51.27384950,9.50350698);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](54.28804323,10.22796098,54.28997087,10.23211450);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](54.28804323,10.22796098,54.28997087,10.23211450);\nnwr[\"generator:method\"=\"photovoltaic\"](54.28804323,10.22796098,54.28997087,10.23211450);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](54.28804323,10.22796098,54.28997087,10.23211450);\nnwr[\"roof:material\"=\"solar_panels\"](54.28804323,10.22796098,54.28997087,10.23211450);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.85401821,7.89404720,49.85660291,7.89731811);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.85401821,7.89404720,49.85660291,7.89731811);\nnwr[\"generator:method\"=\"photovoltaic\"](49.85401821,7.89404720,49.85660291,7.89731811);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.85401821,7.89404720,49.85660291,7.89731811);\nnwr[\"roof:material\"=\"solar_panels\"](49.85401821,7.89404720,49.85660291,7.89731811);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.37214765,7.45611228,51.37543255,7.45868071);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.37214765,7.45611228,51.37543255,7.45868071);\nnwr[\"generator:method\"=\"photovoltaic\"](51.37214765,7.45611228,51.37543255,7.45868071);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.37214765,7.45611228,51.37543255,7.45868071);\nnwr[\"roof:material\"=\"solar_panels\"](51.37214765,7.45611228,51.37543255,7.45868071);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](54.35345454,10.09112541,54.35484397,10.09348828);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](54.35345454,10.09112541,54.35484397,10.09348828);\nnwr[\"generator:method\"=\"photovoltaic\"](54.35345454,10.09112541,54.35484397,10.09348828);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](54.35345454,10.09112541,54.35484397,10.09348828);\nnwr[\"roof:material\"=\"solar_panels\"](54.35345454,10.09112541,54.35484397,10.09348828);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "103c6fbdbebddb739a8a46ef871693c162973802586e992ea1a7f158a4057b19"
+    },
+    {
+      "index": 13,
+      "targets": [
+        "roof/way/56191943",
+        "roof/way/59338792",
+        "roof/way/60455187",
+        "roof/way/62811069",
+        "roof/way/70786923",
+        "roof/way/768890944",
+        "roof/way/80253164",
+        "roof/way/80858331",
+        "roof/way/82445638",
+        "roof/way/87313466"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.88405460,6.89534099,50.88643473,6.89882575);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.88405460,6.89534099,50.88643473,6.89882575);\nnwr[\"generator:method\"=\"photovoltaic\"](50.88405460,6.89534099,50.88643473,6.89882575);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.88405460,6.89534099,50.88643473,6.89882575);\nnwr[\"roof:material\"=\"solar_panels\"](50.88405460,6.89534099,50.88643473,6.89882575);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.02885262,8.22062286,50.03033899,8.22334338);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.02885262,8.22062286,50.03033899,8.22334338);\nnwr[\"generator:method\"=\"photovoltaic\"](50.02885262,8.22062286,50.03033899,8.22334338);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.02885262,8.22062286,50.03033899,8.22334338);\nnwr[\"roof:material\"=\"solar_panels\"](50.02885262,8.22062286,50.03033899,8.22334338);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.70310534,13.26717391,52.70497434,13.26947029);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.70310534,13.26717391,52.70497434,13.26947029);\nnwr[\"generator:method\"=\"photovoltaic\"](52.70310534,13.26717391,52.70497434,13.26947029);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.70310534,13.26717391,52.70497434,13.26947029);\nnwr[\"roof:material\"=\"solar_panels\"](52.70310534,13.26717391,52.70497434,13.26947029);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.91890205,6.83651869,50.92055855,6.84211131);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.91890205,6.83651869,50.92055855,6.84211131);\nnwr[\"generator:method\"=\"photovoltaic\"](50.91890205,6.83651869,50.92055855,6.84211131);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.91890205,6.83651869,50.92055855,6.84211131);\nnwr[\"roof:material\"=\"solar_panels\"](50.91890205,6.83651869,50.92055855,6.84211131);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.48365724,8.35291367,49.48549157,8.35705003);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.48365724,8.35291367,49.48549157,8.35705003);\nnwr[\"generator:method\"=\"photovoltaic\"](49.48365724,8.35291367,49.48549157,8.35705003);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.48365724,8.35291367,49.48549157,8.35705003);\nnwr[\"roof:material\"=\"solar_panels\"](49.48365724,8.35291367,49.48549157,8.35705003);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.99670121,13.79487214,50.99952817,13.79854984);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.99670121,13.79487214,50.99952817,13.79854984);\nnwr[\"generator:method\"=\"photovoltaic\"](50.99670121,13.79487214,50.99952817,13.79854984);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.99670121,13.79487214,50.99952817,13.79854984);\nnwr[\"roof:material\"=\"solar_panels\"](50.99670121,13.79487214,50.99952817,13.79854984);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.48149716,8.41109005,48.48416357,8.41324100);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.48149716,8.41109005,48.48416357,8.41324100);\nnwr[\"generator:method\"=\"photovoltaic\"](48.48149716,8.41109005,48.48416357,8.41324100);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.48149716,8.41109005,48.48416357,8.41324100);\nnwr[\"roof:material\"=\"solar_panels\"](48.48149716,8.41109005,48.48416357,8.41324100);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](52.61430564,13.43257364,52.61582955,13.43452456);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](52.61430564,13.43257364,52.61582955,13.43452456);\nnwr[\"generator:method\"=\"photovoltaic\"](52.61430564,13.43257364,52.61582955,13.43452456);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](52.61430564,13.43257364,52.61582955,13.43452456);\nnwr[\"roof:material\"=\"solar_panels\"](52.61430564,13.43257364,52.61582955,13.43452456);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.31699148,6.58291749,51.31890972,6.58510161);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.31699148,6.58291749,51.31890972,6.58510161);\nnwr[\"generator:method\"=\"photovoltaic\"](51.31699148,6.58291749,51.31890972,6.58510161);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.31699148,6.58291749,51.31890972,6.58510161);\nnwr[\"roof:material\"=\"solar_panels\"](51.31699148,6.58291749,51.31890972,6.58510161);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.19029581,7.06812813,51.19148911,7.07022209);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.19029581,7.06812813,51.19148911,7.07022209);\nnwr[\"generator:method\"=\"photovoltaic\"](51.19029581,7.06812813,51.19148911,7.07022209);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.19029581,7.06812813,51.19148911,7.07022209);\nnwr[\"roof:material\"=\"solar_panels\"](51.19029581,7.06812813,51.19148911,7.07022209);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "b1995ce2850f9e0d7f0b72bd3782e202749c2b795cd8a220f575465e85158b38"
+    },
+    {
+      "index": 14,
+      "targets": [
+        "roof/way/87352620",
+        "roof/way/88370653",
+        "roof/way/90064343",
+        "roof/way/90494889",
+        "roof/way/91898070",
+        "roof/way/92704442",
+        "roof/way/93211530",
+        "roof/way/96216146",
+        "roof/way/96593449",
+        "roof/way/97882534"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](48.33794246,10.89945446,48.33904874,10.90155823);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](48.33794246,10.89945446,48.33904874,10.90155823);\nnwr[\"generator:method\"=\"photovoltaic\"](48.33794246,10.89945446,48.33904874,10.90155823);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](48.33794246,10.89945446,48.33904874,10.90155823);\nnwr[\"roof:material\"=\"solar_panels\"](48.33794246,10.89945446,48.33904874,10.90155823);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.45429784,8.51118407,49.45669036,8.51375536);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.45429784,8.51118407,49.45669036,8.51375536);\nnwr[\"generator:method\"=\"photovoltaic\"](49.45429784,8.51118407,49.45669036,8.51375536);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.45429784,8.51118407,49.45669036,8.51375536);\nnwr[\"roof:material\"=\"solar_panels\"](49.45429784,8.51118407,49.45669036,8.51375536);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](49.34705397,6.72847322,49.34899725,6.73158807);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](49.34705397,6.72847322,49.34899725,6.73158807);\nnwr[\"generator:method\"=\"photovoltaic\"](49.34705397,6.72847322,49.34899725,6.73158807);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](49.34705397,6.72847322,49.34899725,6.73158807);\nnwr[\"roof:material\"=\"solar_panels\"](49.34705397,6.72847322,49.34899725,6.73158807);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](47.63361401,7.67627856,47.63502674,7.68047890);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](47.63361401,7.67627856,47.63502674,7.68047890);\nnwr[\"generator:method\"=\"photovoltaic\"](47.63361401,7.67627856,47.63502674,7.68047890);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](47.63361401,7.67627856,47.63502674,7.68047890);\nnwr[\"roof:material\"=\"solar_panels\"](47.63361401,7.67627856,47.63502674,7.68047890);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.20131892,9.13799035,50.20256148,9.14171345);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.20131892,9.13799035,50.20256148,9.14171345);\nnwr[\"generator:method\"=\"photovoltaic\"](50.20131892,9.13799035,50.20256148,9.14171345);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.20131892,9.13799035,50.20256148,9.14171345);\nnwr[\"roof:material\"=\"solar_panels\"](50.20131892,9.13799035,50.20256148,9.14171345);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](53.59579523,11.43040700,53.59707221,11.43348722);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](53.59579523,11.43040700,53.59707221,11.43348722);\nnwr[\"generator:method\"=\"photovoltaic\"](53.59579523,11.43040700,53.59707221,11.43348722);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](53.59579523,11.43040700,53.59707221,11.43348722);\nnwr[\"roof:material\"=\"solar_panels\"](53.59579523,11.43040700,53.59707221,11.43348722);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.49924783,7.25632107,51.50041955,7.25878759);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.49924783,7.25632107,51.50041955,7.25878759);\nnwr[\"generator:method\"=\"photovoltaic\"](51.49924783,7.25632107,51.50041955,7.25878759);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.49924783,7.25632107,51.50041955,7.25878759);\nnwr[\"roof:material\"=\"solar_panels\"](51.49924783,7.25632107,51.50041955,7.25878759);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.54641148,7.10999034,50.54767849,7.11235161);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.54641148,7.10999034,50.54767849,7.11235161);\nnwr[\"generator:method\"=\"photovoltaic\"](50.54641148,7.10999034,50.54767849,7.11235161);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.54641148,7.10999034,50.54767849,7.11235161);\nnwr[\"roof:material\"=\"solar_panels\"](50.54641148,7.10999034,50.54767849,7.11235161);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.47330180,7.13514139,51.47439090,7.13766135);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.47330180,7.13514139,51.47439090,7.13766135);\nnwr[\"generator:method\"=\"photovoltaic\"](51.47330180,7.13514139,51.47439090,7.13766135);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.47330180,7.13514139,51.47439090,7.13766135);\nnwr[\"roof:material\"=\"solar_panels\"](51.47330180,7.13514139,51.47439090,7.13766135);\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](51.45367189,7.39273284,51.45580571,7.39525114);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](51.45367189,7.39273284,51.45580571,7.39525114);\nnwr[\"generator:method\"=\"photovoltaic\"](51.45367189,7.39273284,51.45580571,7.39525114);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](51.45367189,7.39273284,51.45580571,7.39525114);\nnwr[\"roof:material\"=\"solar_panels\"](51.45367189,7.39273284,51.45580571,7.39525114);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "fb259910f105d0fff1712354bb926f39ed7b9954a1624035ce2c10e25e1585a5"
+    },
+    {
+      "index": 15,
+      "targets": [
+        "roof/way/98695080"
+      ],
+      "query": "[out:json][timeout:90][maxsize:67108864];\n(\nnwr[\"generator:source\"~\"(^|;)solar(;|$)\",i](50.49539032,12.17753582,50.49640458,12.18040738);\nnwr[\"plant:source\"~\"(^|;)solar(;|$)\",i](50.49539032,12.17753582,50.49640458,12.18040738);\nnwr[\"generator:method\"=\"photovoltaic\"](50.49539032,12.17753582,50.49640458,12.18040738);\nnwr[\"generator:type\"=\"solar_photovoltaic_panel\"](50.49539032,12.17753582,50.49640458,12.18040738);\nnwr[\"roof:material\"=\"solar_panels\"](50.49539032,12.17753582,50.49640458,12.18040738);\n);\n(._; >>;);\nout meta;\nout count;\n",
+      "query_sha256": "e036b1d32c7d079442a5cd04a381044fac80621e64e310155811158ead6a4dd2"
+    }
+  ],
+  "limitations": [
+    "Search covers selected estimate assets only, not all BAUHAUS facilities.",
+    "Bounding-box queries may miss enclosing polygons without a node in the box.",
+    "Tag filters and OSM mapping are incomplete; no match does not prove absence.",
+    "Solar-tagged plant/roof outlines are not automatically panel coverage.",
+    "Solar points indicate presence, not measured area.",
+    "Relation membership completeness is not geometry validity or association.",
+    "No solar geometry has been accepted for deduction by this collector.",
+    "Batches may reflect different OSM snapshot times."
+  ]
+}

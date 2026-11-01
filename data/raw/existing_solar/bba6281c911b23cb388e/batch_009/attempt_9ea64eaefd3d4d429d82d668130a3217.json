@@ -1,0 +1,21 @@
+{
+  "started_at_utc": "2026-11-01T12:17:14.563494+00:00",
+  "status": "unresolved",
+  "query_sha256": "3fc44dce05f613d0bf68291b77b660f13200402773139720007e723439a13ef5",
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "targets": [
+    "roof/way/28334460",
+    "roof/way/28505596",
+    "roof/way/285603576",
+    "roof/way/28715246",
+    "roof/way/28846255",
+    "roof/way/29033850",
+    "roof/way/293418460",
+    "roof/way/29350709",
+    "roof/way/29401013",
+    "roof/way/299599300"
+  ],
+  "automatic_retries": 0,
+  "error_type": "ConnectionResetError",
+  "finished_at_utc": "2026-11-01T13:07:28.611575+00:00"
+}
