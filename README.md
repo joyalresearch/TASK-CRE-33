@@ -243,11 +243,17 @@ Acquisition classifications are preserved in staging. Eligibility for parking PV
 The rooftop screening model uses:
 
 ```text
-assumed usable area = footprint area × 0.60
-illustrative capacity kWp = assumed usable area ÷ 5.0
+assumed usable roof area (m²) = footprint area (m²) × 0.60
+illustrative capacity (kWp) = assumed usable roof area (m²) ÷ 5.0 (m²/kWp)
 ```
 
-The usable fraction and 5 m²/kWp density are project assumptions. A building footprint is a proxy for roof plan area, not a measurement of unobstructed or structurally suitable roof surface.
+**0.60 means an assumed 60% usable area. 5.0 means 5 m² per kWp, not 5 kWp.** Both values are implementation assumptions, not assignment requirements. The design review recovered no external justification for either value; their original justification remains **UNKNOWN** unless supporting evidence is found. Arithmetic checks establish calculation consistency, not site-specific validity.
+
+The recoverable roles are limited to the calculation: `usable_fraction` converts footprint area into assumed usable roof area, and `sqm_per_kwp` converts that area into capacity. The code does not document which physical exclusions the remaining 40% represents, or whether 5 m²/kWp describes module area or installed layout area. Whether panel spacing is included in either factor, both factors or neither is **UNKNOWN**. Specific allowances for spacing, setbacks, shading, equipment or access routes cannot therefore be claimed. Potential double-discounting requires investigation; it is not a demonstrated defect in the historical calculation.
+
+Implementation references: `src/iris_cre_33/estimates.py`, function `estimate_pv_kwp()` and defaults `usable_fraction=0.60`, `sqm_per_kwp=5.0`; and `src/iris_cre_33/estimate_reconciled_pv.py`, arguments `--usable-fraction`, `--sqm-per-kwp`, calculation call and recorded assumptions.
+
+A building footprint is a proxy for roof plan area, not a measurement of unobstructed or structurally suitable roof surface. The assumed usable area is not a measured roof area.
 
 | Group | Footprint area m² | Assumed usable area m² | Illustrative capacity kWp |
 | --- | ---: | ---: | ---: |
@@ -291,6 +297,17 @@ The all-source audit union is 3,569,643.25 m². It includes excluded candidates,
 
 ### Assumptions and reference
 
+The parking model uses:
+
+```text
+assumed module-covered area (m²) = eligible parking union area (m²)
+                                  × parking-bay fraction
+                                  × canopy fraction of bay area
+conditional capacity (kWp) = assumed module-covered area (m²) ÷ 5.0 (m²/kWp)
+```
+
+The parking-bay fraction is the assumed share of parking surface occupied by bays. The canopy fraction is the assumed share of bay area receiving PV canopies. Their product is treated by the model as the effective module-covered area fraction; this is an assumption, not a measured canopy or panel layout. The rooftop 0.60 usable-area factor is **not** additionally applied to parking.
+
 Fraunhofer ISE's January 2024 BWIHK electricity study for Baden-Württemberg, section 3.5, pages 36–37, assumes parking bays occupy 50% of total parking area and that 50% of bays receive PV canopies. It also discusses bay-area shares of 30–60%.
 
 This project adapts those fractions as sensitivity assumptions:
@@ -301,7 +318,13 @@ This project adapts those fractions as sensitivity assumptions:
 | Central | 50% | 50% | 25% | 13.752 |
 | Higher | 60% | 50% | 30% | 16.503 |
 
-The additional **5 m²/kWp** density is a project assumption, not the study's stated density.
+The central scenario assumes 50% bay area and 50% canopy coverage of those bays, giving 25% of eligible parking area. Lower and higher scenarios vary the bay fraction to 30% and 60%, while holding canopy coverage at 50%. These are adapted sensitivity assumptions, not measured characteristics of BAUHAUS sites or assignment requirements.
+
+The additional **5 m²/kWp means 5 square metres per kWp, not 5 kWp**. It is a separate project assumption and is not attributed to the study. Its original external justification is **UNKNOWN**. No separate panel-spacing factor is applied, and whether spacing is implicitly included in 5 m²/kWp is **UNKNOWN**. No retrospective physical justification is asserted.
+
+The parking estimator's default candidate distance is **150 m**. This is an implementation screening threshold, not proof of BAUHAUS ownership or installation rights. Inclusion still requires the identity and single-candidate relationship rules above. Missing covered/solar tags do not establish that a surface is uncovered or free of existing solar. No actual bay layout, clearance, tree/shading, structural, grid or permissions assessment is performed.
+
+Implementation reference: `src/iris_cre_33/estimate_parking_pv.py`, scenario bay fractions `0.30`, `0.50`, `0.60`, defaults `--canopy-share=0.50`, `--sqm-per-kwp=5.0`, `--radius-m=150.0`, and the recorded formula/reference metadata.
 
 These scenarios adapt selected assumptions; they do not reproduce the study's complete methodology or establish site-specific suitability.
 
