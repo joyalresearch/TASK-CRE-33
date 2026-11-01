@@ -26,7 +26,7 @@ The collected locator responses contain **161 distinct official BAUHAUS store ID
 
 “Accepted” refers to the recorded screening association between a store and a building polygon. It does not establish ownership, exclusive roof rights or installation feasibility.
 
-The 52 stores without selected building geometry remain in the reconciliation reports with unavailable capacity. No replacement geometry is invented.
+The 52 stores without selected building geometry remain in the reconciliation reports with unavailable capacity.
 
 ### Staging inventory
 
@@ -198,7 +198,7 @@ Building polygons are assembled from preserved Overpass responses and OSM map ex
 
 Source longitude/latitude coordinates are transformed with `always_xy=True`. Polygon analysis and persistence use EPSG:25832.
 
-`geometry.py` applies `shapely.make_valid()` to invalid polygon input. Other parsing paths reject incomplete or unsupported geometry rather than supply missing boundaries. Loaders reject empty, invalid or non-polygonal geometries.
+`geometry.py` applies `shapely.make_valid()` to invalid polygon input. Other parsing paths reject incomplete or unsupported geometry. Loaders reject empty, invalid or non-polygonal geometries.
 
 ### Official BAUHAUS locator
 
@@ -247,13 +247,11 @@ assumed usable roof area (m²) = footprint area (m²) × 0.60
 illustrative capacity (kWp) = assumed usable roof area (m²) ÷ 5.0 (m²/kWp)
 ```
 
-**0.60 means an assumed 60% usable area. 5.0 means 5 m² per kWp, not 5 kWp.** Both values are implementation assumptions, not assignment requirements. The design review recovered no external justification for either value; their original justification remains **UNKNOWN** unless supporting evidence is found. Arithmetic checks establish calculation consistency, not site-specific validity.
+The model assumes a **60% usable-area fraction** and an **area requirement of 5 m²/kWp**. These are project assumptions without external validation or site-specific calibration.
 
-The recoverable roles are limited to the calculation: `usable_fraction` converts footprint area into assumed usable roof area, and `sqm_per_kwp` converts that area into capacity. The code does not document which physical exclusions the remaining 40% represents, or whether 5 m²/kWp describes module area or installed layout area. Whether panel spacing is included in either factor, both factors or neither is **UNKNOWN**. Specific allowances for spacing, setbacks, shading, equipment or access routes cannot therefore be claimed. Potential double-discounting requires investigation; it is not a demonstrated defect in the historical calculation.
+Building footprint area provides a proxy for roof plan area. The usable-area fraction is applied uniformly; it does not represent measured roof availability. The model does not separately quantify panel spacing, setbacks, shading, equipment or access routes. Neither factor has a documented allocation for these constraints.
 
-Implementation references: `src/iris_cre_33/estimates.py`, function `estimate_pv_kwp()` and defaults `usable_fraction=0.60`, `sqm_per_kwp=5.0`; and `src/iris_cre_33/estimate_reconciled_pv.py`, arguments `--usable-fraction`, `--sqm-per-kwp`, calculation call and recorded assumptions.
-
-A building footprint is a proxy for roof plan area, not a measurement of unobstructed or structurally suitable roof surface. The assumed usable area is not a measured roof area.
+Implementation: `src/iris_cre_33/estimates.py` (`estimate_pv_kwp`, defaults `usable_fraction=0.60` and `sqm_per_kwp=5.0`) and `src/iris_cre_33/estimate_reconciled_pv.py` (`--usable-fraction` and `--sqm-per-kwp`).
 
 | Group | Footprint area m² | Assumed usable area m² | Illustrative capacity kWp |
 | --- | ---: | ---: | ---: |
@@ -306,7 +304,7 @@ assumed module-covered area (m²) = eligible parking union area (m²)
 conditional capacity (kWp) = assumed module-covered area (m²) ÷ 5.0 (m²/kWp)
 ```
 
-The parking-bay fraction is the assumed share of parking surface occupied by bays. The canopy fraction is the assumed share of bay area receiving PV canopies. Their product is treated by the model as the effective module-covered area fraction; this is an assumption, not a measured canopy or panel layout. The rooftop 0.60 usable-area factor is **not** additionally applied to parking.
+The parking-bay fraction represents the assumed proportion of parking surface occupied by bays. The canopy fraction represents the assumed proportion of bay area covered by PV canopies. Their product determines the assumed module-covered area. The rooftop usable-area factor is not applied to parking.
 
 Fraunhofer ISE's January 2024 BWIHK electricity study for Baden-Württemberg, section 3.5, pages 36–37, assumes parking bays occupy 50% of total parking area and that 50% of bays receive PV canopies. It also discusses bay-area shares of 30–60%.
 
@@ -318,15 +316,13 @@ This project adapts those fractions as sensitivity assumptions:
 | Central | 50% | 50% | 25% | 13.752 |
 | Higher | 60% | 50% | 30% | 16.503 |
 
-The central scenario assumes 50% bay area and 50% canopy coverage of those bays, giving 25% of eligible parking area. Lower and higher scenarios vary the bay fraction to 30% and 60%, while holding canopy coverage at 50%. These are adapted sensitivity assumptions, not measured characteristics of BAUHAUS sites or assignment requirements.
+The bay and canopy fractions are adapted sensitivity assumptions, without site-specific calibration. The conversion factor of **5 m²/kWp** is a separate project assumption without external validation; it is not taken from the study. Panel spacing and other layout losses are not separately quantified, and the density factor has no documented spacing allowance.
 
-The additional **5 m²/kWp means 5 square metres per kWp, not 5 kWp**. It is a separate project assumption and is not attributed to the study. Its original external justification is **UNKNOWN**. No separate panel-spacing factor is applied, and whether spacing is implicitly included in 5 m²/kWp is **UNKNOWN**. No retrospective physical justification is asserted.
+Parking candidates must satisfy the identity and single-store relationship criteria within the estimator's default distance threshold of **150 m**. This threshold is a screening choice. Ownership and installation rights remain unverified. Missing covered or solar tags do not confirm the absence of existing cover or solar installations.
 
-The parking estimator's default candidate distance is **150 m**. This is an implementation screening threshold, not proof of BAUHAUS ownership or installation rights. Inclusion still requires the identity and single-candidate relationship rules above. Missing covered/solar tags do not establish that a surface is uncovered or free of existing solar. No actual bay layout, clearance, tree/shading, structural, grid or permissions assessment is performed.
+Implementation: `src/iris_cre_33/estimate_parking_pv.py`, bay fractions `0.30`, `0.50`, `0.60`, and defaults `--canopy-share=0.50`, `--sqm-per-kwp=5.0` and `--radius-m=150.0`.
 
-Implementation reference: `src/iris_cre_33/estimate_parking_pv.py`, scenario bay fractions `0.30`, `0.50`, `0.60`, defaults `--canopy-share=0.50`, `--sqm-per-kwp=5.0`, `--radius-m=150.0`, and the recorded formula/reference metadata.
-
-These scenarios adapt selected assumptions; they do not reproduce the study's complete methodology or establish site-specific suitability.
+The scenarios use selected assumptions from the reference study rather than its complete methodology. They exclude site-specific layout, clearance, tree/shading, structural, grid and permissions assessments.
 
 Reference: [Fraunhofer ISE — Stromstudie für Baden-Württemberg, January 2024](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/presseinformationen/2024/IHK-Stromstudie_v06.pdf).
 
@@ -449,7 +445,7 @@ Versioned development outputs may also be present. Earlier parking scenario repo
 
 The packaged snapshot load, automated tests and estimate calculations run without live acquisition credentials.
 
-Final association decisions are supplied as recorded screening inputs. A completely automated raw-source-to-final-decision rebuild is not claimed: some consolidation and reconciliation steps were performed through development scripts or terminal snippets.
+Final association decisions are supplied as recorded screening inputs. Some consolidation and reconciliation steps were performed through development scripts or terminal snippets; the packaged workflow does not automate the complete raw-source-to-final-decision process.
 
 Input hashes provide consistency checks between packaged evidence and calculations. They do not independently establish source accuracy, ownership or the correctness of every screening decision.
 
@@ -459,13 +455,13 @@ Input hashes provide consistency checks between packaged evidence and calculatio
 - The original parking acquisition surrounds 167 building candidates. Relevant parking can be absent where store/building geometry is unresolved.
 - Surface-parking relations are not comprehensively assembled. Deferred relation information is retained where available.
 - Direct BAUHAUS access encountered security blocks. Other captures returned HTTP 404 or provider timeouts.
-- Apify was used as a third-party acquisition transport; the provider is not independently certified by this project.
+- Apify provided third-party retrieval transport; source validation is limited to the recorded response checks.
 - OSM tags, polygon boundaries and official point locations can be inaccurate or stale.
 - Projected areas satisfy the required EPSG:25832 analysis convention but are not survey-grade measurements.
 - Existing PV installations may be untagged. The estimates do not establish additional capacity beyond existing installations.
 - No structural, shading, setback, electrical, grid-connection, canopy-layout or engineering assessment is performed.
 - Ownership, leases, exclusive roof use, parking allocation, installation rights and permitting remain unverified.
-- No GRZ/GFZ development-rights assessment, WALT analysis, ImmoWertV valuation, revenue forecast or investment valuation is claimed.
+- GRZ/GFZ development rights, WALT, ImmoWertV valuation, revenue forecasting and investment valuation are outside scope.
 
 ## Sources and attribution
 
