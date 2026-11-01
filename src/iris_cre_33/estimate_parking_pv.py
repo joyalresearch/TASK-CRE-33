@@ -181,7 +181,7 @@ def main():
         "--canopy-share", type=float, default=0.50
     )
     parser.add_argument(
-        "--sqm-per-kwp", type=float, default=5.0
+        "--sqm-per-kwp", type=float, default=5.5
     )
     parser.add_argument(
         "--output-dir",
@@ -514,10 +514,20 @@ def main():
                 0.30, 0.50, 0.60
             ],
             "density_basis": (
-                "Project assumption of 5 m2/kWp; "
-                "not asserted as the study's "
-                "power-density assumption"
+                "Approximately 5.5 m2/kWp derived from Fraunhofer "
+                "ISE Stromstudie Baden-Wuerttemberg, January 2024, "
+                "section 3.5, printed page 37, Table 8"
+                if args.sqm_per_kwp == 5.5
+                else "User-supplied scenario density"
             ),
+            "density_derivation": {
+                "source_module_area_sqm": 14392257,
+                "source_capacity_mwp": 2617,
+                "derived_sqm_per_kwp": 14392257 / (2617 * 1000),
+                "rounded_reference_sqm_per_kwp": 5.5,
+                "source_scope": "Table 8 subtotal for parking with at least 35 bays",
+                "site_specific_validation": False,
+            },
         },
         "scenarios": scenarios,
         "records": rows,
