@@ -11,6 +11,7 @@ All analysis polygons and staged geometries use **EPSG:25832**. **National inven
 - [1. Strategy and scope](#1-strategy-and-scope)
 - [2. Pipeline architecture](#2-pipeline-architecture)
 - [3. Findings and inventory](#3-findings-and-inventory)
+  - [3.3 Extended findings and analysis](#33-extended-findings-and-analysis)
 - [4. Ingestion and source evidence](#4-ingestion-and-source-evidence)
 - [5. Validation, transformation and reconciliation](#5-validation-transformation-and-reconciliation)
 - [6. Capacity calculations](#6-capacity-calculations)
@@ -62,7 +63,7 @@ The accepted rooftop subset has an illustrative gross capacity of **119.94 MWp**
 
 These are assessed-subset results. Roof and parking totals are separate; net additional capacity is unavailable because existing-solar coverage has not been established.
 
-### Official store inventory
+### 3.1 Official store inventory
 
 The collected locator responses contain **161 distinct official BAUHAUS store IDs**.
 
@@ -78,7 +79,7 @@ The collected locator responses contain **161 distinct official BAUHAUS store ID
 
 The 52 stores without selected building geometry remain in the reconciliation reports with unavailable capacity.
 
-### Staging inventory
+### 3.2 Staging inventory
 
 | Feature | Association status | Records |
 | --- | --- | ---: |
@@ -93,6 +94,48 @@ The 52 stores without selected building geometry remain in the reconciliation re
 The 172 building polygons comprise 167 consolidated OSM candidates and five additional cached geometry candidates. The 63 unmatched building candidates are not additional confirmed stores.
 
 The 1,137 parking polygons form an acquisition and audit inventory. They are not all attributed to BAUHAUS. Only 34 polygons qualify for the separate parking-capacity scenarios.
+
+### 3.3 Extended findings and analysis
+
+#### 3.3.1 Association evidence and investigation opportunities
+
+The 161 identified facilities provide the denominator for building-association outcomes. The 52 facilities without selected geometry retain unknown area and capacity. Their absence from the capacity aggregates represents an evidence gap, not zero physical potential.
+
+The 21 provisional associations retain separate illustrative rooftop estimates. The two parking-structure reviews remain outside rooftop estimates. These cases require different follow-up: association review for provisional records and component/type review for parking structures.
+
+The inventory also contains 63 building polygons without a selected official-store association. Of these, 54 carry at least one of `name`, `brand`, `operator`, `brand:wikidata` or `operator:wikidata`. This identifies available attributes, not verified BAUHAUS identity. Unmatched polygons cannot collectively be described as untagged or counted as additional confirmed facilities.
+
+#### 3.3.2 Separate roof and parking assessment
+
+An accepted building association does not establish parking ownership or exclusive use. Missing building geometry does not establish that a facility lacks parking. The current parking workflow depends partly on selected building candidates, so unresolved building coverage also limits parking discovery and attribution.
+
+Of the 34 parking polygons included in conditional scenarios, 25 are near accepted building associations and nine are near provisional associations. All remain unverified parking associations; passing the scenario filters does not establish installation rights or feasibility.
+
+Another 881 parking polygons lack explicit BAUHAUS identity. Of these, 436 have at least one recorded candidate-store link. Those links provide an investigation queue, but the linked polygons remain excluded from BAUHAUS capacity scenarios. The remaining 445 have no recorded candidate-store link. Conflicting identities, ambiguous shared use and explicit BAUHAUS candidates without selected-store links remain traceable in the detailed parking report.
+
+These observations describe existing report classifications. They do not introduce a new acceptance rule or assign new reporting categories.
+
+#### 3.3.3 Capacity sensitivity and interpretation
+
+Accepted rooftop associations produce approximately 119.94 MWp of gross illustrative capacity. Provisional rooftop associations contribute a separate conditional estimate of approximately 26.12 MWp. Both use the rooftop assumptions documented in section 6.1; neither represents measured installation capacity.
+
+The parking sensitivity scenarios hold the 34-polygon asset set and 275,049.82 m² eligible union area constant. Varying the assumed bay share from 30% to 60%, while retaining 50% canopy coverage of bays and 5.5 m²/kWp, produces 7.501–15.003 MWp. The central scenario is 12.502 MWp.
+
+This range measures sensitivity to an assumed coverage fraction. It is not a statistical confidence interval and does not quantify uncertainty in identity, geometry, shading, structure or installation rights. Rooftop and parking estimates remain separately reported.
+
+#### 3.3.4 Existing solar and additional potential
+
+The solar search covered 141 selected assets and returned eight unique solar-tagged OSM objects. None intersected the selected estimate geometries. External sources nevertheless document rooftop PV at Stuttgart-Untertürkheim and Wiesbaden/Mainz-Kastel. These positive examples demonstrate why absent intersecting OSM mapping cannot establish absent installations; Wiesbaden was outside the selected solar search because its building geometry was unavailable.
+
+Stuttgart has a reported installed capacity of 589.05 kWp, but the retained evidence does not establish occupied roof area. Wiesbaden lacks selected building geometry and a supported numerical installation capacity in the retained evidence. No supported solar-area deduction was available, so numerical net additional capacity remains unavailable.
+
+The retained solar assessment references the historical parking report. It was not regenerated against the revised 5.5 m²/kWp report. Source captures, extracted claims and the snapshot boundary are documented in section 7.
+
+#### 3.3.5 Coverage implications and follow-up priorities
+
+Investigation priorities are missing building geometry, provisional associations, parking with candidate-store links but no explicit BAUHAUS identity, shared-use questions and documented existing installations. Review can resolve either false-positive candidates or genuine facilities withheld by incomplete evidence.
+
+The source inventories, selected associations and capacity-eligible subsets have different denominators. Candidate polygons are not additional confirmed facilities, and excluded audit areas are not BAUHAUS-attributed areas. Nationwide completeness remains unresolved. Missing geometry and absent solar mapping are retained as unknowns rather than converted to zero area or zero installed capacity.
 
 ## 4. Ingestion and source evidence
 
@@ -184,7 +227,7 @@ assumed usable roof area (m²) = footprint area (m²) × 0.60
 illustrative capacity (kWp) = assumed usable roof area (m²) ÷ 5.0 (m²/kWp)
 ```
 
-The model assumes a **60% usable-area fraction** and an **area requirement of 5 m²/kWp**. These are project assumptions without external validation or site-specific calibration.
+The model assumes a **60% usable-area fraction** and an **area requirement of 5 m²/kWp**. Both are implementation assumptions, not assignment requirements. The uniform 60% fraction has no established external validation for the assessed BAUHAUS roofs. The density is equivalent to 0.20 kWp per m² of assumed usable area; this conversion does not validate the usable-area fraction. The rooftop model has not been calibrated to individual sites. The Fraunhofer parking reference in section 6.2 does not validate this rooftop formula.
 
 Building footprint area provides a proxy for roof plan area. The usable-area fraction is applied uniformly; it does not represent measured roof availability. The model does not separately quantify panel spacing, setbacks, shading, equipment or access routes. Neither factor has a documented allocation for these constraints.
 
